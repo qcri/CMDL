@@ -1,0 +1,101 @@
+drug1,drug2,interaction
+Apixaban,Lepirudin,Apixaban may increase the anticoagulant activities of Lepirudin.
+Norgestimate,Lepirudin,Norgestimate may decrease the anticoagulant activities of Lepirudin.
+Phenindione,Lepirudin,The risk or severity of bleeding can be increased 
+Cefradine,Lepirudin,The therapeutic efficacy of Lepirudin can be decreased 
+Ravulizumab,Cetuximab,The risk or severity of adverse effects can be increased 
+Pegaspargase,Etanercept,The risk or severity of adverse effects can be increased 
+Influenza A virus A/Victoria/210/2009 X-187 (H3N2) antigen (formaldehyde inactivated),Etanercept,The therapeutic efficacy of Influenza A virus A/Victoria/210/2009 X-187 (H3N2) antigen (formaldehyde inactivated) can be decreased 
+Methohexital,Etanercept,The metabolism of Methohexital can be increased 
+Fluindione,Etanercept,The metabolism of Fluindione can be increased 
+Trabectedin,Etanercept,The metabolism of Trabectedin can be increased 
+Equol,Bivalirudin,Equol may decrease the anticoagulant activities of Bivalirudin.
+Tesmilifene,Bivalirudin,The risk or severity of bleeding can be increased 
+Reteplase,Bivalirudin,The risk or severity of bleeding can be increased 
+Methoxy polyethylene glycol-epoetin beta,Leuprolide,The risk or severity of Thrombosis can be increased 
+Tucidinostat,Leuprolide,The risk or severity of QTc prolongation can be increased 
+Gallopamil,Leuprolide,The risk or severity of QTc prolongation can be increased 
+Acemetacin,Leuprolide,Acemetacin may decrease the excretion rate of Leuprolide which could result in a higher serum level.
+Nalmefene,Leuprolide,Leuprolide may decrease the excretion rate of Nalmefene which could result in a higher serum level.
+Neamine,Leuprolide,Neamine may decrease the excretion rate of Leuprolide which could result in a higher serum level.
+Floxuridine,Peginterferon alfa-2a,The risk or severity of adverse effects can be increased 
+Risankizumab,Peginterferon alfa-2a,The risk or severity of adverse effects can be increased 
+Palifermin,Peginterferon alfa-2a,The therapeutic efficacy of Palifermin can be decreased 
+Saruplase,Peginterferon alfa-2a,The risk or severity of bleeding can be increased 
+Methimazole,Alteplase,Methimazole may increase the anticoagulant activities of Alteplase.
+Moclobemide,Alteplase,The risk or severity of bleeding and hemorrhage can be increased 
+Etoposide,Alteplase,The risk or severity of bleeding can be increased 
+Pemetrexed,Interferon alfa-n1,The risk or severity of adverse effects can be increased 
+Uric acid,Interferon alfa-n1,The metabolism of Uric acid can be decreased 
+Benzyl alcohol,Interferon alfa-n1,The metabolism of Benzyl alcohol can be decreased 
+Nilutamide,Darbepoetin alfa,The risk or severity of Thrombosis can be increased 
+Cabozantinib,Darbepoetin alfa,The risk or severity of Thrombosis can be increased 
+Oblimersen,Darbepoetin alfa,The risk or severity of Thrombosis can be increased 
+Levocarnitine,Urokinase,The therapeutic efficacy of Urokinase can be increased 
+Thiosalicylic acid,Urokinase,The risk or severity of bleeding can be increased 
+Mitomycin,Urokinase,The risk or severity of bleeding can be increased 
+NN344,Goserelin,The therapeutic efficacy of NN344 can be decreased 
+Dexchlorpheniramine,Goserelin,The risk or severity of QTc prolongation can be increased 
+Pamidronic acid,Goserelin,Pamidronic acid may decrease the excretion rate of Goserelin which could result in a higher serum level.
+Topiramate,Goserelin,Goserelin may decrease the excretion rate of Topiramate which could result in a higher serum level.
+Pralatrexate,Goserelin,Goserelin may decrease the excretion rate of Pralatrexate which could result in a higher serum level.
+Bumetanide,Goserelin,Goserelin may increase the excretion rate of Bumetanide which could result in a lower serum level and potentially a reduction in efficacy.
+Alclofenac,Reteplase,The risk or severity of bleeding and hemorrhage can be increased 
+Trenonacog alfa,Reteplase,The therapeutic efficacy of Trenonacog alfa can be decreased 
+Carmustine,Reteplase,The risk or severity of bleeding can be increased 
+Aminoglutethimide,Erythropoietin,The risk or severity of Thrombosis can be increased 
+Axitinib,Erythropoietin,The risk or severity of Thrombosis can be increased 
+Acteoside,Erythropoietin,The risk or severity of Thrombosis can be increased 
+Cefamandole,Salmon calcitonin,Cefamandole may decrease the excretion rate of Salmon calcitonin which could result in a higher serum level.
+Haloperidol,Salmon calcitonin,Salmon calcitonin may decrease the excretion rate of Haloperidol which could result in a higher serum level.
+Gemeprost,Salmon calcitonin,Salmon calcitonin may decrease the excretion rate of Gemeprost which could result in a higher serum level.
+Cyclothiazide,Salmon calcitonin,Cyclothiazide may increase the excretion rate of Salmon calcitonin which could result in a lower serum level and potentially a reduction in efficacy.
+Butriptyline,Salmon calcitonin,The risk or severity of Cardiac Arrhythmia can be increased 
+Vilanterol,Interferon alfa-n3,The risk or severity of adverse effects can be increased 
+Adenovirus type 7 vaccine live,Interferon alfa-n3,The risk or severity of infection can be increased 
+Melagatran,Interferon alfa-n3,The risk or severity of bleeding can be increased 
+Brequinar,Peginterferon alfa-2b,The risk or severity of adverse effects can be increased 
+Aminophylline,Peginterferon alfa-2b,The serum concentration of Aminophylline can be increased 
+Naftopidil,Peginterferon alfa-2b,The risk or severity of bleeding can be increased 
+Idraparinux,Peginterferon alfa-2b,The risk or severity of bleeding can be increased 
+Magnesium,Peginterferon alfa-2b,The serum concentration of Magnesium can be decreased 
+Cortisone,Thyrotropin alfa,The therapeutic efficacy of Thyrotropin alfa can be decreased 
+Insulin lispro,Thyrotropin alfa,Thyrotropin alfa may decrease the hypoglycemic activities of Insulin lispro.
+Denosumab,Anakinra,The risk or severity of adverse effects can be increased 
+Influenza A virus A/Brisbane/59/2007(H1N1) hemagglutinin antigen (propiolactone inactivated),Anakinra,The therapeutic efficacy of Influenza A virus A/Brisbane/59/2007(H1N1) hemagglutinin antigen (propiolactone inactivated) can be decreased 
+Lofepramine,Anakinra,The metabolism of Lofepramine can be increased 
+Ketorolac,Anakinra,The metabolism of Ketorolac can be increased 
+Imatinib,Anakinra,The metabolism of Imatinib can be increased 
+Estradiol benzoate,Human immunoglobulin G,Estradiol benzoate may increase the thrombogenic activities of Human immunoglobulin G.
+Mavrilimumab,Human immunoglobulin G,The risk or severity of adverse effects can be increased 
+Choline magnesium trisalicylate,Anistreplase,The risk or severity of bleeding and hemorrhage can be increased 
+Mibolerone,Anistreplase,Mibolerone may increase the anticoagulant activities of Anistreplase.
+Alogliptin,Anistreplase,The risk or severity of angioedema can be increased 
+Chlorothiazide,Anistreplase,The therapeutic efficacy of Anistreplase can be decreased 
+Sitagliptin,Insulin human,Sitagliptin may increase the hypoglycemic activities of Insulin human.
+9-Deazaguanine,Insulin human,The metabolism of 9-Deazaguanine can be increased 
+Tetrandrine,Insulin human,The risk or severity of hypoglycemia can be increased 
+Formononetin,Tenecteplase,Formononetin may decrease the anticoagulant activities of Tenecteplase.
+Ticagrelor,Tenecteplase,The risk or severity of bleeding can be increased 
+Antithrombin Alfa,Tenecteplase,The risk or severity of bleeding can be increased 
+Ceftaroline fosamil,Tenecteplase,The therapeutic efficacy of Tenecteplase can be decreased 
+Golimumab,Interferon gamma-1b,The risk or severity of adverse effects can be increased 
+Sarpogrelate,Interferon gamma-1b,The risk or severity of bleeding can be increased 
+Edoxaban,Interferon gamma-1b,The risk or severity of bleeding can be increased 
+Canakinumab,"Interferon alfa-2a, Recombinant",The risk or severity of adverse effects can be increased 
+Beraprost,"Interferon alfa-2a, Recombinant",The risk or severity of bleeding can be increased 
+Idraparinux,"Interferon alfa-2a, Recombinant",The risk or severity of bleeding can be increased 
+Methadone,Desmopressin,The risk or severity of hyponatremia can be increased 
+Racepinephrine,Desmopressin,The risk or severity of hypertension can be increased 
+Foscarnet,Desmopressin,Foscarnet may decrease the excretion rate of Desmopressin which could result in a higher serum level.
+Fenoldopam,Desmopressin,Desmopressin may decrease the excretion rate of Fenoldopam which could result in a higher serum level.
+Dextran,Desmopressin,Desmopressin may decrease the excretion rate of Dextran which could result in a higher serum level.
+Tranexamic acid,Coagulation factor VIIa Recombinant Human,Tranexamic acid may increase the thrombogenic activities of Coagulation factor VIIa Recombinant Human.
+Trastuzumab emtansine,Palifermin,The therapeutic efficacy of Palifermin can be decreased 
+Insulin glulisine,Glucagon,The therapeutic efficacy of Insulin glulisine can be decreased 
+Eliglustat,Aldesleukin,The metabolism of Eliglustat can be decreased 
+Clostridium tetani toxoid antigen (formaldehyde inactivated),Aldesleukin,The therapeutic efficacy of Clostridium tetani toxoid antigen (formaldehyde inactivated) can be decreased 
+Firocoxib,Aldesleukin,Firocoxib may decrease the excretion rate of Aldesleukin which could result in a higher serum level.
+Clonazepam,Aldesleukin,Aldesleukin may decrease the excretion rate of Clonazepam which could result in a higher serum level.
+Bismuth subgallate,Aldesleukin,Aldesleukin may decrease the excretion rate of Bismuth subgallate which could result in a higher serum level.
+Tedizolid phosphate,Aldesleukin,The risk or severity of myelosuppression can be increased 

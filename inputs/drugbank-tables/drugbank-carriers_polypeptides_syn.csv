@@ -1,0 +1,333 @@
+text,parent_key
+Serpin A7,BE0000537
+T4-binding globulin,BE0000537
+TBG,BE0000537
+Serum albumin precursor,BE0000530
+B-FABP,BE0001821
+BLBP,BE0001821
+Brain lipid-binding protein,BE0001821
+Brain-type fatty acid-binding protein,BE0001821
+FABPB,BE0001821
+Fatty acid-binding protein 7,BE0001821
+Mammary-derived growth inhibitor related,BE0001821
+MRG,BE0001821
+DBP,BE0001141
+DBP-maf,BE0001141
+Gc,BE0001141
+Gc protein-derived macrophage activating factor,BE0001141
+Gc-globulin,BE0001141
+Gc-MAF,BE0001141
+GcMAF,BE0001141
+Group-specific component,BE0001141
+Vitamin D-binding protein-macrophage activating factor,BE0001141
+Cellular retinol-binding protein III,BE0000682
+CRBP-III,BE0000682
+HRBPiso,BE0000682
+Cellular retinoic acid-binding protein 4,BE0000532
+Cellular retinoic acid-binding protein IV,BE0000532
+CRABP-IV,BE0000532
+CRABP4,BE0000532
+CRBP4,BE0000532
+Plasma retinol-binding protein,BE0000314
+PRBP,BE0000314
+RBP,BE0000314
+Cellular retinol-binding protein II,BE0000505
+CRBP-II,BE0000505
+CRBP2,BE0000505
+Cellular retinaldehyde-binding protein,BE0000786
+CRALBP,BE0000786
+Interphotoreceptor retinoid-binding protein,BE0000255
+Interstitial retinol-binding protein,BE0000255
+IRBP,BE0000255
+Cellular retinol-binding protein,BE0000301
+Cellular retinol-binding protein I,BE0000301
+CRBP,BE0000301
+CRBP-I,BE0000301
+CRBP1,BE0000301
+Alpha-TTP,BE0000643
+TPP1,BE0000643
+Alpha-tocopherol-associated protein,BE0000256
+C22orf6,BE0000256
+hTAP,BE0000256
+KIAA1186,BE0000256
+KIAA1658,BE0000256
+SPF,BE0000256
+Squalene transfer protein,BE0000256
+Supernatant protein factor,BE0000256
+TAP,BE0000256
+TAP2,BE0000339
+Tocopherol-associated protein 2,BE0000339
+Lipid transfer protein II,BE0009656
+CBG,BE0000209
+Serpin A6,BE0000209
+Transcortin,BE0000209
+TC II,BE0000362
+TC-2,BE0000362
+TC2,BE0000362
+TCII,BE0000362
+Transcobalamin II,BE0000362
+AGP 1,BE0000925
+AGP1,BE0000925
+OMD 1,BE0000925
+Orosomucoid-1,BE0000925
+ATTR,BE0000337
+PALB,BE0000337
+Prealbumin,BE0000337
+TBPA,BE0000337
+AGP 1,BE0004879
+AGP1,BE0004879
+OMD 1,BE0004879
+Orosomucoid-1,BE0004879
+ABP,BE0000685
+SBP,BE0000685
+Sex steroid-binding protein,BE0000685
+SHBG,BE0000685
+TeBG,BE0000685
+Testis-specific androgen-binding protein,BE0000685
+Testosterone-estradiol-binding globulin,BE0000685
+Testosterone-estrogen-binding globulin,BE0000685
+Fc-gamma RI,BE0000710
+Fc-gamma RIA,BE0000710
+FCG1,BE0000710
+FcgammaRIa,BE0000710
+FCGR1,BE0000710
+FcRI,BE0000710
+IGFR1,BE0000710
+IgG Fc receptor I,BE0000710
+"Glucose transporter type 1, erythrocyte/brain",BE0001057
+GLUT-1,BE0001057
+GLUT1,BE0001057
+HepG2 glucose transporter,BE0001057
+FLOT1,BE0004711
+FOLT,BE0004711
+IFC-1,BE0004711
+Intestinal folate carrier 1,BE0004711
+Placental folate transporter,BE0004711
+Reduced folate carrier protein,BE0004711
+RFC,BE0004711
+RFC1,BE0004711
+Solute carrier family 19 member 1,BE0004711
+Bphs,BE0009144
+H1R,BE0009144
+Cellular retinoic acid-binding protein II,BE0000782
+CRABP-II,BE0000782
+Cellular retinoic acid-binding protein I,BE0000508
+CRABP-I,BE0000508
+RBP5,BE0000508
+Liver-specific organic anion transporter 1,BE0001004
+LST-1,BE0001004
+LST1,BE0001004
+OATP-2,BE0001004
+OATP-C,BE0001004
+OATP1B1,BE0001004
+OATP2,BE0001004
+OATPC,BE0001004
+SLC21A6,BE0001004
+Sodium-independent organic anion-transporting polypeptide 2,BE0001004
+Solute carrier family 21 member 6,BE0001004
+FABPI,BE0003591
+Fatty acid-binding protein 2,BE0003591
+I-FABP,BE0003591
+Intestinal-type fatty acid-binding protein,BE0003591
+Beta-1 metal-binding globulin,BE0000510
+Siderophilin,BE0000510
+Transferrin,BE0000510
+IBP-3,BE0000970
+IBP3,BE0000970
+ALS,BE0009058
+IBP-1,BE0009658
+IBP1,BE0009658
+Placental protein 12,BE0009658
+PP12,BE0009658
+BP2,BE0009659
+IBP-2,BE0009659
+IBP2,BE0009659
+IBP-4,BE0009660
+IBP4,BE0009660
+IBP-5,BE0009661
+IBP5,BE0009661
+IBP-6,BE0009662
+IBP6,BE0009662
+FABPL,BE0003998
+Fatty acid-binding protein 1,BE0003998
+L-FABP,BE0003998
+Liver-type fatty acid-binding protein,BE0003998
+A-FABP,BE0001194
+Adipocyte lipid-binding protein,BE0001194
+Adipocyte-type fatty acid-binding protein,BE0001194
+AFABP,BE0001194
+ALBP,BE0001194
+Fatty acid-binding protein 4,BE0001194
+FABP11,BE0001201
+Fatty acid-binding protein 3,BE0001201
+H-FABP,BE0001201
+Heart-type fatty acid-binding protein,BE0001201
+M-FABP,BE0001201
+Mammary-derived growth inhibitor,BE0001201
+MDGI,BE0001201
+Muscle fatty acid-binding protein,BE0001201
+E-FABP,BE0001984
+Epidermal-type fatty acid-binding protein,BE0001984
+Fatty acid-binding protein 5,BE0001984
+PA-FABP,BE0001984
+Psoriasis-associated fatty acid-binding protein homolog,BE0001984
+Tg,BE0009873
+VLDL receptor,BE0004020
+Alpha-2-M,BE0000910
+C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5,BE0000910
+CPAMD5,BE0000910
+Apo-M,BE0004245
+G3A,BE0004245
+NG20,BE0004245
+Protein G3a,BE0004245
+3.6.3.44,BE0001032
+ATP-binding cassette sub-family B member 1,BE0001032
+MDR1,BE0001032
+P-glycoprotein 1,BE0001032
+PGY1,BE0001032
+1.16.3.1,BE0001140
+Ferroxidase,BE0001140
+HAH1,BE0002833
+Metal transport protein ATX1,BE0002833
+Superoxide dismutase copper chaperone,BE0005815
+1.-.-.-,BE0008687
+KIAA0698,BE0008687
+Activated protein C cofactor,BE0000041
+"Proaccelerin, labile factor",BE0000041
+AHF,BE0000016
+Antihemophilic factor,BE0000016
+F8C,BE0000016
+Procoagulant component,BE0000016
+MRE-binding transcription factor,BE0008688
+Transcription factor MTF-1,BE0008688
+Beta-globin,BE0000629
+Hemoglobin beta chain,BE0000629
+Alpha-globin,BE0000130
+Hemoglobin alpha chain,BE0000130
+LDL receptor,BE0000499
+F8VWF,BE0001043
+vWF,BE0001043
+hOCT2,BE0003647
+OCT2,BE0003647
+Organic cation transporter 2,BE0003647
+MATE-1,BE0003657
+MATE1,BE0003657
+Solute carrier family 47 member 1,BE0003657
+ATP1C,BE0000229
+ATP1G1,BE0000229
+FXYD domain-containing ion transport regulator 2,BE0000229
+Na(+)/K(+) ATPase subunit gamma,BE0000229
+Sodium pump gamma chain,BE0000229
+3.6.3.9,BE0000732
+Na(+)/K(+) ATPase alpha-1 subunit,BE0000732
+Sodium pump subunit alpha-1,BE0000732
+ATP1B,BE0004994
+Sodium/potassium-dependent ATPase subunit beta-1,BE0004994
+Adhesion molecule in glia,BE0005018
+AMOG,BE0005018
+Sodium/potassium-dependent ATPase subunit beta-2,BE0005018
+ATPB-3,BE0005026
+Sodium/potassium-dependent ATPase subunit beta-3,BE0005026
+3.6.3.9,BE0005031
+ATP1AL2,BE0005031
+Na(+)/K(+) ATPase alpha-4 subunit,BE0005031
+Sodium pump subunit alpha-4,BE0005031
+3.6.3.9,BE0005034
+KIAA0778,BE0005034
+Na(+)/K(+) ATPase alpha-2 subunit,BE0005034
+Sodium pump subunit alpha-2,BE0005034
+3.6.3.9,BE0005047
+Na(+)/K(+) ATPase alpha-3 subunit,BE0005047
+Na(+)/K(+) ATPase alpha(III) subunit,BE0005047
+Sodium pump subunit alpha-3,BE0005047
+hOCT1,BE0003648
+OCT1,BE0003648
+Organic cation transporter 1,BE0003648
+PC-TP,BE0000935
+StAR-related lipid transfer protein 2,BE0000935
+STARD2,BE0000935
+START domain-containing protein 2,BE0000935
+HCNPpp,BE0001179
+Neuropolypeptide h3,BE0001179
+PBP,BE0001179
+PEBP,BE0001179
+PEBP-1,BE0001179
+Prostatic-binding protein,BE0001179
+Raf kinase inhibitor protein,BE0001179
+RKIP,BE0001179
+CAB27,BE0008690
+Calbindin D28,BE0008690
+D-28K,BE0008690
+"Vitamin D-dependent calcium-binding protein, avian-type",BE0008690
+CABP,BE0004083
+CABP9K,BE0004083
+CALB3,BE0004083
+Calbindin-D9k,BE0004083
+S100 calcium-binding protein G,BE0004083
+S100D,BE0004083
+"Vitamin D-dependent calcium-binding protein, intestinal",BE0004083
+Beta-2-microglobulin form pI 5.3,BE0003777
+3.4.21.-,BE0000994
+GIG12,BE0000994
+Growth-inhibiting protein 12,BE0000994
+Lactoferrin,BE0000994
+LF,BE0000994
+Talalactoferrin,BE0000994
+Alpha-1-fetoprotein,BE0009358
+Alpha-fetoglobulin,BE0009358
+1.1.1.-,BE0000438
+3-alpha-HSD1,BE0000438
+3-alpha-hydroxysteroid dehydrogenase type I,BE0000438
+CDR,BE0000438
+CHDR,BE0000438
+Chlordecone reductase,BE0000438
+DD-4,BE0000438
+DD4,BE0000438
+Dihydrodiol dehydrogenase 4,BE0000438
+HAKRA,BE0000438
+1.-.-.-,BE0000592
+17-beta-HSD 5,BE0000592
+17-beta-hydroxysteroid dehydrogenase type 5,BE0000592
+3-alpha-HSD type 2,BE0000592
+"3-alpha-HSD type II, brain",BE0000592
+3-alpha-hydroxysteroid dehydrogenase type 2,BE0000592
+Chlordecone reductase homolog HAKRb,BE0000592
+DD-3,BE0000592
+DD3,BE0000592
+DDH1,BE0000592
+Dihydrodiol dehydrogenase 3,BE0000592
+Dihydrodiol dehydrogenase type I,BE0000592
+HA1753,BE0000592
+HSD17B5,BE0000592
+Indanol dehydrogenase,BE0000592
+KIAA0119,BE0000592
+PGFS,BE0000592
+Prostaglandin F synthase,BE0000592
+Testosterone 17-beta-dehydrogenase 5,BE0000592
+"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase",BE0000592
+1.-.-.-,BE0000622
+3-alpha-HSD3,BE0000622
+Chlordecone reductase homolog HAKRD,BE0000622
+DD-2,BE0000622
+DD/BABP,BE0000622
+DD2,BE0000622
+DDH2,BE0000622
+Dihydrodiol dehydrogenase 2,BE0000622
+Dihydrodiol dehydrogenase/bile acid-binding protein,BE0000622
+"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase",BE0000622
+Type III 3-alpha-hydroxysteroid dehydrogenase,BE0000622
+GP3A,BE0001155
+GPIIIa,BE0001155
+Platelet membrane glycoprotein IIIa,BE0001155
+Calregulin,BE0002109
+CRP55,BE0002109
+CRTC,BE0002109
+Endoplasmic reticulum resident protein 60,BE0002109
+ERp60,BE0002109
+grp60,BE0002109
+HACBP,BE0002109
+AAT,BE0000952
+Alpha-1 protease inhibitor,BE0000952
+Alpha-1-antiproteinase,BE0000952
+PI,BE0000952
+Serpin A1,BE0000952

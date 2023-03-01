@@ -1,0 +1,425 @@
+ref-id,title,url,parent_key
+F85,"EMA Summary of Product Characteristics: RETACRIT (epoetin alfa-epox) injection, for intravenous or subcutaneous use",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/085/original/WC500054377.pdf?1526579130,DB00016
+F86,Epoetin Alfa (Epogen®) Product Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/086/original/EpoetinAlfaMonograph.doc?1526580354,DB00016
+F1946,Xolair EMA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/946/original/Xolair_EMA_label.pdf?1540236449,DB00043
+F2118,HUMIRA FDA LABEL,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/118/original/Humira_FDA_label.pdf?1543510889,DB00051
+F229,Albuminex package insert,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/229/original/Package_Insert-albuminex-5-clean.pdf?1529615466,DB00062
+F230,Albuminex 25 package insert,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/230/original/Package_Insert_albuminex-25-clean.pdf?1529616277,DB00062
+F231,CSL Bhering Prescribing Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/231/original/AlbuRx5-Prescribing-Information.pdf?1529616518,DB00062
+F202,Trastuzumab: Antineoplastic agent; a recombinant DNA- derived humanized anti-HER2 monoclonal antibody (complete heavy chain sequence),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/202/original/1-10-113.pdf?1529534749,DB00072
+F3091,NEORAL (cyclosporine) HC label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/091/original/1.pdf?1548282055,DB00091
+F714,EMA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/714/original/nivestim_EMA.pdf?1532118975,DB00099
+F719,TBO filgrastim,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/719/original/TBO_filgrastim.pdf?1532124628,DB00099
+F3733,"Cyanocobalamin VitB12, MSDS",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/733/original/Cyanocobalamin_VitB12_MSDS.pdf?1551370759,DB00115
+F3736,"Cyanocobalamin injection, monograph",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/736/original/Monograph__cyanocobalamin_injection.pdf?1551377858,DB00115
+F3739,Cyanocobalamin label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/739/original/Cyanocobalamin_label__FA_Davis.pdf?1551384561,DB00115
+F4027,Cholecalciferol Canadian Prescribing Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/027/original/LUXA-D-product-monograph.pdf?1553031970,DB00169
+F4042,Decalcitrol (coated cholecalciferol tablet) US FDA Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/042/original/20171228_c5475e39-3d34-40f9-abf9-cb1af73c4c6c.pdf?1553115210,DB00169
+F4048,CLH Report for Cholecalciferol,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/048/original/clh_report_colecalciferol_en.pdf?1553119499,DB00169
+F4051,Alendronate sodium and cholecalciferol Canadian Product Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/051/original/Alendronate-Cholecalciferol_TAB_Monograph.pdf?1553120651,DB00169
+F4603,PRAVACHOL (pravastatin) monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/603/original/1.pdf?1556750204,DB00175
+F3136,"NZ Data Sheet, Valsartan and sacubitril",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/136/original/NZ_Data_sheet__Valsartan_and_sacubitril.pdf?1548434596,DB00177
+F3142,Valsartan and Sacubitril FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/142/original/Valsartan_and_Sacubitril_FDA_label.pdf?1548436930,DB00177
+F3145,Valsartan and Amlodipine FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/145/original/Exforge_FDA_label.pdf?1548437682,DB00177
+F3148,Valsartan and Nevibolol FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/148/original/Nevibolol_and_Valsartan.pdf?1548438575,DB00177
+F4703,Health Canada Monograph - Valsartan,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/703/original/Health_Canada_Monograph_-_Valsartan.PDF?1568224670,DB00177
+F2980,Pacifen Medsafe NZ,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/980/original/Medsafe_NZ-_Pacifen.pdf?1547763088,DB00181
+F2983,Lioresal (intrathecal) FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/983/original/Lioresal_Intrathecal_.pdf?1547768190,DB00181
+F4570,Gablofen (Baclofen injection) FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/570/original/Gablofen_%28baclofen_injection%29_FDA_label.pdf?1556651498,DB00181
+F3244,EZETROL (amphetamine) Canadian label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/244/original/1.pdf?1548883785,DB00182
+F3283,QSYMIA (phentermine/topiramate) FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/283/original/fda.pdf?1549057509,DB00191
+F4679,Health Canada Monograph - Tramadol,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/679/original/Health_Canada_Monograph_-_Tramadol.PDF?1565204435,DB00193
+F3094,Oseltamivir FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/094/original/209113Orig1s000lbl.pdf?1548284241,DB00198
+F3097,Oseltamivir EMA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/097/original/tamiflu-epar-product-information_en.pdf?1548284404,DB00198
+F3115,Oseltamivir New Zealand Product Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/115/original/Tamiflucapsusp.pdf?1548355321,DB00198
+F3343,Erythromycin estolate monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/343/original/Erythromycin_Estolate.pdf?1549406070,DB00199
+F3850,Revatio (sildenafil) FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/850/original/021845s011_022473s004_0203109s002lbl-2.pdf?1552000083,DB00203
+F3853,Viagra (sildenafil citrate) FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/853/original/20895s039s042lbl.pdf?1552000164,DB00203
+F3856,"Viagra (sildenafil citrate) Tablets 25 mg, 50 mg, and 100 mg Canadian Product Monograph",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/856/original/VIAGRA_PM_E_218856_18Sept2018a.pdf?1552000421,DB00203
+F3859,Revatio (sildenafil citrate) Canadian Product Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/859/original/REVATIO_PM_E_206732_30Oct2017.pdf?1552000572,DB00203
+F3883,Revatio (sildenafil citrate) EMA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/883/original/revatio-epar-product-information_en.pdf?1552079582,DB00203
+F3886,Viagra (sildenafil citrate) EMA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/886/original/viagra-epar-product-information_en.pdf?1552080070,DB00203
+F3154,Zithromax FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/154/original/zithromax_fda.pdf?1548452062,DB00207
+F3163,"Azithromycin, Ophthalmic FDA label",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/163/original/Azithromycin__Opthalmic.pdf?1548697689,DB00207
+F3166,Sandoz Azithromycin Canadian Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/166/original/Sandoz_Azithromycin_PM_EN.pdf?1548698085,DB00207
+F3193,"Pantoprazole Tablets, Monograph",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/193/original/Pantoprazole_tablet_monograph.pdf?1548778232,DB00213
+F3196,Pfizer Safety Data Sheet,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/196/original/Pfizer_Data_sheet.pdf?1548779085,DB00213
+F3199,"Assessment Report, Pantozol",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/199/original/Assessment_report__pantozol.pdf?1548779471,DB00213
+F3202,Protonix delayed release and oral suspension FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/202/original/Protonix_Delayed_relase_and_ora_susp.pdf?1548780962,DB00213
+F3208,Pantoloc EMA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/208/original/Pantoloc_EMA_label.pdf?1548797723,DB00213
+F3217,Sandoz Pantoprazole DRT Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/217/original/Pantoprazole_DRT_Product_Monograph.pdf?1548867270,DB00213
+F4486,Health Canada Label - Pantoprazole,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/486/original/Health_Canada_Label_-_Pantoprazole.PDF?1556054659,DB00213
+F4498,TOP Guidelines - H pylori,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/498/original/h_pylori_guideline.pdf?1556058194,DB00213
+F3271,Celexa Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/271/original/Celexa_Monograph.pdf?1549042837,DB00215
+F4661,FDA Label - Lovastatin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/661/original/FDA_Label_-_Lovastatin.pdf?1564095428,DB00227
+F4664,Health Canada Monograph - Lovastatin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/664/original/Health_Canada_Monograph_-_Lovastatin.PDF?1564095447,DB00227
+F3718,Temazepam Capsules USP 15 mg and 30 mg Canadian Product Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/718/original/00043056.PDF?1551292587,DB00231
+F3721,Temazepam Fact Sheet from http://cdn.neiglobal.com/content/pg/live/temazepam.pdf,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/721/original/temazepam.pdf?1551292694,DB00231
+F4561,"N-FIORINAL®-C 1/4, 1/2 (acetylsalicylic acid-caffeine-codeine-butalbital) Product Information - Novartis Canada",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/561/original/fiorinal-c_scrip_e.pdf?1556644474,DB00241
+F3616,RANEXA (ranolazine) Australian report,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/616/original/auspar-ranolazine-180220-pi.docx?1550701302,DB00243
+F3001,Pentasa (Mesalazine) FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/001/original/020049s025lbl.pdf?1548091158,DB00244
+F3679,pdp-BENZTROPINE (benztropine) Prescribing information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/679/original/1.pdf?1551134356,DB00245
+F3682,Benztropine informational sheet,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/682/original/1.pdf?1551135890,DB00245
+F3052,Doxycycline MedSafe NZ,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/052/original/Doxycycline__Medsafe_NZ.pdf?1548177564,DB00254
+F3055,Doxycycline EMA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/055/original/oracea-article-29-referral-annex-i-ii-iii-iv_en.pdf?1548195540,DB00254
+F3073,Antibiotics that affect the ribosome,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/073/original/06lambert5764.pdf?1548269571,DB00254
+F3088,Canesten Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/088/original/Canesten_Monograph.pdf?1548281505,DB00257
+F3100,"MedSafe NZ Data Sheet, Clotrimazole",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/100/original/MedSafe_NZ_Data_Sheet-_Clotrimazole.pdf?1548285796,DB00257
+F3118,"HPLC Measurement, Bbod Distribution, and Pharmacokinetics of Oral Clotrimazole, Potentially Useful Antisickling Agent",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/118/original/d2ed21035f3954c34567bfbf5484a60db9e9.pdf?1548355508,DB00257
+F3121,Lotrisone FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/121/original/Lotrisone_FDA_label.pdf?1548362277,DB00257
+F3124,Clotrimazole SDS,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/124/original/Safety_data_sheet__clotrimazole.pdf?1548367831,DB00257
+F3382,Ropinirole extended release FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/382/original/Ropinirole_XL_.pdf?1549488616,DB00268
+F3391,"UK labeling, Ropinirole",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/391/original/UK_labeling__Ropinirole.pdf?1549495050,DB00268
+F4709,FDA Label - Olmesartan,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/709/original/FDA_Label_-_Olmesartan.pdf?1568842680,DB00275
+F4712,Health Canada Monograph - Olmesartan,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/712/original/Health_Canada_Label_-_Olmesartan.PDF?1568842696,DB00275
+F4349,"Xylocaine (lidocaine HCl Injection, USP) FDA Label",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/349/original/006488s074lbl.pdf?1555019975,DB00281
+F4444,"University of Virginia Children's Hospital: Use of Lidocaine for Analgesia in Children and Adolescents, by Marcia L. Buck, Pharm.D., FCCP, FPPAG",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/444/original/201312.pdf?1555966035,DB00281
+F4468,Cytochrome P450-mediated drug interactions affecting lidocaine by Mika Isohanni,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/468/original/d52553bb6113e1ea3aa0e5f6597ba2d88669.pdf?1556038452,DB00281
+F3895,Pfizer Safety Data Sheet,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/895/original/1.pdf?1552088162,DB00286
+F3061,Travatan Z (travoprost) FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/061/original/021994s012lbl.pdf?1548198843,DB00287
+F3064,Travoprost Canadian Product Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/064/original/00008165.PDF?1548198889,DB00287
+F4639,FDA Label - atomoxetine,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/639/original/FDA_Label_-_atomoxetine.pdf?1561418207,DB00289
+F3406,Tenofovir Disoproxil FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/406/original/Tenofovir_Disoproxil_FDA_label.pdf?1549561434,DB00300
+F3412,Auspar: Tenofovir disoproxil fumarate,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/412/original/auspar-tenofovir-disoproxil-fumarate-170601-pi.pdf?1549569936,DB00300
+F3418,Stribild FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/418/original/Stribild_FDA_label.pdf?1549580373,DB00300
+F3421,Truvada FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/421/original/Truvada_FDA_label.pdf?1549580450,DB00300
+F3442,Viread EPAR,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/442/original/viread-epar-product-information_en.pdf?1549651026,DB00300
+F4127,MADELINE (desogestrel and ethinyl estradiol) Australian monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/127/original/1.pdf?1553644223,DB00304
+F4124,"Acetaminophen monograph, suppository",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/124/original/Acetaminophen_monograph__suppository.pdf?1553636652,DB00316
+F4133,"Acetaminophen data sheet, ebi.ac.uk",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/133/original/Data_sheet__Acetaminophen__ebi.ac.uk.pdf?1553705729,DB00316
+F4136,"Tylenol arthritis pain label, OTC",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/136/original/Tylenol_arthritis_pain_label.pdf?1553716877,DB00316
+F3658,"EPAR, Codeine",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/658/original/EPAR__Codeine.pdf?1551126557,DB00318
+F3661,"Codeine, MedSafe NZ document",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/661/original/CodeinePhosphatePSMtab.pdf?1551126735,DB00318
+F3454,Elavil Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/454/original/ELAVIL_PM.pdf?1549664331,DB00321
+F3460,"Safety data sheet, amitriptyline",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/460/original/Safety_data_sheet__amitriptyline.pdf?1549909752,DB00321
+F4181,BAR-hydromorphone monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/181/original/1.pdf?1553996595,DB00327
+F976,Comparing Dissolution Profiles of of Seven Metformin Formulations in Simulated Intestinal Fluid,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/976/original/Comparing_dissolution_profiles.pdf?1533316462,DB00331
+F977,Glumetza FDA,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/977/original/Glumetza.pdf?1533316755,DB00331
+F4096,Metformin label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/096/original/Metformin_label.pdf?1553286670,DB00331
+F4099,Metformin Canadian monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/099/original/glucophage_Canadian_monograph.pdf?1553287875,DB00331
+F4102,MedSafe NZ Metformin mylan,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/102/original/Medsafe_NZ_metformin_myan.pdf?1553289694,DB00331
+F4685,FDA Label - Methadone,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/685/original/FDA_Label_-_methadone.pdf?1566927671,DB00333
+F4688,Health Canada Label - Metadol,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/688/original/Health_Canada_Label_-_Metadol.PDF?1566927686,DB00333
+F4691,Health Canada Label - Methadose,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/691/original/Health_Canada_-_Methadose.PDF?1566927906,DB00333
+F4519,"Product monograph, Sulcrate",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/519/original/Product_Monograph__Sulcrate.pdf?1556227271,DB00364
+F4528,"MedSafe NZ, Sucralfate",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/528/original/MedSafe_NC_sucralfate.pdf?1556552503,DB00364
+F4534,"Sucralfate FDA label, tablet form",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/534/original/Sucralfate_tablet_FDA_label.pdf?1556560171,DB00364
+F4537,Risk profile of sucralfate,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/537/original/Risk_Profile_Sucralfate_03.pdf?1556570730,DB00364
+F4597,"Monograph, Mylan mirtazapine",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/597/original/Mylan_mirtazapine.pdf?1556742511,DB00370
+F4555,Colestid/Flavored Colestid (colestipol hydrochloride for oral suspension),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/555/original/017563s023_020222s005lbl-3.pdf?1556642803,DB00375
+F4564,Pfizer MSDS for Colestipol Hydrochloride for Oral Suspension,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/564/original/COLESTIPOL_HYDROCHLORIDE_FOR_ORAL_SUSPENSION.pdf?1556644523,DB00375
+F4567,Colestipol hydrochloride Canadian Product Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/567/original/00022293.PDF?1556647403,DB00375
+F3757,"Apo amlodipine tablets, MedSafe NZ",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/757/original/ApoAmlodipinetab_MedSafe_NZ.pdf?1551474087,DB00381
+F4057,Carisoprodol Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/057/original/carisoprodol-soma.pdf?1553190718,DB00395
+F4060,Carisoprodol-Aspirin compound,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/060/original/Carisoprodol_Aspirin_Compound.pdf?1553196252,DB00395
+F4069,Soma compound with codeine,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/069/original/Soma_compound_with_Codeine.pdf?1553196615,DB00395
+F4078,Toxicity studies of carisoprodol: National Toxicology Program,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/078/original/Toxicity_Studies_of_Carisoprodol__National_Toxicology_Program.pdf?1553208258,DB00395
+F4093,Skeletal muscle relaxants therapeutic class review,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/093/original/Skeletal_muscle_relaxants_therapeutic_class_review.pdf?1553285461,DB00395
+F3898,Progesterone gel: Crinone® 4% and Crinone® 8%,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/898/original/Progesterone_Gel.pdf?1552088547,DB00396
+F3901,"Endometrin FDA label, vaginal insert",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/901/original/Endometrin__vaginal_insert_FDA_label.pdf?1552088774,DB00396
+F3904,Norethindrone FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/904/original/Norethindrone_FDA_label.pdf?1552320726,DB00396
+F3907,"Progesterone injection, FDA label",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/907/original/Progestrone_injection__FDA_label.pdf?1552321319,DB00396
+F3913,"Utrogestan capsules, medsafe NZ label",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/913/original/UtrogestanSunflowerOilcap.pdf?1552322296,DB00396
+F3916,PROGESTERONE INJECTION USP IN SESAME OIL FOR INTRAMUSCULAR USE ONLY,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/916/original/FDA_Label__Progesterone_and_sesame_oil.pdf?1552338634,DB00396
+F4298,Pramipexole hydrochloride tablets SDS,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/298/original/PRAMIPEXOLE_DIHYDROCHLORIDE_TABLETS.pdf?1554758125,DB00413
+F4301,"MedSafe NZ, Ramipex tablet information sheet",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/301/original/Ramipextab.pdf?1554758918,DB00413
+F4474,Health Canada Label - Concerta,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/474/original/Health_Canada_-_Concerta.PDF?1556049353,DB00422
+F4480,Health Canada Label - Biphentin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/480/original/Health_Canada_-_Biphentin.PDF?1556049613,DB00422
+F4483,Health Canada - Ritalin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/483/original/Health_Canada_-_Ritalin.PDF?1556050208,DB00422
+F3802,Ambien CR (extended release) label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/802/original/Aimbien_CR_%28Extended_release%29_FDA_label.pdf?1551829005,DB00425
+F649,Lonsurf Summary of Product Characteristics- European Medicines Agency - Europa EU,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/649/original/WC500206246.pdf?1531845997,DB00432
+F658,"DailyMed Label: VIROPTIC® Ophthalmic Solution, 1% Sterile (trifluridine ophthalmic solution)",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/658/original/20180323_f3a14d86-0ff2-4535-318c-ac8bc8ede42c.pdf?1531863617,DB00432
+F3985,"Cayman Chem MSDS, Allopurinol",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/985/original/Cayman_Chem_MSDS__Allopurinol.pdf?1552949690,DB00437
+F3988,MedSafe NZ: Allopurinol,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/988/original/apoallopurinoltab.pdf?1553009459,DB00437
+F4145,Celestone Soluspan Product Insert (Injectable),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/145/original/Celestone_Soluspan_Package_Insert.pdf?1553789405,DB00443
+F4633,FDA Label - levothyroxine,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/633/original/FDA_Label_-_levothyroxine.pdf?1561401737,DB00451
+F4636,American Association of Clinical Endocrinologists (AACE): Clinical Practice Guidelines for Hypothyroidism in Adults,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/636/original/CPG_for_hypothyroidism.pdf?1561402165,DB00451
+F1949,MedSafe NZ: Amikacin Injection,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/949/original/Amikacininj._MedSafe_NZ.pdf?1540245431,DB00479
+F1950,"EMA Withdrawal document, Arikayce",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/950/original/withdrawal-assessment-report-arikayce_en.pdf?1540245524,DB00479
+F1954,"Amikacin, DailyMed",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/954/original/20180501_f260ff2a-76a0-4672-9516-91c344b67890.pdf?1540315949,DB00479
+F4645,FDA Label - haloperidol,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/645/original/FDA_Label_-_haloperidol.pdf?1562874866,DB00502
+F4648,Health Canada Monograph - haloperidol,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/648/original/Health_Canada_-_Haloperidol.PDF?1562879685,DB00502
+F4169,FDA Clinical Pharmacology and Biopharmaceutics Review: Lotensin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/169/original/019851s028_benazepril_Lotensin_ClinPharmReview.pdf?1553893301,DB00542
+F3949,"Valtrex tablets, MedSafe NZ",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/949/original/Valtrex_MedSafe_NZ.pdf?1552685757,DB00577
+F3973,Valacyclovir hydrochloride hydrate MSDS,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/973/original/SDS__Valacyclovir_Hydrochloride_Hydrate.pdf?1552931632,DB00577
+F4355,Fluticasone Propionate (Cutivate) Ointment FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/355/original/Cutivate_FDA_Label.pdf?1555083055,DB00588
+F4358,Fluticasone Propionate (Flonase) Nasal Spray FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/358/original/Flonase_FDA_Label.pdf?1555083126,DB00588
+F1955,Topical Fluocinolone acetonide,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/955/original/1.pdf?1540320566,DB00591
+F1956,Topical Fluocinolone acetonide UK label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/956/original/1.pdf?1540328065,DB00591
+F1957,Retisert (Fluocinolone acetate) FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/957/original/fda.pdf?1540331588,DB00591
+F4655,FDA Label - Simvastatin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/655/original/FDA_Label_-_simvastatin.pdf?1564075804,DB00641
+F4658,Health Canada Monograph - Simvastatin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/658/original/Health_Canada_Monograph_-_Simvastatin.PDF?1564075821,DB00641
+F1247,Epinephrine FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/247/original/Epinephrine_.pdf?1534883635,DB00668
+F2131,Primatene Prescribing Info,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/131/original/Primatene_MST_Label_Info.pdf?1543940831,DB00668
+F2136,Pfizer Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/136/original/Pfizer__Canadian_Monograph-_Epinephrine_Inj.pdf?1543958486,DB00668
+F2434,Intravenous Midazolam FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/434/original/Intraveous_Midazolam_FDA_label.pdf?1545435299,DB00683
+F2977,MedSafe NZ: Midazolam Inj,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/977/original/MedSafe_NZ.pdf?1547742953,DB00683
+F4471,"Canadian monograph, Tizanidine",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/471/original/Canadian_monograph__Tizanidine.pdf?1556041234,DB00697
+F2009,Sufentanil EMA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/009/original/zalviso-epar-product-information_en.pdf?1541442012,DB00708
+F2011,Sufentanil,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/011/original/2018_Combined-Characteristics-of-Illicit-Licit-Fentanyl-Derivatives.pdf?1541449805,DB00708
+F4697,FDA Label - Risperidone,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/697/original/FDA_Label_-_Risperidone.pdf?1568147588,DB00734
+F4700,Health Canada Monograph - Risperidone,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/700/original/Health_Canada_Monograph_-_Risperidone.PDF?1568147609,DB00734
+F4495,Health Canada Label - Esomeprazole,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/495/original/Health_Canada_Label_-_Esomeprazole.PDF?1556057784,DB00736
+F4498,TOP Guidelines - H pylori,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/498/original/h_pylori_guideline.pdf?1556058194,DB00736
+F3157,Diazepam FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/157/original/013263s094lbl.pdf?1548453858,DB00829
+F3160,Diazepam Canadian Product Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/160/original/Valium_PM_E.pdf?1548453895,DB00829
+F3169,"WHO Model Prescribing Information: Drugs Used in Anaesthesia, Premedication: Diazepam",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/169/original/h2929e.pdf?1548703081,DB00829
+F4253,Zantac injection FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/253/original/Zantac_Injection_FDA_label.pdf?1554480125,DB00863
+F4280,Zantac Canadian Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/280/original/Zantac_Canadian_Monograph.pdf?1554739927,DB00863
+F1467,Australian Register of Therapeutic Goods: Loteprednol etabonate Product Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/467/original/auspar-loteprednol-etabonate-140417-pi.docx?1536691506,DB14596
+F4510,Australian Government Department of Health Therapeutic Goods Administration OTC Medicines Monograph: Guaifenesin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/510/original/otc-medicine-monograph-guaifenesin.pdf?1556210330,DB00874
+F4516,"A NOVEL STABILITY INDICATING HPLC METHOD FOR SIMULTANEOUS ESTIMATION OF GUAIPHENESIN, CHLORPHENERAMINE MALEATE & DEXTROMETHORPHAN HBr",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/516/original/46-Vol.-4-Issue-11-Nov.-2013-IJPSR-RA-2841-Paper-46.pdf?1556215987,DB00874
+F4522,National Pharmaceutical Regulatory Agency (NPRA) Guaiphenesin Product Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/522/original/GuaiphenesinFINAL.pdf?1556232923,DB00874
+F4525,CENTER FOR DRUG EVALUATION AND RESEARCH: CLINICAL PHARMACOLOGY AND BIOPHARMACEUTICS REVIEW(S) OF GUAIFENESIN/HYDROCODONE BITARTRATE,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/525/original/205474Orig1s000ClinPharmR.pdf?1556298618,DB00874
+F3178,Ondansetron FDA 2016 Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/178/original/020103s035_020605s019_020781s019lbl.pdf?1548717354,DB00904
+F3181,Zofran Canadian Product Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/181/original/zofran_scrip_e.pdf?1548717421,DB00904
+F3184,Sandoz Ondansetron Canadian Product Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/184/original/Ondansetron_TAB_INJ_Monograph.pdf?1548717683,DB00904
+F4715,FDA Label - buprenorphine/naloxone,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/715/original/FDA_Label_-_buprenorphine_naloxone.pdf?1569429625,DB00921
+F4718,Health Canada Monograph - buprenorphine/naloxone,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/718/original/Health_Canada_-_buprenorphine_naloxone.PDF?1569429946,DB00921
+F4405,Durlaza FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/405/original/Durlaza_%28Extended_Release%29.pdf?1555433930,DB00945
+F133,Getz Pharma: Ezita (Ezetimibe 10mg tablets) Product Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/133/original/Ezita-Tab-Leaflet-Export-GA.pdf?1528737045,DB00973
+F3634,Neomycin Opthalmic FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/634/original/20061027_cc2f489e-a75d-47dc-96d1-7f05bc6b7197.pdf?1550867334,DB00994
+F3637,Neomycin Irrigation Solution FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/637/original/20181221_a2f47d77-efd3-4c84-a364-08fb6d9978eb.pdf?1550867407,DB00994
+F3640,Neomycin Otic FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/640/original/20161020_cb105db7-ab14-4b10-8a19-58bcb5eb27cd.pdf?1550867574,DB00994
+F3643,Neomycin Tablet FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/643/original/20181130_777dbfab-f83e-4738-ae1e-78619a9f82a7.pdf?1550867592,DB00994
+F3265,Salbutamol Australian Product Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/265/original/ventolin_cfc_free_inhaler_pi_004_approved.pdf?1548976568,DB01001
+F3268,Salbutamol Canadian Product Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/268/original/ventolin-hfa.pdf?1548976627,DB01001
+F4366,Alzheimer's disease international: Global Impact of Dementia 2013,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/366/original/GlobalImpactDementia2013.pdf?1555345885,DB01043
+F4375,Memantine Product,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/375/original/Memantine_FCT_PM_English20150916.pdf?1555348927,DB01043
+F42,Pharmacopeia,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/042/original/Codergocrine-Mesilate.pdf?1525473823,DB01049
+F3763,Rivotril (Clonazepam) 0.5 mg and 2 mg Tablets Canadian Product Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/763/original/Rivotril_PM_E.pdf?1551482154,DB01068
+F3787,Clonazepam Fact Sheet from http://cdn.neiglobal.com/content/pg/live/clonazepam.pdf,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/787/original/clonazepam.pdf?1551739786,DB01068
+F3796,Rivotril (Clonazepam) Australian Product Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/796/original/pdf.pdf?1551808286,DB01068
+F3352,"Diphenhydramine Hydrochloride Injection, USP FDA Label",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/352/original/091526lbl.pdf?1549410675,DB01075
+F3379,"DIPHENHYDRAMINE- diphenhydramine hcl tablet, coated DailyMed FDA Label",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/379/original/20180620_70a584ab-9e24-404a-aad7-f9a05c377248.pdf?1549478576,DB01075
+F3394,Benylin Chesty Coughs UK MHRA Product Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/394/original/con1478238522475.pdf?1549496792,DB01075
+F4670,FDA Label - Atorvastatin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/670/original/FDA_Label_-_atorvastatin.pdf?1565199067,DB01076
+F4673,Health Canada Monograph - Atorvastatin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/673/original/Health_Canada_Monograph_-_Atorvastatin.PDF?1565199092,DB01076
+F4223,Tegaserod 2019 FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/223/original/021200Orig1s015lbl.pdf?1554242756,DB01079
+F4226,EMA Refusal Assessment Report for Zelnorm (Tegaserod),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/226/original/zelnorm-epar-refusal-public-assessment-report_en.pdf?1554245227,DB01079
+F4229,FDA Joint Meeting of the Gastrointestinal Drugs Advisory Committee and Drug Safety and Risk Management Advisory Committee Briefing Document for Zelnorm (tegaserod maleate),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/229/original/GIDAC-10172018-SloanBackgrounder.pdf?1554245700,DB01079
+F1704,CYP1A2 CTEP document,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/704/original/cyp1a2.doc?1538174292,DB01087
+F4649,FDA Label - Rosuvastatin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/649/original/FDA_Label_-_Rosuvastatin.pdf?1563989473,DB01098
+F4652,Health Canada Monograph - Rosuvastatin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/652/original/Health_Canada_Label_-_Rosuvastatin.PDF?1563989610,DB01098
+F4624,The Canadian Network for Mood and Anxiety Treatments (CANMAT) task force recommendations for the management of patients with mood disorders and comorbid attention-deficit/hyperactivity disorder,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/624/original/CANMAT_Comorbidity_Mood-Disorders-and-ADHD-20121.pdf?1558035212,DB01156
+F1751,Rifaximin Australian Public Assessment Report,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/751/original/auspar-rifaximin-121119.pdf?1538670610,DB01220
+F4579,Sinemet FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/579/original/Sinemet_FDA_Label.pdf?1556654841,DB01235
+F2355,"Vyvanse, Canadian Monograph",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/355/original/vyvanse-pm-en.pdf?1545154999,DB01255
+F2366,EPAR: Lisdexamfetamine dimesylate,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/366/original/con261790.pdf?1545166527,DB01255
+F2368,WHO Summary: Lisdexamfetamine,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/368/original/WHO_summary-_Lisdexamfetamine.pdf?1545171370,DB01255
+F4009,Mecasermin Highlights of Prescribing Information Revised February 2010,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/009/original/021839s016lbl.pdf?1553026301,DB01277
+F4036,European Patent Specification,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/036/original/EP1183042B1.pdf?1553113503,DB01277
+F2857,Morphine Sulfate FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/857/original/022207s004lbl.pdf?1547230559,DB01452
+F53,Cosmetic Ingredient Review: Safety Assessment of PCA and Its Salts as Used in Cosmetics,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/053/original/pca.pdf?1525819497,DB03088
+F50,Compendium of Pharmaceutical Excipients for Vaginal Formulations,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/050/original/article-5133.pdf?1525799351,DB03766
+F3919,Fetzima (levomilnacipran extended-release capsules) Canadian Product Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/919/original/fetzima-monograph.pdf?1552429131,DB04896
+F3922,Fetzima (levomilnacipran) FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/922/original/Fetzima-final_labeling_text_CLEAN_12_2017.pdf?1552429193,DB04896
+F3925,Savella (milnacipran HCl) FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/925/original/022256s022lbl.pdf?1552429243,DB04896
+F3928,Australian Public Assessment Report for Milnacipran hydrochloride,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/928/original/auspar-milnacipran-hydrochloride-120124.pdf?1552429553,DB04896
+F3934,EMEA REFUSAL ASSESSMENT REPORT FOR Milnacipran Pierre Fabre Medicament,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/934/original/milnacipran-pierre-fabre-medicament-epar-refusal-public-assessment-report_en.pdf?1552430406,DB04896
+F3937,"Serotonin Noradrenaline Reuptake Inhibitors (SNRIs) by Ipek Komsuoglu Celikyurt, Oguz Mutlu, and Guner Ulak",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/937/original/InTech-Serotonin_noradrenaline_reuptake_inhibitors_snris_.pdf?1552594580,DB04896
+F1104,Patent US20180208955A1: Process for the microbial synthesis of migalastat,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/104/original/US20180208955A1.pdf?1534266673,DB05018
+F1107,Migalastat EMA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/107/original/WC500208434.pdf?1534267664,DB05018
+F3910,Nucleonics NUC B1000 Press Release,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/910/original/Start_of_Hep_B_Trial_-_011108.pdf?1552322229,DB05242
+F3457,Cablivi (caplacizumab) EMA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/457/original/1.pdf?1549670242,DB06081
+F1655,Eltrombopag,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/655/original/Eltrombopag_FDA_label.pdf?1537903177,DB06210
+F2356,Dalbavacin Health Canada Product Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/356/original/00047194.PDF?1545155127,DB06219
+F2380,Dalbavancin EMA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/380/original/anx_136966_en.pdf?1545238693,DB06219
+F2384,Resotrans (prucalopride) Australian label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/384/original/1.pdf?1545258246,DB06480
+F2386,Resotrans (prucalopride) Australian data sheet,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/386/original/1.pdf?1545259268,DB06480
+F4423,Apotex Inc. Product Monograph: Dabigatran Etexilate,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/423/original/Apotex_Inc_Product_Monograph_Dabigatran_Etexilate.PDF?1555955264,DB06695
+F4390,Focalin (Dexmethylphenidate) FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/390/original/Focalin_Label.pdf?1555362054,DB06701
+F4393,Dexmethylphenidate XR FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/393/original/Dexmethylphenidate_XR_Label.pdf?1555362204,DB06701
+F4214,New Zealand Data Sheet: Naphcon-A Eye Drops,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/214/original/naphconAeyedrop.pdf?1554234294,DB06711
+F4667,FDA Label - Pitavastatin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/667/original/FDA_Label_-_Pitavastatin.pdf?1564609735,DB08860
+F3769,European Medicines Agency CHMP Assessment Report for Ellaone (ulipristal acetate),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/769/original/ellaone-epar-public-assessment-report_en.pdf?1551721932,DB08867
+F3772,ella (ulipristal acetate) 30 mg Tablet Emergency Contraceptive Canadian Product Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/772/original/00035187.PDF?1551722292,DB08867
+F4232,CIMZIA (Certolizumab) Australian Report,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/232/original/auspar-cimzia.pdf?1554327113,DB08904
+F4364,Fluticasone Furoate (Arnuity Ellipta) FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/364/original/Arnuity_Ellipta_FDA_Label.pdf?1555084343,DB08906
+F4313,"Invokana, Canadian monograph",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/313/original/Invokana__Canadian_monograph.pdf?1554913610,DB08907
+F51,NZ DrugSafe Tafinlar,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/051/original/tafinlarnz.pdf?1525808860,DB08912
+F52,"Monograph, Tafinlar",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/052/original/tafinlar_scrip_e.pdf?1525814014,DB08912
+F136,Keytruda monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/136/original/1.pdf?1528923198,DB09037
+F137,Keytruda official monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/137/original/1.pdf?1528923784,DB09037
+F1494,FDA Approval: Idelalisib Monotherapy for the Treatment of Patients with Follicular Lymphoma and Small Lymphocytic Lymphoma,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/494/original/Idelalisib.pdf?1536961865,DB09054
+F4265,IBRANCE (palbociclib) BC Cancer monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/265/original/1.pdf?1554501162,DB09073
+F2974,Linparza (olaparib) drug monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/974/original/olaparib_%28capsule%29.pdf?1547681847,DB09074
+F1240,"FDA label, Diacomit",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/240/original/FDA_label__Diacomit.pdf?1534879588,DB09118
+F3559,"Protamine Sulfate Injection, USP Product Information",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/559/original/Protamine_Sulfate-PI-eng-v1.1-Clean.pdf?1550619645,DB09141
+F3562,UKPAR MHRA Prosulf (protamine sulphate) 10mg/ml Solution for Injection Assessment,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/562/original/con272229.pdf?1550683924,DB09141
+F135,FDA Clinical Pharmacology and Biopharmaceutical Review(s) on PICOPREP,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/135/original/202535Orig1s000ClinPharmR.pdf?1528755368,DB09268
+F134,The antidepressant tianeptine persistently modulates glutamate receptor currents of the hippocampal CA3 commissural-associational synapse in chronically stressed rats,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/134/original/tianeptinedoc.pdf?1528746183,DB09289
+F4591,Alirocumab FDA Label 2019,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/591/original/125559s019s020lbl.pdf?1556731499,DB09302
+F97,European Food Safety Document,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/097/original/polyvinuyl_alcohol.pdf?1527017890,DB11060
+F61,Resorcinol - Wiley Online Library Resource,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/061/original/3527600418.mb10846e0020.pdf?1526059762,DB11085
+F62,TUKES Finnish Safety and Chemicals Agency: Evaluation Report for Resorcinol,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/062/original/SEV-203-585-2-1_conclusion_and_report_public_5148_en.pdf?1526062531,DB11085
+F99,Magnesium citrate,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/099/original/1.pdf?1527098397,DB11110
+F15,Safety Assessment of Polyether Lanolins as Used in Cosmetics,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/015/original/PolLan062012Tent.pdf?1525110302,DB11112
+F70,"Assessment report on Ricinus communis L., oleum - European Medical Agency",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/070/original/WC500190197.pdf?1526416724,DB11113
+F75,European Commission: Review of Annex IV of Regulation (EC) No. 1907/2006 (REACH),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/075/original/6b_appendix_2.pdf?1526488081,DB11113
+F76,NATIONAL TOXICOLOGY PROGRAM: NTP Technical Report on the Toxicity Studies of Castor Oil in F344/N Rats and B6C3F1 Mice (Dose Feed Studies),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/076/original/tox012.pdf?1526488449,DB11113
+F41,Triclocarban [CASRN 101-20-2],//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/041/original/052410Triclocarban.pdf?1525466991,DB11155
+F38,"Health Canada Monograph, Sunscreens",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/038/original/mono_sunscreen-monograph_english.pdf?1525453011,DB11185
+F40,NTP Technical Report on the Toxicity Studies of Benzophenone,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/040/original/benophenones_NIH_tox.pdf?1525463001,DB11185
+F77,Cosmetic Ingredient Review: Amended Safety Assessment of Mentha Piperita (Peppermint)-derived Ingredients as Used in Cosmetics,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/077/original/peppermint.pdf?1526491660,DB11198
+F78,European Medicines Agency (EMA) COMMITTEE ON HERBAL MEDICINAL PRODUCTS (HMPC): Final Community herbal monograph on Mentha x piperita L Aetheroleum,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/078/original/WC500059313.pdf?1526491780,DB11198
+F48,Scientific Committee on Consumer Safety SCCS,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/048/original/22029_methyl_salicylate_clinical2_prea.pdf?1525732838,DB11200
+F49,ZIRKONAL® L435G,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/049/original/ZIR-L435G.pdf?1525793548,DB11200
+F91,Drug Insert,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/091/original/Menthol_Camphor_Methylsalicylate_Ointment_or_Liniment_or_Cream%282%29.pdf?1526682686,DB11201
+F109,United States Patent Office: Synergistic Blends of Microbiocidal Quaternary Ammonium Compounds,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/109/original/US3472939.pdf?1527191203,DB11202
+F110,Quaternary Ammonium Compounds in Cleaning Products: Health & Safety Information for Health Professionals,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/110/original/QACs_Info_for_Physicians_18.pdf?1527191270,DB11202
+F35,Cutaneous Permeation and Penetration of Sunscreens: Formulation Strategies and In Vitro Methods,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/035/original/cosmetics-05-00001.pdf?1525449150,DB11207
+F43,Chemical Information Review Document for Arbutin [CAS No. 497-76-7] for Arbutin and Extracts from Arctostaphylos uva-ursi,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/043/original/arbutin_508.pdf?1525474930,DB11217
+F44,European Commission Scientific Committee on Consumer Products (SCCP): Opinion on beta-arbutin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/044/original/sccp_o_134.pdf?1525712439,DB11217
+F39,OPINION ON 4-Methylbenzylidene camphor (4-MBC) - European Union,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/039/original/sccp_o_075.pdf?1525453589,DB11219
+F101,NATIONAL INDUSTRIAL CHEMICALS NOTIFICATION AND ASSESSMENT SCHEME (NICNAS) Public Report On: Ethylhexyl Methoxycrylene,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/101/original/STD-1444-FR_Final.docx?1527109345,DB11226
+F103,Sunscreen Photostability 101,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/103/original/SunscreenPhotostability101.pdf?1527110179,DB11226
+F104,Hallstar Sun Care Advanced Formulated Solutions Brochure,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/104/original/Hallstar_Sun_Care_Brochure_2017.pdf?1527110241,DB11226
+F57,Health Products Regulatory Authority of Ireland: Summary of Product Characteristics for Hexylresorcinol,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/057/original/LicenseSPC_PA0979-042-001_08122016162037.pdf?1525986082,DB11254
+F58,University of Utah College of Pharmacy: Topical Analgesic and Anaesthetic Agents Drug Class Review,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/058/original/Topical_Analgesics_and_Anesthetics_Drug_Class_Review.pdf?1525986844,DB11254
+F90,"European Commission Scientific Committee on Consumer Safety (SCCS): Opinion on 2,2’-Methylene-bis-(6-(2H-benzotriazol-2-yl)-4-(1,1,3,3- tetramethylbutyl)phenol)",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/090/original/sccs_o_129.pdf?1526598328,DB11262
+F114,"European Medicines Agency (EMA): Assessment report on Curcuma xanthorrhiza Roxb. (C. xanthorrhiza D. Dietrich)., rhizoma",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/114/original/WC500144564.pdf?1527261710,DB11265
+F107,European Commission: OPINION ON Diethylamino hydroxybenzoyl hexyl benzoate,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/107/original/sccp_o_130.pdf?1527182624,DB11269
+F87,Parsol SLX Product Brochure,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/087/original/SUB8_DSM_PARSOL_SLX.pdf?1526595708,DB11271
+F88,Parsol SLX: UV Protection by Liquid-Mineral Technology,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/088/original/DSM_ParsolSLX.pdf?1526595755,DB11271
+F89,European Commission Directorate-General for Health & Consumers: Scientific Committee on Consumer Safety Opinion On Polysilicone-15,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/089/original/sccs_o_024.pdf?1526596205,DB11271
+F98,Revision of Precautions Dihydrocodeine phosphate/ dl-Methylephedrine hydrochloride/ Chlorpheniramine maleate,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/098/original/Ministry_of_Health_Japan.pdf?1527095544,DB11278
+F100,"4-Methylephedrine, EUA",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/100/original/4-Methylephedrine.docx?1527105098,DB11278
+F45,Clinical Review: CLINICAL REVIEW,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/045/original/22029_methyl_salicylate_clinical2_prea.pdf?1525721199,DB11323
+F31,EMA summary report Nonivamide,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/031/original/WC500015186EMANonivamide.pdf?1525300972,DB11324
+F102,"Clove oil, FDA Document",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/102/original/GFI__150_Clove_Oil.pdf?1527110031,DB11338
+F108,Chapter 6- Eugenol,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/108/original/Eugenol.pdf?1527189892,DB11338
+F105,Gamma-linolenic acid monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/105/original/1.pdf?1527111020,DB11358
+F111,Chemical Information Document of the National Toxicology Program,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/111/original/1.pdf?1527196128,DB11358
+F139,EMA reports,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/139/original/1.pdf?1529099329,DB11431
+F117,FDA approved allergenic test,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/117/original/1.pdf?1527270693,DB11482
+F121,EMA Assessment Report,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/121/original/1.pdf?1527283350,DB11482
+F2473,Ravulizumab FDA Approval Press Release,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/473/original/AlexionPharmaceuticals_Inc-AlexionReceivesEarlyFDAApprovalforULTOMIRIS%E2%84%A2%28Ravulizumab-cwvz%29inAdultswithParoxysmalNocturnalHemoglobinuria%28PNH%29-2018-12-28.pdf?1546471998,DB11580
+F2124,Australian Product Information: Venetoclax,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/124/original/Product_information__Australia__for_Venetoclax.pdf?1543868641,DB11581
+F2130,"Venetoclax, Previous FDA label",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/130/original/Venetoclax_old.pdf?1543878328,DB11581
+F92,Bonjela monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/092/original/1.pdf?1526683267,DB11583
+F81,Health Canada: Sunscreen Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/081/original/mono_sunscreen-monograph_english.pdf?1526509142,DB11585
+F82,FDA Drometrizole Trisiloxane Safety Assessment Denial Letter,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/082/original/140908_FDA_sunscreen_denial_letter.pdf?1526509260,DB11585
+F6,Etafedrine Hydrochloride,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/006/original/Etafedrine.pdf?1524858118,DB11587
+F4,The carbon monoxide diffusing capacity,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/004/original/PIIS0012369208602743.pdf?1524847041,DB11588
+F5,2017 ERS/ATS standards for single-breath carbon monoxide uptake in the lung,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/005/original/DLCO.pdf?1524848064,DB11588
+F272,FIRDAPSE (amifampridine) SUMMARY OF PRODUCT CHARACTERISTICS (EMA Label),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/272/original/WC500069915.pdf?1530026934,DB11640
+F273,European Medicines Agency (EMA) Assessment Report for Zenas (INN-amifampridine),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/273/original/WC500069918.pdf?1530028128,DB11640
+F4609,RUZURGI (amifampridine) 2019 US FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/609/original/209321s000lbl.pdf?1557506341,DB11640
+F114,"European Medicines Agency (EMA): Assessment report on Curcuma xanthorrhiza Roxb. (C. xanthorrhiza D. Dietrich)., rhizoma",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/114/original/WC500144564.pdf?1527261710,DB11672
+F371,Encorafenib FDA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/371/original/Encorafenib_FDA_label.pdf?1530655341,DB11718
+F379,Encorafenib review,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/379/original/Encorafenib_Review.pdf?1530720666,DB11718
+F30,Lactulose Solution USP Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/030/original/lactulose.pdf?1525284237,DB11735
+F3805,"Janssen slides, esketamine",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/805/original/PDAC_DSaRM-2122019-JanssenSlides.pdf?1551892129,DB11823
+F4063,NHS Evidence Briefing January 2019: Brexanolone for postpartum depression,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/063/original/10557-Brexanolone-for-postpartum-depression-V1.0-JAN2019-NONCONF.pdf?1553196439,DB11859
+F4066,FDA approves first treatment for post-partum depression: Press Release,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/066/original/Press_Announcements___FDA_approves_first_treatment_for_post-partum_depression.pdf?1553196545,DB11859
+F4072,"FDA Briefing Document: New Drug Application 211371/New Drug Application, brexanolone for the Treatment of Postpartum Depression",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/072/original/PDAC_DSaRM-11022018-FDABackgrounder.pdf?1553196664,DB11859
+F3787,Clonazepam Fact Sheet from http://cdn.neiglobal.com/content/pg/live/clonazepam.pdf,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/787/original/clonazepam.pdf?1551739786,DB11859
+F2005,Pfizer Oncology Dacomitinib (PF-00299804) Fact Sheet,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/005/original/dacomitinib_fact_sheet.pdf?1541191335,DB11963
+F363,Binimetinib,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/363/original/binimetinib_MSDS.pdf?1530650348,DB11967
+F368,EMA assessment,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/368/original/EMA_withdrawal_letter.pdf?1530653382,DB11967
+F2971,Pfizer Glasdegib product information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/971/original/msds.pdf?1547590283,DB11978
+F801,U.S. Department of Health and Human Services (2002): Endometriosis,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/801/original/endometriosis-2002.pdf?1532543167,DB11979
+F815,AbbVie Orilissa (elagolix) FDA Approval Press Release,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/815/original/AbbVie_Receives_U.S._FDA_Approval_of_ORILISSA%E2%84%A2_%28elagolix%29_for_the_Management_of_Moderate_to_Severe_Pain_Associated_with_Endometriosis.pdf?1532619040,DB11979
+F95,"NICE UK review document, Avatrombopag",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/095/original/avatrombopag-thrombocytopenia-draft-scope.pdf?1527011866,DB11995
+F619,FDA advisory committee meeting,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/619/original/20180501-AMDAC-03-SIGA_Backgrounder.pdf?1531754787,DB12020
+F4369,Cayman Chemical Erdafitinib MSDS,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/369/original/21813m.pdf?1555347445,DB12147
+F4372,NHS Evidence Briefing On: Erdafitinib capsules for metastatic or surgically unresectable urothelial cancer with FGFR gene aberrations – second line therapy,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/372/original/11254-Erdafitinib-for-Urothelial-Cancer.pdf?1555347590,DB12147
+F32,Canthacur (cantharidin 0.7%) Solution for Topical Use Package Insert,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/032/original/Canthacur_Insert_En.pdf?1525365901,DB12328
+F2,Roche Canada Product Monograph: Prolopa,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/002/original/Prolopa_PM_E.pdf?1524844057,DB12783
+F3,European Medicines Agency Public Summary of Opinion on Orphan Designation: Benserazide Hydrochloride for the Treatment of Beta Thalassaemia Intermedia and Major,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/003/original/WC500183229.pdf?1524846665,DB12783
+F7,AGNP Consensus Guidelines for Therapeutic Drug Monitoring in Psychiatry: Update 2011,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/007/original/AGNP_Consensus_Guidelines_for_Therapeutic_Drug.pdf?1524860933,DB12783
+F2060,Galliprant (Grapiprant) FDA veterinary label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/060/original/20180605_a38cc5c6-93e8-4c90-aabc-33bc8423beab.pdf?1542915905,DB12836
+F2061,Galliprant (Grapiprant) EMA veterinary label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/061/original/1.pdf?1542923080,DB12836
+F11,Finalgon Cream (nonivamide and butoxyethyl nicotinate) Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/011/original/FINALGON-PI.pdf?1525102181,DB12911
+F12,European Agency for the Evaluation of Medicinal Products Veterinary Medicines Evaluation Unit: Committee for Veterinary Medicinal Products Nicoboxil Summary Report,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/012/original/WC500015180.pdf?1525102332,DB12911
+F16,"Bundesinstitut fur Arzneimittel und Medizinprodukte Decentralised Procedure Public Assessment Report: Finalgon 4 mg/g + 25 mg/g Salbe Nonivamide, Nicoboxil",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/016/original/DE_H_3291_001_PAR.pdf?1525110423,DB12911
+F17,Inositol report University of Wisconsin,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/017/original/1.pdf?1525111342,DB13178
+F59,GRAS Notification for the Use of Calcium Lactate in Potato and Vegetable Snacks and Sweetened Crackers,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/059/original/GRN747-web.pdf?1526058884,DB13231
+F66,Technical data sheet,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/066/original/1.pdf?1526406716,DB13235
+F67,OECD SIDS,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/067/original/1.pdf?1526407365,DB13235
+F26,Lecture,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/026/original/1.pdf?1525204578,DB13249
+F71,Strepsils,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/071/original/1.pdf?1526422603,DB13269
+F72,Netherlands Public Assessment Report,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/072/original/1.pdf?1526423670,DB13269
+F73,Product characteristics throat lonzenges,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/073/original/1.pdf?1526424270,DB13269
+F74,Strepsils + anaesthetic spray,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/074/original/1.pdf?1526425350,DB13269
+F4549,Sterosan Marketing Article,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/549/original/Prescription_Pad_Sterosan_Marketing.pdf?1556641498,DB13306
+F4552,EMA Approved Product List Chlorquinaldol,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/552/original/EMA_Approvals_for_Chlorquinaldol.pdf?1556641531,DB13306
+F54,Health Canada label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/054/original/1.pdf?1525900564,DB13444
+F55,Telebrix Gastro monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/055/original/1.pdf?1525902201,DB13444
+F56,Telebrix summary of product,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/056/original/1.pdf?1525905430,DB13444
+F46,Gaviscon Summary of Product Characteristics,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/046/original/LicenseSPC_PA0979-015-001_21022014152038.pdf?1525723709,DB13518
+F23,"University of Ottawa, Interdisciplinary Journal of Health Sciences: Human Health Effects of Dietary Aluminum",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/023/original/227-26-PB.pdf?1525197968,DB13595
+F24,Healthy Canadians: Water Aluminum,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/024/original/water-aluminum-eau-eng.pdf?1525198004,DB13595
+F25,"Package Leaflet: Information for the patient, Megalac Almasilate 1 g /10 mL Suspension",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/025/original/Megalac-Almasilat_EN.pdf?1525198124,DB13595
+F18,KARL FISCHER ELECTROMETRIC TITRATION METHOD FOR DETERMINATION OF WATER CONTENT,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/018/original/Karlfischer.pdf?1525123760,DB13707
+F19,Safety Data,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/019/original/3632-91-5_%28USA%29fargon.pdf?1525126939,DB13749
+F79,FDA records,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/079/original/1.pdf?1526493192,DB13751
+F80,FDA food aditives,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/080/original/1.pdf?1526494163,DB13751
+F68,Chemical Research in Toxicology: Levulinate - Potentially Toxic Pro-Drug of Abuse,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/068/original/tx4000039.pdf?1526414150,DB13800
+F69,Clinical Laboratory Tests Reference Values (from http://www.royalcollege.ca/rcsite/documents/credential-exams/clinical-lab-tests-reference-values-e.pdf),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/069/original/clinical-lab-tests-reference-values-e.pdf?1526416461,DB13800
+F27,Gamma-Linolenic Acid (GLA) Monograph - Semantic Scholar,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/027/original/496215cecef1f527d4787e065f20ccf1e3fe.pdf?1525205244,DB13854
+F4355,Fluticasone Propionate (Cutivate) Ointment FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/355/original/Cutivate_FDA_Label.pdf?1555083055,DB13867
+F4358,Fluticasone Propionate (Flonase) Nasal Spray FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/358/original/Flonase_FDA_Label.pdf?1555083126,DB13867
+F4361,Fluticasone Furoate (Veramyst) Nasal Spray FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/361/original/Veramyst_FDA_Label.pdf?1555084174,DB13867
+F4364,Fluticasone Furoate (Arnuity Ellipta) FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/364/original/Arnuity_Ellipta_FDA_Label.pdf?1555084343,DB13867
+F63,The European Agency Committee for Veterinary Medicinal Products: Methyl Nicotinate Summary Report,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/063/original/WC500015074.pdf?1526077961,DB13882
+F64,Norwegian Food Safety Authority (Mattilsynet): Methyl Nicotinate (MN) Risk Profile,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/064/original/Risk_Profile_Methyl_Nicotinate.pdf?1526078027,DB13882
+F65,Prostaglandins and nicotine-provoked increase in cutaneous blood flow,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/065/original/0d66273417ccef33671044bf478936e65155.pdf?1526078204,DB13882
+F112,Crotalus atrox PhospholipaseAz,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/112/original/J._Biol._Chem.-1982-Randolph-2155-61.pdf?1527201766,DB13892
+F113,Crotalidae Polyvalent Immune Fab (Ovine),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/113/original/Crotalidae_Polyvalent_Immune_Fab_%28Ovine%29_%28PDF_Download_Available%29.pdf?1527201938,DB13892
+F116,"Crotalidae Polyvalent, Ovine",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/116/original/Crotalidae_Polyvalent_Immune_Fab_%28Ovine%29_%28PDF_Download_Available%29.pdf?1527270528,DB13893
+F119,Amino Acid Sequence of Phospholipase AZ-a! from the Venom of Crotalus adamanteus,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/119/original/J._Biol._Chem.-1977-Heinrikson-4913-21.pdf?1527281760,DB13893
+F122,THE PHOSPHOLIPASE OF THE VENOM OF THE COTTONMOUTH SNAKE,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/122/original/PiscJ._Biol._Chem.-1945-Fairbairn-633-44.pdf?1527284721,DB13894
+F123,"U Tox update, UTAH document",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/123/original/UTAH_tox_update.pdf?1527287976,DB13894
+F8,"PUBLIC ASSESSMENT REPORT of the Medicines Evaluation Board in the Netherlands: Amylmetacresol and 2,4-Dichlorobenzyl alcohol",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/008/original/netherlandreport.pdf?1524863750,DB13908
+F9,UK public assessment report: Sore Throat Relief Honey & Lemon Flavour 0.6mg Lozenges,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/009/original/UKpublicassess.pdf?1524863909,DB13908
+F10,Acute sore throat revisited: clinical and experimental evidence for the efficacy of over-the-counter AMC/DCBA throat lozenges.,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/010/original/j.1742-1241.2011.02644.x.pdf?1524864319,DB13908
+F1947,Hemlibra (Emicizumab) EMA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/947/original/1.pdf?1540241108,DB13923
+F1502,Cenegermin EMA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/502/original/WC500232105.pdf?1537141900,DB13926
+F1503,Cenegermin EMA Assessment Report,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/503/original/WC500232107.pdf?1537141944,DB13926
+F1941,XYOSTED Subcutaneous Testosterone Enanthate Injection FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/941/original/209863s000lbl.pdf?1539982958,DB13944
+F4247,Aveed FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/247/original/Aveed_FDA_Label.pdf?1554400587,DB13946
+F4307,Metabolism of Dihydrotestosterone in Human Liver,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/307/original/Metabolism_of_Dihydrotestosterone_in_Human_Liver.pdf?1554831241,DB13946
+F126,"Australian Public Assessment Report for Soya oil, Medium chain triglycerides, Olive oil, Fish oil",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/126/original/auspar-smoflipid.pdf?1527524781,DB13959
+F127,SMOFLIPID FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/127/original/207648lbl-2.pdf?1527524826,DB13959
+F128,Medium Chain Triglycerides Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/128/original/418.pdf?1527524862,DB13959
+F13,United States Environmental Protection Agency (EPA): Bronopol R.E.D. Facts Sheet,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/013/original/fs_PC-216400_1-Oct-95.pdf?1525106735,DB13960
+F14,"The activity and safety of the antimicrobial agent Bronopol (2-bromo-2-nitropropan-1, 3-diol)",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/014/original/10.1.1.562.6397.pdf?1525109761,DB13960
+F2317,Canadian Pest Management Regulatory Agency Re-evaluation of Bronopol,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/317/original/H113-18-2005-6E.pdf?1545069110,DB13960
+F33,Australian Government Department of Health and Ageing Therapeutic Goods Administration: Australian Public Assessment Report for Omega-3-acid ethyl esters 90,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/033/original/auspar-omacor.pdf?1525448587,DB13961
+F34,Smoflipid FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/034/original/207648lbl.pdf?1525448851,DB13961
+F36,Lovaza FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/036/original/021654s041lbl.pdf?1525449483,DB13961
+F37,Omacor (omega-3-fatty ethyl esters) EMA Prescribing Information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/037/original/21654lbl.pdf?1525452399,DB13961
+F4250,CENTER FOR DRUG EVALUATION AND RESEARCH PHARMACOLOGY REVIEW OF EPANOVA,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/250/original/205060Orig1s000PharmR.pdf?1554408769,DB13961
+F124,Cerumol,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/124/original/1.pdf?1527288141,DB13964
+F125,Emolients,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/125/original/Emollient_Product_List_June_2013_CV.pdf?1527289102,DB13964
+F118,INCHEM Strontium and strontium compounds Profile,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/118/original/cicad77.pdf?1527279885,DB13987
+F47,EMEA CHMP Assessment Report for Vedrop (polymeric mixture consisting of esterification of d- alpha tocopherol succinate with polyethylene glycol 1000 (PEG)),//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/047/original/WC500047922.pdf?1525727854,DB14001
+F29,EMA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/029/original/EMAnet.pdf?1525278584,DB14019
+F94,"Presentation on CGRP, MONOCLONAL ANTIBODIES AND SMALL MOLECULES (-GEPANTS)",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/094/original/Diener-Hans-Christoph_CGRP-M.pdf?1527011193,DB14040
+F94,"Presentation on CGRP, MONOCLONAL ANTIBODIES AND SMALL MOLECULES (-GEPANTS)",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/094/original/Diener-Hans-Christoph_CGRP-M.pdf?1527011193,DB14041
+F94,"Presentation on CGRP, MONOCLONAL ANTIBODIES AND SMALL MOLECULES (-GEPANTS)",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/094/original/Diener-Hans-Christoph_CGRP-M.pdf?1527011193,DB14042
+F130,EMA Sodium Zirconium Cyclosilicate Monograph,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/130/original/WC500246774.pdf?1528233036,DB14048
+F1692,Health Canada Icaridin Evaluation,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/692/original/H113-9-2011-10-eng.pdf?1538088454,DB14074
+F397,ABILIFY (aripiprazole)Tablets FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/397/original/021713s004_021436s007lbl.pdf?1530736008,DB14185
+F4292,Mometasone Furoate Nasonex FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/292/original/Mometasone_Furoate_Nasonex_Label.pdf?1554757783,DB14512
+F4295,Mometasone Furoate Elocon FDA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/295/original/Mometasone_Furoate_Elocon_Label.pdf?1554757811,DB14512
+F1468,WHO sequence of lanadelumab,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/468/original/1.pdf?1536692138,DB14597
+F1604,World Health Organization Document,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/604/original/World_Health_Organization_Document.pdf?1537477481,DB14700
+F1607,Extended Half-Life Factor VIII and Factor IX Preparations,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/607/original/Damoctagol_.pdf?1537480155,DB14700
+F1609,"BLA, Damoctacog alfa peg, August 2018",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/609/original/August_29__2018_SBRA_-_JIVI.pdf?1537545259,DB14700
+F1937,NIHS reports,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/937/original/1.pdf?1539979813,DB14712
+F1939,WHO Drug Information 2017,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/939/original/1.pdf?1539981000,DB14712
+F1940,Revcovi information,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/940/original/1.pdf?1539981189,DB14712
+F1938,Tegsedi EMA label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/938/original/tegsedi-epar-product-information_en.pdf?1539980614,DB14713
+F2432,Medsafe NZ: Erwinaze inj,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/002/432/original/Erwinaseinjm_Medsafe_NZ.pdf?1545430492,DB14730
+F3649,"Novo Nordisk receives US FDA approval of ESPEROCT® (turoctocog alfa pegol, N8-GP) Press Release",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/649/original/2235689.pdf?1550875461,DB14738
+F3685,Turoctocog alfa EMA Label,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/685/original/novoeight-epar-product-information_en.pdf?1551138300,DB14738
+F3703,PeerView CME: Illuminating the Role of Shared Decision-Making as the Hemophilia A Management Landscape Continues to Evolve: Progress in Practice,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/003/703/original/PVI_monograph_VEQ.pdf?1551211474,DB14738
+F4151,Product Monograph: Polymyxin B For Injection USP,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/151/original/1.3.1-SteriMax-English-PM-February-8-201612.pdf?1553794616,DB00781
+F4054,European Medicines Agency Withdrawal Assessment Report For Mecasermin Rinfabate,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/054/original/withdrawal-assessment-report-iplex_en.pdf?1553187337,DB14751
+F4075,Withdrawal Of Application For Mecasermin Rinfabate Marketing Authorization With European Medicines Agency,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/075/original/withdrawal-letter-iplex_en.pdf?1553198320,DB14751
+F4504,"Skyrizi, Canadian monograph",//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/504/original/SKYRIZI_PM_EN.pdf?1556143608,DB14762
+F4724,Supplementary Appendix for Phase 1 trial of an RNA interference therapy for acute intermittent porphyria,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/724/original/supplement_to_30726693.pdf?1574362854,DB15066
+F4727,Study Protocol for Phase 1 trial of an RNA interference therapy for acute intermittent porphyria,//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/727/original/protocol_for_phase_1_trial.pdf?1574375964,DB15066

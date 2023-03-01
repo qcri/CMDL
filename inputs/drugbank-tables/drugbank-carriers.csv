@@ -1,0 +1,806 @@
+id,name,organism,known_action,position,parent_key
+BE0000537,Thyroxine-binding globulin,Humans,no,1,DB00023
+BE0000537,Thyroxine-binding globulin,Humans,no,1,DB00059
+BE0000530,Serum albumin,Humans,unknown,5,DB00070
+BE0000530,Serum albumin,Humans,unknown,4,DB00104
+BE0000530,Serum albumin,Humans,unknown,30,DB00126
+BE0001821,"Fatty acid-binding protein, brain",Humans,unknown,,DB00132
+BE0001141,Vitamin D-binding protein,Humans,no,2,DB00136
+BE0000530,Serum albumin,Humans,unknown,,DB00137
+BE0000530,Serum albumin,Humans,unknown,10,DB00152
+BE0001141,Vitamin D-binding protein,Humans,no,1,DB00153
+BE0001821,"Fatty acid-binding protein, brain",Humans,unknown,,DB00154
+BE0001821,"Fatty acid-binding protein, brain",Humans,yes,5,DB00159
+BE0000530,Serum albumin,Humans,unknown,12,DB00159
+BE0000682,Retinol-binding protein 5,Humans,unknown,,DB00162
+BE0000532,Retinoid-binding protein 7,Humans,unknown,,DB00162
+BE0000314,Retinol-binding protein 4,Humans,unknown,,DB00162
+BE0000505,Retinol-binding protein 2,Humans,unknown,,DB00162
+BE0000530,Serum albumin,Humans,unknown,4,DB00162
+BE0000786,Retinaldehyde-binding protein 1,Humans,unknown,5,DB00162
+BE0000255,Retinol-binding protein 3,Humans,unknown,6,DB00162
+BE0000301,Retinol-binding protein 1,Humans,unknown,7,DB00162
+BE0000643,Alpha-tocopherol transfer protein,Humans,unknown,,DB00163
+BE0000256,SEC14-like protein 2,Humans,unknown,12,DB00163
+BE0000339,SEC14-like protein 3,Humans,unknown,13,DB00163
+BE0009656,Phospholipid transfer protein,Humans,unknown,14,DB00163
+BE0000530,Serum albumin,Humans,unknown,3,DB00165
+BE0001141,Vitamin D-binding protein,Humans,no,2,DB00169
+BE0000209,Corticosteroid-binding globulin,Humans,yes,2,DB00180
+BE0000362,Transcobalamin-2,Humans,unknown,8,DB00200
+BE0000530,Serum albumin,Humans,unknown,3,DB00214
+BE0000530,Serum albumin,Humans,unknown,12,DB00220
+BE0000530,Serum albumin,Humans,no,9,DB00227
+BE0000530,Serum albumin,Humans,unknown,2,DB00228
+BE0000530,Serum albumin,Humans,unknown,12,DB00237
+BE0000530,Serum albumin,Humans,unknown,3,DB00238
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,,DB00240
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,9,DB00243
+BE0000530,Serum albumin,Humans,no,2,DB00245
+BE0000530,Serum albumin,Humans,unknown,24,DB00246
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,26,DB00246
+BE0000530,Serum albumin,Humans,unknown,3,DB00252
+BE0000537,Thyroxine-binding globulin,Humans,no,15,DB00252
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,,DB00253
+BE0000337,Transthyretin,Humans,unknown,,DB00255
+BE0000530,Serum albumin,Humans,no,3,DB00264
+BE0000530,Serum albumin,Humans,unknown,5,DB00266
+BE0000530,Serum albumin,Humans,unknown,11,DB00273
+BE0000530,Serum albumin,Humans,no,2,DB00274
+BE0000530,Serum albumin,Humans,unknown,3,DB00278
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,4,DB00278
+BE0000337,Transthyretin,Humans,unknown,1,DB00279
+BE0000537,Thyroxine-binding globulin,Humans,unknown,2,DB00279
+BE0000530,Serum albumin,Humans,unknown,3,DB00279
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,5,DB00280
+BE0000537,Thyroxine-binding globulin,Humans,no,22,DB00286
+BE0000685,Sex hormone-binding globulin,Humans,no,23,DB00286
+BE0000530,Serum albumin,Humans,no,24,DB00286
+BE0000530,Serum albumin,Humans,no,4,DB00289
+BE0004879,alpha1-acid glycoprotein,Humans,no,5,DB00289
+BE0000710,High affinity immunoglobulin gamma Fc receptor I,Humans,no,6,DB00289
+BE0001057,"Solute carrier family 2, facilitated glucose transporter member 1",Humans,unknown,3,DB00292
+BE0000530,Serum albumin,Humans,no,2,DB00294
+BE0000685,Sex hormone-binding globulin,Humans,no,3,DB00294
+BE0000530,Serum albumin,Humans,no,14,DB00295
+BE0000530,Serum albumin,Humans,no,4,DB00304
+BE0000685,Sex hormone-binding globulin,Humans,no,5,DB00304
+BE0000530,Serum albumin,Humans,no,1,DB00310
+BE0000530,Serum albumin,Humans,unknown,25,DB00313
+BE0000530,Serum albumin,Humans,unknown,14,DB00316
+BE0000530,Serum albumin,Humans,unknown,7,DB00317
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,8,DB00317
+BE0000530,Serum albumin,Humans,no,15,DB00321
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,16,DB00321
+BE0000537,Thyroxine-binding globulin,Humans,no,3,DB00322
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,,DB00324
+BE0000530,Serum albumin,Humans,no,6,DB00327
+BE0000530,Serum albumin,Humans,unknown,8,DB00328
+BE0000530,Serum albumin,Humans,no,4,DB00332
+BE0004879,alpha1-acid glycoprotein,Humans,no,5,DB00332
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,11,DB00333
+BE0000530,Serum albumin,Humans,no,12,DB00333
+BE0000530,Serum albumin,Humans,no,15,DB00334
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,16,DB00334
+BE0000530,Serum albumin,Humans,no,4,DB00335
+BE0000530,Serum albumin,Humans,no,7,DB00343
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,8,DB00343
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,2,DB00394
+BE0000530,Serum albumin,Humans,unknown,2,DB00404
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,3,DB00404
+BE0000530,Serum albumin,Humans,unknown,7,DB00412
+BE0000530,Serum albumin,Humans,unknown,1,DB00414
+BE0000530,Serum albumin,Humans,no,6,DB00415
+BE0000530,Serum albumin,Humans,unknown,15,DB00421
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,16,DB00421
+BE0000530,Serum albumin,Humans,unknown,2,DB00430
+BE0000530,Serum albumin,Humans,unknown,8,DB00432
+BE0000530,Serum albumin,Humans,unknown,11,DB00443
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,12,DB00443
+BE0000337,Transthyretin,Humans,no,1,DB00451
+BE0000537,Thyroxine-binding globulin,Humans,no,2,DB00451
+BE0000530,Serum albumin,Humans,no,3,DB00451
+BE0000530,Serum albumin,Humans,unknown,6,DB00454
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,7,DB00454
+BE0000530,Serum albumin,Humans,unknown,9,DB00456
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,5,DB00457
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,9,DB00458
+BE0000530,Serum albumin,Humans,unknown,20,DB00458
+BE0000530,Serum albumin,Humans,unknown,,DB00459
+BE0000530,Serum albumin,Humans,unknown,10,DB00461
+BE0000530,Serum albumin,Humans,unknown,11,DB00472
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,11,DB00472
+BE0000530,Serum albumin,Humans,unknown,5,DB00476
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,6,DB00476
+BE0000530,Serum albumin,Humans,unknown,4,DB00477
+BE0000530,Serum albumin,Humans,no,9,DB00481
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,10,DB00481
+BE0000530,Serum albumin,Humans,unknown,5,DB00490
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,6,DB00490
+BE0000530,Serum albumin,Humans,no,1,DB00495
+BE0000530,Serum albumin,Humans,unknown,4,DB00497
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,5,DB00497
+BE0000530,Serum albumin,Humans,unknown,6,DB00500
+BE0000530,Serum albumin,Humans,unknown,17,DB00503
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,20,DB00503
+BE0004711,Folate transporter 1,Humans,unknown,3,DB00507
+BE0000530,Serum albumin,Humans,no,1,DB00512
+BE0004879,alpha1-acid glycoprotein,Humans,no,2,DB00512
+BE0009144,Histamine H1 receptor,Mouse,no,3,DB00512
+BE0000530,Serum albumin,Humans,unknown,21,DB00515
+BE0000782,Cellular retinoic acid-binding protein 2,Humans,unknown,7,DB00523
+BE0000508,Cellular retinoic acid-binding protein 1,Humans,unknown,8,DB00523
+BE0000530,Serum albumin,Humans,unknown,9,DB00530
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,10,DB00530
+BE0000537,Thyroxine-binding globulin,Humans,no,8,DB00532
+BE0000530,Serum albumin,Humans,unknown,18,DB00537
+BE0000530,Serum albumin,Humans,no,6,DB00540
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,7,DB00540
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,9,DB00543
+BE0000530,Serum albumin,Humans,no,1,DB00544
+BE0000537,Thyroxine-binding globulin,Humans,no,18,DB00544
+BE0000530,Serum albumin,Humans,unknown,2,DB00554
+BE0000530,Serum albumin,Humans,unknown,19,DB00555
+BE0000530,Serum albumin,Humans,unknown,5,DB00557
+BE0000530,Serum albumin,Humans,no,2,DB00563
+BE0000530,Serum albumin,Humans,no,6,DB00567
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,6,DB00571
+BE0000530,Serum albumin,Humans,unknown,11,DB00571
+BE0000530,Serum albumin,Humans,unknown,1,DB00573
+BE0000530,Serum albumin,Humans,unknown,14,DB00575
+BE0000530,Serum albumin,Humans,unknown,2,DB00576
+BE0000530,Serum albumin,Humans,no,7,DB00584
+BE0000337,Transthyretin,Humans,unknown,3,DB00586
+BE0000530,Serum albumin,Humans,unknown,4,DB00586
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,,DB00588
+BE0001004,Solute carrier organic anion transporter family member 1B1,Humans,no,8,DB00588
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,2,DB00591
+BE0000530,Serum albumin,Humans,unknown,5,DB00595
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,,DB00596
+BE0000530,Serum albumin,Humans,unknown,6,DB00598
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,7,DB00598
+BE0000530,Serum albumin,Humans,unknown,6,DB00603
+BE0000530,Serum albumin,Humans,unknown,7,DB00605
+BE0000530,Serum albumin,Humans,unknown,7,DB00607
+BE0000530,Serum albumin,Humans,unknown,7,DB00608
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,8,DB00608
+BE0000530,Serum albumin,Humans,unknown,15,DB00619
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,16,DB00619
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,2,DB00620
+BE0000530,Serum albumin,Humans,unknown,8,DB00620
+BE0000530,Serum albumin,Humans,no,14,DB00624
+BE0000685,Sex hormone-binding globulin,Humans,no,16,DB00624
+BE0000530,Serum albumin,Humans,unknown,8,DB00625
+BE0000537,Thyroxine-binding globulin,Humans,no,7,DB00627
+BE0000530,Serum albumin,Humans,unknown,4,DB00635
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,6,DB00635
+BE0000537,Thyroxine-binding globulin,Humans,no,4,DB00636
+BE0000685,Sex hormone-binding globulin,Humans,unknown,,DB00648
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,,DB00648
+BE0000537,Thyroxine-binding globulin,Humans,no,5,DB00648
+BE0000530,Serum albumin,Humans,unknown,4,DB00649
+BE0000530,Serum albumin,Humans,no,1,DB00655
+BE0000530,Serum albumin,Humans,unknown,23,DB00661
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,24,DB00661
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,,DB00663
+BE0000530,Serum albumin,Humans,unknown,1,DB00675
+BE0000537,Thyroxine-binding globulin,Humans,no,3,DB00675
+BE0000530,Serum albumin,Humans,unknown,4,DB00677
+BE0000530,Serum albumin,Humans,unknown,9,DB00678
+BE0000530,Serum albumin,Humans,no,1,DB00682
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,2,DB00682
+BE0000530,Serum albumin,Humans,unknown,5,DB00687
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,6,DB00687
+BE0000530,Serum albumin,Humans,no,1,DB00695
+BE0000537,Thyroxine-binding globulin,Humans,no,11,DB00695
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,4,DB00706
+BE0000530,Serum albumin,Humans,unknown,19,DB00709
+BE0000530,Serum albumin,Humans,no,3,DB00712
+BE0000530,Serum albumin,Humans,unknown,26,DB00714
+BE0000530,Serum albumin,Humans,unknown,9,DB00717
+BE0000685,Sex hormone-binding globulin,Humans,unknown,12,DB00717
+BE0000530,Serum albumin,Humans,unknown,10,DB00731
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,11,DB00731
+BE0000530,Serum albumin,Humans,unknown,1,DB00734
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,1,DB00734
+BE0000530,Serum albumin,Humans,no,3,DB00737
+BE0000685,Sex hormone-binding globulin,Humans,unknown,2,DB00741
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,6,DB00741
+BE0000530,Serum albumin,Humans,unknown,,DB00743
+BE0000530,Serum albumin,Humans,unknown,3,DB00744
+BE0000530,Serum albumin,Humans,unknown,4,DB00749
+BE0000530,Serum albumin,Humans,unknown,1,DB00753
+BE0000537,Thyroxine-binding globulin,Humans,no,2,DB00754
+BE0000530,Serum albumin,Humans,unknown,15,DB00755
+BE0000530,Serum albumin,Humans,no,1,DB00759
+BE0000530,Serum albumin,Humans,unknown,14,DB00762
+BE0000530,Serum albumin,Humans,no,9,DB00768
+BE0000530,Serum albumin,Humans,unknown,9,DB00774
+BE0000530,Serum albumin,Humans,unknown,7,DB00776
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB00783
+BE0000530,Serum albumin,Humans,no,5,DB00783
+BE0003591,"Fatty acid-binding protein, intestinal",Humans,no,6,DB00783
+BE0000530,Serum albumin,Humans,unknown,2,DB00784
+BE0000530,Serum albumin,Humans,unknown,16,DB00787
+BE0000530,Serum albumin,Humans,no,2,DB00788
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,1,DB00802
+BE0000530,Serum albumin,Humans,unknown,2,DB00802
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,4,DB00808
+BE0000530,Serum albumin,Humans,unknown,5,DB00808
+BE0010007,Erythrocyte,Humans,unknown,6,DB00808
+BE0000530,Serum albumin,Humans,unknown,3,DB00813
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,5,DB00813
+BE0000530,Serum albumin,Humans,unknown,5,DB00814
+BE0000530,Serum albumin,Humans,unknown,,DB00815
+BE0000530,Serum albumin,Humans,no,5,DB00818
+BE0000530,Serum albumin,Humans,no,2,DB00829
+BE0000530,Serum albumin,Humans,unknown,6,DB00842
+BE0000530,Serum albumin,Humans,unknown,5,DB00845
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,2,DB00846
+BE0000530,Serum albumin,Humans,unknown,12,DB00852
+BE0000530,Serum albumin,Humans,unknown,4,DB00857
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,5,DB00857
+BE0000685,Sex hormone-binding globulin,Humans,unknown,,DB00858
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,2,DB00860
+BE0000530,Serum albumin,Humans,unknown,5,DB00860
+BE0000337,Transthyretin,Humans,unknown,3,DB00861
+BE0000530,Serum albumin,Humans,unknown,4,DB00861
+BE0000530,Serum albumin,Humans,unknown,3,DB00864
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,4,DB00864
+BE0000530,Serum albumin,Humans,unknown,6,DB00870
+BE0000530,Serum albumin,Humans,unknown,2,DB00878
+BE0000530,Serum albumin,Humans,unknown,3,DB00879
+BE0000530,Serum albumin,Humans,unknown,5,DB00881
+BE0000510,Serotransferrin,Humans,unknown,1,DB00893
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,,DB00896
+BE0000530,Serum albumin,Humans,unknown,5,DB00900
+BE0000530,Serum albumin,Humans,unknown,1,DB00903
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,10,DB00907
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,,DB00908
+BE0000530,Serum albumin,Humans,unknown,3,DB00912
+BE0000530,Serum albumin,Humans,unknown,11,DB00924
+BE0000508,Cellular retinoic acid-binding protein 1,Humans,unknown,,DB00926
+BE0000530,Serum albumin,Humans,no,2,DB00931
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,8,DB00934
+BE0000530,Serum albumin,Humans,no,3,DB00936
+BE0000530,Serum albumin,Humans,unknown,10,DB00938
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,11,DB00938
+BE0000537,Thyroxine-binding globulin,Humans,no,5,DB00939
+BE0000530,Serum albumin,Humans,unknown,6,DB00943
+BE0000530,Serum albumin,Humans,no,1,DB00946
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,2,DB00946
+BE0000530,Serum albumin,Humans,unknown,9,DB00950
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,10,DB00950
+BE0000530,Serum albumin,Humans,unknown,6,DB00951
+BE0000530,Serum albumin,Humans,unknown,9,DB00957
+BE0000685,Sex hormone-binding globulin,Humans,unknown,10,DB00957
+BE0000530,Serum albumin,Humans,unknown,12,DB00959
+BE0000530,Serum albumin,Humans,unknown,16,DB00977
+BE0000685,Sex hormone-binding globulin,Humans,unknown,17,DB00977
+BE0000530,Serum albumin,Humans,unknown,1,DB00982
+BE0000530,Serum albumin,Humans,unknown,16,DB00983
+BE0000530,Serum albumin,Humans,unknown,17,DB00993
+BE0000530,Serum albumin,Humans,unknown,3,DB00995
+BE0000530,Serum albumin,Humans,unknown,26,DB00997
+BE0000530,Serum albumin,Humans,unknown,7,DB00999
+BE0000530,Serum albumin,Humans,unknown,3,DB01006
+BE0000530,Serum albumin,Humans,unknown,4,DB01009
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,6,DB01013
+BE0000530,Serum albumin,Humans,unknown,7,DB01013
+BE0000530,Serum albumin,Humans,no,2,DB01015
+BE0000530,Serum albumin,Humans,unknown,20,DB01016
+BE0000530,Serum albumin,Humans,unknown,27,DB01026
+BE0000685,Sex hormone-binding globulin,Humans,unknown,28,DB01026
+BE0000530,Serum albumin,Humans,unknown,4,DB01029
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,5,DB01029
+BE0000530,Serum albumin,Humans,no,5,DB01032
+BE0000530,Serum albumin,Humans,unknown,12,DB01039
+BE0000530,Serum albumin,Humans,unknown,5,DB01044
+BE0000530,Serum albumin,Humans,unknown,12,DB01045
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,13,DB01045
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,,DB01047
+BE0000530,Serum albumin,Humans,no,3,DB01050
+BE0000530,Serum albumin,Humans,unknown,17,DB01053
+BE0000530,Serum albumin,Humans,no,1,DB01056
+BE0000530,Serum albumin,Humans,unknown,1,DB01057
+BE0000530,Serum albumin,Humans,unknown,5,DB01060
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,6,DB01062
+BE0000530,Serum albumin,Humans,unknown,7,DB01062
+BE0000530,Serum albumin,Humans,no,5,DB01067
+BE0000530,Serum albumin,Humans,no,3,DB01068
+BE0000530,Serum albumin,Humans,unknown,17,DB01069
+BE0000530,Serum albumin,Humans,unknown,3,DB01072
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,9,DB01072
+BE0000530,Serum albumin,Humans,no,18,DB01076
+BE0000337,Transthyretin,Humans,unknown,,DB01093
+BE0000530,Serum albumin,Humans,unknown,9,DB01098
+BE0000530,Serum albumin,Humans,unknown,9,DB01104
+BE0000537,Thyroxine-binding globulin,Humans,no,14,DB01109
+BE0000530,Serum albumin,Humans,unknown,20,DB01110
+BE0000530,Serum albumin,Humans,unknown,13,DB01115
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,14,DB01115
+BE0000530,Serum albumin,Humans,unknown,16,DB01118
+BE0000530,Serum albumin,Humans,unknown,3,DB01120
+BE0000530,Serum albumin,Humans,unknown,7,DB01124
+BE0000530,Serum albumin,Humans,no,3,DB01126
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,4,DB01126
+BE0000530,Serum albumin,Humans,unknown,4,DB01132
+BE0000530,Serum albumin,Humans,unknown,7,DB01133
+BE0000530,Serum albumin,Humans,unknown,24,DB01136
+BE0000530,Serum albumin,Humans,unknown,10,DB01137
+BE0003591,"Fatty acid-binding protein, intestinal",Humans,no,2,DB01138
+BE0000530,Serum albumin,Humans,no,21,DB01142
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,22,DB01142
+BE0000530,Serum albumin,Humans,unknown,3,DB01147
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,10,DB01151
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,4,DB01156
+BE0000530,Serum albumin,Humans,unknown,16,DB01159
+BE0000530,Serum albumin,Humans,no,13,DB01169
+BE0000530,Serum albumin,Humans,unknown,7,DB01183
+BE0000685,Sex hormone-binding globulin,Humans,unknown,4,DB01185
+BE0000530,Serum albumin,Humans,unknown,1,DB01189
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,2,DB01190
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,6,DB01195
+BE0000530,Serum albumin,Humans,unknown,6,DB01195
+BE0000530,Serum albumin,Humans,no,4,DB01197
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,8,DB01203
+BE0000530,Serum albumin,Humans,no,2,DB01212
+BE0000537,Thyroxine-binding globulin,Humans,no,1,DB01219
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,12,DB01222
+BE0000530,Serum albumin,Humans,unknown,15,DB01222
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,4,DB01232
+BE0000530,Serum albumin,Humans,unknown,5,DB01232
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,6,DB01233
+BE0000530,Serum albumin,Humans,unknown,18,DB01234
+BE0000530,Serum albumin,Humans,unknown,8,DB01235
+BE0000530,Serum albumin,Humans,unknown,1,DB01236
+BE0000530,Serum albumin,Humans,unknown,25,DB01238
+BE0000530,Serum albumin,Humans,unknown,12,DB01241
+BE0000530,Serum albumin,Humans,unknown,7,DB01242
+BE0000530,Serum albumin,Humans,unknown,3,DB01264
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,4,DB01264
+BE0000530,Serum albumin,Humans,unknown,2,DB01275
+BE0000530,Serum albumin,Humans,unknown,1,DB01276
+BE0000970,Insulin-like growth factor-binding protein 3,Humans,unknown,5,DB01277
+BE0009058,Insulin-like growth factor-binding protein complex acid labile subunit,Humans,unknown,6,DB01277
+BE0009658,Insulin-like growth factor-binding protein 1,Humans,unknown,7,DB01277
+BE0009659,Insulin-like growth factor-binding protein 2,Humans,unknown,8,DB01277
+BE0009660,Insulin-like growth factor-binding protein 4,Humans,unknown,9,DB01277
+BE0009661,Insulin-like growth factor-binding protein 5,Humans,unknown,10,DB01277
+BE0009662,Insulin-like growth factor-binding protein 6,Humans,unknown,11,DB01277
+BE0000530,Serum albumin,Humans,unknown,1,DB01294
+BE0000510,Serotransferrin,Humans,unknown,2,DB01294
+BE0000530,Serum albumin,Humans,no,2,DB01307
+BE0000530,Serum albumin,Humans,no,1,DB01320
+BE0000537,Thyroxine-binding globulin,Humans,no,5,DB01320
+BE0000530,Serum albumin,Humans,unknown,3,DB01324
+BE0000530,Serum albumin,Humans,unknown,7,DB01327
+BE0000530,Serum albumin,Humans,no,6,DB01328
+BE0000530,Serum albumin,Humans,no,10,DB01329
+BE0000530,Serum albumin,Humans,no,1,DB01330
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,3,DB01359
+BE0000530,Serum albumin,Humans,unknown,4,DB01364
+BE0000530,Serum albumin,Humans,unknown,1,DB01370
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,,DB01384
+BE0000530,Serum albumin,Humans,unknown,5,DB01394
+BE0000530,Serum albumin,Humans,no,,DB01396
+BE0000530,Serum albumin,Humans,no,3,DB01397
+BE0000685,Sex hormone-binding globulin,Humans,yes,6,DB01406
+BE0000209,Corticosteroid-binding globulin,Humans,yes,2,DB01410
+BE0000530,Serum albumin,Humans,no,1,DB01418
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,2,DB01418
+BE0000685,Sex hormone-binding globulin,Humans,no,7,DB01420
+BE0000530,Serum albumin,Humans,no,8,DB01420
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,1,DB01426
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,2,DB01429
+BE0001141,Vitamin D-binding protein,Humans,unknown,1,DB01436
+BE0000537,Thyroxine-binding globulin,Humans,no,4,DB01452
+BE0000530,Serum albumin,Humans,unknown,2,DB01581
+BE0000530,Serum albumin,Humans,unknown,2,DB01582
+BE0000337,Transthyretin,Humans,unknown,15,DB01583
+BE0000537,Thyroxine-binding globulin,Humans,unknown,16,DB01583
+BE0000530,Serum albumin,Humans,unknown,17,DB01583
+BE0000530,Serum albumin,Humans,unknown,3,DB01587
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,4,DB01591
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,11,DB01601
+BE0000530,Serum albumin,Humans,unknown,12,DB01601
+BE0000530,Serum albumin,Humans,unknown,6,DB01611
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,7,DB01611
+BE0000530,Serum albumin,Humans,unknown,7,DB01614
+BE0000530,Serum albumin,Humans,unknown,6,DB01621
+BE0000530,Serum albumin,Humans,unknown,7,DB01622
+BE0000530,Serum albumin,Humans,unknown,6,DB01623
+BE0000537,Thyroxine-binding globulin,Humans,no,2,DB01629
+BE0000337,Transthyretin,Humans,unknown,8,DB01645
+BE0000530,Serum albumin,Humans,unknown,3,DB01685
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,4,DB01685
+BE0000337,Transthyretin,Humans,unknown,,DB01751
+BE0000337,Transthyretin,Humans,unknown,1,DB01838
+BE0000530,Serum albumin,Humans,unknown,17,DB01914
+BE0003998,"Fatty acid-binding protein, liver",Humans,unknown,,DB02074
+BE0000643,Alpha-tocopherol transfer protein,Humans,unknown,,DB02080
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,,DB02153
+BE0000337,Transthyretin,Humans,unknown,,DB02179
+BE0003998,"Fatty acid-binding protein, liver",Humans,unknown,,DB02216
+BE0000337,Transthyretin,Humans,unknown,3,DB02266
+BE0000685,Sex hormone-binding globulin,Humans,unknown,,DB02342
+BE0000337,Transthyretin,Humans,unknown,,DB02417
+BE0003998,"Fatty acid-binding protein, liver",Humans,unknown,32,DB02659
+BE0000337,Transthyretin,Humans,unknown,,DB02698
+BE0000337,Transthyretin,Humans,unknown,27,DB02709
+BE0000530,Serum albumin,Humans,unknown,28,DB02709
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,,DB02776
+BE0000685,Sex hormone-binding globulin,Humans,unknown,,DB02901
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,,DB03009
+BE0000530,Serum albumin,Humans,unknown,,DB03017
+BE0000337,Transthyretin,Humans,unknown,,DB03167
+BE0001201,"Fatty acid-binding protein, heart",Humans,unknown,,DB03193
+BE0000530,Serum albumin,Humans,unknown,,DB03193
+BE0000337,Transthyretin,Humans,unknown,,DB03239
+BE0000337,Transthyretin,Humans,unknown,1,DB03346
+BE0000530,Serum albumin,Humans,unknown,1,DB03585
+BE0000530,Serum albumin,Humans,no,,DB03600
+BE0000337,Transthyretin,Humans,unknown,,DB03682
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,,DB03766
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,,DB03796
+BE0001984,"Fatty acid-binding protein, epidermal",Humans,unknown,,DB03796
+BE0001201,"Fatty acid-binding protein, heart",Humans,unknown,,DB03796
+BE0003591,"Fatty acid-binding protein, intestinal",Humans,unknown,,DB03796
+BE0000530,Serum albumin,Humans,unknown,,DB03796
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,,DB03851
+BE0000685,Sex hormone-binding globulin,Humans,unknown,,DB03882
+BE0000314,Retinol-binding protein 4,Humans,unknown,,DB03917
+BE0000685,Sex hormone-binding globulin,Humans,unknown,,DB03926
+BE0000530,Serum albumin,Humans,unknown,21,DB04216
+BE0001821,"Fatty acid-binding protein, brain",Humans,unknown,,DB04224
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,,DB04224
+BE0001201,"Fatty acid-binding protein, heart",Humans,unknown,,DB04224
+BE0003998,"Fatty acid-binding protein, liver",Humans,unknown,,DB04224
+BE0000530,Serum albumin,Humans,unknown,,DB04224
+BE0001141,Vitamin D-binding protein,Humans,unknown,,DB04224
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,,DB04437
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,1,DB04474
+BE0000337,Transthyretin,Humans,unknown,3,DB04474
+BE0000530,Serum albumin,Humans,unknown,2,DB04539
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,,DB04557
+BE0000530,Serum albumin,Humans,no,,DB04557
+BE0003591,"Fatty acid-binding protein, intestinal",Humans,no,1,DB04557
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB04574
+BE0000530,Serum albumin,Humans,unknown,4,DB04574
+BE0000337,Transthyretin,Humans,unknown,3,DB04674
+BE0000530,Serum albumin,Humans,unknown,3,DB04690
+BE0000530,Serum albumin,Humans,unknown,,DB04711
+BE0000337,Transthyretin,Humans,unknown,,DB04756
+BE0000530,Serum albumin,Humans,unknown,1,DB04816
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,3,DB04821
+BE0000530,Serum albumin,Humans,unknown,3,DB04828
+BE0000530,Serum albumin,Humans,no,24,DB04855
+BE0000530,Serum albumin,Humans,unknown,3,DB04861
+BE0000530,Serum albumin,Humans,unknown,5,DB04911
+BE0000508,Cellular retinoic acid-binding protein 1,Humans,unknown,1,DB04942
+BE0000314,Retinol-binding protein 4,Humans,unknown,1,DB05076
+BE0000530,Serum albumin,Humans,unknown,1,DB05134
+BE0000337,Transthyretin,Humans,unknown,,DB05235
+BE0000537,Thyroxine-binding globulin,Humans,unknown,,DB05235
+BE0000510,Serotransferrin,Humans,unknown,1,DB05260
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,9,DB05294
+BE0000530,Serum albumin,Humans,unknown,10,DB05294
+BE0000337,Transthyretin,Humans,unknown,,DB05352
+BE0000530,Serum albumin,Humans,unknown,2,DB05382
+BE0009873,Thyroglobulin,Humans,unknown,3,DB05382
+BE0000530,Serum albumin,Humans,no,4,DB05521
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,5,DB05521
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,,DB05688
+BE0000530,Serum albumin,Humans,unknown,1,DB05812
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,2,DB05812
+BE0000530,Serum albumin,Humans,unknown,9,DB06119
+BE0000530,Serum albumin,Humans,unknown,3,DB06201
+BE0000530,Serum albumin,Humans,unknown,6,DB06209
+BE0000530,Serum albumin,Humans,unknown,23,DB06216
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,24,DB06216
+BE0000530,Serum albumin,Humans,unknown,4,DB06282
+BE0000530,Serum albumin,Humans,no,3,DB06290
+BE0000530,Serum albumin,Humans,unknown,,DB06412
+BE0000685,Sex hormone-binding globulin,Humans,unknown,,DB06412
+BE0000530,Serum albumin,Humans,unknown,2,DB06480
+BE0000530,Serum albumin,Humans,unknown,3,DB06655
+BE0000530,Serum albumin,Humans,unknown,1,DB06705
+BE0000530,Serum albumin,Humans,unknown,6,DB06710
+BE0000685,Sex hormone-binding globulin,Humans,unknown,7,DB06710
+BE0000530,Serum albumin,Humans,unknown,7,DB06716
+BE0004020,Very low-density lipoprotein receptor,Humans,no,3,DB06755
+BE0000301,Retinol-binding protein 1,Humans,no,4,DB06755
+BE0000505,Retinol-binding protein 2,Humans,no,5,DB06755
+BE0000255,Retinol-binding protein 3,Humans,no,6,DB06755
+BE0000314,Retinol-binding protein 4,Humans,no,7,DB06755
+BE0000682,Retinol-binding protein 5,Humans,no,8,DB06755
+BE0000910,Alpha-2-macroglobulin,Humans,unknown,1,DB06796
+BE0000530,Serum albumin,Humans,unknown,2,DB06796
+BE0000337,Transthyretin,Humans,unknown,1,DB06885
+BE0000337,Transthyretin,Humans,unknown,1,DB06907
+BE0000337,Transthyretin,Humans,unknown,1,DB06935
+BE0000314,Retinol-binding protein 4,Humans,unknown,1,DB06985
+BE0000337,Transthyretin,Humans,unknown,1,DB07047
+BE0000337,Transthyretin,Humans,unknown,1,DB07176
+BE0000337,Transthyretin,Humans,unknown,1,DB07201
+BE0000337,Transthyretin,Humans,unknown,1,DB07240
+BE0000337,Transthyretin,Humans,unknown,1,DB07282
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,1,DB07283
+BE0000530,Serum albumin,Humans,unknown,1,DB07402
+BE0000530,Serum albumin,Humans,unknown,1,DB07517
+BE0000530,Serum albumin,Humans,unknown,2,DB07565
+BE0000337,Transthyretin,Humans,unknown,1,DB07693
+BE0000337,Transthyretin,Humans,unknown,1,DB07694
+BE0000337,Transthyretin,Humans,unknown,1,DB07695
+BE0000337,Transthyretin,Humans,unknown,1,DB07753
+BE0000337,Transthyretin,Humans,unknown,1,DB07775
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,1,DB07945
+BE0000337,Transthyretin,Humans,unknown,1,DB07962
+BE0000337,Transthyretin,Humans,unknown,1,DB07963
+BE0000530,Serum albumin,Humans,unknown,1,DB07992
+BE0000337,Transthyretin,Humans,unknown,1,DB08100
+BE0000337,Transthyretin,Humans,unknown,1,DB08101
+BE0000337,Transthyretin,Humans,unknown,1,DB08102
+BE0000337,Transthyretin,Humans,unknown,1,DB08103
+BE0000337,Transthyretin,Humans,unknown,1,DB08104
+BE0000782,Cellular retinoic acid-binding protein 2,Humans,unknown,1,DB08127
+BE0000337,Transthyretin,Humans,unknown,1,DB08205
+BE0000337,Transthyretin,Humans,unknown,1,DB08206
+BE0000337,Transthyretin,Humans,unknown,1,DB08207
+BE0000530,Serum albumin,Humans,unknown,5,DB08231
+BE0003591,"Fatty acid-binding protein, intestinal",Humans,unknown,15,DB08231
+BE0004245,Apolipoprotein M,Humans,unknown,45,DB08231
+BE0000782,Cellular retinoic acid-binding protein 2,Humans,unknown,1,DB08455
+BE0000782,Cellular retinoic acid-binding protein 2,Humans,unknown,1,DB08467
+BE0000530,Serum albumin,Humans,unknown,1,DB08496
+BE0001194,"Fatty acid-binding protein, adipocyte",Humans,unknown,1,DB08607
+BE0000530,Serum albumin,Humans,unknown,1,DB08735
+BE0000530,Serum albumin,Humans,unknown,1,DB08736
+BE0000530,Serum albumin,Humans,no,5,DB08814
+BE0000530,Serum albumin,Humans,unknown,5,DB08816
+BE0000530,Serum albumin,Humans,no,3,DB08820
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,4,DB08820
+BE0000530,Serum albumin,Humans,unknown,8,DB08828
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,9,DB08828
+BE0000530,Serum albumin,Humans,unknown,13,DB08860
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,14,DB08860
+BE0000530,Serum albumin,Humans,no,10,DB08864
+BE0000530,Serum albumin,Humans,no,6,DB08867
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,7,DB08867
+BE0000530,Serum albumin,Humans,unknown,1,DB08881
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,2,DB08881
+BE0000537,Thyroxine-binding globulin,Humans,no,1,DB08886
+BE0000530,Serum albumin,Humans,no,5,DB08893
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,6,DB08893
+BE0000530,Serum albumin,Humans,unknown,2,DB08895
+BE0000530,Serum albumin,Humans,unknown,1,DB08899
+BE0000537,Thyroxine-binding globulin,Humans,no,10,DB08899
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,8,DB08906
+BE0001032,P-glycoprotein 1,Humans,unknown,9,DB08906
+BE0001004,Solute carrier organic anion transporter family member 1B1,Humans,unknown,10,DB08906
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,7,DB08907
+BE0000530,Serum albumin,Humans,unknown,1,DB08931
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,2,DB08931
+BE0000530,Serum albumin,Humans,no,5,DB08932
+BE0000537,Thyroxine-binding globulin,Humans,no,1,DB08984
+BE0000530,Serum albumin,Humans,no,3,DB09053
+BE0004879,alpha1-acid glycoprotein,Humans,no,4,DB09053
+BE0000530,Serum albumin,Humans,no,7,DB09073
+BE0000530,Serum albumin,Humans,unknown,20,DB09079
+BE0000530,Serum albumin,Humans,unknown,1,DB09087
+BE0000530,Serum albumin,Humans,no,2,DB09093
+BE0000530,Serum albumin,Humans,unknown,1,DB09100
+BE0000337,Transthyretin,Humans,unknown,2,DB09100
+BE0000537,Thyroxine-binding globulin,Humans,unknown,3,DB09100
+BE0000530,Serum albumin,Humans,no,1,DB09124
+BE0000685,Sex hormone-binding globulin,Humans,no,3,DB09124
+BE0000209,Corticosteroid-binding globulin,Humans,no,4,DB09124
+BE0000530,Serum albumin,Humans,no,6,DB09130
+BE0000910,Alpha-2-macroglobulin,Humans,no,7,DB09130
+BE0001140,Ceruloplasmin,Humans,no,8,DB09130
+BE0002833,Copper transport protein ATOX1,Humans,no,9,DB09130
+BE0005815,Copper chaperone for superoxide dismutase,Humans,no,12,DB09130
+BE0008686,Cytochrome c oxidase copper chaperone,Humans,no,13,DB09130
+BE0008687,Hephaestin,Humans,no,21,DB09130
+BE0000041,Coagulation factor V,Humans,no,24,DB09130
+BE0000016,Coagulation factor VIII,Humans,no,25,DB09130
+BE0008688,Metallothionein,Humans,no,26,DB09130
+BE0000530,Serum albumin,Humans,no,1,DB09139
+BE0000629,Hemoglobin subunit beta,Humans,unknown,3,DB09140
+BE0000130,Hemoglobin subunit alpha,Humans,unknown,4,DB09140
+BE0001032,P-glycoprotein 1,Humans,no,1,DB09160
+BE0000530,Serum albumin,Humans,no,9,DB09195
+BE0000530,Serum albumin,Humans,no,4,DB09204
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,5,DB09204
+BE0000530,Serum albumin,Humans,no,18,DB09213
+BE0000530,Serum albumin,Humans,no,5,DB09223
+BE0000530,Serum albumin,Humans,no,6,DB09229
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,7,DB09229
+BE0000530,Serum albumin,Humans,unknown,2,DB09236
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,3,DB09236
+BE0000530,Serum albumin,Humans,unknown,8,DB09237
+BE0000530,Serum albumin,Humans,unknown,12,DB09241
+BE0000537,Thyroxine-binding globulin,Humans,no,7,DB09256
+BE0000530,Serum albumin,Humans,no,6,DB09262
+BE0004879,alpha1-acid glycoprotein,Humans,no,7,DB09262
+BE0000499,Low-density lipoprotein receptor,Humans,no,3,DB09270
+BE0004020,Very low-density lipoprotein receptor,Humans,no,4,DB09270
+BE0000530,Serum albumin,Humans,unknown,9,DB09274
+BE0000530,Serum albumin,Humans,no,4,DB09280
+BE0000530,Serum albumin,Humans,no,13,DB09299
+BE0000537,Thyroxine-binding globulin,Humans,no,3,DB09317
+BE0000537,Thyroxine-binding globulin,Humans,unknown,3,DB09318
+BE0001043,von Willebrand factor,Humans,unknown,2,DB09329
+BE0000530,Serum albumin,Humans,no,2,DB09333
+BE0003647,Solute carrier family 22 member 2,Humans,no,2,DB09343
+BE0003657,Multidrug and toxin extrusion protein 1,Humans,no,3,DB09343
+BE0000530,Serum albumin,Humans,no,1,DB09347
+BE0000530,Serum albumin,Humans,no,2,DB09348
+BE0000537,Thyroxine-binding globulin,Humans,no,2,DB09381
+BE0000530,Serum albumin,Humans,unknown,1,DB09383
+BE0000530,Serum albumin,Humans,unknown,2,DB09418
+BE0000229,Sodium/potassium-transporting ATPase subunit gamma,Humans,yes,1,DB09479
+BE0000732,Sodium/potassium-transporting ATPase subunit alpha-1,Humans,yes,2,DB09479
+BE0004994,Sodium/potassium-transporting ATPase subunit beta-1,Humans,yes,3,DB09479
+BE0005018,Sodium/potassium-transporting ATPase subunit beta-2,Humans,yes,4,DB09479
+BE0005026,Sodium/potassium-transporting ATPase subunit beta-3,Humans,yes,5,DB09479
+BE0005031,Sodium/potassium-transporting ATPase subunit alpha-4,Humans,yes,6,DB09479
+BE0005034,Sodium/potassium-transporting ATPase subunit alpha-2,Humans,yes,7,DB09479
+BE0005047,Sodium/potassium-transporting ATPase subunit alpha-3,Humans,yes,8,DB09479
+BE0000530,Serum albumin,Humans,unknown,2,DB09526
+BE0003648,Solute carrier family 22 member 1,Humans,unknown,3,DB09555
+BE0003647,Solute carrier family 22 member 2,Humans,unknown,4,DB09555
+BE0000530,Serum albumin,Humans,unknown,3,DB09564
+BE0000935,Phosphatidylcholine transfer protein,Humans,no,1,DB09568
+BE0001179,Phosphatidylethanolamine-binding protein 1,Humans,no,2,DB09568
+BE0008690,Calbindin,Humans,no,2,DB11093
+BE0004083,Protein S100-G,Humans,no,3,DB11093
+BE0000530,Serum albumin,Humans,no,30,DB11093
+BE0000537,Thyroxine-binding globulin,Humans,no,1,DB11100
+BE0000530,Serum albumin,Humans,no,4,DB11130
+BE0003777,Beta-2-microglobulin,Humans,no,5,DB11130
+BE0000530,Serum albumin,Humans,unknown,1,DB11134
+BE0001140,Ceruloplasmin,Humans,unknown,2,DB11134
+BE0000510,Serotransferrin,Humans,unknown,1,DB11136
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,3,DB11148
+BE0000530,Serum albumin,Humans,no,4,DB11148
+BE0000530,Serum albumin,Humans,unknown,1,DB11182
+BE0000994,Lactotransferrin,Humans,unknown,2,DB11182
+BE0000510,Serotransferrin,Humans,unknown,3,DB11182
+BE0000530,Serum albumin,Humans,unknown,1,DB11217
+BE0009358,Alpha-fetoprotein,Rat,unknown,2,DB11221
+BE0004020,Very low-density lipoprotein receptor,Humans,no,4,DB11251
+BE0000499,Low-density lipoprotein receptor,Humans,no,5,DB11251
+BE0008690,Calbindin,Humans,no,7,DB11348
+BE0004083,Protein S100-G,Humans,no,8,DB11348
+BE0000530,Serum albumin,Humans,no,35,DB11348
+BE0000530,Serum albumin,Humans,unknown,1,DB11397
+BE0000530,Serum albumin,Humans,no,6,DB11575
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,7,DB11575
+BE0000530,Serum albumin,Humans,unknown,1,DB11590
+BE0000530,Serum albumin,Humans,unknown,3,DB11637
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,4,DB11637
+BE0000530,Serum albumin,Humans,no,3,DB11641
+BE0004879,alpha1-acid glycoprotein,Humans,no,4,DB11641
+BE0000530,Serum albumin,Humans,no,8,DB11642
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,no,9,DB11642
+BE0000530,Serum albumin,Humans,unknown,12,DB11689
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,13,DB11689
+BE0000530,Serum albumin,Humans,unknown,5,DB11703
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,6,DB11703
+BE0000530,Serum albumin,Humans,no,11,DB11753
+BE0000530,Serum albumin,Humans,unknown,14,DB11757
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,15,DB11757
+BE0000530,Serum albumin,Humans,no,6,DB11827
+BE0000530,Serum albumin,Humans,no,5,DB11828
+BE0004879,alpha1-acid glycoprotein,Humans,no,6,DB11828
+BE0000530,Serum albumin,Humans,no,3,DB11855
+BE0000530,Serum albumin,Humans,no,11,DB11943
+BE0000530,Serum albumin,Humans,no,2,DB11963
+BE0000530,Serum albumin,Humans,no,5,DB11978
+BE0000530,Serum albumin,Humans,unknown,8,DB12001
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,9,DB12001
+BE0000530,Serum albumin,Humans,no,1,DB12141
+BE0000537,Thyroxine-binding globulin,Humans,no,1,DB12425
+BE0000530,Serum albumin,Humans,unknown,8,DB12455
+BE0000530,Serum albumin,Humans,unknown,5,DB12466
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,6,DB12466
+BE0000530,Serum albumin,Humans,unknown,10,DB12483
+BE0000530,Serum albumin,Humans,unknown,3,DB12674
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,4,DB12674
+BE0000530,Serum albumin,Humans,no,3,DB12836
+BE0000530,Serum albumin,Humans,unknown,6,DB12941
+BE0000530,Serum albumin,Humans,unknown,12,DB12978
+BE0000925,Alpha-1-acid glycoprotein 1,Humans,unknown,13,DB12978
+BE0000530,Serum albumin,Humans,unknown,1,DB13014
+BE0000537,Thyroxine-binding globulin,Humans,no,1,DB13396
+BE0000530,Serum albumin,Humans,no,1,DB13421
+BE0000438,Aldo-keto reductase family 1 member C4,Humans,no,2,DB13751
+BE0000592,Aldo-keto reductase family 1 member C3,Humans,no,3,DB13751
+BE0000622,Aldo-keto reductase family 1 member C2,Humans,no,4,DB13751
+BE0000530,Serum albumin,Humans,yes,9,DB13751
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,5,DB13867
+BE0001032,P-glycoprotein 1,Humans,no,6,DB13867
+BE0001004,Solute carrier organic anion transporter family member 1B1,Humans,no,7,DB13867
+BE0000530,Serum albumin,Humans,unknown,1,DB13909
+BE0000530,Serum albumin,Humans,no,1,DB13928
+BE0000530,Serum albumin,Humans,no,5,DB13943
+BE0000685,Sex hormone-binding globulin,Humans,no,6,DB13943
+BE0000530,Serum albumin,Humans,no,5,DB13944
+BE0000685,Sex hormone-binding globulin,Humans,no,6,DB13944
+BE0000530,Serum albumin,Humans,no,5,DB13946
+BE0000685,Sex hormone-binding globulin,Humans,no,6,DB13946
+BE0000510,Serotransferrin,Humans,unknown,1,DB13949
+BE0001155,Integrin beta-3,Humans,unknown,3,DB13949
+BE0002109,Calreticulin,Humans,unknown,4,DB13949
+BE0000685,Sex hormone-binding globulin,Humans,unknown,1,DB13951
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB13952
+BE0000530,Serum albumin,Humans,no,7,DB13952
+BE0003591,"Fatty acid-binding protein, intestinal",Humans,no,8,DB13952
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB13953
+BE0000530,Serum albumin,Humans,no,7,DB13953
+BE0003591,"Fatty acid-binding protein, intestinal",Humans,no,8,DB13953
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB13954
+BE0000530,Serum albumin,Humans,no,7,DB13954
+BE0003591,"Fatty acid-binding protein, intestinal",Humans,no,8,DB13954
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB13955
+BE0000530,Serum albumin,Humans,no,7,DB13955
+BE0003591,"Fatty acid-binding protein, intestinal",Humans,no,8,DB13955
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB13956
+BE0000530,Serum albumin,Humans,no,7,DB13956
+BE0003591,"Fatty acid-binding protein, intestinal",Humans,no,8,DB13956
+BE0000643,Alpha-tocopherol transfer protein,Humans,unknown,8,DB14001
+BE0000643,Alpha-tocopherol transfer protein,Humans,unknown,7,DB14002
+BE0004020,Very low-density lipoprotein receptor,Humans,no,11,DB14003
+BE0000499,Low-density lipoprotein receptor,Humans,no,12,DB14003
+BE0000952,Alpha-1-antitrypsin,Humans,no,2,DB14007
+BE0000530,Serum albumin,Humans,no,13,DB14126
+BE0000530,Serum albumin,Humans,unknown,30,DB14185
+BE0008690,Calbindin,Humans,no,1,DB14481
+BE0004083,Protein S100-G,Humans,no,2,DB14481
+BE0000530,Serum albumin,Humans,no,3,DB14481
+BE0000530,Serum albumin,Humans,unknown,1,DB14513
+BE0000530,Serum albumin,Humans,unknown,3,DB14517
+BE0000530,Serum albumin,Humans,unknown,3,DB14518
+BE0000510,Serotransferrin,Humans,unknown,1,DB14520
+BE0001155,Integrin beta-3,Humans,unknown,3,DB14520
+BE0002109,Calreticulin,Humans,unknown,4,DB14520
+BE0000510,Serotransferrin,Humans,unknown,1,DB14526
+BE0000510,Serotransferrin,Humans,unknown,1,DB14527
+BE0000510,Serotransferrin,Humans,unknown,1,DB14528
+BE0000510,Serotransferrin,Humans,unknown,1,DB14529
+BE0000510,Serotransferrin,Humans,unknown,1,DB14530
+BE0000530,Serum albumin,Humans,unknown,120,DB14533
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB14538
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,11,DB14538
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB14539
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,13,DB14539
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB14540
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,13,DB14540
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB14541
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,11,DB14541
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB14542
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,11,DB14542
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB14543
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,13,DB14543
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB14544
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,13,DB14544
+BE0000530,Serum albumin,Humans,unknown,97,DB14548
+BE0000530,Serum albumin,Humans,unknown,2,DB14582
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,3,DB14582
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,17,DB14631
+BE0000530,Serum albumin,Humans,unknown,18,DB14631
+BE0000530,Serum albumin,Humans,unknown,24,DB14649
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,5,DB14669
+BE0000530,Serum albumin,Humans,unknown,6,DB14669
+BE0001043,von Willebrand factor,Humans,yes,6,DB14738
+BE0000530,Serum albumin,Humans,unknown,10,DB14840
+BE0004879,alpha1-acid glycoprotein,Humans,unknown,11,DB14840
+BE0000530,Serum albumin,Humans,no,7,DB14879
+BE0000530,Serum albumin,Humans,unknown,3,DB14999
+BE0000530,Serum albumin,Humans,unknown,4,DB15444
+BE0000530,Serum albumin,Humans,unknown,3,DB15534
+BE0000209,Corticosteroid-binding globulin,Humans,unknown,1,DB15566
+BE0000530,Serum albumin,Humans,unknown,6,DB15566
+BE0000685,Sex hormone-binding globulin,Humans,unknown,3,DB15690
+BE0000530,Serum albumin,Humans,unknown,4,DB15690

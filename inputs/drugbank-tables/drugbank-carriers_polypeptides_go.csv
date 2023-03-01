@@ -1,0 +1,1833 @@
+category,description,parent_key
+component,extracellular exosome,BE0000537
+component,extracellular region,BE0000537
+component,extracellular space,BE0000537
+function,hormone binding,BE0000537
+function,serine-type endopeptidase inhibitor activity,BE0000537
+process,aging,BE0000537
+process,negative regulation of endopeptidase activity,BE0000537
+process,post-embryonic development,BE0000537
+process,response to corticosterone,BE0000537
+process,response to drug,BE0000537
+process,response to peptide hormone,BE0000537
+process,response to prostaglandin E,BE0000537
+process,response to vitamin A,BE0000537
+process,thyroid hormone transport,BE0000537
+component,blood microparticle,BE0000530
+component,endoplasmic reticulum,BE0000530
+component,extracellular exosome,BE0000530
+component,extracellular region,BE0000530
+component,extracellular space,BE0000530
+component,Golgi apparatus,BE0000530
+component,myelin sheath,BE0000530
+component,nucleus,BE0000530
+component,platelet alpha granule lumen,BE0000530
+component,protein complex,BE0000530
+function,antioxidant activity,BE0000530
+function,chaperone binding,BE0000530
+function,copper ion binding,BE0000530
+function,DNA binding,BE0000530
+function,drug binding,BE0000530
+function,fatty acid binding,BE0000530
+function,pyridoxal phosphate binding,BE0000530
+function,toxic substance binding,BE0000530
+process,bile acid and bile salt transport,BE0000530
+process,bile acid metabolic process,BE0000530
+process,blood coagulation,BE0000530
+process,cellular response to starvation,BE0000530
+process,hemolysis by symbiont of host erythrocytes,BE0000530
+process,lipoprotein metabolic process,BE0000530
+process,maintenance of mitochondrion location,BE0000530
+process,negative regulation of apoptotic process,BE0000530
+process,negative regulation of programmed cell death,BE0000530
+process,platelet activation,BE0000530
+process,platelet degranulation,BE0000530
+process,receptor-mediated endocytosis,BE0000530
+process,retina homeostasis,BE0000530
+process,small molecule metabolic process,BE0000530
+process,sodium-independent organic anion transport,BE0000530
+process,transmembrane transport,BE0000530
+process,transport,BE0000530
+component,cell periphery,BE0001821
+component,cell projection,BE0001821
+component,cell-cell junction,BE0001821
+component,cytoplasm,BE0001821
+component,cytosol,BE0001821
+component,neuronal cell body,BE0001821
+component,nucleoplasm,BE0001821
+function,lipid binding,BE0001821
+function,transporter activity,BE0001821
+process,cell proliferation in forebrain,BE0001821
+process,epithelial cell proliferation,BE0001821
+process,negative regulation of cell proliferation,BE0001821
+process,nervous system development,BE0001821
+process,neurogenesis,BE0001821
+process,prepulse inhibition,BE0001821
+process,small molecule metabolic process,BE0001821
+process,triglyceride catabolic process,BE0001821
+component,axon,BE0001141
+component,blood microparticle,BE0001141
+component,cytosol,BE0001141
+component,extracellular exosome,BE0001141
+component,extracellular region,BE0001141
+component,extracellular space,BE0001141
+component,lysosomal lumen,BE0001141
+component,perinuclear region of cytoplasm,BE0001141
+function,actin binding,BE0001141
+function,calcidiol binding,BE0001141
+function,vitamin D binding,BE0001141
+function,vitamin transporter activity,BE0001141
+process,female pregnancy,BE0001141
+process,lactation,BE0001141
+process,response to estradiol,BE0001141
+process,response to nutrient levels,BE0001141
+process,small molecule metabolic process,BE0001141
+process,steroid metabolic process,BE0001141
+process,vitamin D metabolic process,BE0001141
+process,vitamin transport,BE0001141
+component,cytoplasm,BE0000682
+component,extracellular exosome,BE0000682
+function,retinal binding,BE0000682
+function,retinoid binding,BE0000682
+function,retinol binding,BE0000682
+function,transporter activity,BE0000682
+component,cytoplasm,BE0000532
+function,retinal binding,BE0000532
+function,retinol binding,BE0000532
+function,transporter activity,BE0000532
+component,cytosol,BE0000314
+component,extracellular exosome,BE0000314
+component,extracellular region,BE0000314
+component,extracellular space,BE0000314
+component,protein complex,BE0000314
+function,retinal binding,BE0000314
+function,retinol binding,BE0000314
+function,retinol transporter activity,BE0000314
+process,cardiac muscle tissue development,BE0000314
+process,embryonic organ morphogenesis,BE0000314
+process,embryonic retina morphogenesis in camera-type eye,BE0000314
+process,embryonic skeletal system development,BE0000314
+process,eye development,BE0000314
+process,female genitalia morphogenesis,BE0000314
+process,gluconeogenesis,BE0000314
+process,glucose homeostasis,BE0000314
+process,heart development,BE0000314
+process,heart trabecula formation,BE0000314
+process,lung development,BE0000314
+process,maintenance of gastrointestinal epithelium,BE0000314
+process,negative regulation of cardiac muscle cell proliferation,BE0000314
+process,"phototransduction, visible light",BE0000314
+process,positive regulation of immunoglobulin secretion,BE0000314
+process,positive regulation of insulin secretion,BE0000314
+process,response to ethanol,BE0000314
+process,response to retinoic acid,BE0000314
+process,retinoid metabolic process,BE0000314
+process,retinol metabolic process,BE0000314
+process,retinol transport,BE0000314
+process,urinary bladder development,BE0000314
+process,uterus development,BE0000314
+process,vagina development,BE0000314
+process,visual perception,BE0000314
+component,cytosol,BE0000505
+function,retinal binding,BE0000505
+function,retinoid binding,BE0000505
+function,retinol binding,BE0000505
+function,transporter activity,BE0000505
+process,epidermis development,BE0000505
+process,"phototransduction, visible light",BE0000505
+process,retinoid metabolic process,BE0000505
+process,vitamin A metabolic process,BE0000505
+component,cell body,BE0000786
+component,cytosol,BE0000786
+function,11-cis retinal binding,BE0000786
+function,retinol binding,BE0000786
+function,transporter activity,BE0000786
+process,"phototransduction, visible light",BE0000786
+process,retinoid metabolic process,BE0000786
+process,visual perception,BE0000786
+process,vitamin A metabolic process,BE0000786
+component,extracellular region,BE0000255
+component,extracellular space,BE0000255
+component,extracellular vesicle,BE0000255
+component,interphotoreceptor matrix,BE0000255
+function,retinal binding,BE0000255
+function,retinoid binding,BE0000255
+function,retinol binding,BE0000255
+function,serine-type peptidase activity,BE0000255
+process,lipid metabolic process,BE0000255
+process,"phototransduction, visible light",BE0000255
+process,retinoid metabolic process,BE0000255
+process,transport,BE0000255
+process,visual perception,BE0000255
+component,cytoplasm,BE0000301
+component,cytosol,BE0000301
+component,nucleoplasm,BE0000301
+function,retinal binding,BE0000301
+function,retinoid binding,BE0000301
+function,retinol binding,BE0000301
+function,transporter activity,BE0000301
+process,"phototransduction, visible light",BE0000301
+process,retinoic acid biosynthetic process,BE0000301
+process,retinoid metabolic process,BE0000301
+process,vitamin A metabolic process,BE0000301
+component,cytosol,BE0000643
+component,late endosome,BE0000643
+function,"phosphatidylinositol-3,4-bisphosphate binding",BE0000643
+function,"phosphatidylinositol-4,5-bisphosphate binding",BE0000643
+function,transporter activity,BE0000643
+function,vitamin E binding,BE0000643
+process,embryonic placenta development,BE0000643
+process,intermembrane transport,BE0000643
+process,intracellular pH reduction,BE0000643
+process,lipid metabolic process,BE0000643
+process,negative regulation of cell death,BE0000643
+process,negative regulation of establishment of blood-brain barrier,BE0000643
+process,response to nutrient,BE0000643
+process,response to pH,BE0000643
+process,response to toxic substance,BE0000643
+process,transport,BE0000643
+process,vitamin E metabolic process,BE0000643
+process,vitamin transport,BE0000643
+component,cytoplasm,BE0000256
+component,cytosol,BE0000256
+component,extracellular exosome,BE0000256
+component,integral component of membrane,BE0000256
+component,nucleus,BE0000256
+function,enzyme activator activity,BE0000256
+function,phospholipid binding,BE0000256
+function,"transferase activity, transferring alkyl or aryl (other than methyl) groups",BE0000256
+function,transporter activity,BE0000256
+function,vitamin E binding,BE0000256
+process,positive regulation of cholesterol biosynthetic process,BE0000256
+process,"positive regulation of transcription, DNA-templated",BE0000256
+process,regulation of cholesterol biosynthetic process,BE0000256
+process,"transcription, DNA-templated",BE0000256
+component,extracellular exosome,BE0000339
+component,integral component of membrane,BE0000339
+component,intracellular,BE0000339
+function,lipid binding,BE0000339
+function,transporter activity,BE0000339
+component,extracellular region,BE0009656
+component,extracellular space,BE0009656
+component,high-density lipoprotein particle,BE0009656
+function,ceramide binding,BE0009656
+function,ceramide transporter activity,BE0009656
+function,diacylglycerol binding,BE0009656
+function,lipid transporter activity,BE0009656
+function,phosphatidic acid binding,BE0009656
+function,phosphatidic acid transporter activity,BE0009656
+function,phosphatidylcholine binding,BE0009656
+function,phosphatidylcholine transporter activity,BE0009656
+function,phosphatidylethanolamine binding,BE0009656
+function,phosphatidylethanolamine transporter activity,BE0009656
+function,phosphatidylglycerol binding,BE0009656
+function,phospholipid transporter activity,BE0009656
+process,ceramide transport,BE0009656
+process,flagellated sperm motility,BE0009656
+process,high-density lipoprotein particle remodeling,BE0009656
+process,lipid metabolic process,BE0009656
+process,lipid transport,BE0009656
+process,phospholipid transport,BE0009656
+process,positive regulation of cholesterol efflux,BE0009656
+process,vitamin E biosynthetic process,BE0009656
+component,extracellular exosome,BE0000209
+component,extracellular space,BE0000209
+function,serine-type endopeptidase inhibitor activity,BE0000209
+function,steroid binding,BE0000209
+process,glucocorticoid metabolic process,BE0000209
+process,negative regulation of endopeptidase activity,BE0000209
+process,transport,BE0000209
+component,endosome,BE0000362
+component,extracellular exosome,BE0000362
+component,extracellular region,BE0000362
+component,extracellular space,BE0000362
+component,lysosomal lumen,BE0000362
+function,cobalamin binding,BE0000362
+function,metal ion binding,BE0000362
+process,cobalamin metabolic process,BE0000362
+process,cobalamin transport,BE0000362
+process,cobalt ion transport,BE0000362
+process,small molecule metabolic process,BE0000362
+process,vitamin metabolic process,BE0000362
+process,water-soluble vitamin metabolic process,BE0000362
+component,blood microparticle,BE0000925
+component,extracellular exosome,BE0000925
+component,extracellular region,BE0000925
+component,extracellular space,BE0000925
+process,acute-phase response,BE0000925
+process,inflammatory response,BE0000925
+process,negative regulation of interleukin-6 production,BE0000925
+process,negative regulation of tumor necrosis factor production,BE0000925
+process,regulation of immune system process,BE0000925
+process,transport,BE0000925
+component,cytoplasm,BE0000337
+component,extracellular exosome,BE0000337
+component,extracellular region,BE0000337
+component,extracellular space,BE0000337
+component,protein complex,BE0000337
+function,hormone binding,BE0000337
+function,identical protein binding,BE0000337
+process,cellular protein metabolic process,BE0000337
+process,extracellular matrix organization,BE0000337
+process,"phototransduction, visible light",BE0000337
+process,retinoid metabolic process,BE0000337
+process,retinol metabolic process,BE0000337
+process,transport,BE0000337
+component,blood microparticle,BE0004879
+component,extracellular exosome,BE0004879
+component,extracellular region,BE0004879
+component,extracellular space,BE0004879
+process,acute-phase response,BE0004879
+process,inflammatory response,BE0004879
+process,negative regulation of interleukin-6 production,BE0004879
+process,negative regulation of tumor necrosis factor production,BE0004879
+process,regulation of immune system process,BE0004879
+process,transport,BE0004879
+component,extracellular exosome,BE0000685
+component,extracellular region,BE0000685
+function,androgen binding,BE0000685
+process,primary spermatocyte growth,BE0000685
+component,clathrin-coated endocytic vesicle membrane,BE0000710
+component,early endosome membrane,BE0000710
+component,integral component of membrane,BE0000710
+component,plasma membrane,BE0000710
+function,receptor signaling protein activity,BE0000710
+process,antigen processing and presentation of exogenous peptide antigen via MHC class I,BE0000710
+process,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",BE0000710
+process,antigen processing and presentation of peptide antigen via MHC class I,BE0000710
+process,cytokine-mediated signaling pathway,BE0000710
+process,Fc-gamma receptor signaling pathway involved in phagocytosis,BE0000710
+process,immune response,BE0000710
+process,innate immune response,BE0000710
+process,interferon-gamma-mediated signaling pathway,BE0000710
+process,intracellular signal transduction,BE0000710
+process,"phagocytosis, engulfment",BE0000710
+process,regulation of immune response,BE0000710
+process,signal transduction,BE0000710
+component,basolateral plasma membrane,BE0001057
+component,blood microparticle,BE0001057
+component,caveola,BE0001057
+component,cell-cell junction,BE0001057
+component,cortical actin cytoskeleton,BE0001057
+component,cytosol,BE0001057
+component,extracellular exosome,BE0001057
+component,female pronucleus,BE0001057
+component,Golgi membrane,BE0001057
+component,integral component of plasma membrane,BE0001057
+component,melanosome,BE0001057
+component,membrane,BE0001057
+component,midbody,BE0001057
+component,plasma membrane,BE0001057
+function,D-glucose transmembrane transporter activity,BE0001057
+function,dehydroascorbic acid transporter activity,BE0001057
+function,glucose transmembrane transporter activity,BE0001057
+function,identical protein binding,BE0001057
+function,protein self-association,BE0001057
+function,xenobiotic transporter activity,BE0001057
+process,carbohydrate metabolic process,BE0001057
+process,cellular response to glucose starvation,BE0001057
+process,energy reserve metabolic process,BE0001057
+process,glucose transmembrane transport,BE0001057
+process,glucose transport,BE0001057
+process,hexose transport,BE0001057
+process,L-ascorbic acid metabolic process,BE0001057
+process,lactose biosynthetic process,BE0001057
+process,protein complex assembly,BE0001057
+process,regulation of insulin secretion,BE0001057
+process,response to osmotic stress,BE0001057
+process,small molecule metabolic process,BE0001057
+process,transmembrane transport,BE0001057
+process,vitamin metabolic process,BE0001057
+process,water-soluble vitamin metabolic process,BE0001057
+component,apical plasma membrane,BE0004711
+component,basolateral plasma membrane,BE0004711
+component,integral component of plasma membrane,BE0004711
+component,plasma membrane,BE0004711
+function,folic acid binding,BE0004711
+function,folic acid transporter activity,BE0004711
+function,methotrexate transporter activity,BE0004711
+function,reduced folate carrier activity,BE0004711
+process,folic acid metabolic process,BE0004711
+process,folic acid transport,BE0004711
+process,methotrexate transport,BE0004711
+process,reduced folate transmembrane transport,BE0004711
+process,small molecule metabolic process,BE0004711
+process,transmembrane transport,BE0004711
+process,vitamin metabolic process,BE0004711
+process,water-soluble vitamin metabolic process,BE0004711
+component,cytosol,BE0009144
+component,integral component of plasma membrane,BE0009144
+component,plasma membrane,BE0009144
+function,calcium ion transmembrane transporter activity,BE0009144
+function,histamine receptor activity,BE0009144
+process,calcium ion import,BE0009144
+process,cellular response to histamine,BE0009144
+process,eosinophil chemotaxis,BE0009144
+process,G-protein coupled receptor signaling pathway,BE0009144
+process,inflammatory response,BE0009144
+process,manganese ion transmembrane transport,BE0009144
+process,memory,BE0009144
+process,phospholipase C-activating G-protein coupled receptor signaling pathway,BE0009144
+process,positive regulation of vasoconstriction,BE0009144
+process,regulation of synaptic plasticity,BE0009144
+process,regulation of vascular permeability,BE0009144
+process,regulation of vasoconstriction,BE0009144
+process,rhythmic process,BE0009144
+process,visual learning,BE0009144
+component,cytoplasm,BE0000782
+component,cytosol,BE0000782
+component,endoplasmic reticulum,BE0000782
+component,extracellular exosome,BE0000782
+component,nucleoplasm,BE0000782
+function,retinal binding,BE0000782
+function,retinoic acid binding,BE0000782
+function,retinoid binding,BE0000782
+function,retinol binding,BE0000782
+function,transporter activity,BE0000782
+process,embryonic forelimb morphogenesis,BE0000782
+process,epidermis development,BE0000782
+process,positive regulation of collateral sprouting,BE0000782
+process,regulation of retinoic acid receptor signaling pathway,BE0000782
+process,"regulation of transcription, DNA-templated",BE0000782
+process,retinoic acid metabolic process,BE0000782
+process,signal transduction,BE0000782
+component,cytosol,BE0000508
+function,retinal binding,BE0000508
+function,retinoic acid binding,BE0000508
+function,retinoid binding,BE0000508
+function,retinol binding,BE0000508
+function,transporter activity,BE0000508
+process,multicellular organismal development,BE0000508
+process,retinoic acid catabolic process,BE0000508
+process,signal transduction,BE0000508
+component,basolateral plasma membrane,BE0001004
+component,integral component of plasma membrane,BE0001004
+component,membrane,BE0001004
+component,plasma membrane,BE0001004
+function,bile acid transmembrane transporter activity,BE0001004
+function,sodium-independent organic anion transmembrane transporter activity,BE0001004
+process,anion transmembrane transport,BE0001004
+process,bile acid and bile salt transport,BE0001004
+process,bile acid metabolic process,BE0001004
+process,organic anion transport,BE0001004
+process,small molecule metabolic process,BE0001004
+process,sodium-independent organic anion transport,BE0001004
+process,transmembrane transport,BE0001004
+component,cytosol,BE0003591
+function,fatty acid binding,BE0003591
+function,transporter activity,BE0003591
+process,digestion,BE0003591
+process,small molecule metabolic process,BE0003591
+process,triglyceride catabolic process,BE0003591
+component,apical plasma membrane,BE0000510
+component,basal part of cell,BE0000510
+component,basal plasma membrane,BE0000510
+component,blood microparticle,BE0000510
+component,cell surface,BE0000510
+component,coated pit,BE0000510
+component,cytoplasmic membrane-bounded vesicle,BE0000510
+component,early endosome,BE0000510
+component,endocytic vesicle,BE0000510
+component,endosome membrane,BE0000510
+component,extracellular exosome,BE0000510
+component,extracellular region,BE0000510
+component,extracellular space,BE0000510
+component,extrinsic component of external side of plasma membrane,BE0000510
+component,HFE-transferrin receptor complex,BE0000510
+component,late endosome,BE0000510
+component,perinuclear region of cytoplasm,BE0000510
+component,recycling endosome,BE0000510
+component,secretory granule lumen,BE0000510
+component,vesicle,BE0000510
+function,ferric iron binding,BE0000510
+function,ferric iron transmembrane transporter activity,BE0000510
+function,ferrous iron binding,BE0000510
+function,transferrin receptor binding,BE0000510
+process,blood coagulation,BE0000510
+process,cellular iron ion homeostasis,BE0000510
+process,cellular response to iron ion,BE0000510
+process,ferrous iron import into cell,BE0000510
+process,iron ion homeostasis,BE0000510
+process,platelet activation,BE0000510
+process,platelet degranulation,BE0000510
+process,positive regulation of receptor-mediated endocytosis,BE0000510
+process,regulation of protein stability,BE0000510
+process,retina homeostasis,BE0000510
+process,transferrin transport,BE0000510
+process,transmembrane transport,BE0000510
+component,extracellular exosome,BE0000970
+component,extracellular region,BE0000970
+component,extracellular space,BE0000970
+component,insulin-like growth factor binding protein complex,BE0000970
+component,insulin-like growth factor ternary complex,BE0000970
+component,nucleus,BE0000970
+function,fibronectin binding,BE0000970
+function,insulin-like growth factor binding,BE0000970
+function,insulin-like growth factor I binding,BE0000970
+function,insulin-like growth factor II binding,BE0000970
+function,metal ion binding,BE0000970
+function,protein tyrosine phosphatase activator activity,BE0000970
+process,apoptotic process,BE0000970
+process,cellular protein metabolic process,BE0000970
+process,negative regulation of cell proliferation,BE0000970
+process,negative regulation of protein phosphorylation,BE0000970
+process,negative regulation of signal transduction,BE0000970
+process,negative regulation of smooth muscle cell migration,BE0000970
+process,negative regulation of smooth muscle cell proliferation,BE0000970
+process,osteoblast differentiation,BE0000970
+process,positive regulation of apoptotic process,BE0000970
+process,positive regulation of catalytic activity,BE0000970
+process,positive regulation of insulin-like growth factor receptor signaling pathway,BE0000970
+process,positive regulation of MAPK cascade,BE0000970
+process,positive regulation of myoblast differentiation,BE0000970
+process,protein phosphorylation,BE0000970
+process,regulation of cell growth,BE0000970
+process,regulation of glucose metabolic process,BE0000970
+process,regulation of insulin-like growth factor receptor signaling pathway,BE0000970
+process,type B pancreatic cell proliferation,BE0000970
+component,extracellular exosome,BE0009058
+component,extracellular region,BE0009058
+component,extracellular space,BE0009058
+component,insulin-like growth factor ternary complex,BE0009058
+component,nucleoplasm,BE0009058
+function,insulin-like growth factor binding,BE0009058
+process,cell adhesion,BE0009058
+process,cellular protein metabolic process,BE0009058
+process,signal transduction,BE0009058
+component,endoplasmic reticulum lumen,BE0009658
+component,extracellular region,BE0009658
+component,extracellular space,BE0009658
+component,Golgi apparatus,BE0009658
+function,insulin-like growth factor binding,BE0009658
+function,insulin-like growth factor I binding,BE0009658
+function,insulin-like growth factor II binding,BE0009658
+function,signaling receptor binding,BE0009658
+process,aging,BE0009658
+process,cellular protein metabolic process,BE0009658
+process,insulin receptor signaling pathway,BE0009658
+process,negative regulation of canonical Wnt signaling pathway,BE0009658
+process,PERK-mediated unfolded protein response,BE0009658
+process,positive regulation of cell growth,BE0009658
+process,post-translational protein modification,BE0009658
+process,regulation of insulin-like growth factor receptor signaling pathway,BE0009658
+process,signal transduction,BE0009658
+process,tissue regeneration,BE0009658
+component,apical plasma membrane,BE0009659
+component,cytoplasmic vesicle,BE0009659
+component,extracellular exosome,BE0009659
+component,extracellular region,BE0009659
+component,extracellular space,BE0009659
+function,insulin-like growth factor I binding,BE0009659
+function,insulin-like growth factor II binding,BE0009659
+function,signaling receptor binding,BE0009659
+process,aging,BE0009659
+process,cellular protein metabolic process,BE0009659
+process,cellular response to hormone stimulus,BE0009659
+process,female pregnancy,BE0009659
+process,negative regulation of canonical Wnt signaling pathway,BE0009659
+process,positive regulation of activated T cell proliferation,BE0009659
+process,regulation of growth,BE0009659
+process,regulation of insulin-like growth factor receptor signaling pathway,BE0009659
+process,response to drug,BE0009659
+process,response to estradiol,BE0009659
+process,response to estrogen,BE0009659
+process,response to glucocorticoid,BE0009659
+process,response to lithium ion,BE0009659
+process,response to mechanical stimulus,BE0009659
+process,response to nutrient,BE0009659
+process,response to retinoic acid,BE0009659
+process,signal transduction,BE0009659
+component,endoplasmic reticulum lumen,BE0009660
+component,extracellular region,BE0009660
+component,extracellular space,BE0009660
+function,insulin-like growth factor I binding,BE0009660
+function,insulin-like growth factor II binding,BE0009660
+function,signaling receptor binding,BE0009660
+process,cell population proliferation,BE0009660
+process,cellular protein metabolic process,BE0009660
+process,DNA metabolic process,BE0009660
+process,inflammatory response,BE0009660
+process,negative regulation of canonical Wnt signaling pathway,BE0009660
+process,positive regulation of insulin-like growth factor receptor signaling pathway,BE0009660
+process,positive regulation of MAPK cascade,BE0009660
+process,post-translational protein modification,BE0009660
+process,regulation of cell growth,BE0009660
+process,regulation of glucose metabolic process,BE0009660
+process,regulation of insulin-like growth factor receptor signaling pathway,BE0009660
+process,signal transduction,BE0009660
+process,skeletal system development,BE0009660
+process,type B pancreatic cell proliferation,BE0009660
+component,endoplasmic reticulum lumen,BE0009661
+component,extracellular region,BE0009661
+component,extracellular space,BE0009661
+component,insulin-like growth factor binding protein complex,BE0009661
+component,insulin-like growth factor ternary complex,BE0009661
+function,fibronectin binding,BE0009661
+function,insulin-like growth factor I binding,BE0009661
+function,insulin-like growth factor II binding,BE0009661
+process,aging,BE0009661
+process,cellular protein metabolic process,BE0009661
+process,cellular response to cAMP,BE0009661
+process,cellular response to organic cyclic compound,BE0009661
+process,female pregnancy,BE0009661
+process,glucose homeostasis,BE0009661
+process,glucose metabolic process,BE0009661
+process,hair follicle morphogenesis,BE0009661
+process,intracellular signal transduction,BE0009661
+process,lung alveolus development,BE0009661
+process,mammary gland involution,BE0009661
+process,negative regulation of cell migration,BE0009661
+process,negative regulation of growth,BE0009661
+process,negative regulation of insulin-like growth factor receptor signaling pathway,BE0009661
+process,negative regulation of muscle tissue development,BE0009661
+process,negative regulation of osteoblast differentiation,BE0009661
+process,negative regulation of skeletal muscle hypertrophy,BE0009661
+process,negative regulation of smooth muscle cell migration,BE0009661
+process,negative regulation of smooth muscle cell proliferation,BE0009661
+process,negative regulation of translation,BE0009661
+process,osteoblast differentiation,BE0009661
+process,positive regulation of insulin-like growth factor receptor signaling pathway,BE0009661
+process,positive regulation of protein kinase B signaling,BE0009661
+process,positive regulation of vascular associated smooth muscle cell migration,BE0009661
+process,positive regulation of vascular smooth muscle cell proliferation,BE0009661
+process,post-translational protein modification,BE0009661
+process,regulation of cell growth,BE0009661
+process,regulation of glucose metabolic process,BE0009661
+process,regulation of insulin-like growth factor receptor signaling pathway,BE0009661
+process,response to growth hormone,BE0009661
+process,signal transduction,BE0009661
+process,striated muscle cell differentiation,BE0009661
+process,type B pancreatic cell proliferation,BE0009661
+component,extracellular region,BE0009662
+component,extracellular space,BE0009662
+component,Golgi apparatus,BE0009662
+component,insulin-like growth factor binary complex,BE0009662
+function,fibronectin binding,BE0009662
+function,insulin-like growth factor I binding,BE0009662
+function,insulin-like growth factor II binding,BE0009662
+function,signaling receptor binding,BE0009662
+process,cellular protein metabolic process,BE0009662
+process,negative regulation of canonical Wnt signaling pathway,BE0009662
+process,negative regulation of cell population proliferation,BE0009662
+process,regulation of insulin-like growth factor receptor signaling pathway,BE0009662
+process,signal transduction,BE0009662
+component,apical cortex,BE0003998
+component,cytoplasm,BE0003998
+component,cytosol,BE0003998
+component,extracellular exosome,BE0003998
+component,nucleoplasm,BE0003998
+component,peroxisomal matrix,BE0003998
+function,antioxidant activity,BE0003998
+function,bile acid binding,BE0003998
+function,chromatin binding,BE0003998
+function,drug binding,BE0003998
+function,fatty acid binding,BE0003998
+function,long-chain fatty acid transporter activity,BE0003998
+function,phospholipid binding,BE0003998
+process,cellular lipid metabolic process,BE0003998
+process,cellular response to hydrogen peroxide,BE0003998
+process,cellular response to hypoxia,BE0003998
+process,intestinal absorption,BE0003998
+process,mitophagy in response to mitochondrial depolarization,BE0003998
+process,negative regulation of apoptotic process,BE0003998
+process,negative regulation of cysteine-type endopeptidase activity involved in apoptotic process,BE0003998
+process,positive regulation of cell proliferation,BE0003998
+process,positive regulation of defense response to virus by host,BE0003998
+process,positive regulation of fatty acid beta-oxidation,BE0003998
+process,positive regulation of hydrolase activity,BE0003998
+process,small molecule metabolic process,BE0003998
+process,triglyceride catabolic process,BE0003998
+process,xenophagy,BE0003998
+component,cytoplasm,BE0001194
+component,cytosol,BE0001194
+component,extracellular exosome,BE0001194
+component,lipid particle,BE0001194
+component,nucleus,BE0001194
+function,fatty acid binding,BE0001194
+function,transporter activity,BE0001194
+process,brown fat cell differentiation,BE0001194
+process,cellular response to lithium ion,BE0001194
+process,cholesterol homeostasis,BE0001194
+process,cytokine production,BE0001194
+process,negative regulation of protein kinase activity,BE0001194
+process,"negative regulation of transcription, DNA-templated",BE0001194
+process,positive regulation of inflammatory response,BE0001194
+process,small molecule metabolic process,BE0001194
+process,triglyceride catabolic process,BE0001194
+process,white fat cell differentiation,BE0001194
+component,cytosol,BE0001201
+component,extracellular exosome,BE0001201
+component,extracellular space,BE0001201
+component,sarcoplasm,BE0001201
+function,cytoskeletal protein binding,BE0001201
+function,icosatetraenoic acid binding,BE0001201
+function,long-chain fatty acid binding,BE0001201
+function,long-chain fatty acid transporter activity,BE0001201
+function,oleic acid binding,BE0001201
+process,cholesterol homeostasis,BE0001201
+process,fatty acid metabolic process,BE0001201
+process,long-chain fatty acid import,BE0001201
+process,negative regulation of cell proliferation,BE0001201
+process,phospholipid homeostasis,BE0001201
+process,positive regulation of phospholipid biosynthetic process,BE0001201
+process,regulation of fatty acid oxidation,BE0001201
+process,response to drug,BE0001201
+process,response to fatty acid,BE0001201
+process,response to insulin,BE0001201
+process,small molecule metabolic process,BE0001201
+process,triglyceride catabolic process,BE0001201
+component,cytoplasm,BE0001984
+component,cytosol,BE0001984
+component,extracellular exosome,BE0001984
+component,nucleoplasm,BE0001984
+function,fatty acid binding,BE0001984
+function,lipid binding,BE0001984
+function,transporter activity,BE0001984
+process,epidermis development,BE0001984
+process,glucose metabolic process,BE0001984
+process,glucose transport,BE0001984
+process,lipid metabolic process,BE0001984
+process,phosphatidylcholine biosynthetic process,BE0001984
+process,small molecule metabolic process,BE0001984
+process,triglyceride catabolic process,BE0001984
+component,extracellular region,BE0009873
+component,extracellular space,BE0009873
+function,hormone activity,BE0009873
+function,identical protein binding,BE0009873
+process,hormone biosynthetic process,BE0009873
+process,iodide transport,BE0009873
+process,regulation of myelination,BE0009873
+process,signal transduction,BE0009873
+process,thyroid gland development,BE0009873
+process,thyroid hormone generation,BE0009873
+component,apical part of cell,BE0004020
+component,cell surface,BE0004020
+component,coated pit,BE0004020
+component,integral component of membrane,BE0004020
+component,membrane,BE0004020
+component,nucleus,BE0004020
+component,perinuclear region of cytoplasm,BE0004020
+component,plasma membrane,BE0004020
+component,receptor complex,BE0004020
+component,very-low-density lipoprotein particle,BE0004020
+function,apolipoprotein binding,BE0004020
+function,calcium ion binding,BE0004020
+function,calcium-dependent protein binding,BE0004020
+function,glycoprotein binding,BE0004020
+function,glycoprotein transporter activity,BE0004020
+function,low-density lipoprotein receptor activity,BE0004020
+function,reelin receptor activity,BE0004020
+function,very-low-density lipoprotein particle binding,BE0004020
+function,very-low-density lipoprotein particle receptor activity,BE0004020
+process,cellular response to glucose starvation,BE0004020
+process,cellular response to hypoxia,BE0004020
+process,cellular response to insulin stimulus,BE0004020
+process,cellular response to interleukin-1,BE0004020
+process,cellular response to lipopolysaccharide,BE0004020
+process,cerebral cortex development,BE0004020
+process,cholesterol metabolic process,BE0004020
+process,dendrite morphogenesis,BE0004020
+process,glycoprotein transport,BE0004020
+process,heart development,BE0004020
+process,lipid transport,BE0004020
+process,memory,BE0004020
+process,negative regulation of transcription from RNA polymerase II promoter,BE0004020
+process,nervous system development,BE0004020
+process,positive regulation of dendrite development,BE0004020
+process,positive regulation of protein kinase activity,BE0004020
+process,receptor-mediated endocytosis,BE0004020
+process,reelin-mediated signaling pathway,BE0004020
+process,response to drug,BE0004020
+process,response to nutrient,BE0004020
+process,signal transduction,BE0004020
+process,ventral spinal cord development,BE0004020
+process,very-low-density lipoprotein particle clearance,BE0004020
+component,blood microparticle,BE0000910
+component,cytosol,BE0000910
+component,extracellular exosome,BE0000910
+component,extracellular region,BE0000910
+component,platelet alpha granule lumen,BE0000910
+function,calcium-dependent protein binding,BE0000910
+function,enzyme binding,BE0000910
+function,growth factor binding,BE0000910
+function,interleukin-1 binding,BE0000910
+function,interleukin-8 binding,BE0000910
+function,protease binding,BE0000910
+function,receptor binding,BE0000910
+function,serine-type endopeptidase inhibitor activity,BE0000910
+function,tumor necrosis factor binding,BE0000910
+process,blood coagulation,BE0000910
+process,"blood coagulation, intrinsic pathway",BE0000910
+process,extracellular matrix disassembly,BE0000910
+process,extracellular matrix organization,BE0000910
+process,"negative regulation of complement activation, lectin pathway",BE0000910
+process,negative regulation of endopeptidase activity,BE0000910
+process,platelet activation,BE0000910
+process,platelet degranulation,BE0000910
+process,regulation of small GTPase mediated signal transduction,BE0000910
+process,small GTPase mediated signal transduction,BE0000910
+process,stem cell differentiation,BE0000910
+component,discoidal high-density lipoprotein particle,BE0004245
+component,extracellular exosome,BE0004245
+component,extracellular region,BE0004245
+component,high-density lipoprotein particle,BE0004245
+component,integral component of plasma membrane,BE0004245
+component,low-density lipoprotein particle,BE0004245
+component,spherical high-density lipoprotein particle,BE0004245
+component,very-low-density lipoprotein particle,BE0004245
+function,antioxidant activity,BE0004245
+function,lipid transporter activity,BE0004245
+function,phospholipid binding,BE0004245
+process,cholesterol efflux,BE0004245
+process,cholesterol homeostasis,BE0004245
+process,high-density lipoprotein particle assembly,BE0004245
+process,high-density lipoprotein particle clearance,BE0004245
+process,high-density lipoprotein particle remodeling,BE0004245
+process,lipoprotein metabolic process,BE0004245
+process,negative regulation of plasma lipoprotein particle oxidation,BE0004245
+process,"phototransduction, visible light",BE0004245
+process,response to glucose,BE0004245
+process,retinoid metabolic process,BE0004245
+process,reverse cholesterol transport,BE0004245
+component,cell surface,BE0001032
+component,extracellular exosome,BE0001032
+component,integral component of membrane,BE0001032
+component,membrane,BE0001032
+component,plasma membrane,BE0001032
+function,ATP binding,BE0001032
+function,"ATPase activity, coupled to transmembrane movement of substances",BE0001032
+function,transporter activity,BE0001032
+function,xenobiotic-transporting ATPase activity,BE0001032
+process,drug transmembrane transport,BE0001032
+process,G2/M transition of mitotic cell cycle,BE0001032
+process,response to drug,BE0001032
+process,small molecule metabolic process,BE0001032
+process,stem cell proliferation,BE0001032
+process,transmembrane transport,BE0001032
+process,transport,BE0001032
+component,blood microparticle,BE0001140
+component,extracellular exosome,BE0001140
+component,extracellular region,BE0001140
+component,extracellular space,BE0001140
+component,lysosomal membrane,BE0001140
+function,chaperone binding,BE0001140
+function,copper ion binding,BE0001140
+function,ferroxidase activity,BE0001140
+process,cellular iron ion homeostasis,BE0001140
+process,copper ion transport,BE0001140
+process,transmembrane transport,BE0001140
+component,cytosol,BE0002833
+function,copper chaperone activity,BE0002833
+function,copper ion binding,BE0002833
+function,copper ion transmembrane transporter activity,BE0002833
+function,copper-dependent protein binding,BE0002833
+function,metallochaperone activity,BE0002833
+process,cellular copper ion homeostasis,BE0002833
+process,copper ion transport,BE0002833
+process,intracellular copper ion transport,BE0002833
+process,response to oxidative stress,BE0002833
+process,response to reactive oxygen species,BE0002833
+component,cytoplasm,BE0005815
+component,cytosol,BE0005815
+component,nucleus,BE0005815
+function,copper ion binding,BE0005815
+function,protein disulfide oxidoreductase activity,BE0005815
+function,superoxide dismutase activity,BE0005815
+function,superoxide dismutase copper chaperone activity,BE0005815
+function,zinc ion binding,BE0005815
+process,intracellular copper ion transport,BE0005815
+process,positive regulation of oxidoreductase activity,BE0005815
+process,removal of superoxide radicals,BE0005815
+process,response to reactive oxygen species,BE0005815
+process,superoxide metabolic process,BE0005815
+component,cytoplasm,BE0008686
+component,mitochondrial intermembrane space,BE0008686
+function,copper chaperone activity,BE0008686
+function,copper ion binding,BE0008686
+function,cuprous ion binding,BE0008686
+process,brain development,BE0008686
+process,copper ion transport,BE0008686
+process,generation of precursor metabolites and energy,BE0008686
+process,heart development,BE0008686
+process,mitochondrial respiratory chain complex IV assembly,BE0008686
+process,positive regulation of cell proliferation,BE0008686
+process,positive regulation of cytochrome-c oxidase activity,BE0008686
+component,basolateral plasma membrane,BE0008687
+component,integral component of membrane,BE0008687
+component,intracellular,BE0008687
+component,perinuclear region of cytoplasm,BE0008687
+component,plasma membrane,BE0008687
+function,copper ion binding,BE0008687
+function,ferrous iron binding,BE0008687
+function,ferroxidase activity,BE0008687
+process,cellular iron ion homeostasis,BE0008687
+process,copper ion transport,BE0008687
+process,iron ion transport,BE0008687
+component,endoplasmic reticulum lumen,BE0000041
+component,endoplasmic reticulum-Golgi intermediate compartment membrane,BE0000041
+component,ER to Golgi transport vesicle,BE0000041
+component,extracellular region,BE0000041
+component,extracellular space,BE0000041
+component,extracellular vesicle,BE0000041
+component,Golgi membrane,BE0000041
+component,membrane,BE0000041
+component,plasma membrane,BE0000041
+component,platelet alpha granule lumen,BE0000041
+function,copper ion binding,BE0000041
+process,blood circulation,BE0000041
+process,blood coagulation,BE0000041
+process,cellular protein metabolic process,BE0000041
+process,COPII vesicle coating,BE0000041
+process,ER to Golgi vesicle-mediated transport,BE0000041
+process,membrane organization,BE0000041
+process,platelet activation,BE0000041
+process,platelet degranulation,BE0000041
+process,post-translational protein modification,BE0000041
+process,protein N-linked glycosylation via asparagine,BE0000041
+component,endoplasmic reticulum lumen,BE0000016
+component,endoplasmic reticulum-Golgi intermediate compartment membrane,BE0000016
+component,ER to Golgi transport vesicle,BE0000016
+component,extracellular region,BE0000016
+component,extracellular space,BE0000016
+component,Golgi membrane,BE0000016
+component,plasma membrane,BE0000016
+component,platelet alpha granule lumen,BE0000016
+function,copper ion binding,BE0000016
+function,oxidoreductase activity,BE0000016
+process,acute-phase response,BE0000016
+process,blood coagulation,BE0000016
+process,"blood coagulation, intrinsic pathway",BE0000016
+process,cellular protein metabolic process,BE0000016
+process,COPII vesicle coating,BE0000016
+process,ER to Golgi vesicle-mediated transport,BE0000016
+process,membrane organization,BE0000016
+process,platelet activation,BE0000016
+process,platelet degranulation,BE0000016
+process,post-translational protein modification,BE0000016
+process,protein N-linked glycosylation via asparagine,BE0000016
+component,nucleoplasm,BE0008688
+component,nucleus,BE0008688
+function,core promoter binding,BE0008688
+function,DNA binding,BE0008688
+function,DNA binding transcription factor activity,BE0008688
+function,histone acetyltransferase binding,BE0008688
+function,metal ion binding,BE0008688
+function,RNA polymerase II core promoter sequence-specific DNA binding,BE0008688
+function,RNA polymerase II proximal promoter sequence-specific DNA binding,BE0008688
+function,transcription coactivator activity,BE0008688
+function,"transcriptional activator activity, RNA polymerase II proximal promoter sequence-specific DNA binding",BE0008688
+process,positive regulation of transcription from RNA polymerase II promoter,BE0008688
+process,regulation of transcription from RNA polymerase II promoter,BE0008688
+process,response to cadmium ion,BE0008688
+process,response to metal ion,BE0008688
+process,response to oxidative stress,BE0008688
+component,blood microparticle,BE0000629
+component,cytosol,BE0000629
+component,endocytic vesicle lumen,BE0000629
+component,extracellular exosome,BE0000629
+component,extracellular region,BE0000629
+component,haptoglobin-hemoglobin complex,BE0000629
+component,hemoglobin complex,BE0000629
+function,heme binding,BE0000629
+function,hemoglobin binding,BE0000629
+function,iron ion binding,BE0000629
+function,oxygen binding,BE0000629
+function,oxygen transporter activity,BE0000629
+process,bicarbonate transport,BE0000629
+process,blood coagulation,BE0000629
+process,hydrogen peroxide catabolic process,BE0000629
+process,nitric oxide transport,BE0000629
+process,oxidation-reduction process,BE0000629
+process,oxygen transport,BE0000629
+process,platelet aggregation,BE0000629
+process,positive regulation of cell death,BE0000629
+process,positive regulation of nitric oxide biosynthetic process,BE0000629
+process,protein heterooligomerization,BE0000629
+process,receptor-mediated endocytosis,BE0000629
+process,regulation of blood pressure,BE0000629
+process,regulation of blood vessel size,BE0000629
+process,renal absorption,BE0000629
+process,response to hydrogen peroxide,BE0000629
+process,small molecule metabolic process,BE0000629
+component,blood microparticle,BE0000130
+component,cytosol,BE0000130
+component,cytosolic small ribosomal subunit,BE0000130
+component,endocytic vesicle lumen,BE0000130
+component,extracellular exosome,BE0000130
+component,extracellular region,BE0000130
+component,haptoglobin-hemoglobin complex,BE0000130
+component,hemoglobin complex,BE0000130
+component,membrane,BE0000130
+function,heme binding,BE0000130
+function,iron ion binding,BE0000130
+function,oxygen binding,BE0000130
+function,oxygen transporter activity,BE0000130
+process,bicarbonate transport,BE0000130
+process,hydrogen peroxide catabolic process,BE0000130
+process,oxidation-reduction process,BE0000130
+process,oxygen transport,BE0000130
+process,positive regulation of cell death,BE0000130
+process,protein heterooligomerization,BE0000130
+process,receptor-mediated endocytosis,BE0000130
+process,response to hydrogen peroxide,BE0000130
+process,small molecule metabolic process,BE0000130
+component,apical part of cell,BE0000499
+component,basolateral plasma membrane,BE0000499
+component,cell surface,BE0000499
+component,clathrin-coated endocytic vesicle membrane,BE0000499
+component,coated pit,BE0000499
+component,early endosome,BE0000499
+component,endosome membrane,BE0000499
+component,external side of plasma membrane,BE0000499
+component,Golgi apparatus,BE0000499
+component,integral component of plasma membrane,BE0000499
+component,late endosome,BE0000499
+component,low-density lipoprotein particle,BE0000499
+component,lysosome,BE0000499
+component,membrane,BE0000499
+component,PCSK9-LDLR complex,BE0000499
+component,plasma membrane,BE0000499
+component,receptor complex,BE0000499
+function,calcium ion binding,BE0000499
+function,clathrin heavy chain binding,BE0000499
+function,glycoprotein binding,BE0000499
+function,low-density lipoprotein particle binding,BE0000499
+function,low-density lipoprotein receptor activity,BE0000499
+function,protease binding,BE0000499
+function,receptor activity,BE0000499
+function,very-low-density lipoprotein particle receptor activity,BE0000499
+function,virus receptor activity,BE0000499
+process,cholesterol homeostasis,BE0000499
+process,cholesterol import,BE0000499
+process,cholesterol metabolic process,BE0000499
+process,cholesterol transport,BE0000499
+process,endocytosis,BE0000499
+process,intestinal cholesterol absorption,BE0000499
+process,lipid metabolic process,BE0000499
+process,lipoprotein catabolic process,BE0000499
+process,lipoprotein metabolic process,BE0000499
+process,low-density lipoprotein particle clearance,BE0000499
+process,phospholipid transport,BE0000499
+process,"phototransduction, visible light",BE0000499
+process,positive regulation of triglyceride biosynthetic process,BE0000499
+process,receptor-mediated endocytosis,BE0000499
+process,regulation of cholesterol homeostasis,BE0000499
+process,regulation of phosphatidylcholine catabolic process,BE0000499
+process,retinoid metabolic process,BE0000499
+process,small molecule metabolic process,BE0000499
+component,endoplasmic reticulum,BE0001043
+component,external side of plasma membrane,BE0001043
+component,extracellular exosome,BE0001043
+component,extracellular matrix,BE0001043
+component,extracellular region,BE0001043
+component,platelet alpha granule,BE0001043
+component,platelet alpha granule lumen,BE0001043
+component,proteinaceous extracellular matrix,BE0001043
+component,Weibel-Palade body,BE0001043
+function,chaperone binding,BE0001043
+function,collagen binding,BE0001043
+function,glycoprotein binding,BE0001043
+function,identical protein binding,BE0001043
+function,immunoglobulin binding,BE0001043
+function,integrin binding,BE0001043
+function,protease binding,BE0001043
+function,protein homodimerization activity,BE0001043
+function,protein N-terminus binding,BE0001043
+process,blood coagulation,BE0001043
+process,"blood coagulation, intrinsic pathway",BE0001043
+process,cell adhesion,BE0001043
+process,cell-substrate adhesion,BE0001043
+process,extracellular matrix organization,BE0001043
+process,hemostasis,BE0001043
+process,liver development,BE0001043
+process,placenta development,BE0001043
+process,platelet activation,BE0001043
+process,platelet degranulation,BE0001043
+process,protein homooligomerization,BE0001043
+process,response to wounding,BE0001043
+component,extracellular exosome,BE0003647
+component,integral component of plasma membrane,BE0003647
+component,membrane,BE0003647
+component,plasma membrane,BE0003647
+function,choline transmembrane transporter activity,BE0003647
+function,dopamine transmembrane transporter activity,BE0003647
+function,organic cation transmembrane transporter activity,BE0003647
+function,quaternary ammonium group transmembrane transporter activity,BE0003647
+process,ammonium transmembrane transport,BE0003647
+process,body fluid secretion,BE0003647
+process,choline transport,BE0003647
+process,dopamine transport,BE0003647
+process,drug transmembrane transport,BE0003647
+process,neurotransmitter biosynthetic process,BE0003647
+process,neurotransmitter secretion,BE0003647
+process,organic cation transport,BE0003647
+process,quaternary ammonium group transport,BE0003647
+process,small molecule metabolic process,BE0003647
+process,synaptic transmission,BE0003647
+process,transmembrane transport,BE0003647
+component,integral component of membrane,BE0003657
+component,membrane-bounded vesicle,BE0003657
+component,plasma membrane,BE0003657
+function,drug transmembrane transporter activity,BE0003657
+function,monovalent cation,BE0003657
+process,drug transmembrane transport,BE0003657
+process,organic cation transport,BE0003657
+process,transmembrane transport,BE0003657
+component,basolateral plasma membrane,BE0000229
+component,extracellular exosome,BE0000229
+component,integral component of plasma membrane,BE0000229
+component,intracellular membrane-bounded organelle,BE0000229
+component,plasma membrane,BE0000229
+component,sodium,BE0000229
+function,ion channel activity,BE0000229
+function,sodium,BE0000229
+function,sodium channel regulator activity,BE0000229
+function,transporter activity,BE0000229
+process,ATP hydrolysis coupled transmembrane transport,BE0000229
+process,establishment or maintenance of transmembrane electrochemical gradient,BE0000229
+process,ion transmembrane transport,BE0000229
+process,potassium ion import across plasma membrane,BE0000229
+process,regulation of cell growth,BE0000229
+process,regulation of cell proliferation,BE0000229
+process,regulation of sodium ion transmembrane transporter activity,BE0000229
+process,sodium ion export from cell,BE0000229
+process,transmembrane transport,BE0000229
+process,transport,BE0000229
+component,apical plasma membrane,BE0000732
+component,basolateral plasma membrane,BE0000732
+component,caveola,BE0000732
+component,endoplasmic reticulum,BE0000732
+component,endosome,BE0000732
+component,extracellular exosome,BE0000732
+component,extracellular vesicle,BE0000732
+component,Golgi apparatus,BE0000732
+component,integral component of membrane,BE0000732
+component,intercalated disc,BE0000732
+component,intracellular membrane-bounded organelle,BE0000732
+component,melanosome,BE0000732
+component,membrane,BE0000732
+component,myelin sheath,BE0000732
+component,neuronal postsynaptic density,BE0000732
+component,plasma membrane,BE0000732
+component,protein complex,BE0000732
+component,sarcolemma,BE0000732
+component,sodium,BE0000732
+component,T-tubule,BE0000732
+function,ADP binding,BE0000732
+function,ATP binding,BE0000732
+function,chaperone binding,BE0000732
+function,phosphatase activity,BE0000732
+function,potassium ion binding,BE0000732
+function,sodium,BE0000732
+function,sodium ion binding,BE0000732
+function,steroid hormone binding,BE0000732
+process,ATP hydrolysis coupled proton transport,BE0000732
+process,cardiac muscle contraction,BE0000732
+process,cell communication by electrical coupling involved in cardiac conduction,BE0000732
+process,cellular potassium ion homeostasis,BE0000732
+process,cellular response to mechanical stimulus,BE0000732
+process,cellular response to steroid hormone stimulus,BE0000732
+process,cellular sodium ion homeostasis,BE0000732
+process,establishment or maintenance of transmembrane electrochemical gradient,BE0000732
+process,ion transmembrane transport,BE0000732
+process,membrane hyperpolarization,BE0000732
+process,membrane repolarization,BE0000732
+process,membrane repolarization during cardiac muscle cell action potential,BE0000732
+process,negative regulation of glucocorticoid biosynthetic process,BE0000732
+process,negative regulation of heart contraction,BE0000732
+process,positive regulation of heart contraction,BE0000732
+process,positive regulation of striated muscle contraction,BE0000732
+process,potassium ion import,BE0000732
+process,potassium ion import across plasma membrane,BE0000732
+process,protein dephosphorylation,BE0000732
+process,regulation of blood pressure,BE0000732
+process,regulation of cardiac muscle cell contraction,BE0000732
+process,regulation of sodium ion transport,BE0000732
+process,regulation of the force of heart contraction,BE0000732
+process,relaxation of cardiac muscle,BE0000732
+process,response to drug,BE0000732
+process,response to glycoside,BE0000732
+process,sodium ion export from cell,BE0000732
+process,transmembrane transport,BE0000732
+component,apical plasma membrane,BE0004994
+component,basolateral plasma membrane,BE0004994
+component,caveola,BE0004994
+component,extracellular exosome,BE0004994
+component,extracellular vesicle,BE0004994
+component,intercalated disc,BE0004994
+component,intracellular,BE0004994
+component,membrane,BE0004994
+component,myelin sheath,BE0004994
+component,plasma membrane,BE0004994
+component,sarcolemma,BE0004994
+component,sodium,BE0004994
+function,ATPase activator activity,BE0004994
+function,ATPase binding,BE0004994
+function,MHC class II protein complex binding,BE0004994
+function,sodium,BE0004994
+process,ATP hydrolysis coupled transmembrane transport,BE0004994
+process,ATP metabolic process,BE0004994
+process,blood coagulation,BE0004994
+process,cardiac muscle contraction,BE0004994
+process,cell adhesion,BE0004994
+process,cell communication by electrical coupling involved in cardiac conduction,BE0004994
+process,cellular calcium ion homeostasis,BE0004994
+process,cellular potassium ion homeostasis,BE0004994
+process,cellular sodium ion homeostasis,BE0004994
+process,establishment or maintenance of transmembrane electrochemical gradient,BE0004994
+process,ion transmembrane transport,BE0004994
+process,leukocyte migration,BE0004994
+process,membrane repolarization,BE0004994
+process,membrane repolarization during cardiac muscle cell action potential,BE0004994
+process,mitophagy in response to mitochondrial depolarization,BE0004994
+process,positive regulation of ATPase activity,BE0004994
+process,positive regulation of calcium,BE0004994
+process,positive regulation of defense response to virus by host,BE0004994
+process,positive regulation of potassium ion import,BE0004994
+process,positive regulation of potassium ion transmembrane transporter activity,BE0004994
+process,positive regulation of sodium ion export from cell,BE0004994
+process,potassium ion import,BE0004994
+process,potassium ion import across plasma membrane,BE0004994
+process,protein localization to plasma membrane,BE0004994
+process,protein stabilization,BE0004994
+process,protein transport into plasma membrane raft,BE0004994
+process,regulation of cardiac muscle contraction by calcium ion signaling,BE0004994
+process,regulation of gene expression,BE0004994
+process,relaxation of cardiac muscle,BE0004994
+process,response to hypoxia,BE0004994
+process,sodium ion export from cell,BE0004994
+process,transmembrane transport,BE0004994
+process,xenophagy,BE0004994
+component,apical plasma membrane,BE0005018
+component,cytoplasm,BE0005018
+component,plasma membrane,BE0005018
+component,sodium,BE0005018
+function,ATPase activator activity,BE0005018
+function,ATPase binding,BE0005018
+function,sodium,BE0005018
+process,ATP hydrolysis coupled transmembrane transport,BE0005018
+process,blood coagulation,BE0005018
+process,cell adhesion,BE0005018
+process,cell communication by electrical coupling involved in cardiac conduction,BE0005018
+process,cellular potassium ion homeostasis,BE0005018
+process,cellular sodium ion homeostasis,BE0005018
+process,establishment or maintenance of transmembrane electrochemical gradient,BE0005018
+process,ion transmembrane transport,BE0005018
+process,leukocyte migration,BE0005018
+process,membrane repolarization,BE0005018
+process,positive regulation of ATPase activity,BE0005018
+process,positive regulation of potassium ion import,BE0005018
+process,positive regulation of potassium ion transmembrane transporter activity,BE0005018
+process,positive regulation of sodium ion export from cell,BE0005018
+process,potassium ion import,BE0005018
+process,protein stabilization,BE0005018
+process,sodium ion export from cell,BE0005018
+process,transmembrane transport,BE0005018
+process,transport,BE0005018
+component,caveola,BE0005026
+component,extracellular exosome,BE0005026
+component,melanosome,BE0005026
+component,plasma membrane,BE0005026
+component,sodium,BE0005026
+function,ATPase activator activity,BE0005026
+function,ATPase binding,BE0005026
+function,sodium,BE0005026
+process,ATP hydrolysis coupled transmembrane transport,BE0005026
+process,blood coagulation,BE0005026
+process,cellular potassium ion homeostasis,BE0005026
+process,cellular sodium ion homeostasis,BE0005026
+process,establishment or maintenance of transmembrane electrochemical gradient,BE0005026
+process,ion transmembrane transport,BE0005026
+process,leukocyte migration,BE0005026
+process,membrane repolarization,BE0005026
+process,positive regulation of ATPase activity,BE0005026
+process,positive regulation of potassium ion import,BE0005026
+process,positive regulation of potassium ion transmembrane transporter activity,BE0005026
+process,positive regulation of sodium ion export from cell,BE0005026
+process,potassium ion import,BE0005026
+process,protein localization to plasma membrane,BE0005026
+process,protein stabilization,BE0005026
+process,sodium ion export from cell,BE0005026
+process,transmembrane transport,BE0005026
+process,transport,BE0005026
+component,integral component of plasma membrane,BE0005031
+component,intracellular membrane-bounded organelle,BE0005031
+component,plasma membrane,BE0005031
+component,sodium,BE0005031
+function,ATP binding,BE0005031
+function,metal ion binding,BE0005031
+function,sodium,BE0005031
+process,ATP hydrolysis coupled proton transport,BE0005031
+process,cellular potassium ion homeostasis,BE0005031
+process,cellular sodium ion homeostasis,BE0005031
+process,establishment or maintenance of transmembrane electrochemical gradient,BE0005031
+process,fertilization,BE0005031
+process,ion transmembrane transport,BE0005031
+process,potassium ion import,BE0005031
+process,potassium ion transport,BE0005031
+process,regulation of cellular pH,BE0005031
+process,regulation of membrane potential,BE0005031
+process,sodium ion export from cell,BE0005031
+process,sodium ion transport,BE0005031
+process,sperm motility,BE0005031
+process,spermatogenesis,BE0005031
+process,transmembrane transport,BE0005031
+component,caveola,BE0005034
+component,cytoplasm,BE0005034
+component,cytosol,BE0005034
+component,dendritic spine,BE0005034
+component,endosome,BE0005034
+component,extracellular vesicle,BE0005034
+component,intercalated disc,BE0005034
+component,intracellular membrane-bounded organelle,BE0005034
+component,membrane,BE0005034
+component,myelin sheath,BE0005034
+component,plasma membrane,BE0005034
+component,sodium,BE0005034
+component,T-tubule,BE0005034
+function,ATP binding,BE0005034
+function,chaperone binding,BE0005034
+function,metal ion binding,BE0005034
+function,sodium,BE0005034
+function,steroid hormone binding,BE0005034
+process,adult locomotory behavior,BE0005034
+process,ATP hydrolysis coupled proton transport,BE0005034
+process,ATP metabolic process,BE0005034
+process,cardiac muscle contraction,BE0005034
+process,cell communication by electrical coupling involved in cardiac conduction,BE0005034
+process,cellular potassium ion homeostasis,BE0005034
+process,cellular response to mechanical stimulus,BE0005034
+process,cellular response to steroid hormone stimulus,BE0005034
+process,cellular sodium ion homeostasis,BE0005034
+process,establishment or maintenance of transmembrane electrochemical gradient,BE0005034
+process,ion transmembrane transport,BE0005034
+process,locomotion,BE0005034
+process,membrane depolarization during cardiac muscle cell action potential,BE0005034
+process,membrane repolarization,BE0005034
+process,negative regulation of calcium,BE0005034
+process,negative regulation of calcium ion transmembrane transport,BE0005034
+process,negative regulation of cytosolic calcium ion concentration,BE0005034
+process,negative regulation of heart contraction,BE0005034
+process,negative regulation of striated muscle contraction,BE0005034
+process,neurotransmitter uptake,BE0005034
+process,potassium ion import,BE0005034
+process,potassium ion import across plasma membrane,BE0005034
+process,potassium ion transport,BE0005034
+process,regulation of blood pressure,BE0005034
+process,regulation of cardiac muscle cell contraction,BE0005034
+process,regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion,BE0005034
+process,regulation of glutamate uptake involved in transmission of nerve impulse,BE0005034
+process,regulation of respiratory gaseous exchange by neurological system process,BE0005034
+process,regulation of smooth muscle contraction,BE0005034
+process,regulation of striated muscle contraction,BE0005034
+process,"regulation of synaptic transmission, glutamatergic",BE0005034
+process,regulation of the force of heart contraction,BE0005034
+process,regulation of vasoconstriction,BE0005034
+process,relaxation of cardiac muscle,BE0005034
+process,response to glycoside,BE0005034
+process,response to nicotine,BE0005034
+process,sodium ion export from cell,BE0005034
+process,sodium ion transport,BE0005034
+process,transmembrane transport,BE0005034
+process,visual learning,BE0005034
+component,axon,BE0005047
+component,dendritic spine head,BE0005047
+component,dendritic spine neck,BE0005047
+component,endoplasmic reticulum,BE0005047
+component,extracellular vesicle,BE0005047
+component,Golgi apparatus,BE0005047
+component,integral component of membrane,BE0005047
+component,myelin sheath,BE0005047
+component,nucleus,BE0005047
+component,plasma membrane,BE0005047
+component,sodium,BE0005047
+component,synapse,BE0005047
+function,ATP binding,BE0005047
+function,chaperone binding,BE0005047
+function,metal ion binding,BE0005047
+function,sodium,BE0005047
+function,steroid hormone binding,BE0005047
+process,adult locomotory behavior,BE0005047
+process,ATP hydrolysis coupled proton transport,BE0005047
+process,cell communication by electrical coupling involved in cardiac conduction,BE0005047
+process,cellular potassium ion homeostasis,BE0005047
+process,cellular response to steroid hormone stimulus,BE0005047
+process,cellular sodium ion homeostasis,BE0005047
+process,establishment or maintenance of transmembrane electrochemical gradient,BE0005047
+process,ion transmembrane transport,BE0005047
+process,ionotropic glutamate receptor signaling pathway,BE0005047
+process,memory,BE0005047
+process,potassium ion import,BE0005047
+process,response to drug,BE0005047
+process,response to glycoside,BE0005047
+process,sodium ion export from cell,BE0005047
+process,transmembrane transport,BE0005047
+process,visual learning,BE0005047
+component,basolateral plasma membrane,BE0003648
+component,integral component of plasma membrane,BE0003648
+component,membrane,BE0003648
+component,plasma membrane,BE0003648
+function,acetylcholine transmembrane transporter activity,BE0003648
+function,dopamine transmembrane transporter activity,BE0003648
+function,norepinephrine transmembrane transporter activity,BE0003648
+function,organic cation transmembrane transporter activity,BE0003648
+function,quaternary ammonium group transmembrane transporter activity,BE0003648
+function,secondary active organic cation transmembrane transporter activity,BE0003648
+process,ammonium transmembrane transport,BE0003648
+process,dopamine transport,BE0003648
+process,drug transmembrane transport,BE0003648
+process,epinephrine transport,BE0003648
+process,establishment or maintenance of transmembrane electrochemical gradient,BE0003648
+process,neurotransmitter transport,BE0003648
+process,norepinephrine transport,BE0003648
+process,organic cation transport,BE0003648
+process,protein homooligomerization,BE0003648
+process,quaternary ammonium group transport,BE0003648
+process,small molecule metabolic process,BE0003648
+process,transmembrane transport,BE0003648
+component,cytosol,BE0000935
+function,phosphatidylcholine binding,BE0000935
+function,phosphatidylcholine transporter activity,BE0000935
+process,cholesterol metabolic process,BE0000935
+process,lipid transport,BE0000935
+process,phospholipid transport,BE0000935
+component,cytosol,BE0001179
+component,extracellular exosome,BE0001179
+component,nucleus,BE0001179
+function,ATP binding,BE0001179
+function,enzyme binding,BE0001179
+function,phosphatidylethanolamine binding,BE0001179
+function,poly(A) RNA binding,BE0001179
+function,protein kinase binding,BE0001179
+function,serine-type endopeptidase inhibitor activity,BE0001179
+process,activation of MAPKK activity,BE0001179
+process,axon guidance,BE0001179
+process,epidermal growth factor receptor signaling pathway,BE0001179
+process,Fc-epsilon receptor signaling pathway,BE0001179
+process,fibroblast growth factor receptor signaling pathway,BE0001179
+process,innate immune response,BE0001179
+process,insulin receptor signaling pathway,BE0001179
+process,MAPK cascade,BE0001179
+process,neurotrophin TRK receptor signaling pathway,BE0001179
+process,Ras protein signal transduction,BE0001179
+process,small GTPase mediated signal transduction,BE0001179
+process,vascular endothelial growth factor receptor signaling pathway,BE0001179
+component,axon,BE0008690
+component,cytosol,BE0008690
+component,dendrite,BE0008690
+component,dendritic spine,BE0008690
+component,extracellular exosome,BE0008690
+component,neuronal cell body,BE0008690
+component,nucleus,BE0008690
+component,synapse,BE0008690
+component,terminal bouton,BE0008690
+function,calcium ion binding,BE0008690
+function,vitamin D binding,BE0008690
+function,zinc ion binding,BE0008690
+process,cellular protein metabolic process,BE0008690
+process,cellular response to organic substance,BE0008690
+process,locomotory behavior,BE0008690
+process,long-term memory,BE0008690
+process,metanephric collecting duct development,BE0008690
+process,metanephric connecting tubule development,BE0008690
+process,metanephric distal convoluted tubule development,BE0008690
+process,metanephric part of ureteric bud development,BE0008690
+process,regulation of cytosolic calcium ion concentration,BE0008690
+process,regulation of long-term synaptic potentiation,BE0008690
+process,regulation of presynaptic cytosolic calcium ion concentration,BE0008690
+process,retina layer formation,BE0008690
+process,short-term memory,BE0008690
+component,apical plasma membrane,BE0004083
+component,basolateral plasma membrane,BE0004083
+function,calcium ion binding,BE0004083
+function,vitamin D binding,BE0004083
+component,cytoplasm,BE0003777
+component,early endosome lumen,BE0003777
+component,early endosome membrane,BE0003777
+component,endoplasmic reticulum lumen,BE0003777
+component,ER to Golgi transport vesicle membrane,BE0003777
+component,external side of plasma membrane,BE0003777
+component,extracellular exosome,BE0003777
+component,extracellular region,BE0003777
+component,extracellular space,BE0003777
+component,focal adhesion,BE0003777
+component,Golgi apparatus,BE0003777
+component,Golgi membrane,BE0003777
+component,HFE-transferrin receptor complex,BE0003777
+component,membrane,BE0003777
+component,MHC class I protein complex,BE0003777
+component,phagocytic vesicle membrane,BE0003777
+component,plasma membrane,BE0003777
+function,glycoprotein binding,BE0003777
+function,identical protein binding,BE0003777
+process,antibacterial humoral response,BE0003777
+process,antigen processing and presentation of endogenous peptide antigen via MHC class I,BE0003777
+process,antigen processing and presentation of exogenous peptide antigen via MHC class I,BE0003777
+process,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",BE0003777
+process,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent",BE0003777
+process,"antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-dependent",BE0003777
+process,antigen processing and presentation of peptide antigen via MHC class I,BE0003777
+process,cellular protein metabolic process,BE0003777
+process,cellular response to iron ion,BE0003777
+process,cellular response to lipopolysaccharide,BE0003777
+process,cytokine-mediated signaling pathway,BE0003777
+process,defense response to Gram-negative bacterium,BE0003777
+process,defense response to Gram-positive bacterium,BE0003777
+process,innate immune response,BE0003777
+process,interferon-gamma-mediated signaling pathway,BE0003777
+process,iron ion homeostasis,BE0003777
+process,negative regulation of receptor binding,BE0003777
+process,positive regulation of ferrous iron binding,BE0003777
+process,positive regulation of ferrous iron import into cell,BE0003777
+process,positive regulation of protein binding,BE0003777
+process,positive regulation of receptor binding,BE0003777
+process,positive regulation of receptor-mediated endocytosis,BE0003777
+process,positive regulation of T cell cytokine production,BE0003777
+process,positive regulation of T cell mediated cytotoxicity,BE0003777
+process,positive regulation of transferrin receptor binding,BE0003777
+process,protein refolding,BE0003777
+process,regulation of defense response to virus by virus,BE0003777
+process,regulation of immune response,BE0003777
+process,regulation of membrane depolarization,BE0003777
+process,response to cadmium ion,BE0003777
+process,response to drug,BE0003777
+process,retina homeostasis,BE0003777
+process,T cell differentiation in thymus,BE0003777
+process,viral process,BE0003777
+component,cell surface,BE0000994
+component,cytoplasm,BE0000994
+component,extracellular exosome,BE0000994
+component,extracellular region,BE0000994
+component,extracellular space,BE0000994
+component,nucleus,BE0000994
+component,phagocytic vesicle lumen,BE0000994
+component,protein complex,BE0000994
+component,secretory granule,BE0000994
+component,specific granule,BE0000994
+function,DNA binding,BE0000994
+function,heparin binding,BE0000994
+function,iron ion binding,BE0000994
+function,protein serine/threonine kinase activator activity,BE0000994
+function,serine-type endopeptidase activity,BE0000994
+process,antibacterial humoral response,BE0000994
+process,antifungal humoral response,BE0000994
+process,bone morphogenesis,BE0000994
+process,cellular protein metabolic process,BE0000994
+process,humoral immune response,BE0000994
+process,innate immune response in mucosa,BE0000994
+process,interaction with host,BE0000994
+process,ion transport,BE0000994
+process,iron assimilation by chelation and transport,BE0000994
+process,negative regulation by host of viral process,BE0000994
+process,negative regulation of apoptotic process,BE0000994
+process,negative regulation of ATPase activity,BE0000994
+process,negative regulation of lipopolysaccharide-mediated signaling pathway,BE0000994
+process,negative regulation of osteoclast development,BE0000994
+process,negative regulation of single-species biofilm formation in or on host organism,BE0000994
+process,negative regulation of tumor necrosis factor (ligand) superfamily member 11 production,BE0000994
+process,negative regulation of viral genome replication,BE0000994
+process,negative regulation of viral process,BE0000994
+process,ossification,BE0000994
+process,phagosome maturation,BE0000994
+process,positive regulation of bone mineralization involved in bone maturation,BE0000994
+process,positive regulation of chondrocyte proliferation,BE0000994
+process,positive regulation of I-kappaB kinase/NF-kappaB signaling,BE0000994
+process,positive regulation of NF-kappaB transcription factor activity,BE0000994
+process,positive regulation of osteoblast differentiation,BE0000994
+process,positive regulation of osteoblast proliferation,BE0000994
+process,positive regulation of protein serine/threonine kinase activity,BE0000994
+process,positive regulation of toll-like receptor 4 signaling pathway,BE0000994
+process,regulation of cytokine production,BE0000994
+process,regulation of tumor necrosis factor production,BE0000994
+process,response to host immune response,BE0000994
+process,retina homeostasis,BE0000994
+process,"transcription, DNA-templated",BE0000994
+component,cytoplasm,BE0009358
+component,extracellular space,BE0009358
+function,metal ion binding,BE0009358
+process,animal organ regeneration,BE0009358
+process,liver development,BE0009358
+process,ovulation from ovarian follicle,BE0009358
+process,pancreas development,BE0009358
+process,progesterone metabolic process,BE0009358
+process,response to organic substance,BE0009358
+process,sexual reproduction,BE0009358
+process,SMAD protein signal transduction,BE0009358
+component,cytoplasm,BE0000438
+component,cytosol,BE0000438
+component,extracellular exosome,BE0000438
+function,aldo-keto reductase (NADP) activity,BE0000438
+function,androsterone dehydrogenase activity,BE0000438
+function,bile acid transmembrane transporter activity,BE0000438
+function,chlordecone reductase activity,BE0000438
+function,electron carrier activity,BE0000438
+function,"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor",BE0000438
+function,retinal dehydrogenase activity,BE0000438
+process,androgen metabolic process,BE0000438
+process,bile acid and bile salt transport,BE0000438
+process,bile acid biosynthetic process,BE0000438
+process,bile acid metabolic process,BE0000438
+process,cellular response to jasmonic acid stimulus,BE0000438
+process,daunorubicin metabolic process,BE0000438
+process,doxorubicin metabolic process,BE0000438
+process,"phototransduction, visible light",BE0000438
+process,retinoid metabolic process,BE0000438
+process,small molecule metabolic process,BE0000438
+process,steroid metabolic process,BE0000438
+component,cytoplasm,BE0000592
+component,cytosol,BE0000592
+component,extracellular exosome,BE0000592
+component,intracellular,BE0000592
+component,nucleus,BE0000592
+function,15-hydroxyprostaglandin-D dehydrogenase (NADP+) activity,BE0000592
+function,alditol,BE0000592
+function,aldo-keto reductase (NADP) activity,BE0000592
+function,androsterone dehydrogenase activity,BE0000592
+function,delta4-3-oxosteroid 5beta-reductase activity,BE0000592
+function,dihydrotestosterone 17-beta-dehydrogenase activity,BE0000592
+function,geranylgeranyl reductase activity,BE0000592
+function,indanol dehydrogenase activity,BE0000592
+function,ketoreductase activity,BE0000592
+function,ketosteroid monooxygenase activity,BE0000592
+function,"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor",BE0000592
+function,"phenanthrene 9,10-monooxygenase activity",BE0000592
+function,prostaglandin D2 11-ketoreductase activity,BE0000592
+function,prostaglandin-F synthase activity,BE0000592
+function,retinal dehydrogenase activity,BE0000592
+function,retinol dehydrogenase activity,BE0000592
+function,testosterone 17-beta-dehydrogenase (NADP+) activity,BE0000592
+function,testosterone dehydrogenase (NAD+) activity,BE0000592
+function,"trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity",BE0000592
+process,arachidonic acid metabolic process,BE0000592
+process,cellular response to cadmium ion,BE0000592
+process,cellular response to calcium ion,BE0000592
+process,cellular response to corticosteroid stimulus,BE0000592
+process,cellular response to jasmonic acid stimulus,BE0000592
+process,cellular response to prostaglandin D stimulus,BE0000592
+process,cellular response to prostaglandin stimulus,BE0000592
+process,cellular response to reactive oxygen species,BE0000592
+process,cellular response to starvation,BE0000592
+process,cyclooxygenase pathway,BE0000592
+process,daunorubicin metabolic process,BE0000592
+process,doxorubicin metabolic process,BE0000592
+process,farnesol catabolic process,BE0000592
+process,G-protein coupled receptor signaling pathway,BE0000592
+process,keratinocyte differentiation,BE0000592
+process,male gonad development,BE0000592
+process,multicellular organismal macromolecule metabolic process,BE0000592
+process,negative regulation of retinoic acid biosynthetic process,BE0000592
+process,oxidation-reduction process,BE0000592
+process,"phototransduction, visible light",BE0000592
+process,positive regulation of cell death,BE0000592
+process,positive regulation of cell proliferation,BE0000592
+process,positive regulation of endothelial cell apoptotic process,BE0000592
+process,positive regulation of protein kinase B signaling,BE0000592
+process,positive regulation of reactive oxygen species metabolic process,BE0000592
+process,progesterone metabolic process,BE0000592
+process,prostaglandin metabolic process,BE0000592
+process,"protein import into nucleus, translocation",BE0000592
+process,regulation of retinoic acid receptor signaling pathway,BE0000592
+process,regulation of testosterone biosynthetic process,BE0000592
+process,renal absorption,BE0000592
+process,response to nutrient,BE0000592
+process,retinal metabolic process,BE0000592
+process,retinoid metabolic process,BE0000592
+process,small molecule metabolic process,BE0000592
+process,steroid metabolic process,BE0000592
+process,testosterone biosynthetic process,BE0000592
+component,cytoplasm,BE0000622
+function,alditol,BE0000622
+function,bile acid binding,BE0000622
+function,carboxylic acid binding,BE0000622
+function,ketosteroid monooxygenase activity,BE0000622
+function,"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor",BE0000622
+function,"phenanthrene 9,10-monooxygenase activity",BE0000622
+function,"trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity",BE0000622
+process,cellular response to jasmonic acid stimulus,BE0000622
+process,cellular response to prostaglandin D stimulus,BE0000622
+process,daunorubicin metabolic process,BE0000622
+process,digestion,BE0000622
+process,doxorubicin metabolic process,BE0000622
+process,epithelial cell differentiation,BE0000622
+process,G-protein coupled receptor signaling pathway,BE0000622
+process,oxidation-reduction process,BE0000622
+process,positive regulation of cell proliferation,BE0000622
+process,positive regulation of protein kinase B signaling,BE0000622
+process,progesterone metabolic process,BE0000622
+process,prostaglandin metabolic process,BE0000622
+process,steroid metabolic process,BE0000622
+component,alphav-beta3 integrin-vitronectin complex,BE0001155
+component,cell surface,BE0001155
+component,extracellular exosome,BE0001155
+component,filopodium membrane,BE0001155
+component,focal adhesion,BE0001155
+component,integral component of plasma membrane,BE0001155
+component,integrin alphav-beta3 complex,BE0001155
+component,integrin complex,BE0001155
+component,lamellipodium membrane,BE0001155
+component,melanosome,BE0001155
+component,microvillus membrane,BE0001155
+component,nucleus,BE0001155
+component,plasma membrane,BE0001155
+component,platelet alpha granule membrane,BE0001155
+component,receptor complex,BE0001155
+component,ruffle membrane,BE0001155
+function,cell adhesion molecule binding,BE0001155
+function,enzyme binding,BE0001155
+function,extracellular matrix binding,BE0001155
+function,fibronectin binding,BE0001155
+function,identical protein binding,BE0001155
+function,platelet-derived growth factor receptor binding,BE0001155
+function,protease binding,BE0001155
+function,protein disulfide isomerase activity,BE0001155
+function,vascular endothelial growth factor receptor 2 binding,BE0001155
+function,virus receptor activity,BE0001155
+process,activation of protein kinase activity,BE0001155
+process,angiogenesis involved in wound healing,BE0001155
+process,apolipoprotein A-I-mediated signaling pathway,BE0001155
+process,axon guidance,BE0001155
+process,blood coagulation,BE0001155
+process,cell adhesion,BE0001155
+process,cell growth,BE0001155
+process,cell migration,BE0001155
+process,cell-matrix adhesion,BE0001155
+process,cell-substrate adhesion,BE0001155
+process,cell-substrate junction assembly,BE0001155
+process,extracellular matrix organization,BE0001155
+process,heterotypic cell-cell adhesion,BE0001155
+process,integrin-mediated signaling pathway,BE0001155
+process,leukocyte migration,BE0001155
+process,mesodermal cell differentiation,BE0001155
+process,negative chemotaxis,BE0001155
+process,negative regulation of lipid storage,BE0001155
+process,negative regulation of lipid transport,BE0001155
+process,negative regulation of lipoprotein metabolic process,BE0001155
+process,negative regulation of low-density lipoprotein particle receptor biosynthetic process,BE0001155
+process,negative regulation of macrophage derived foam cell differentiation,BE0001155
+process,platelet activation,BE0001155
+process,platelet aggregation,BE0001155
+process,platelet degranulation,BE0001155
+process,positive regulation of endothelial cell migration,BE0001155
+process,positive regulation of endothelial cell proliferation,BE0001155
+process,positive regulation of peptidyl-tyrosine phosphorylation,BE0001155
+process,positive regulation of protein phosphorylation,BE0001155
+process,positive regulation of vascular endothelial growth factor receptor signaling pathway,BE0001155
+process,protein folding,BE0001155
+process,regulation of bone resorption,BE0001155
+process,smooth muscle cell migration,BE0001155
+process,substrate adhesion-dependent cell spreading,BE0001155
+process,tube development,BE0001155
+process,vascular endothelial growth factor receptor signaling pathway,BE0001155
+process,viral entry into host cell,BE0001155
+process,wound healing,BE0001155
+component,acrosomal vesicle,BE0002109
+component,cell surface,BE0002109
+component,cytoplasm,BE0002109
+component,cytosol,BE0002109
+component,endocytic vesicle lumen,BE0002109
+component,endoplasmic reticulum,BE0002109
+component,endoplasmic reticulum lumen,BE0002109
+component,external side of plasma membrane,BE0002109
+component,extracellular exosome,BE0002109
+component,extracellular region,BE0002109
+component,extracellular space,BE0002109
+component,focal adhesion,BE0002109
+component,Golgi apparatus,BE0002109
+component,integral component of lumenal side of endoplasmic reticulum membrane,BE0002109
+component,intracellular,BE0002109
+component,membrane,BE0002109
+component,MHC class I peptide loading complex,BE0002109
+component,nucleus,BE0002109
+component,perinuclear region of cytoplasm,BE0002109
+component,polysome,BE0002109
+component,proteinaceous extracellular matrix,BE0002109
+component,sarcoplasmic reticulum lumen,BE0002109
+component,smooth endoplasmic reticulum,BE0002109
+function,androgen receptor binding,BE0002109
+function,calcium ion binding,BE0002109
+function,carbohydrate binding,BE0002109
+function,chaperone binding,BE0002109
+function,complement component C1q binding,BE0002109
+function,DNA binding,BE0002109
+function,glycoprotein binding,BE0002109
+function,hormone binding,BE0002109
+function,integrin binding,BE0002109
+function,iron ion binding,BE0002109
+function,mRNA binding,BE0002109
+function,peptide binding,BE0002109
+function,poly(A) RNA binding,BE0002109
+function,protein binding involved in protein folding,BE0002109
+function,ubiquitin protein ligase binding,BE0002109
+function,unfolded protein binding,BE0002109
+function,zinc ion binding,BE0002109
+process,antigen processing and presentation of exogenous peptide antigen via MHC class I,BE0002109
+process,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",BE0002109
+process,antigen processing and presentation of peptide antigen via MHC class I,BE0002109
+process,ATF6-mediated unfolded protein response,BE0002109
+process,cardiac muscle cell differentiation,BE0002109
+process,cell cycle arrest,BE0002109
+process,cellular calcium ion homeostasis,BE0002109
+process,cellular protein metabolic process,BE0002109
+process,cellular response to lithium ion,BE0002109
+process,cellular senescence,BE0002109
+process,chaperone-mediated protein folding,BE0002109
+process,cortical actin cytoskeleton organization,BE0002109
+process,endoplasmic reticulum unfolded protein response,BE0002109
+process,glucocorticoid receptor signaling pathway,BE0002109
+process,negative regulation of intracellular steroid hormone receptor signaling pathway,BE0002109
+process,negative regulation of neuron differentiation,BE0002109
+process,negative regulation of retinoic acid receptor signaling pathway,BE0002109
+process,negative regulation of transcription from RNA polymerase II promoter,BE0002109
+process,"negative regulation of transcription, DNA-templated",BE0002109
+process,negative regulation of translation,BE0002109
+process,peptide antigen assembly with MHC class I protein complex,BE0002109
+process,positive regulation of cell cycle,BE0002109
+process,positive regulation of cell proliferation,BE0002109
+process,positive regulation of dendritic cell chemotaxis,BE0002109
+process,positive regulation of DNA replication,BE0002109
+process,positive regulation of gene expression,BE0002109
+process,positive regulation of phagocytosis,BE0002109
+process,positive regulation of substrate adhesion-dependent cell spreading,BE0002109
+process,post-translational protein modification,BE0002109
+process,protein export from nucleus,BE0002109
+process,protein folding,BE0002109
+process,protein folding in endoplasmic reticulum,BE0002109
+process,protein localization to nucleus,BE0002109
+process,protein maturation by protein folding,BE0002109
+process,protein N-linked glycosylation via asparagine,BE0002109
+process,protein stabilization,BE0002109
+process,receptor-mediated endocytosis,BE0002109
+process,regulation of apoptotic process,BE0002109
+process,regulation of meiotic nuclear division,BE0002109
+process,"regulation of transcription, DNA-templated",BE0002109
+process,response to drug,BE0002109
+process,response to estradiol,BE0002109
+process,response to testosterone,BE0002109
+process,sequestering of calcium ion,BE0002109
+process,spermatogenesis,BE0002109
+component,endoplasmic reticulum,BE0000952
+component,endoplasmic reticulum lumen,BE0000952
+component,endoplasmic reticulum-Golgi intermediate compartment membrane,BE0000952
+component,ER to Golgi transport vesicle,BE0000952
+component,extracellular exosome,BE0000952
+component,extracellular region,BE0000952
+component,extracellular space,BE0000952
+component,Golgi apparatus,BE0000952
+component,Golgi membrane,BE0000952
+component,platelet alpha granule lumen,BE0000952
+component,proteinaceous extracellular matrix,BE0000952
+function,glycoprotein binding,BE0000952
+function,identical protein binding,BE0000952
+function,protease binding,BE0000952
+function,serine-type endopeptidase inhibitor activity,BE0000952
+process,acute-phase response,BE0000952
+process,blood coagulation,BE0000952
+process,cellular protein metabolic process,BE0000952
+process,COPII vesicle coating,BE0000952
+process,ER to Golgi vesicle-mediated transport,BE0000952
+process,membrane organization,BE0000952
+process,negative regulation of endopeptidase activity,BE0000952
+process,platelet activation,BE0000952
+process,platelet degranulation,BE0000952
+process,post-translational protein modification,BE0000952
+process,protein N-linked glycosylation via asparagine,BE0000952

@@ -1,0 +1,789 @@
+ref-id,title,url,parent_key
+L4237,Enbrel (Etanercept) FDA Label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/103795s5503lbl.pdf,BE0001087
+L10310,FDA Approved Drug Products: Lupaneta Pack for intramuscular and oral use,https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/203696s001lbl.pdf,BE0000203
+L13781,FDA Approved Drug Products: Lupron Depot (leuprolide acetate) depot suspension,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020517s042,019732s044lbl.pdf",BE0000203
+L13784,FDA Approved Drug Products: Lupron Depot-Ped (leuprolide acetate) depot suspension,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020263s046lbl.pdf,BE0000203
+L13787,FDA Approved Drug Products: Fensolvi (leuprolide acetate) suspension,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213150s000lbl.pdf,BE0000203
+L13790,FDA Approved Drug Products: Eligard (leuprolide acetate) suspension,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021343s039,021379s041,021488s036,021731s037lbl.pdf",BE0000203
+L13814,FDA Approved Drug Products: Lupron Depot 3.75mg (leuprolide acetate) depot suspension,https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/019943s034lbl.pdf,BE0000203
+L12138,FDA Approved Drug Products: Kinlytic Urokinase Injection (Discontinued),https://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021846s101lbl.pdf,BE0000211
+L3734,Neoral (Cyclosporine) FDA Label,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/050715s027,050716s028lbl.pdf",BE0002143
+L14513,Product monograph: Sandostatin (octreotide acetate) injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2003/19667scm044_Sandostatin_lbl.pdf,BE0010008
+L14519,NIH StatPearls: Octreotide,https://www.ncbi.nlm.nih.gov/books/NBK544333/,BE0010008
+L9734,NIH gene review,https://www.ncbi.nlm.nih.gov/ieb/research/acembly/av.cgi?db=human&c=gene&q=GAD2&a=ffunc&h=1&vr=v74a,BE0002159
+L9737,Genome JP reference,https://www.genome.jp/dbget-bin/www_bget?ec:4.1.1.15,BE0002159
+L9740,Regulatory Properties of Brain Glutamate Decarboxylase (GAD): The Apoenzyme of GAD Is Present Principally as the Smaller of Two Molecular Forms of GAD in Brain,https://www.jneurosci.org/content/jneuro/11/9/2725.full.pdf,BE0002159
+L6097,Oxford Academic,https://academic.oup.com/icb/article/35/6/483/138945,BE0004902
+L183,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL591,BE0004797
+L6505,"Fluconazole, Medsafe NZ data sheet",https://www.medsafe.govt.nz/profs/Datasheet/f/fluconazolecapmylan.pdf,BE0000233
+L9851,Caffeine citrate injection FDA label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2000/20793s1lbl.pdf,BE0000013
+L9851,Caffeine citrate injection FDA label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2000/20793s1lbl.pdf,BE0009789
+L160,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1257,BE0004797
+L13643,NIH StatPearls: Enflurane,https://www.ncbi.nlm.nih.gov/books/NBK554595/,BE0004797
+L13646,FDA Approved Products: Efrane (enflurane) liquid for inhalation,https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/017087s048lbl.pdf,BE0004797
+L13643,NIH StatPearls: Enflurane,https://www.ncbi.nlm.nih.gov/books/NBK554595/,BE0000433
+L160,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1257,BE0000433
+L185,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL454,BE0004797
+L5473,Australian Assessment Report,https://www.tga.gov.au/sites/default/files/auspar-ranolazine-180220.pdf,BE0004901
+L3580,Ranolazine FDA Label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021526s007lbl.pdf,BE0004901
+L3580,Ranolazine FDA Label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021526s007lbl.pdf,BE0009631
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000501
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000575
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000715
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000172
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000694
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0004889
+L13883,New Zealand data sheet: Tetralysal (lymecycline) oral capsules,https://www.medsafe.govt.nz/Profs/Datasheet/t/Tetralysalcap.pdf,BE0000019
+L14153,FDA Approved Drug Products: Agrylin (anagrelide) oral capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020333s026lbl.pdf,BE0000436
+L10544,"FDA label, topiramate",https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020505s057_020844s048lbl.pdf,BE0000795
+L10544,"FDA label, topiramate",https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020505s057_020844s048lbl.pdf,BE0009738
+L10544,"FDA label, topiramate",https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020505s057_020844s048lbl.pdf,BE0009793
+L10544,"FDA label, topiramate",https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020505s057_020844s048lbl.pdf,BE0000322
+L10544,"FDA label, topiramate",https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020505s057_020844s048lbl.pdf,BE0000535
+L10577,"Genome JP, Topiramate",https://www.genome.jp/dbget-bin/www_bget?D00537,BE0009739
+L187,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL681,BE0004797
+L158,doi:10.1021/cn9000236,http://dx.doi.org/10.1021/cn9000236,BE0000770
+L158,doi:10.1021/cn9000236,http://dx.doi.org/10.1021/cn9000236,BE0000632
+L158,doi:10.1021/cn9000236,http://dx.doi.org/10.1021/cn9000236,BE0000420
+L178,Link,https://www.pharmgkb.org/pathway/PA155028030,BE0004136
+L178,Link,https://www.pharmgkb.org/pathway/PA155028030,BE0000312
+L12867,FDA Approved Drug Products: Jelmyto (mitomycin) pyelocalyceal solution,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/211728s000lbl.pdf,BE0004796
+L188,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200802,BE0004797
+L189,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL448,BE0004797
+L12978,FDA Approved Drug Products: ZOMIG/ZOMIG-ZMT (zolmitriptan) oral tablets and nasal spray,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020768s023,021231s014,021450s010lbl.pdf",BE0000797
+L12978,FDA Approved Drug Products: ZOMIG/ZOMIG-ZMT (zolmitriptan) oral tablets and nasal spray,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020768s023,021231s014,021450s010lbl.pdf",BE0000659
+L12978,FDA Approved Drug Products: ZOMIG/ZOMIG-ZMT (zolmitriptan) oral tablets and nasal spray,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020768s023,021231s014,021450s010lbl.pdf",BE0000460
+L5512,"ChemBL resource, opioid receptors",https://www.ebi.ac.uk/chembl/target/inspect/CHEMBL2095181,BE0000420
+L5434,RBCB PDB resource,https://www.rcsb.org/ligand/TP0,BE0000715
+L13718,Reference Module in Biomedical Sciences (2017) by Henry I. Jacoby,https://doi.org/10.1016/B978-0-12-801238-3.64921-8,BE0000092
+L8114,Kegg,https://www.genome.jp/dbget-bin/www_bget?enzyme+3.4.23.1,BE0009737
+L6109,Sucralfate - Drug Summary,https://www.pdr.net/drug-summary/Carafate-Tablets-sucralfate-2163,BE0009672
+L7820,"PharmGKB, Levonorgestrel",https://www.pharmgkb.org/chemical/PA450218,BE0000794
+L190,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL979,BE0004797
+L6724,Timolol FDA Label (Ophthalmic),https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021516s005lbl.pdf,BE0000172
+L6724,Timolol FDA Label (Ophthalmic),https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021516s005lbl.pdf,BE0000694
+L9416,FDA Approved Drug Products: Phenylephrine Solution for Intravenous Injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/204300lbl.pdf,BE0000501
+L9413,FDA Approved Drug Products: Phenylephrine Ophthalmic Solution,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/207926s002lbl.pdf,BE0000501
+L9410,FDA Approved Drug Products: Phenylephrine Intravenous Injection (Ready to Use),https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212909s000lbl.pdf,BE0000501
+L9416,FDA Approved Drug Products: Phenylephrine Solution for Intravenous Injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/204300lbl.pdf,BE0000575
+L9413,FDA Approved Drug Products: Phenylephrine Ophthalmic Solution,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/207926s002lbl.pdf,BE0000575
+L9410,FDA Approved Drug Products: Phenylephrine Intravenous Injection (Ready to Use),https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212909s000lbl.pdf,BE0000575
+L9416,FDA Approved Drug Products: Phenylephrine Solution for Intravenous Injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/204300lbl.pdf,BE0000715
+L9413,FDA Approved Drug Products: Phenylephrine Ophthalmic Solution,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/207926s002lbl.pdf,BE0000715
+L9410,FDA Approved Drug Products: Phenylephrine Intravenous Injection (Ready to Use),https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212909s000lbl.pdf,BE0000715
+L191,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1522,BE0004797
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000291
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000797
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000659
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000476
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000311
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0004688
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000945
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000650
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000501
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000575
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000289
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000572
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000342
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000172
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000092
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000560
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000045
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000405
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000247
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0004889
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000581
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000389
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000145
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000442
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000112
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000146
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000749
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000486
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000647
+L5885,"Zhang Lab, University of Michigan document",https://zhanglab.ccmb.med.umich.edu/GLASS/assoc.cgi?id=73750,BE0000289
+L11449,FDA Approved Drug Products: Bactrim (sulfamethoxazole and trimethoprim),https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/018374s026lbl.pdf,BE0002010
+L13766,Acitretin,https://www.ncbi.nlm.nih.gov/books/NBK519571/,BE0009978
+L192,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL450,BE0004797
+L7721,Fluoxetine: A case history of its discovery and preclinical development,https://pdfs.semanticscholar.org/b3f2/73276b41415c203b19627f2a29d70a32a5d2.pdf,BE0000749
+L7646,FDA Approved Drug Products: Celebrex (celecoxib) oral capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020998s050lbl.pdf,BE0000262
+L12357,FDA Approved Drug Products: Norvir (ritonavir) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020659s071,%20209512s006,%20022417s023lbl.pdf",BE0004854
+L11881,NIH StatPearls: Nortriptyline,https://www.ncbi.nlm.nih.gov/books/NBK482214/,BE0000486
+L11881,NIH StatPearls: Nortriptyline,https://www.ncbi.nlm.nih.gov/books/NBK482214/,BE0000749
+L11881,NIH StatPearls: Nortriptyline,https://www.ncbi.nlm.nih.gov/books/NBK482214/,BE0000451
+L11881,NIH StatPearls: Nortriptyline,https://www.ncbi.nlm.nih.gov/books/NBK482214/,BE0000442
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0004864
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0004872
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000756
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0004897
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000647
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0009609
+L9404,Lamictal FDA Label,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020241s060,020764s053,022251s024lbl.pdf",BE0009738
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0009738
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0000013
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0000924
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0000501
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0000289
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0000172
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0004889
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0000756
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0004797
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0008668
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0000442
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0000632
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0004661
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0000451
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0000311
+L12183,FDA Approved Products: Lamictal (lamotrigine) chewable dispersible tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020241s10s21s25s26s27,020764s3s14s18s19s20lbl.pdf",BE0000640
+L1335,Carbamazepine FDA Label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021710s11s012lbl.pdf,BE0009738
+L159,doi:10.1007/s00415-006-3004-8,http://dx.doi.org/10.1007/s00415-006-3004-8,BE0000756
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000501
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000575
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000715
+L7222,Summary of product characteristics,https://www.medicines.org.uk/emc/product/6126/smpc,BE0000694
+L8357,Xalatan FDA label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020597s044lbl.pdf,BE0000610
+L8375,ChemBL compound report card,https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1051/,BE0000610
+L3484,Trazodone,https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/018207s032lbl.pdf,BE0000451
+L3484,Trazodone,https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/018207s032lbl.pdf,BE0000533
+L7706,"GSK monograph, Paxil",https://ca.gsk.com/media/530543/paxil_pm-2014-11-13.pdf,BE0004863
+L7706,"GSK monograph, Paxil",https://ca.gsk.com/media/530543/paxil_pm-2014-11-13.pdf,BE0004864
+L7706,"GSK monograph, Paxil",https://ca.gsk.com/media/530543/paxil_pm-2014-11-13.pdf,BE0004872
+L7706,"GSK monograph, Paxil",https://ca.gsk.com/media/530543/paxil_pm-2014-11-13.pdf,BE0000756
+L7706,"GSK monograph, Paxil",https://ca.gsk.com/media/530543/paxil_pm-2014-11-13.pdf,BE0000442
+L7706,"GSK monograph, Paxil",https://ca.gsk.com/media/530543/paxil_pm-2014-11-13.pdf,BE0004862
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000533
+L12885,FDA Approved Drug Products: Risperdal (risperidone) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020272s085,020588s072,021444s058lbl.pdf",BE0000451
+L12885,FDA Approved Drug Products: Risperdal (risperidone) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020272s085,020588s072,021444s058lbl.pdf",BE0000756
+L12885,FDA Approved Drug Products: Risperdal (risperidone) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020272s085,020588s072,021444s058lbl.pdf",BE0000575
+L12885,FDA Approved Drug Products: Risperdal (risperidone) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020272s085,020588s072,021444s058lbl.pdf",BE0000572
+L12885,FDA Approved Drug Products: Risperdal (risperidone) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020272s085,020588s072,021444s058lbl.pdf",BE0000501
+L12885,FDA Approved Drug Products: Risperdal (risperidone) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020272s085,020588s072,021444s058lbl.pdf",BE0000342
+L12885,FDA Approved Drug Products: Risperdal (risperidone) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020272s085,020588s072,021444s058lbl.pdf",BE0000442
+L12885,FDA Approved Drug Products: Risperdal (risperidone) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020272s085,020588s072,021444s058lbl.pdf",BE0000533
+L12885,FDA Approved Drug Products: Risperdal (risperidone) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020272s085,020588s072,021444s058lbl.pdf",BE0000659
+L12885,FDA Approved Drug Products: Risperdal (risperidone) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020272s085,020588s072,021444s058lbl.pdf",BE0000291
+L12885,FDA Approved Drug Products: Risperdal (risperidone) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020272s085,020588s072,021444s058lbl.pdf",BE0000020
+L193,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1256,BE0004797
+L7880,FDA Approved Drug Products: Augmentin Amoxicillin and Clavulanate Oral Tablets and Suspension,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/050564s053s055,050575s040s042,050597s047s049,050720s026s028,050725s028s030,050726s022s024lbl.pdf",BE0009711
+L7904,"Augmentin IV, Medicines UK",https://www.medicines.org.uk/emc/medicine/2025,BE0009711
+L13676,Therapeutic regimens for the treatment of immunoinflammatory disorders,https://patents.google.com/patent/US20090075955A1/en,BE0000794
+L13682,Composition and method for control and treatment of cutaneous inflammation,https://patents.google.com/patent/US6300326B1/en,BE0000794
+L8630,DPD Approved Drugs: Oxcarbazepine,https://pdf.hres.ca/dpd_pm/00048247.PDF,BE0004901
+L8627,FDA Approved Drugs: Oxcarbazepine,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021014s043lbl.pdf,BE0004901
+L8633,MedSafe NZ: Oxcarbazepine,https://www.medsafe.govt.nz/profs/Datasheet/t/Trileptaltab.pdf,BE0004901
+L11485,FDA Approved Products: Estrace (Estradiol) oral tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2005/081295s014,084499s042,084500s044lbl.pdf",BE0000123
+L11485,FDA Approved Products: Estrace (Estradiol) oral tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2005/081295s014,084499s042,084500s044lbl.pdf",BE0000792
+L194,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL856,BE0004797
+L11398,FDA approved products: Mobic (meloxicam) oral tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020938s024s025,021530s014s015lbl.pdf",BE0000262
+L11398,FDA approved products: Mobic (meloxicam) oral tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020938s024s025,021530s014s015lbl.pdf",BE0000017
+L196,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL526,BE0004797
+L7916,Donepezil FDA label,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020690s035,021720s008,022568s005lbl.pdf",BE0000426
+L9068,"Health Canada Approved Drug Products: Lamisil Terbinafine Oral Tablets, Topical Cream, and Topical Spray",https://pdf.hres.ca/dpd_pm/00035035.PDF,BE0004670
+L10818,FDA Approved Drug Products: ZANTAC (ranitidine hydrochloride) injection,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/019090s053,019593s042lbl.pdf",BE0000112
+L10818,FDA Approved Drug Products: ZANTAC (ranitidine hydrochloride) injection,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/019090s053,019593s042lbl.pdf",BE0000426
+L12435,NIH DailyMed: Suprofen,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8de2c303-5d99-46b6-ad6d-a4caadea3604,BE0000017
+L12435,NIH DailyMed: Suprofen,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8de2c303-5d99-46b6-ad6d-a4caadea3604,BE0000262
+L9019,FDA Approved Drug Products: Emtriva (Emtricitabine) Oral Capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021500s029lbl.pdf,BE0004136
+L10226,Iron dextran FDA LABEL,https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/017441s171lbl.pdf,BE0000399
+L10226,Iron dextran FDA LABEL,https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/017441s171lbl.pdf,BE0000085
+L159,doi:10.1007/s00415-006-3004-8,http://dx.doi.org/10.1007/s00415-006-3004-8,BE0000756
+L3754,Flagyl (Metronidazole) FDA Label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2004/12623slr059_flagyl_lbl.pdf,BE0009695
+L3754,Flagyl (Metronidazole) FDA Label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2004/12623slr059_flagyl_lbl.pdf,BE0009696
+L4269,Allegra (Fexofenadine Hydrochloride) FDA Label,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2008/020872s018,021963s002lbl.pdf",BE0000442
+L10779,DPD Approved Drugs: Allegra® oral tablets,https://pdf.hres.ca/dpd_pm/00053954.PDF,BE0000442
+L8240,FDA Approved Drugs: Azelastine nasal spray,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020114s028lbl.pdf,BE0000442
+L10986,FDA Approved Drug Products: Perforomist® inhalation solution,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/022007s015lbl.pdf,BE0000694
+L10998,FDA Approved Drug Products: Foradil® Aerolizer inhalation powder,https://www.accessdata.fda.gov/drugsatfda_docs/label/2001/20831s2lbl.pdf,BE0000694
+L8717,FDA Approved Drug Products: Neurontin (gabapentin) for oral use,https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020235s064_020882s047_021129s046lbl.pdf,BE0000691
+L8720,DPD Approved Drugs: Gabapentin,https://pdf.hres.ca/dpd_pm/00044022.PDF,BE0000691
+L8732,EMA Approved Drugs: Gabapentin,https://www.ema.europa.eu/en/documents/referral/neurontin-article-30-referral-annex-i-ii-iii_en.pdf,BE0000691
+L2900,Significant Drug–Drug Interactions with Antineoplastics,https://www.ebi.ac.uk/chembl/target/inspect/CHEMBL1876,BE0000419
+L11623,FDA Approved Drug Products: Femara Letrozole Oral Tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020726s035lbl.pdf,BE0002090
+L11626,FDA Approved Drug Products: Kisquali Femara Co-Pack Letrozole and Ribociclib Succinate Oral Tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/209935s006lbl.pdf,BE0002090
+L11815,FDA Approved Drug Products: Olux-E Clobetasol Propionate Topical Aerosol Foam,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/022013s013lbl.pdf,BE0000668
+L11818,FDA Approved Drug Products: Olux Clobetasol Propionate Topical Aerosol Foam,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021142s022lbl.pdf,BE0000668
+L11827,FDA Approved Drug Products: Clobex Clobetasol Propionate Topical Lotion,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021535Orig1s003,%20021644Orig1s003lbl.pdf",BE0000668
+L11277,FDA Approved Drug Products: Intuniv Guanfacine Hydrochloride Extended Release Oral Tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/022037s019lbl.pdf,BE0000289
+L7739,FDA Label: Ketoconazole Tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/018533s041lbl.pdf,BE0000690
+L7736,EMA SmPC: Ketoconazole,https://www.ema.europa.eu/en/documents/product-information/ketoconazole-hra-epar-product-information_en.pdf,BE0000690
+L7736,EMA SmPC: Ketoconazole,https://www.ema.europa.eu/en/documents/product-information/ketoconazole-hra-epar-product-information_en.pdf,BE0000344
+L200,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1341,BE0004797
+L2940,CARPHENAZINE,https://drugs.ncats.io/ginas/app/substance/CLY16Y8Z7E,BE0000756
+L2941,CHEBI:51235 - carphenazine,http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:51235,BE0000756
+L13616,FDA Approved Drug Products: Sabril (vigabatrin) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020427s021,022006s023lbl.pdf",BE0000253
+L201,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200790,BE0004797
+L3561,FDA Approved Drug Products: Cordarone (amiodarone HCl) tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/018972s042lbl.pdf,BE0009629
+L3561,FDA Approved Drug Products: Cordarone (amiodarone HCl) tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/018972s042lbl.pdf,BE0004872
+L11265,NIH StatPearls: Amiodarone,https://www.ncbi.nlm.nih.gov/books/NBK482154/,BE0004872
+L11265,NIH StatPearls: Amiodarone,https://www.ncbi.nlm.nih.gov/books/NBK482154/,BE0000012
+L11265,NIH StatPearls: Amiodarone,https://www.ncbi.nlm.nih.gov/books/NBK482154/,BE0009739
+L11265,NIH StatPearls: Amiodarone,https://www.ncbi.nlm.nih.gov/books/NBK482154/,BE0009811
+L79,Source,http://www.druglib.com/activeingredient/anisindione/,BE0000403
+L11416,FDA Approved Drug Products: Actos (pioglitazone) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021073s049lbl.pdf,BE0000215
+L11638,FDA Approved Drug Products: Levaquin (levofloxacin) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020634s071lbl.pdf,BE0000429
+L11638,FDA Approved Drug Products: Levaquin (levofloxacin) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020634s071lbl.pdf,BE0000366
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000945
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000146
+L202,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL931,BE0004797
+L8513,FDA Approved Drug Products: Lexapro (escitalopram) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021323s051,021365s036lbl.pdf",BE0000749
+L8516,DPD Approved Drugs: Escitalopram,https://www.lundbeck.com/upload/ca/en/files/pdf/pm/Cipralex%20JUN2018_PM_E_clean.pdf,BE0000749
+L8513,FDA Approved Drug Products: Lexapro (escitalopram) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021323s051,021365s036lbl.pdf",BE0000092
+L8516,DPD Approved Drugs: Escitalopram,https://www.lundbeck.com/upload/ca/en/files/pdf/pm/Cipralex%20JUN2018_PM_E_clean.pdf,BE0000092
+L8513,FDA Approved Drug Products: Lexapro (escitalopram) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021323s051,021365s036lbl.pdf",BE0000442
+L8516,DPD Approved Drugs: Escitalopram,https://www.lundbeck.com/upload/ca/en/files/pdf/pm/Cipralex%20JUN2018_PM_E_clean.pdf,BE0000442
+L8513,FDA Approved Drug Products: Lexapro (escitalopram) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021323s051,021365s036lbl.pdf",BE0000291
+L8516,DPD Approved Drugs: Escitalopram,https://www.lundbeck.com/upload/ca/en/files/pdf/pm/Cipralex%20JUN2018_PM_E_clean.pdf,BE0000291
+L8513,FDA Approved Drug Products: Lexapro (escitalopram) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021323s051,021365s036lbl.pdf",BE0000451
+L8516,DPD Approved Drugs: Escitalopram,https://www.lundbeck.com/upload/ca/en/files/pdf/pm/Cipralex%20JUN2018_PM_E_clean.pdf,BE0000451
+L8513,FDA Approved Drug Products: Lexapro (escitalopram) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021323s051,021365s036lbl.pdf",BE0000533
+L8516,DPD Approved Drugs: Escitalopram,https://www.lundbeck.com/upload/ca/en/files/pdf/pm/Cipralex%20JUN2018_PM_E_clean.pdf,BE0000533
+L8513,FDA Approved Drug Products: Lexapro (escitalopram) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021323s051,021365s036lbl.pdf",BE0000756
+L8516,DPD Approved Drugs: Escitalopram,https://www.lundbeck.com/upload/ca/en/files/pdf/pm/Cipralex%20JUN2018_PM_E_clean.pdf,BE0000756
+L8513,FDA Approved Drug Products: Lexapro (escitalopram) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021323s051,021365s036lbl.pdf",BE0000486
+L8516,DPD Approved Drugs: Escitalopram,https://www.lundbeck.com/upload/ca/en/files/pdf/pm/Cipralex%20JUN2018_PM_E_clean.pdf,BE0000486
+L8513,FDA Approved Drug Products: Lexapro (escitalopram) for oral use,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021323s051,021365s036lbl.pdf",BE0000647
+L8516,DPD Approved Drugs: Escitalopram,https://www.lundbeck.com/upload/ca/en/files/pdf/pm/Cipralex%20JUN2018_PM_E_clean.pdf,BE0000647
+L12741,FDA Approved Products: Permax (pergolide),"https://www.accessdata.fda.gov/drugsatfda_docs/label/2003/19385slr030,031,035_permax_lbl.pdf",BE0000756
+L12750,NIH StatPearls: Dopamine agonists,https://www.ncbi.nlm.nih.gov/books/NBK551686/,BE0000756
+L12750,NIH StatPearls: Dopamine agonists,https://www.ncbi.nlm.nih.gov/books/NBK551686/,BE0000145
+L12741,FDA Approved Products: Permax (pergolide),"https://www.accessdata.fda.gov/drugsatfda_docs/label/2003/19385slr030,031,035_permax_lbl.pdf",BE0000020
+L12750,NIH StatPearls: Dopamine agonists,https://www.ncbi.nlm.nih.gov/books/NBK551686/,BE0000020
+L11602,FDA Approved Drug Products: Cleocin (clindamycin hydrochloride) oral capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/050162s101lbl.pdf,BE0009850
+L8600,DPD Approved Drugs: Levetiracetam,https://pdf.hres.ca/dpd_pm/00047496.PDF,BE0000993
+L203,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL407,BE0004797
+L8863,FDA Approved Drug Products: Arimidex (anastrozole) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020541s031lbl.pdf,BE0002090
+L8869,DPD Approved Drugs: Anastrozole,https://pdf.hres.ca/dpd_pm/00037304.PDF,BE0002090
+L8507,Quetiapine FDA label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020639s049s054lbl.pdf,BE0000451
+L8507,Quetiapine FDA label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020639s049s054lbl.pdf,BE0000756
+L8507,Quetiapine FDA label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020639s049s054lbl.pdf,BE0000442
+L8507,Quetiapine FDA label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020639s049s054lbl.pdf,BE0004863
+L8507,Quetiapine FDA label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020639s049s054lbl.pdf,BE0000092
+L3450,FDA Approved Drug Products: Invirase (saquinavir mesylate) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021785s024lbl.pdf,BE0004854
+L205,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200694,BE0004797
+L9227,FDA Approved Drug Products: Prezista (darunavir) oral tablets/suspension,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021976s056,202895s027lbl.pdf",BE0004854
+L7976,Yaz Bayer monograph,https://www.bayer.ca/omr/online/yaz-pm-en.pdf,BE0000132
+L206,ChEMBL Compound Report Card,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1102,BE0004797
+L7838,Compound report card,https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1242/,BE0000141
+L7841,"HMDB, phenazopyridine",http://www.hmdb.ca/metabolites/HMDB0015506,BE0000141
+L7568,FDA: Recarbrio Label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212819s000lbl.pdf,BE0001148
+L7526,FDA: Primaxin Label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/050587s081lbl.pdf,BE0001148
+L7568,FDA: Recarbrio Label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212819s000lbl.pdf,BE0003579
+L7568,FDA: Recarbrio Label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212819s000lbl.pdf,BE0000488
+L7568,FDA: Recarbrio Label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212819s000lbl.pdf,BE0000588
+L7526,FDA: Primaxin Label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/050587s081lbl.pdf,BE0008485
+L181,Link,http://www.lundbeck.com/upload/ca/en/files/pdf/product_monograph/Clopixol_PM_MKT_ctrl_148975_13SEPT2011_CLN_eng.pdf,BE0000442
+L2867,1M21: Crystal Structure Analysis Of The Peptide Amidase Pam In Complex With The Competitive Inhibitor Chymostatin,https://www.ncbi.nlm.nih.gov/Structure/pdb/1M21,BE0002500
+L1061,Guide to pharmacology,http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?tab=biology&ligandId=2379,BE0000745
+L1061,Guide to pharmacology,http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?tab=biology&ligandId=2379,BE0000414
+L13697,Crystal Binding Structure,https://www.ncbi.nlm.nih.gov/Structure/pdb/3BTI,BE0001268
+L13727,Structure Of Ecp In Complex With Citrate Ions,https://www.ncbi.nlm.nih.gov/Structure/pdb/4OXF,BE0000908
+L8492,FDA Approved Drug Products: Orbactiv (oritavancin) for intravenous injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/206334s005lbl.pdf,BE0009912
+L8492,FDA Approved Drug Products: Orbactiv (oritavancin) for intravenous injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/206334s005lbl.pdf,BE0009913
+L8492,FDA Approved Drug Products: Orbactiv (oritavancin) for intravenous injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/206334s005lbl.pdf,BE0009914
+L9086,EMA Approved Drugs: Afamelanotide,https://www.ema.europa.eu/en/documents/product-information/scenesse-epar-product-information_en.pdf,BE0002447
+L2801,FDA reports,https://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/PsychopharmacologicDrugsAdvisoryCommittee/UCM602419.pdf,BE0000501
+L2801,FDA reports,https://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/PsychopharmacologicDrugsAdvisoryCommittee/UCM602419.pdf,BE0000291
+L2801,FDA reports,https://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/PsychopharmacologicDrugsAdvisoryCommittee/UCM602419.pdf,BE0000650
+L2801,FDA reports,https://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/PsychopharmacologicDrugsAdvisoryCommittee/UCM602419.pdf,BE0000533
+L2801,FDA reports,https://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/PsychopharmacologicDrugsAdvisoryCommittee/UCM602419.pdf,BE0000659
+L220,FDA Label,http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/206256lbl.pdf,BE0008667
+L161,Link,http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2a87691-c9ad-4753-97a1-311fccfe6515,BE0000163
+L161,Link,http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2a87691-c9ad-4753-97a1-311fccfe6515,BE0000767
+L161,Link,http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2a87691-c9ad-4753-97a1-311fccfe6515,BE0004731
+L161,Link,http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2a87691-c9ad-4753-97a1-311fccfe6515,BE0003379
+L12336,"NIH Statpearls: Physiology, thyroid hormone",https://www.ncbi.nlm.nih.gov/books/NBK500006/,BE0009346
+L12339,NIH StatPearls: Skin (integument) antiseptics,https://www.ncbi.nlm.nih.gov/books/NBK507853/,BE0009875
+L7501,"FDA label, Otezla",https://media.celgene.com/content/uploads/otezla-pi.pdf,BE0009697
+L12636,FDA Accepts Intercept’s NDA for OCA for the Treatment of Liver Fibrosis Due to NASH and Grants Priority Review,http://ir.interceptpharma.com/news-releases/news-release-details/fda-accepts-intercepts-nda-oca-treatment-liver-fibrosis-due-nash,BE0001777
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000533
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000146
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000291
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000342
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000393
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000460
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000572
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000581
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000647
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000650
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000756
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0000945
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0004863
+L209,PDSP Ki Database,http://kidbdev.med.unc.edu/databases/pdsp.php,BE0004889
+L2291,Central cardiovascular effects of nylidrin (buphenine).,https://www.ncbi.nlm.nih.gov/m/pubmed/6105964/,BE0000012
+L2286,ToxNet Nylidrin,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+3137,BE0000385
+L2402,Pentaerythritol tetranitrate,http://www.t3db.ca/toxins/T3D0265,BE0000130
+L2402,Pentaerythritol tetranitrate,http://www.t3db.ca/toxins/T3D0265,BE0000629
+L11791,FDA Approved Drug Products: Amphadase (hyaluronidase) injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021665s005lbl.pdf,BE0009857
+L13389,FDA Approved Drug Products: Prialt (ziconotide) solution,https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021060s006lbl.pdf,BE0002226
+L11359,FDA Approved Drug Products: Tepezza (teprotumumab-trbw) for intravenous injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/761143s000lbl.pdf,BE0000858
+L237,"Development of Subtype-Selective GABAA Receptor Compounds for the Treatment of Anxiety, Sleep Disorders and Epilepsy",http://link.springer.com/chapter/10.1007%2F978-3-0346-0226-6_2,BE0008668
+L8111,Compound report card: Stanozolol,https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL2079587/,BE0000132
+L168,LASTACAFT,http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=68669-412-03&start=1,BE0000442
+L167,JEVTANA - cabazitaxel,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa,BE0001391
+L167,JEVTANA - cabazitaxel,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa,BE0000026
+L6979,FDA Approved Drug Products: Kalydeco (ivacaftor),"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/203188s029,207925s008lbl.pdf",BE0001195
+L1640,"Cholecystokinin stimulates extracellular signal-regulated kinase through activation of the epidermal growth factor receptor, Yes, and protein kinase C. Signal amplification at the level of Raf by activation of protein kinase Cepsilon.",https://www.ncbi.nlm.nih.gov/pubmed/12496267,BE0000036
+L1640,"Cholecystokinin stimulates extracellular signal-regulated kinase through activation of the epidermal growth factor receptor, Yes, and protein kinase C. Signal amplification at the level of Raf by activation of protein kinase Cepsilon.",https://www.ncbi.nlm.nih.gov/pubmed/12496267,BE0001062
+L1640,"Cholecystokinin stimulates extracellular signal-regulated kinase through activation of the epidermal growth factor receptor, Yes, and protein kinase C. Signal amplification at the level of Raf by activation of protein kinase Cepsilon.",https://www.ncbi.nlm.nih.gov/pubmed/12496267,BE0000953
+L1640,"Cholecystokinin stimulates extracellular signal-regulated kinase through activation of the epidermal growth factor receptor, Yes, and protein kinase C. Signal amplification at the level of Raf by activation of protein kinase Cepsilon.",https://www.ncbi.nlm.nih.gov/pubmed/12496267,BE0000872
+L12651,FDA Approved Products: Gilenya (fingolimod) oral capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/022527s031lbl.pdf,BE0002432
+L12651,FDA Approved Products: Gilenya (fingolimod) oral capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/022527s031lbl.pdf,BE0008652
+L12651,FDA Approved Products: Gilenya (fingolimod) oral capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/022527s031lbl.pdf,BE0009882
+L12651,FDA Approved Products: Gilenya (fingolimod) oral capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/022527s031lbl.pdf,BE0009881
+L1745,Seattle genetics Brentuximab Vedotin,http://www.seattlegenetics.com/pipeline/brentuximab-vedotin,BE0003479
+L2717,Dabrafenib,https://www.rcsb.org/ligand/P06,BE0000634
+L2717,Dabrafenib,https://www.rcsb.org/ligand/P06,BE0000036
+L2717,Dabrafenib,https://www.rcsb.org/ligand/P06,BE0004757
+L2717,Dabrafenib,https://www.rcsb.org/ligand/P06,BE0004758
+L2717,Dabrafenib,https://www.rcsb.org/ligand/P06,BE0004759
+L13994,FDA Approved Products: Tekturna (Aliskiren) oral tablets and pellets,https://www.tekturna.com/wp-content/uploads/2017/11/Tekturna_PCR-1.pdf,BE0000270
+L13386,"DailyMed Label: Jardiance (empagliflozin) tablet, film coated",https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565,BE0004753
+L11232,FDA Approved Products: Sivextro (tedizolid phosphate) tablet and injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/205435s000lbl.pdf,BE0004800
+L6667,"FDA label, Zerbaxa",https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/206829lbl.pdf,BE0003687
+L6667,"FDA label, Zerbaxa",https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/206829lbl.pdf,BE0004647
+L6667,"FDA label, Zerbaxa",https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/206829lbl.pdf,BE0004840
+L6667,"FDA label, Zerbaxa",https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/206829lbl.pdf,BE0003723
+L6667,"FDA label, Zerbaxa",https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/206829lbl.pdf,BE0003579
+L2469,EMA: Tractocile Product Information,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000253/WC500040495.pdf,BE0000844
+L8453,FDA Approved Drugs: Nintedanib,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/205832s010lbl.pdf,BE0000029
+L8453,FDA Approved Drugs: Nintedanib,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/205832s010lbl.pdf,BE0000369
+L8453,FDA Approved Drugs: Nintedanib,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/205832s010lbl.pdf,BE0000023
+L8453,FDA Approved Drugs: Nintedanib,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/205832s010lbl.pdf,BE0000852
+L8453,FDA Approved Drugs: Nintedanib,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/205832s010lbl.pdf,BE0000205
+L8453,FDA Approved Drugs: Nintedanib,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/205832s010lbl.pdf,BE0002131
+L8453,FDA Approved Drugs: Nintedanib,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/205832s010lbl.pdf,BE0000748
+L8453,FDA Approved Drugs: Nintedanib,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/205832s010lbl.pdf,BE0002133
+L8453,FDA Approved Drugs: Nintedanib,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/205832s010lbl.pdf,BE0000147
+L8453,FDA Approved Drugs: Nintedanib,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/205832s010lbl.pdf,BE0000842
+L8453,FDA Approved Drugs: Nintedanib,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/205832s010lbl.pdf,BE0004315
+L8453,FDA Approved Drugs: Nintedanib,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/205832s010lbl.pdf,BE0000838
+L2909,hERG potassium channel inhibition by ivabradine may contribute to QT prolongation and risk of torsades de pointes,http://journals.sagepub.com/doi/abs/10.1177/2042098615595546,BE0004631
+L1090,Stemgen monograph,http://www.medicines.org.au/files/anpstemi.pdf,BE0000453
+L1105,EMA Reports,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/002719/WC500157553.pdf,BE0000364
+L1105,EMA Reports,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/002719/WC500157553.pdf,BE0000216
+L1108,Australian report,https://www.tga.gov.au/sites/default/files/auspar-turoctocog-140507.pdf,BE0000048
+L1114,Encyclopedia,http://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/calcium-carbimide,BE0000193
+L1925,NLM Toxnet Toxicology Data Network: Aurothioglucose,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+7174,BE0000269
+L1925,NLM Toxnet Toxicology Data Network: Aurothioglucose,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+7174,BE0003732
+L1925,NLM Toxnet Toxicology Data Network: Aurothioglucose,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+7174,BE0003733
+L431,Pubchem,https://pubchem.ncbi.nlm.nih.gov/compound/chromic_chloride,BE0000033
+L7811,World Health Organization: Butyrfentanyl Critical Review Report,https://www.who.int/medicines/access/controlled-substances/4.2_Butyrfentanyl_CritReview.pdf,BE0000770
+L7811,World Health Organization: Butyrfentanyl Critical Review Report,https://www.who.int/medicines/access/controlled-substances/4.2_Butyrfentanyl_CritReview.pdf,BE0000632
+L7811,World Health Organization: Butyrfentanyl Critical Review Report,https://www.who.int/medicines/access/controlled-substances/4.2_Butyrfentanyl_CritReview.pdf,BE0000420
+L1266,EMBL-EBI,https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/CHEMBL2105224,BE0000770
+L1266,EMBL-EBI,https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/CHEMBL2105224,BE0000632
+L1266,EMBL-EBI,https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/CHEMBL2105224,BE0000420
+L1305,Analgesic properties of dexketoprofen trometamol,https://www.researchgate.net/profile/Jean_Sebastien_Walczak/publication/260947943_Analgesic_properties_of_dexketoprofen_trometamol/links/571a523008aee3ddc568f435/Analgesic-properties-of-dexketoprofen-trometamol.pdf,BE0000017
+L1305,Analgesic properties of dexketoprofen trometamol,https://www.researchgate.net/profile/Jean_Sebastien_Walczak/publication/260947943_Analgesic_properties_of_dexketoprofen_trometamol/links/571a523008aee3ddc568f435/Analgesic-properties-of-dexketoprofen-trometamol.pdf,BE0000262
+L1308,NCI dictionary,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/polaprezinc,BE0000029
+L1308,NCI dictionary,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/polaprezinc,BE0001094
+L1308,NCI dictionary,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/polaprezinc,BE0000205
+L1308,NCI dictionary,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/polaprezinc,BE0001120
+L1308,NCI dictionary,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/polaprezinc,BE0001898
+L1131,Vasexten (barnidipine hydrochloride modified release capsules) Summary of Product Characteristics,http://mri.cts-mrp.eu/download/NL_H_0199_002_FinalPI_2of3.pdf,BE0000430
+L1342,KEGG,http://www.genome.jp/dbget-bin/www_bget?D01562,BE0000430
+L1342,KEGG,http://www.genome.jp/dbget-bin/www_bget?D01562,BE0002359
+L1342,KEGG,http://www.genome.jp/dbget-bin/www_bget?D01562,BE0002357
+L1342,KEGG,http://www.genome.jp/dbget-bin/www_bget?D01562,BE0002355
+L1385,IJBCP,http://www.ijbcp.com/index.php/ijbcp/article/download/1891/1616,BE0008715
+L1385,IJBCP,http://www.ijbcp.com/index.php/ijbcp/article/download/1891/1616,BE0002226
+L1385,IJBCP,http://www.ijbcp.com/index.php/ijbcp/article/download/1891/1616,BE0008716
+L10833,FDA Approved Drug Products: Conjupri Levamlodipine Oral Tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212895s000lbl.pdf,BE0000430
+L1397,(r)-pirlindole and its pharmaceutically acceptable salts for use in medicine,https://patents.google.com/patent/EP3054950A1,BE0000289
+L1389,Tolaxatone,http://www.mims.com/india/drug/info/toloxatone?mtype=generic,BE0002198
+L933,European Medicines Agency (EMA): TEYSUNO (tegafur/gimeracil/oteracil) Summary of Product Characteristics,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/001242/WC500104415.pdf,BE0000960
+L1496,A gastroprotective anti-inflammatory agent: theβ-morpholinoethyl ester of niflumic acid (morniflumate),https://www.researchgate.net/publication/16587181_A_gastroprotective_anti-inflammatory_agent_theb-morpholinoethyl_ester_of_niflumic_acid_morniflumate,BE0000248
+L1497,Modulation of arachidonic acid metabolism by orally administered morniflumate in man,https://link.springer.com/article/10.1007/BF01986568,BE0003490
+L1497,Modulation of arachidonic acid metabolism by orally administered morniflumate in man,https://link.springer.com/article/10.1007/BF01986568,BE0000759
+L1519,Update in anaesthesia,http://e-safe-anaesthesia.org/e_library/03/Paracetamol_Update_2008.pdf,BE0000017
+L1519,Update in anaesthesia,http://e-safe-anaesthesia.org/e_library/03/Paracetamol_Update_2008.pdf,BE0000262
+L1519,Update in anaesthesia,http://e-safe-anaesthesia.org/e_library/03/Paracetamol_Update_2008.pdf,BE0001023
+L1519,Update in anaesthesia,http://e-safe-anaesthesia.org/e_library/03/Paracetamol_Update_2008.pdf,BE0000061
+L2945,Possible Involvement of µ Opioid Receptor in the Antidepressant-Like Effect of Shuyu Formula in Restraint Stress-Induced Depression-Like Rats,https://www.hindawi.com/journals/ecam/2015/452412/,BE0000770
+L2943,Tianeptine: A review of its use in depressive disorders.,http://psycnet.apa.org/record/2001-17021-002,BE0000291
+L1405,TALNIFLUMATE,https://drugs.ncats.io/ginas/app/substance/7c324c44,BE0000017
+L1405,TALNIFLUMATE,https://drugs.ncats.io/ginas/app/substance/7c324c44,BE0000262
+L1405,TALNIFLUMATE,https://drugs.ncats.io/ginas/app/substance/7c324c44,BE0002376
+L1557,National Cancer Institute,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur-uracil,BE0000960
+L1557,National Cancer Institute,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur-uracil,BE0000324
+L1557,National Cancer Institute,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur-uracil,BE0004810
+L1557,National Cancer Institute,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur-uracil,BE0004796
+L1541,F8 gene coagulation factor VIII ,https://ghr.nlm.nih.gov/gene/F8,BE0001043
+L1561,Menadiol Sodium Pharmacology,https://www.ndrugs.com/?s=creatinine%20sulfate/esculoside/hesperidin%20methyl%20chalcone/menadiol%20sodium%20phosphate/tranexamic%20acid&t=actions#doctor_pharmacology,BE0000333
+L1561,Menadiol Sodium Pharmacology,https://www.ndrugs.com/?s=creatinine%20sulfate/esculoside/hesperidin%20methyl%20chalcone/menadiol%20sodium%20phosphate/tranexamic%20acid&t=actions#doctor_pharmacology,BE0000364
+L1561,Menadiol Sodium Pharmacology,https://www.ndrugs.com/?s=creatinine%20sulfate/esculoside/hesperidin%20methyl%20chalcone/menadiol%20sodium%20phosphate/tranexamic%20acid&t=actions#doctor_pharmacology,BE0000216
+L1561,Menadiol Sodium Pharmacology,https://www.ndrugs.com/?s=creatinine%20sulfate/esculoside/hesperidin%20methyl%20chalcone/menadiol%20sodium%20phosphate/tranexamic%20acid&t=actions#doctor_pharmacology,BE0000380
+L1561,Menadiol Sodium Pharmacology,https://www.ndrugs.com/?s=creatinine%20sulfate/esculoside/hesperidin%20methyl%20chalcone/menadiol%20sodium%20phosphate/tranexamic%20acid&t=actions#doctor_pharmacology,BE0000403
+L1561,Menadiol Sodium Pharmacology,https://www.ndrugs.com/?s=creatinine%20sulfate/esculoside/hesperidin%20methyl%20chalcone/menadiol%20sodium%20phosphate/tranexamic%20acid&t=actions#doctor_pharmacology,BE0000943
+L1583, Pharmacokinetics and Toxicology of Aluminum in the Brain,https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1068&context=ps_facpub,BE0000669
+L1588,PROPOXYCAINE,https://pubchem.ncbi.nlm.nih.gov/compound/Propoxycaine,BE0009738
+L415,PubChem,https://pubchem.ncbi.nlm.nih.gov/compound/Pramocaine#section=Pharmacology-and-Biochemistry,BE0009738
+L1718,Himedialabs,http://himedialabs.com/TD/TC223.pdf,BE0004796
+L1719,Monograph propiolactone,https://monographs.iarc.fr/ENG/Monographs/vol71/mono71-51.pdf,BE0004796
+L2370,Perchlorate Toxicity and Risk Assessment,https://pdfs.semanticscholar.org/7974/fd30f936f33aecc961c24986018cd7e3f1b2.pdf,BE0009346
+L524,ChEMBL,https://www.ebi.ac.uk/chembl/target/results/keyword,BE0000267
+L525,UniProt,http://www.uniprot.org/uniprot/P00918,BE0000267
+L526,KEGG,http://www.kegg.jp/dbget-bin/www_bget?dr:D05283,BE0000267
+L526,KEGG,http://www.kegg.jp/dbget-bin/www_bget?dr:D05283,BE0000322
+L525,UniProt,http://www.uniprot.org/uniprot/P00918,BE0000322
+L527,UniProt,http://www.uniprot.org/uniprot/P22748,BE0000535
+L524,ChEMBL,https://www.ebi.ac.uk/chembl/target/results/keyword,BE0000535
+L524,ChEMBL,https://www.ebi.ac.uk/chembl/target/results/keyword,BE0002437
+L526,KEGG,http://www.kegg.jp/dbget-bin/www_bget?dr:D05283,BE0002437
+L528,UniProt,http://www.uniprot.org/uniprot/Q16790,BE0002437
+L524,ChEMBL,https://www.ebi.ac.uk/chembl/target/results/keyword,BE0001007
+L604,UniProt,http://www.uniprot.org/uniprot/Q03181,BE0001007
+L14009,Protein Data Bank: 1X9Z Crystal structure of the MutL C-terminal domain,https://www.rcsb.org/structure/1x9z,BE0001565
+L525,UniProt,http://www.uniprot.org/uniprot/P00918,BE0000322
+L680,ChEMBL,https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL233406,BE0000322
+L681,UniProt,http://www.uniprot.org/uniprot/P00915,BE0000267
+L680,ChEMBL,https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL233406,BE0000267
+L682,KEGG,http://www.kegg.jp/dbget-bin/www_bget?cpd:C13199,BE0000267
+L683,The Pharmacokinetics And Pharmacodynamics Of Iron Preparations,http://www.mdpi.com/1999-4923/3/1/12/htm,BE0000085
+L683,The Pharmacokinetics And Pharmacodynamics Of Iron Preparations,http://www.mdpi.com/1999-4923/3/1/12/htm,BE0000130
+L683,The Pharmacokinetics And Pharmacodynamics Of Iron Preparations,http://www.mdpi.com/1999-4923/3/1/12/htm,BE0000629
+L2423,Human foreskin fibroblast produces interleukin-6 to support derivation and self-renewal of mouse embryonic stem cells,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3580467/,BE0000918
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000029
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000565
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0001861
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000689
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000944
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000748
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000628
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000205
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000984
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000704
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000689
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000767
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000628
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0001051
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000918
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000944
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000748
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000852
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0001861
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000984
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000704
+L2434,Pre-Clinical Demo Orcel,https://www.fda.gov/ohrms/dockets/ac/01/briefing/3771b1_01.pdf,BE0000163
+L12759,WHO: Vaccine immunology,https://www.who.int/immunization/documents/Elsevier_Vaccine_immunology.pdf,BE0009883
+L12762,NIH StatPearls: Vaccination,https://www.ncbi.nlm.nih.gov/books/NBK532895/,BE0009883
+L12765,WHO vaccine safety: Hepatitis A vaccine,https://www.who.int/vaccine_safety/initiative/tools/Hep_A_Vaccine_rates_information_sheet.pdf?ua=1,BE0009883
+L2512,Amylase product information,https://www.sigmaaldrich.com/content/dam/sigma-aldrich/docs/Sigma/Product_Information_Sheet/a3176pis.pdf,BE0004836
+L2547,EMBL-EBI,https://www.ebi.ac.uk/interpro/potm/2003_5/Page1.htm,BE0004835
+L2480,Molecular Targets of Aspirin and Cancer Prevention,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4090734/,BE0000017
+L2480,Molecular Targets of Aspirin and Cancer Prevention,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4090734/,BE0000262
+L1798,Impact of Surface Polyethylene Glycol (PEG) Density on Biodegradable Nanoparticle Transport in Mucus ex vivo and Distribution in vivo,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4890729/,BE0000457
+L1800,Topical Analgesic and Anesthetic Agents Drug Class Review,http://www.health.utah.gov/pharmacy/ptcommittee/files/Criteria%20Review%20Documents/12.13/Topical%20Analgesics%20and%20Anesthetics%20Drug%20Class%20Review.pdf,BE0000017
+L1800,Topical Analgesic and Anesthetic Agents Drug Class Review,http://www.health.utah.gov/pharmacy/ptcommittee/files/Criteria%20Review%20Documents/12.13/Topical%20Analgesics%20and%20Anesthetics%20Drug%20Class%20Review.pdf,BE0000262
+L812,UniProt: Calreticulin,http://www.uniprot.org/uniprot/P27797,BE0002109
+L813,UniProt: Calcium and integrin-binding protein 1,http://www.uniprot.org/uniprot/Q99828,BE0008691
+L814,Uniprot: Programmed cell death protein 6,http://www.uniprot.org/uniprot/O75340,BE0005812
+L815,UniProt: Sorcin,http://www.uniprot.org/uniprot/P30626,BE0008692
+L816,UniProt: Calcineurin B homologous protein 1,http://www.uniprot.org/uniprot/Q99653,BE0008693
+L817,UniProt: SPARC,http://www.uniprot.org/uniprot/P09486,BE0002145
+L818,UniProt: Calnexin,http://www.uniprot.org/uniprot/P27824,BE0001011
+L819,UniProt: Fibrillin-2,http://www.uniprot.org/uniprot/P35556,BE0008694
+L820,UniProt: Protein S100-B,http://www.uniprot.org/uniprot/P04271,BE0001177
+L821,UniProt: Calsequestrin-2,http://www.uniprot.org/uniprot/O14958,BE0008695
+L822,UniProt: Regucalcin,http://www.uniprot.org/uniprot/Q15493,BE0005259
+L823,UniProt: Peflin,http://www.uniprot.org/uniprot/Q9UBV8,BE0008696
+L824,UniProt: Protein S100-A6,http://www.uniprot.org/uniprot/P06703,BE0002950
+L825,UniProt: Translationally-controlled tumor protein,http://www.uniprot.org/uniprot/P13693,BE0008697
+L826,UniProt: Calcium and integrin-binding family member 2,http://www.uniprot.org/uniprot/O75838,BE0008698
+L827,UniProt: Protein S100-A13,http://www.uniprot.org/uniprot/Q99584,BE0000885
+L828,UniProt: Calsequestrin-1,http://www.uniprot.org/uniprot/P31415,BE0008699
+L829,UniProt: Nucleobindin-1,http://www.uniprot.org/uniprot/Q02818,BE0008700
+L830,UniProt: Nucleobindin-2,http://www.uniprot.org/uniprot/P80303,BE0008701
+L831,UniProt: Calmodulin-1,http://www.uniprot.org/uniprot/P0DP23,BE0000418
+L832,UniProt: Fibrillin-3,http://www.uniprot.org/uniprot/Q75N90,BE0008702
+L833,UniProt: Grancalcin,http://www.uniprot.org/uniprot/P28676,BE0008703
+L834,UniProt: Calcium-dependent secretion activator 1,http://www.uniprot.org/uniprot/Q9ULU8,BE0008704
+L835,UniProt: Calmodulin-2,http://www.uniprot.org/uniprot/P0DP24,BE0008705
+L836,UniProt: Calmodulin-3,http://www.uniprot.org/uniprot/P0DP25,BE0008706
+L837,UniProt: Protein S100-A16,http://www.uniprot.org/uniprot/Q96FQ6,BE0008707
+L838,UniProt: Calretinin,http://www.uniprot.org/uniprot/P22676,BE0008708
+L839,UniProt: Calcyphosin,http://www.uniprot.org/uniprot/Q13938,BE0008709
+L840,UniProt: Calcium-dependent secretion activator 2,http://www.uniprot.org/uniprot/Q86UW7,BE0008710
+L841,UniProt: Calreticulin-3,http://www.uniprot.org/uniprot/Q96L12,BE0008711
+L846,UniProt: Neurexin-1,http://www.uniprot.org/uniprot/Q9ULB1,BE0005274
+L847,UniProt: Neuronal calcium sensor 1,http://www.uniprot.org/uniprot/P62166,BE0004557
+L2581,Lanolin synthesis reference,https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/lanolin,BE0009373
+L551,UniProt,http://www.uniprot.org/uniprot/P28482,BE0000923
+L552,ChEMBL,https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL442565,BE0000923
+L553,KEGG,http://www.kegg.jp/dbget-bin/www_bget?cpd:C09880,BE0000923
+L2673,FDA issues final rule on safety and effectiveness of antibacterial soaps,https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm517478.htm,BE0004347
+L2685,"Triclocarban, PuBMED",https://pubchem.ncbi.nlm.nih.gov/compound/Triclocarban,BE0004347
+L1935,Anthralin/dithranol in dermatology,https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-4632.2012.05611.x,BE0004660
+L2666,"Sulisobezone, U.S. Pharmacopoeia Monograph",http://www.pharmacopeia.cn/v29240/usp29nf24s0_m80090.html,BE0009373
+L2663,Sulsibenzone,https://pubchem.ncbi.nlm.nih.gov/compound/Sulisobenzone,BE0009373
+L2664,SULISOBENZONE,https://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+7422,BE0009373
+L2705,LABEL: SECRET COOL WATERLILY CLEAR- aluminum zirconium octachlorohydrex gly gel,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40529ae4-72f0-1f97-e054-00144ff8d46c,BE0009546
+L2708,Health Canada Document : Chemical Substance - Aluminum zirconium octachlorohydrex glycine,http://webprod.hc-sc.gc.ca/nhpid-bdipsn/ingredReq.do?id=13702&lang=eng,BE0009546
+L2736,Hexylresorcinol: Providing Skin Benefits by Modulating Multiple Molecular Targets,https://www.researchgate.net/publication/283776287_Hexylresorcinol_Providing_Skin_Benefits_by_Modulating_Multiple_Molecular_Targets,BE0000971
+L2736,Hexylresorcinol: Providing Skin Benefits by Modulating Multiple Molecular Targets,https://www.researchgate.net/publication/283776287_Hexylresorcinol_Providing_Skin_Benefits_by_Modulating_Multiple_Molecular_Targets,BE0001035
+L2736,Hexylresorcinol: Providing Skin Benefits by Modulating Multiple Molecular Targets,https://www.researchgate.net/publication/283776287_Hexylresorcinol_Providing_Skin_Benefits_by_Modulating_Multiple_Molecular_Targets,BE0000252
+L2837,Genome. JP DL-methylphedrine,http://www.genome.jp/dbget-bin/www_bget?dr:D02109,BE0000172
+L2837,Genome. JP DL-methylphedrine,http://www.genome.jp/dbget-bin/www_bget?dr:D02109,BE0000289
+L2837,Genome. JP DL-methylphedrine,http://www.genome.jp/dbget-bin/www_bget?dr:D02109,BE0004888
+L2837,Genome. JP DL-methylphedrine,http://www.genome.jp/dbget-bin/www_bget?dr:D02109,BE0004872
+L808,UniProt: Fibrinogen Alpha Chain,http://www.uniprot.org/uniprot/P02671,BE0000538
+L809,UniProt: Fibrinogen Beta Chain,http://www.uniprot.org/uniprot/P02675,BE0002091
+L12831,FDA Approved Drug Products: Ceprotin (protein C concentration [human]) powder for solution,https://www.fda.gov/media/75033/download,BE0000041
+L12831,FDA Approved Drug Products: Ceprotin (protein C concentration [human]) powder for solution,https://www.fda.gov/media/75033/download,BE0000016
+L2613,Dipyrithione inhibits lipopolysaccharide-induced iNOS and COX-2 up-regulation in macrophages and protects against endotoxic shock in mice,https://www.sciencedirect.com/science/article/pii/S0014579308003347,BE0000005
+L2613,Dipyrithione inhibits lipopolysaccharide-induced iNOS and COX-2 up-regulation in macrophages and protects against endotoxic shock in mice,https://www.sciencedirect.com/science/article/pii/S0014579308003347,BE0000262
+L2044,Sodium tetradecyl sulfate actions,https://www.ndrugs.com/?s=sodium%20tetradecyl%20sulfate&t=actions,BE0001161
+L2511,"KL4 Surfactant, WindTree",http://www.windtreetx.com/kl4-surfactant-technology2/,BE0009352
+L2507,FDA label for Surfaxin,https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021746s000lbl.pdf,BE0009352
+L812,UniProt: Calreticulin,http://www.uniprot.org/uniprot/P27797,BE0002109
+L813,UniProt: Calcium and integrin-binding protein 1,http://www.uniprot.org/uniprot/Q99828,BE0008691
+L814,Uniprot: Programmed cell death protein 6,http://www.uniprot.org/uniprot/O75340,BE0005812
+L815,UniProt: Sorcin,http://www.uniprot.org/uniprot/P30626,BE0008692
+L816,UniProt: Calcineurin B homologous protein 1,http://www.uniprot.org/uniprot/Q99653,BE0008693
+L817,UniProt: SPARC,http://www.uniprot.org/uniprot/P09486,BE0002145
+L818,UniProt: Calnexin,http://www.uniprot.org/uniprot/P27824,BE0001011
+L819,UniProt: Fibrillin-2,http://www.uniprot.org/uniprot/P35556,BE0008694
+L820,UniProt: Protein S100-B,http://www.uniprot.org/uniprot/P04271,BE0001177
+L821,UniProt: Calsequestrin-2,http://www.uniprot.org/uniprot/O14958,BE0008695
+L822,UniProt: Regucalcin,http://www.uniprot.org/uniprot/Q15493,BE0005259
+L823,UniProt: Peflin,http://www.uniprot.org/uniprot/Q9UBV8,BE0008696
+L824,UniProt: Protein S100-A6,http://www.uniprot.org/uniprot/P06703,BE0002950
+L825,UniProt: Translationally-controlled tumor protein,http://www.uniprot.org/uniprot/P13693,BE0008697
+L826,UniProt: Calcium and integrin-binding family member 2,http://www.uniprot.org/uniprot/O75838,BE0008698
+L827,UniProt: Protein S100-A13,http://www.uniprot.org/uniprot/Q99584,BE0000885
+L828,UniProt: Calsequestrin-1,http://www.uniprot.org/uniprot/P31415,BE0008699
+L829,UniProt: Nucleobindin-1,http://www.uniprot.org/uniprot/Q02818,BE0008700
+L830,UniProt: Nucleobindin-2,http://www.uniprot.org/uniprot/P80303,BE0008701
+L831,UniProt: Calmodulin-1,http://www.uniprot.org/uniprot/P0DP23,BE0000418
+L832,UniProt: Fibrillin-3,http://www.uniprot.org/uniprot/Q75N90,BE0008702
+L833,UniProt: Grancalcin,http://www.uniprot.org/uniprot/P28676,BE0008703
+L834,UniProt: Calcium-dependent secretion activator 1,http://www.uniprot.org/uniprot/Q9ULU8,BE0008704
+L835,UniProt: Calmodulin-2,http://www.uniprot.org/uniprot/P0DP24,BE0008705
+L836,UniProt: Calmodulin-3,http://www.uniprot.org/uniprot/P0DP25,BE0008706
+L837,UniProt: Protein S100-A16,http://www.uniprot.org/uniprot/Q96FQ6,BE0008707
+L838,UniProt: Calretinin,http://www.uniprot.org/uniprot/P22676,BE0008708
+L839,UniProt: Calcyphosin,http://www.uniprot.org/uniprot/Q13938,BE0008709
+L840,UniProt: Calcium-dependent secretion activator 2,http://www.uniprot.org/uniprot/Q86UW7,BE0008710
+L841,UniProt: Calreticulin-3,http://www.uniprot.org/uniprot/Q96L12,BE0008711
+L846,UniProt: Neurexin-1,http://www.uniprot.org/uniprot/Q9ULB1,BE0005274
+L847,UniProt: Neuronal calcium sensor 1,http://www.uniprot.org/uniprot/P62166,BE0004557
+L2971,Pnswire,https://www.prnewswire.com/news-releases/us-fda-approves-moxidectin-for-the-treatment-of-river-blindness-300666114.html,BE0009555
+L2971,Pnswire,https://www.prnewswire.com/news-releases/us-fda-approves-moxidectin-for-the-treatment-of-river-blindness-300666114.html,BE0009556
+L2971,Pnswire,https://www.prnewswire.com/news-releases/us-fda-approves-moxidectin-for-the-treatment-of-river-blindness-300666114.html,BE0009557
+L2223,Hypotension in patients administered indigo carmine containing impurities -A case report-,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3229025/,BE0004888
+L2515,Pripradrol PubChem,https://pubchem.ncbi.nlm.nih.gov/compound/Pipradrol_hydrochloride,BE0004889
+L2563,Etafedrine,https://www.revolvy.com/main/index.php?s=Etafedrine&item_type=topic,BE0000694
+L2557,Diffusing capacity for carbon monoxide,https://www.uptodate.com/contents/diffusing-capacity-for-carbon-monoxide,BE0009366
+L2558,"Merck Manuals, Diffusing Lung Capacity",https://www.merckmanuals.com/en-ca/professional/pulmonary-disorders/tests-of-pulmonary-function-pft/measurement-of-gas-exchange,BE0009366
+L1690,Sigma Aldrich Thimerosal,https://www.sigmaaldrich.com/catalog/product/aldrich/e35257?lang=en&region=CA,BE0000734
+L1690,Sigma Aldrich Thimerosal,https://www.sigmaaldrich.com/catalog/product/aldrich/e35257?lang=en&region=CA,BE0000030
+L1690,Sigma Aldrich Thimerosal,https://www.sigmaaldrich.com/catalog/product/aldrich/e35257?lang=en&region=CA,BE0000229
+L7489,FDA Approved Drug Products: Atezolizumab Intravenous Injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/761034s014lbl.pdf,BE0003441
+L1706,Gestrinone,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1868702,BE0000685
+L1706,Gestrinone,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1868702,BE0000557
+L1706,Gestrinone,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1868702,BE0000794
+L1706,Gestrinone,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1868702,BE0000132
+L1706,Gestrinone,https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1868702,BE0000203
+L2341,EMA assessment report,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/002790/WC500209538.pdf,BE0002089
+L2342,Opicapone: a short lived and very long acting novel catechol-O-methyltransferase inhibitor following multiple dose administration in healthy subjects,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3853535/,BE0002089
+L2343,European Medicines Agency: Ongentys (opicapone) Summary of Product Characteristics,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/002790/WC500209536.pdf,BE0002089
+L2371,EMA Summary Assessment Report,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000920/WC500047919.pdf,BE0001032
+L11280,FDA Approved Drug Products: Vyndaqel Tafamidis Meglumine Oral Capsules,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/211996s000,212161s000lbl.pdf",BE0000337
+L12945,FDA approved products: Tukysa (tucatinib) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213411s000lbl.pdf,BE0000511
+L12945,FDA approved products: Tukysa (tucatinib) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213411s000lbl.pdf,BE0009917
+L12852,FDA Approved Drug Products: Koselugo (selumetinib) capsules for oral use,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213756s000lbl.pdf,BE0000870
+L12852,FDA Approved Drug Products: Koselugo (selumetinib) capsules for oral use,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213756s000lbl.pdf,BE0004744
+L10241,FDA Approved Drug Products: Calquence Acalabrutinib Oral Capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/210259s006s007lbl.pdf,BE0001284
+L1595,Cystic fibrosis news,https://cysticfibrosisnewstoday.com/tezacaftor-vx-661-for-cystic-fibrosis,BE0001195
+L6814,Symdeko FDA label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/210491lbl.pdf,BE0001195
+L9338,FDA Approved Drugs: Reyvow,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/211280s000lbl.pdf,BE0000460
+L357,MedChem Express,https://www.medchemexpress.com/Icotinib-Hydrochloride.html?gclid=CIHby423s9ICFZG6wAodphcFSQ,BE0000767
+L8558,FDA Approved Drugs: Tenapanor,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/211801s000lbl.pdf,BE0009757
+L1000,ema.europa,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/004254/WC500230070.pdf,BE0000710
+L1000,ema.europa,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/004254/WC500230070.pdf,BE0002098
+L1000,ema.europa,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/004254/WC500230070.pdf,BE0002099
+L1000,ema.europa,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/004254/WC500230070.pdf,BE0002097
+L1000,ema.europa,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/004254/WC500230070.pdf,BE0000901
+L13347,FDA Approved Drug Products: Tabrecta (capmatinib) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213591s000lbl.pdf,BE0000915
+L638,"PARP inhibitor, MK-4827, shows anti-tumor activity in first trial in humans ",https://www.eurekalert.org/pub_releases/2010-11/eeco-pim111610.php,BE0001717
+L638,"PARP inhibitor, MK-4827, shows anti-tumor activity in first trial in humans ",https://www.eurekalert.org/pub_releases/2010-11/eeco-pim111610.php,BE0003798
+L12123,FDA Approved Drug Products: Isturisa (osilodrostat) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212801s000lbl.pdf,BE0000731
+L5924,"FDA Meeting Of The Bone, Reproductive and Urologic Drugs Advisory Committee For Rosozumab",https://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/ReproductiveHealthDrugsAdvisoryCommittee/UCM629776.pdf,BE0009665
+L5921,Romosozumab FDA Approval Announcement,https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm635653.htm,BE0009665
+L6706,FDA Approved Drug Products: Emflaza (deflazacort) tablets,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208684s000,208685s000lbl.pdf",BE0000794
+L12144,FDA Approved Products: Nexletol (bempedoic acid) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/211616s000lbl.pdf,BE0009867
+L12147,Bempedoic acid: A novel agent (Esperion),https://www.esperion.com/science/bempedoic-acid/,BE0009867
+L10863,FDA Approved Drug Products: Dayvigo (lemborexant) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212028s000lbl.pdf,BE0005864
+L3334,Cancer.gov link,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/binimetinib,BE0000918
+L3334,Cancer.gov link,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/binimetinib,BE0000704
+L3334,Cancer.gov link,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/binimetinib,BE0001051
+L8081,FDA Label: Rozlytrek,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212725s000lbl.pdf,BE0001039
+L8081,FDA Label: Rozlytrek,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212725s000lbl.pdf,BE0003605
+L8081,FDA Label: Rozlytrek,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212725s000lbl.pdf,BE0009501
+L8081,FDA Label: Rozlytrek,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212725s000lbl.pdf,BE0009534
+L8081,FDA Label: Rozlytrek,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212725s000lbl.pdf,BE0002408
+L8081,FDA Label: Rozlytrek,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212725s000lbl.pdf,BE0000772
+L2934,SLC22A8 - solute carrier family 22 member 8 (human),https://pubchem.ncbi.nlm.nih.gov/target/gene/SLC22A8/human,BE0003645
+L1028,FDA Reports,https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/208772Orig1s000MultidisciplineR.pdf,BE0000033
+L1028,FDA Reports,https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/208772Orig1s000MultidisciplineR.pdf,BE0000915
+L1028,FDA Reports,https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/208772Orig1s000MultidisciplineR.pdf,BE0004772
+L1028,FDA Reports,https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/208772Orig1s000MultidisciplineR.pdf,BE0000511
+L2325,The muscarinic receptor antagonist propiverine exhibits α1-adrenoceptor antagonism in human prostate and porcine trigonum,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3062771/,BE0000430
+L2325,The muscarinic receptor antagonist propiverine exhibits α1-adrenoceptor antagonism in human prostate and porcine trigonum,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3062771/,BE0000501
+L12729,FDA Approved Drug Products: Pifeltro (doravirine) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/210806s003lbl.pdf,BE0004136
+L11971,FDA Approved Drug Products: Nurtec ODT (rimegepant) orally disintegrating tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212728s000lbl.pdf,BE0009009
+L8090,FDA Approved Drug Products: Fedratinib Oral Capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212327s000lbl.pdf,BE0002408
+L8090,FDA Approved Drug Products: Fedratinib Oral Capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212327s000lbl.pdf,BE0000147
+L14315,FDA Approved Drug Products: Uplizna (inebilizumab-cdon) injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/761142s000lbl.pdf,BE0003496
+L12582,FDA Approved Products: Zeposia (Ozanimod) oral capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/209899s000lbl.pdf,BE0008652
+L12582,FDA Approved Products: Zeposia (Ozanimod) oral capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/209899s000lbl.pdf,BE0002432
+L14327,FDA Approved Drug Products: Zepzelca (lurbinectedin) for intravenous injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213702s000lbl.pdf,BE0004796
+L9013,FDA Approved Drugs: Aklief®,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/211527s000lbl.pdf,BE0000144
+L8093,Xenleta FDA label,"https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/211672s000,211673s000lbl.pdf",BE0009718
+L11476,FDA Approved Drug Products: Tazverik Tazemetostat Oral Tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/211723s000lbl.pdf,BE0009562
+L11476,FDA Approved Drug Products: Tazverik Tazemetostat Oral Tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/211723s000lbl.pdf,BE0009849
+L13002,FDA Approved Drug Products: Trodelvy (sacituzumab govitecan-hziy) injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/761115s000lbl.pdf,BE0009918
+L13002,FDA Approved Drug Products: Trodelvy (sacituzumab govitecan-hziy) injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/761115s000lbl.pdf,BE0000971
+L10872,"FDA Approved Drug Products: NUBEQA (darolutamide) tablets, for oral use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212099Orig1s000lbl.pdf,BE0000132
+L10872,"FDA Approved Drug Products: NUBEQA (darolutamide) tablets, for oral use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212099Orig1s000lbl.pdf,BE0000557
+L2853,"SILVER, ELEMENTAL - National Library of Medicine HSDB Database - Toxnet",https://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+5034,BE0001140
+L7883,FDA Approved Drug Products: Turaliotm (pexidartinib) capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/211810s000lbl.pdf,BE0000853
+L7895,"TURALIO (PEXIDARTINIB) CAPSULES - Daiichi Sankyo, Inc. - FDA Oncologic Drugs Advisory Committee Briefing Document",https://www.fda.gov/media/124893/download,BE0000853
+L7895,"TURALIO (PEXIDARTINIB) CAPSULES - Daiichi Sankyo, Inc. - FDA Oncologic Drugs Advisory Committee Briefing Document",https://www.fda.gov/media/124893/download,BE0000453
+L7895,"TURALIO (PEXIDARTINIB) CAPSULES - Daiichi Sankyo, Inc. - FDA Oncologic Drugs Advisory Committee Briefing Document",https://www.fda.gov/media/124893/download,BE0000147
+L7895,"TURALIO (PEXIDARTINIB) CAPSULES - Daiichi Sankyo, Inc. - FDA Oncologic Drugs Advisory Committee Briefing Document",https://www.fda.gov/media/124893/download,BE0000205
+L10836,FDA Approved Drug Products: Padcev (enfortumab vedotin-ejfv) for IV injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/761137s000lbl.pdf,BE0009798
+L569,UniProt,http://www.uniprot.org/uniprot/P07550,BE0000694
+L570,KEGG,http://www.kegg.jp/dbget-bin/www_bget?hsa:154,BE0000694
+L532,UniProt,http://www.uniprot.org/uniprot/Q99062,BE0000793
+L533,KEGG,http://www.kegg.jp/dbget-bin/www_bget?hsa:1441,BE0000793
+L1051,Axumin,http://www.axumin.com/pdf/formulary_information/Clinical_Summary_FINAL.pdf,BE0000236
+L1051,Axumin,http://www.axumin.com/pdf/formulary_information/Clinical_Summary_FINAL.pdf,BE0004769
+L1051,Axumin,http://www.axumin.com/pdf/formulary_information/Clinical_Summary_FINAL.pdf,BE0000136
+L1052,FDA Reports,https://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/208054Orig1s000PharmR.pdf,BE0004852
+L1052,FDA Reports,https://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/208054Orig1s000PharmR.pdf,BE0000640
+L1052,FDA Reports,https://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/208054Orig1s000PharmR.pdf,BE0000829
+L1052,FDA Reports,https://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/208054Orig1s000PharmR.pdf,BE0000831
+L1052,FDA Reports,https://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/208054Orig1s000PharmR.pdf,BE0000830
+L577,ChEMBL,https://www.ebi.ac.uk/chembldb/compound/inspect/CHEMBL482581,BE0000132
+L578,UniProt,http://www.uniprot.org/uniprot/P10275,BE0000132
+L576,KEGG,http://www.genome.jp/dbget-bin/www_bget?cpd:C09264,BE0000132
+L498,UniProt,http://www.uniprot.org/uniprot/P04150,BE0000794
+L499,KEGG,http://www.kegg.jp/dbget-bin/www_bget?hsa:2908,BE0000794
+L1055,Hemofil M,http://www.baxaltahematology.com/hcp/assets/files/Hemofil-M-EU-PI.pdf,BE0000364
+L1056,Dailymed,https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=d9c17023-cbff-4d95-8f44-ef842d59d938#CP,BE0000364
+L1057,Dailymed,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2f77d685-e382-b2e7-2414-0d3a3448688a,BE0000364
+L1055,Hemofil M,http://www.baxaltahematology.com/hcp/assets/files/Hemofil-M-EU-PI.pdf,BE0000216
+L1056,Dailymed,https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=d9c17023-cbff-4d95-8f44-ef842d59d938#CP,BE0000216
+L1057,Dailymed,https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2f77d685-e382-b2e7-2414-0d3a3448688a,BE0000216
+L2407,National Cancer Institute,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=NCI_Thesaurus&code=C87662,BE0009350
+L2340,Australian Complementary Medicines Evaluation,https://www.tga.gov.au/sites/default/files/cmec-minutes-47.pdf,BE0009344
+L8681,Ozempic injection FDA label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209637s001lbl.pdf,BE0000857
+L1099,Novo Nordisk News,https://www.novonordisk.com/bin/getPDF.2110891.pdf,BE0000333
+L1100,FDA Advisory committees,https://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/BloodVaccinesandOtherBiologics/BloodProductsAdvisoryCommittee/UCM549858.pdf,BE0000333
+L1099,Novo Nordisk News,https://www.novonordisk.com/bin/getPDF.2110891.pdf,BE0000016
+L1100,FDA Advisory committees,https://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/BloodVaccinesandOtherBiologics/BloodProductsAdvisoryCommittee/UCM549858.pdf,BE0000016
+L1099,Novo Nordisk News,https://www.novonordisk.com/bin/getPDF.2110891.pdf,BE0000216
+L1100,FDA Advisory committees,https://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/BloodVaccinesandOtherBiologics/BloodProductsAdvisoryCommittee/UCM549858.pdf,BE0000216
+L1859,Ilumya,https://www.psoriasis.org/content/ilumya-tildrakizumab-asmn,BE0008663
+L2243,FDA guidelines,https://www.fda.gov/downloads/Drugs/.../Guidances/ucm071320.pdf,BE0009341
+L8582,Sativex monograph,https://www.bayer.ca/omr/online/sativex-pm-en.pdf,BE0002363
+L2347,Crysvita Drug Label,http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/004275/WC500245537.pdf,BE0009345
+L2351,Burosumab for XLH,http://www.ultragenyx.com/pipeline/krn23-xlh/,BE0009345
+L2348,Burosumab for a rare bone disease,http://www.who.int/medicines/publications/druginformation/issues/WHO_DI_32-1.pdf,BE0009345
+L2349,DRUG: Burosumab,http://www.genome.jp/dbget-bin/www_bget?dr:D10913,BE0009345
+L2798,Sulfisoxazole,http://www.nextbio.com/b/search/details/Sulfisoxazole?type=compound,BE0000803
+L11749,FDA Approved Drug Products: Ajovy (fremanezumab-vfrm) subcutaneous injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/761089s002lbl.pdf,BE0001103
+L11749,FDA Approved Drug Products: Ajovy (fremanezumab-vfrm) subcutaneous injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/761089s002lbl.pdf,BE0002370
+L12822,FDA Approved Drug Products: Lokelma (sodium zirconium cyclosilicate) for oral suspension,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/207078s000lbl.pdf,BE0004816
+L2968,aureobasidin A ( Basifungin),https://www.semanticscholar.org/topic/aureobasidin-A/853115,BE0009553
+L2969,Basifungin PubChem,https://pubchem.ncbi.nlm.nih.gov/compound/9919816#section=Top,BE0009553
+L2961,Nonsteroidal Antiinflammatory Drugs and a Selective Cyclooxygenase 2 Inhibitor Uncouple Mitochondria in Intact Cells,https://onlinelibrary.wiley.com/doi/pdf/10.1002/art.10969,BE0009550
+L2963,The COX-2 inhibitor SC-236 exerts anti-inflammatory effects by suppressing phosphorylation of ERK in a murine model,https://www.sciencedirect.com/science/article/pii/S0024320507004845,BE0009550
+L2967,"Cyclooxygenase-2 Inhibitor SC-236 [4-[5-(4-Chlorophenyl)-3-(trifluoromethyl)-1-pyrazol-1-l] Benzenesulfonamide] Suppresses Nuclear Factor-κB Activation and Phosphorylation of p38 Mitogen-Activated Protein Kinase, Extracellular Signal-Regulated Kinase, and c-Jun N-Terminal Kinase in Human Mast Cell Line Cells",http://jpet.aspetjournals.org/content/314/1/27,BE0009554
+L812,UniProt: Calreticulin,http://www.uniprot.org/uniprot/P27797,BE0002109
+L813,UniProt: Calcium and integrin-binding protein 1,http://www.uniprot.org/uniprot/Q99828,BE0008691
+L814,Uniprot: Programmed cell death protein 6,http://www.uniprot.org/uniprot/O75340,BE0005812
+L815,UniProt: Sorcin,http://www.uniprot.org/uniprot/P30626,BE0008692
+L816,UniProt: Calcineurin B homologous protein 1,http://www.uniprot.org/uniprot/Q99653,BE0008693
+L817,UniProt: SPARC,http://www.uniprot.org/uniprot/P09486,BE0002145
+L818,UniProt: Calnexin,http://www.uniprot.org/uniprot/P27824,BE0001011
+L819,UniProt: Fibrillin-2,http://www.uniprot.org/uniprot/P35556,BE0008694
+L820,UniProt: Protein S100-B,http://www.uniprot.org/uniprot/P04271,BE0001177
+L821,UniProt: Calsequestrin-2,http://www.uniprot.org/uniprot/O14958,BE0008695
+L822,UniProt: Regucalcin,http://www.uniprot.org/uniprot/Q15493,BE0005259
+L823,UniProt: Peflin,http://www.uniprot.org/uniprot/Q9UBV8,BE0008696
+L824,UniProt: Protein S100-A6,http://www.uniprot.org/uniprot/P06703,BE0002950
+L825,UniProt: Translationally-controlled tumor protein,http://www.uniprot.org/uniprot/P13693,BE0008697
+L826,UniProt: Calcium and integrin-binding family member 2,http://www.uniprot.org/uniprot/O75838,BE0008698
+L827,UniProt: Protein S100-A13,http://www.uniprot.org/uniprot/Q99584,BE0000885
+L828,UniProt: Calsequestrin-1,http://www.uniprot.org/uniprot/P31415,BE0008699
+L829,UniProt: Nucleobindin-1,http://www.uniprot.org/uniprot/Q02818,BE0008700
+L830,UniProt: Nucleobindin-2,http://www.uniprot.org/uniprot/P80303,BE0008701
+L831,UniProt: Calmodulin-1,http://www.uniprot.org/uniprot/P0DP23,BE0000418
+L832,UniProt: Fibrillin-3,http://www.uniprot.org/uniprot/Q75N90,BE0008702
+L833,UniProt: Grancalcin,http://www.uniprot.org/uniprot/P28676,BE0008703
+L834,UniProt: Calcium-dependent secretion activator 1,http://www.uniprot.org/uniprot/Q9ULU8,BE0008704
+L835,UniProt: Calmodulin-2,http://www.uniprot.org/uniprot/P0DP24,BE0008705
+L836,UniProt: Calmodulin-3,http://www.uniprot.org/uniprot/P0DP25,BE0008706
+L837,UniProt: Protein S100-A16,http://www.uniprot.org/uniprot/Q96FQ6,BE0008707
+L838,UniProt: Calretinin,http://www.uniprot.org/uniprot/P22676,BE0008708
+L839,UniProt: Calcyphosin,http://www.uniprot.org/uniprot/Q13938,BE0008709
+L840,UniProt: Calcium-dependent secretion activator 2,http://www.uniprot.org/uniprot/Q86UW7,BE0008710
+L841,UniProt: Calreticulin-3,http://www.uniprot.org/uniprot/Q96L12,BE0008711
+L846,UniProt: Neurexin-1,http://www.uniprot.org/uniprot/Q9ULB1,BE0005274
+L847,UniProt: Neuronal calcium sensor 1,http://www.uniprot.org/uniprot/P62166,BE0004557
+L11232,FDA Approved Products: Sivextro (tedizolid phosphate) tablet and injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/205435s000lbl.pdf,BE0004800
+L11758,FDA Approved Drug Products: Revcovi (elapegademase-lvlr) for intramuscular injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/761092s000lbl.pdf,BE0004828
+L4892,Blood Journal: Randomized Study of Pegaspargase (SS-PEG) and Calaspargase Pegol (SPC-PEG) in Pediatric Patients with Newly Diagnosed Acute Lymphoblastic Leukemia or Lymphoblastic Lymphoma: Results of DFCI ALL Consortium Protocol 11-001,http://www.bloodjournal.org/content/128/22/175?sso-checked=true,BE0004798
+L4896,Stemline therapeutics news,https://ir.stemline.com/news-releases/news-release-details/stemline-therapeutics-announces-presentation-elzonristm,BE0001036
+L4895,Oncology nursing news,https://www.oncnursingnews.com/web-exclusives/fda-approves-tagraxofusperzs-for-blastic-plasmacytoid-dendritic-cell-neoplasm,BE0009577
+L4897,Blood journal,http://www.bloodjournal.org/content/124/3/385?sso-checked=true,BE0009577
+L1108,Australian report,https://www.tga.gov.au/sites/default/files/auspar-turoctocog-140507.pdf,BE0000048
+L11791,FDA Approved Drug Products: Amphadase (hyaluronidase) injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021665s005lbl.pdf,BE0009857
+L9623,Vumerity FDA label,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/211855s000lbl.pdf,BE0000411
+L12099,FDA Approved Drug Products: Sarclisa (isatuximab-irfc) for intravenous injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/761113s000lbl.pdf,BE0005459
+L13769,"FDA Approved Drug Products: QINLOCK (ripretinib) tablets, for oral use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213973s000lbl.pdf,BE0000453
+L13769,"FDA Approved Drug Products: QINLOCK (ripretinib) tablets, for oral use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213973s000lbl.pdf,BE0000205
+L13769,"FDA Approved Drug Products: QINLOCK (ripretinib) tablets, for oral use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213973s000lbl.pdf,BE0003379
+L13769,"FDA Approved Drug Products: QINLOCK (ripretinib) tablets, for oral use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213973s000lbl.pdf,BE0000369
+L13769,"FDA Approved Drug Products: QINLOCK (ripretinib) tablets, for oral use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213973s000lbl.pdf,BE0000634
+L13769,"FDA Approved Drug Products: QINLOCK (ripretinib) tablets, for oral use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213973s000lbl.pdf,BE0000852
+L9089,FDA Approved Drug Products: Brolucizumab Intravitreal Injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/761125s000lbl.pdf,BE0000163
+L14114,FDA Approved Drug Products: Tauvid (flortaucipir F-18) injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212123s000lbl.pdf,BE0003474
+L14114,FDA Approved Drug Products: Tauvid (flortaucipir F-18) injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212123s000lbl.pdf,BE0002198
+L14114,FDA Approved Drug Products: Tauvid (flortaucipir F-18) injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212123s000lbl.pdf,BE0002196
+L10842,"FDA Approved Drug Products: ENHERTU (fam-trastuzumab deruxtecan-nxki) for injection, for intravenous use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/761139s000lbl.pdf,BE0000710
+L10842,"FDA Approved Drug Products: ENHERTU (fam-trastuzumab deruxtecan-nxki) for injection, for intravenous use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/761139s000lbl.pdf,BE0000971
+L10397,FDA Approved Drug Products: Oxbrytatm (voxelotor) tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/213137s000lbl.pdf,BE0000130
+L10202,FDA Approved Drug Products: Givlaari subcutaneous injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/0212194s000lbl.pdf,BE0009790
+L13050,"FDA Approved Drug Products: PEMAZYRE (pemigatinib) tablets, for oral use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213736s000lbl.pdf,BE0002131
+L13050,"FDA Approved Drug Products: PEMAZYRE (pemigatinib) tablets, for oral use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213736s000lbl.pdf,BE0000748
+L13050,"FDA Approved Drug Products: PEMAZYRE (pemigatinib) tablets, for oral use",https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213736s000lbl.pdf,BE0001203
+L10097,FDA Approved Drug Products: Adakveo Crizanlizumab-TMCA Intravenous Injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/761128s000lbl.pdf,BE0001159
+L10926,FDA Approved Drug Products: Ubrelvy (ubrogepant) oral tablets,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/211765s000lbl.pdf,BE0009009
+L9395,"FDA Approved Drug Products: Trikafta (elexacaftor, tezacaftor and ivacaftor tablets; ivacaftor tablets)",https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212273s000lbl.pdf,BE0001195
+L8570,Med Chem Express: Cambinol Product Data Sheet,https://file.medchemexpress.com/batch_PDF/HY-100732/Cambinol-DataSheet-MedChemExpress.pdf,BE0002461
+L8570,Med Chem Express: Cambinol Product Data Sheet,https://file.medchemexpress.com/batch_PDF/HY-100732/Cambinol-DataSheet-MedChemExpress.pdf,BE0009759
+L8570,Med Chem Express: Cambinol Product Data Sheet,https://file.medchemexpress.com/batch_PDF/HY-100732/Cambinol-DataSheet-MedChemExpress.pdf,BE0003362
+L8597,FDA Approved Drug Products: Gallium Dotatoc GA 68,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/210828s000lbl.pdf,BE0003528
+L8603,EMA Assessment Report: SomaKit TOC,https://www.ema.europa.eu/en/documents/assessment-report/somakit-toc-epar-public-assessment-report_en.pdf,BE0002147
+L8603,EMA Assessment Report: SomaKit TOC,https://www.ema.europa.eu/en/documents/assessment-report/somakit-toc-epar-public-assessment-report_en.pdf,BE0003529
+L8603,EMA Assessment Report: SomaKit TOC,https://www.ema.europa.eu/en/documents/assessment-report/somakit-toc-epar-public-assessment-report_en.pdf,BE0000452
+L9875,NCI Drug Dictionary - Definition of CCR4 inhibitor FLX475,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796771,BE0009787
+L10758,"FDA label, Golodirsen",https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/211970s000lbl.pdf,BE0009794
+L10764,Muscular dystrophy UK,https://www.musculardystrophyuk.org/progress-in-research/background-information/what-is-exon-skipping-and-how-does-it-work/,BE0009794
+L10830,Brilliant Blue G Opthalmic solution,https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209569s000lbl.pdf,BE0009797
+L11581,FDA Approved Products: MONOFERRIC (ferric derisomaltose) for injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208171s000lbl.pdf,BE0000130
+L11581,FDA Approved Products: MONOFERRIC (ferric derisomaltose) for injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208171s000lbl.pdf,BE0004850
+L11620,EMC: Monofer 100mg/ml solution for injection/infusion,https://www.medicines.org.uk/emc/medicine/23669,BE0004850
+L13604,FDA Approved Drug Products: Retevmo (selpercatinib) capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213246s000lbl.pdf,BE0002411
+L13655,LIBRETTO-001: Selpercatinib in RET-altered cancers presentation,https://www.loxooncology.com/docs/presentations/LOXO-292-Registrational-Results-LIBRETTO-001_v2.pdf,BE0002411
+L13604,FDA Approved Drug Products: Retevmo (selpercatinib) capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213246s000lbl.pdf,BE0000029
+L13604,FDA Approved Drug Products: Retevmo (selpercatinib) capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213246s000lbl.pdf,BE0000023
+L13604,FDA Approved Drug Products: Retevmo (selpercatinib) capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213246s000lbl.pdf,BE0002131
+L13604,FDA Approved Drug Products: Retevmo (selpercatinib) capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213246s000lbl.pdf,BE0000748
+L13604,FDA Approved Drug Products: Retevmo (selpercatinib) capsules,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213246s000lbl.pdf,BE0002133
+L13886,"Practical Neurology: Vazegepant, Investigational Drug Being Studied for Migraine, to Enter Phase 2 Trial for COVID-19 Treatment",https://practicalneurology.com/news/vazegepant-investigational-drug-being-studied-for-migraine-to-enter-phase-2-trial-for-covid-19-treatment,BE0009009
+L14096,FDA Approved Drug Products: Cerianna (fluoroestradiol F 18) for intravenous injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212155s000lbl.pdf,BE0000123
+L14096,FDA Approved Drug Products: Cerianna (fluoroestradiol F 18) for intravenous injection,https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212155s000lbl.pdf,BE0000792
