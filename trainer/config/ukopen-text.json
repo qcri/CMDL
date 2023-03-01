@@ -1,0 +1,1 @@
+{"epochs": 10, "batch_size": 8, "lr": 1e-05, "tokenizer_max_length": 512, "file_min_words": 8, "input_path": "../inputs/ukopen-text-rows", "output": "./ukopen-text-model", "tokenizer": "roberta-base", "input_model": "roberta-base"}

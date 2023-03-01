@@ -1,0 +1,1 @@
+{"epochs": 10, "batch_size": 8, "lr": 1e-05, "tokenizer_max_length": 512, "file_min_words": 8, "input_path": "../inputs/pubmed-targets-1", "output": "./pharma-text-model", "tokenizer": "allenai/biomed_roberta_base", "input_model": "allenai/biomed_roberta_base"}
