@@ -1,0 +1,12 @@
+Mismatch repair proteins, DNA damage-recognition proteins and translesion DNA polymerases discriminate between Pt-GG adducts containing cis-diammine ligands (formed by cisplatin (CP) and carboplatin) and trans-RR-diaminocyclohexane ligands (formed by oxaliplatin (OX)) and this discrimination is thought to be important in determining differences in the efficacy, toxicity and mutagenicity of these platinum anticancer agents. We have postulated that these proteins recognize differences in conformation and/or conformational dynamics of the DNA containing the adducts. We have previously determined the NMR solution structure of OX-DNA, CP-DNA and undamaged duplex DNA in the 5'-d(CCTCAGGCCTCC)-3' sequence context and have shown the existence of several conformational differences in the vicinity of the Pt-GG adduct. Here we have used molecular dynamics simulations to explore differences in the conformational dynamics between OX-DNA, CP-DNA and undamaged DNA in the same sequence context. Twenty-five 10 ns unrestrained fully solvated molecular dynamics simulations were performed starting from two different DNA conformations using AMBER v8.0. All 25 simulations reached equilibrium within 4 ns, were independent of the starting structure and were in close agreement with previous crystal and NMR structures. Our data show that the cis-diammine (CP) ligand preferentially forms hydrogen bonds on the 5' side of the Pt-GG adduct, while the trans-RR-diaminocyclohexane (OX) ligand preferentially forms hydrogen bonds on the 3' side of the adduct. In addition, our data show that these differences in hydrogen bond formation are strongly correlated with differences in conformational dynamics, specifically the fraction of time spent in different DNA conformations in the vicinity of the adduct, for CP- and OX-DNA adducts. We postulate that differential recognition of CP- and OX-GG adducts by mismatch repair proteins, DNA damage-recognition proteins and DNA polymerases may be due, in part, to differences in the fraction of time that the adducts spend in a conformation favorable for protein binding.
+Cisplatin
+DNA
+DNA Adducts
+DNA Mismatch Repair
+DNA Repair
+Guanine
+Hydrogen Bonding
+Nucleic Acid Conformation
+Organoplatinum Compounds
+Oxaliplatin
+Protein Binding

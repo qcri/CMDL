@@ -1,0 +1,34 @@
+The aim of this study was to evaluate a strategy based on a physiologically based pharmacokinetic (PBPK) model for the prediction of PK profiles in human using in vitro data when elimination of compounds relies on active transport processes. The strategy was first applied to rat in vivo and in vitro data in order to refine the PBPK model. The model could then be applied to human in vitro uptake transport data using valsartan as a probe substrate. Plated rat and human hepatocytes, and cell lines overexpressing human OATP1B1 and OATP1B3 were used for in vitro uptake experiments. The uptake rate of valsartan was higher for rat hepatocytes (K (m,u) = 28.4 +/- 3.7 muM, V (max) = 1318 +/- 176 pmol/mg/min and P (dif) = 1.21 +/- 0.42 microl/mg/min) compared to human hepatocytes (K (m,u) = 44.4 +/- 14.6 microM, V (max) = 304 +/- 85 pmol/mg/min and P (dif) = 0.724 +/- 0.271 microl/mg/min). OATP1B1 and 1B3 parameters were correlated to human hepatocyte data using experimentally established relative activity factors (RAF). Resulting PBPK simulations using those in vitro data were compared for plasma (human and rat) and bile (rat) concentration-time profiles following i.v. bolus administration of valsartan. An uncertainty analysis indicated that the scaled in vitro uptake clearance had to be adjusted with an additional empirical scaling factor of 5 to match the plasma concentrations and biliary excretion profiles. Applying this model, plasma clearances (CL(P)) for rat and human were predicted within two-fold relative to predictions based on respective in vitro data. The corrected hepatic uptake transport kinetic parameters enabled the prediction of valsartan in vivo PK profiles and plasma clearances, using PBPK modeling. Moreover, the interspecies difference in elimination rate observed in vivo was correctly reflected in the transport parameters determined in vitro. More data are needed to support more general applications of the proposed approach including its use for metabolized compounds.
+Administration, Oral
+Adult
+Aged
+Angiotensin II Type 1 Receptor Blockers
+Animals
+Bile
+Biological Transport, Active
+CHO Cells
+Cricetinae
+Cricetulus
+Cross-Over Studies
+Drug Interactions
+Female
+Hepatocytes
+Humans
+Injections, Intravenous
+Liver-Specific Organic Anion Transporter 1
+Male
+Middle Aged
+Models, Biological
+Organic Anion Transporters
+Organic Anion Transporters, Sodium-Independent
+Randomized Controlled Trials as Topic
+Rats
+Rats, Sprague-Dawley
+Rats, Wistar
+Reproducibility of Results
+Solute Carrier Organic Anion Transporter Family Member 1B3
+Species Specificity
+Tetrazoles
+Transfection
+Valine
+Valsartan

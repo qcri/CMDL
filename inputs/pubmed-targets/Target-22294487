@@ -1,0 +1,12 @@
+Tamoxifen, a prodrug used for adjuvant breast cancer therapy, requires conversion to the active metabolite endoxifen through CYP 2D6. We aimed to construct an algorithm to predict endoxifen concentrations based on a patient’s CYP 2D6 genotype, demographic factors, and co-medication use. Eighty-eight women enrolled in the UCSF TamGen II study and 81 women enrolled in a prospective study at Dana-Farber Cancer Institute were included in this analysis. All the women had been on tamoxifen for at least 3 months before blood collection. Demographic information included the patient’s age, race/ethnicity, body mass index (where available), and self-reported and measured medications and herbals that affect 2D6 activity. DNA was extracted and genotyped for 2D6 (Amplichip, Roche Diagnostics). An activity score was calculated based on genotypes and adjusted for use of medications known to inhibit 2D6. Serum was tested for tamoxifen and metabolite concentrations and for the presence of drugs by liquid chromatography/mass spectrometry. Univariate and multivariate regression analysis were computed for age, body mass index, ethnicity, and adjusted activity score to predict tamoxifen metabolite concentrations in the training data-set of UCSF patients, and the resulting algorithm was validated in the Dana-Farber patients. For the training set, the correlation coefficient (r2) for log endoxifen and N-desmethyltamoxifen:endoxifen ratio to activity score, age, and race, were 0.520 and 0.659, respectively; 0.324 and 0.567 for the validation; and 0.396 and 0.615 for both the datasets combined. An algorithm that incorporates genotype and demographic variables can be used to predict endoxifen concentrations for women on tamoxifen therapy. If endoxifen levels are confirmed to be predictive of tamoxifen benefit, then this algorithm may be helpful to determine which women warrant endoxifen testing.
+Adult
+Algorithms
+Antineoplastic Agents, Hormonal
+Breast Neoplasms
+Cohort Studies
+Cytochrome P-450 CYP2D6
+Female
+Genotype
+Humans
+Middle Aged
+Tamoxifen

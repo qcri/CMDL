@@ -1,0 +1,18 @@
+Nucleoside reverse transcriptase inhibitors (NRTIs) need to enter cells to act against the HIV-1. Human organic cation transporters (hOCT1-3) are expressed and active in CD4+ T cells, the main target of HIV-1, and have been associated with antiviral uptake in different tissues. In this study, we examined whether NRTIs interact and are substrates of hOCT in cells stably expressing these transporters. Using [(3)H]N-methyl-4-phenylpyridinium, we found a high-affinity interaction among abacavir [[(1S,4R)-4-[2-amino-6-(cyclopropylamino)purin-9-yl]-cyclopent-2-enyl]methanol sulfate] (ABC); <0.08 nM], azidothymidine [3'-azido-3'-deoxythymidine (AZT); <0.4 nM], tenofovir disoproxil fumarate (<1.0 nM), and emtricitabine (<2.5 nM) and hOCTs. Using a wide range of concentrations of lamivudine [(-)-beta-L-2',3'-dideoxy-3'-thiacyitidine (3TC)], we determined two different binding sites for hOCTs: a high-affinity site (K(d1) = 12.3-15.4 pM) and a low-affinity site (K(d2) = 1.9-3.4 mM). Measuring direct uptake of [(3)H]3TC and inhibition with hOCT substrates, we identified 3TC as a novel substrate for hOCT1, 2, and 3, with hOCT1 as the most efficient transporter (K(m) = 1.25 +/- 0.1 mM; V(max) = 10.40 +/- 0.32 nmol/mg protein/min; V(max)/K(m) = 8.32 +/- 0.40 microl/mg protein/min). In drug-drug interaction experiments, we analyzed cis-inhibition of [(3)H]3TC uptake by ABC and AZT and found that 40 to 50% was inhibited at low concentrations of the drugs (K(i) = 22-500 pM). These data reveal that NRTIs experience a high-affinity interaction with hOCTs, suggesting a putative role for these drugs as modulators of hOCT activity. Finally, 3TC is a novel substrate for hOCTs and the inhibition of its uptake at low concentrations of ABC and AZT could have implications for the pharmacokinetics of 3TC.
+Animals
+Anti-HIV Agents
+Binding Sites
+Biological Transport, Active
+CHO Cells
+Cricetinae
+Cricetulus
+Dideoxynucleosides
+Drug Interactions
+Humans
+Kinetics
+Lamivudine
+Organic Anion Transport Protein 1
+Organic Anion Transporters, Sodium-Independent
+Reverse Transcriptase Inhibitors
+Transfection
+Zidovudine

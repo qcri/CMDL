@@ -1,0 +1,18 @@
+BACKGROUND: The angiotensin-converting enzyme (ACE) inhibitors have complicated and poorly characterized pharmacokinetics. There are two binding sites per ACE (high affinity "C", lower affinity "N") that have sub-nanomolar affinities and dissociation rates of hours. Most inhibitors are given orally in a prodrug form that is systemically converted to the active form. This paper describes the first human physiologically based pharmacokinetic (PBPK) model of this drug class.
+METHODS: The model was applied to the experimental data of van Griensven et. al for the pharmacokinetics of ramiprilat and its prodrug ramipril. It describes the time course of the inhibition of the N and C ACE sites in plasma and the different tissues. The model includes: 1) two independent ACE binding sites; 2) non-equilibrium time dependent binding; 3) liver and kidney ramipril intracellular uptake, conversion to ramiprilat and extrusion from the cell; 4) intestinal ramipril absorption. The experimental in vitro ramiprilat/ACE binding kinetics at 4 degrees C and 300 mM NaCl were assumed for most of the PBPK calculations. The model was incorporated into the freely distributed PBPK program PKQuest.
+RESULTS: The PBPK model provides an accurate description of the individual variation of the plasma ramipril and ramiprilat and the ramiprilat renal clearance following IV ramiprilat and IV and oral ramipril. Summary of model features: Less than 2% of total body ACE is in plasma; 35% of the oral dose is absorbed; 75% of the ramipril metabolism is hepatic and 25% of this is converted to systemic ramiprilat; 100% of renal ramipril metabolism is converted to systemic ramiprilat. The inhibition was long lasting, with 80% of the C site and 33% of the N site inhibited 24 hours following a 2.5 mg oral ramipril dose. The plasma ACE inhibition determined by the standard assay is significantly less than the true in vivo inhibition because of assay dilution.
+CONCLUSION: If the in vitro plasma binding kinetics of the ACE inhibitor for the two binding sites are known, a unique PBPK model description of the Griensven et. al. experimental data can be obtained.
+Administration, Oral
+Adult
+Angiotensin-Converting Enzyme Inhibitors
+Binding Sites
+Biological Availability
+Humans
+Injections, Intravenous
+Male
+Models, Biological
+Peptidyl-Dipeptidase A
+Ramipril
+Randomized Controlled Trials as Topic
+Reproducibility of Results
+Substrate Specificity

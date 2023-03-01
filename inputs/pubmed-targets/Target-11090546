@@ -1,0 +1,20 @@
+Potassium channels encoded by HERG underlie I:(Kr), a sensitive target for most class III antiarrhythmic drugs, including methanesulfonanilides such as Dd-sotalol. Recently it was shown that these drugs are trapped in the channel as it closes during hyperpolarization. At the same time, HERG channels rapidly open and inactivate when depolarized, and methanesulfonanilide block is known to develop in a use-dependent manner, suggesting a potential role for inactivation in drug binding. However, the role of HERG inactivation in class III drug action is uncertain: pore mutations that remove inactivation reduce block, yet many of these mutations also modify the channel permeation properties and could alter drug affinity through gating-independent mechanisms. In the present study, we identify a definitive role for inactivation gating in Dd-sotalol block of HERG, using interventions complementary to mutagenesis. These interventions (addition of extracellular Cd(2+), removal of extracellular Na(+)) modify the voltage dependence of inactivation but not activation. In normal extracellular solutions, block of HERG current by 300 micromol/L Dd-sotalol reached 80% after a 10-minute period of repetitive depolarization to +20 mV. Maneuvers that impeded steady-state inactivation also reduced Dd-sotalol block of HERG: 100 micromol/L Cd(2+) reduced steady-state block to 55% at +20 mV (P:<0.05); removing extracellular Na(+) reduced block to 44% (P:<0.05). An inactivation-disabling mutation (G628C-S631C) reduced Dd-sotalol block to only 11% (P:<0.05 versus wild type). However, increasing the rate of channel inactivation by depolarizing to +60 mV reduced Dd-sotalol block to 49% (P:<0.05 versus +20 mV), suggesting that the drug does not primarily bind to the inactivated state. Coexpression of MiRP1 with HERG had no effect on inactivation gating and did not modify Dd-sotalol block. We postulate that Dd-sotalol accesses its receptor in the open pore, and the drug-receptor interaction is then stabilized by inactivation. Whereas deactivation traps the bound methanesulfonanilide during hyperpolarization, we propose that HERG inactivation stabilizes the drug-receptor interaction during membrane depolarization.
+Animals
+Anti-Arrhythmia Agents
+CHO Cells
+Cadmium
+Cation Transport Proteins
+Cricetinae
+Ether-A-Go-Go Potassium Channels
+Ion Channel Gating
+Long QT Syndrome
+Membrane Potentials
+Mutagenesis, Site-Directed
+Patch-Clamp Techniques
+Potassium
+Potassium Channel Blockers
+Potassium Channels
+Potassium Channels, Voltage-Gated
+Sodium
+Sotalol
+Transfection

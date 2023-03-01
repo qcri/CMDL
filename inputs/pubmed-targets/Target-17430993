@@ -1,0 +1,22 @@
+Mutations in the TTX-sensitive voltage-gated sodium channel subtype Nav1.7 have been implicated in the painful inherited neuropathy, hereditary erythromelalgia. Hereditary erythromelalgia can be difficult to treat and, although sodium channels are targeted by local anaesthetics such as lidocaine (lignocaine), some patients do not respond to treatment with local anaesthetics. This study examined electrophysiological differences in Nav1.7 caused by a hereditary erythromelalgia mutation (N395K) that lies within the local anaesthetic binding site of the channel. The N395K mutation produced a hyperpolarized voltage dependence of activation, slower kinetics of deactivation, and impaired steady-state slow inactivation. Computer simulations indicate that the shift in activation is the major determinant of the hyperexcitability induced by erythromelalgia mutations in sensory neurons, but that changes in slow inactivation can modulate the overall impact on excitability. This study also investigated lidocaine inhibition of the Nav1.7-N395K channel. We show that the N395K mutation attenuates the inhibitory effects of lidocaine on both resting and inactivated Nav1.7. The IC50 for lidocaine was estimated at 500 microM for inactivated wild-type Nav1.7 and 2.8 mM for inactivated Nav1.7-N395K. The N395K mutation also significantly reduced use-dependent inhibition of lidocaine on Nav1.7 current. In contrast, a different hereditary erythromelalgia mutation (F216S), not located in the local anaesthetic binding site, had no effect on lidocaine inhibition of Nav1.7 current. Our observation of reduced lidocaine inhibition on Nav1.7-N395K shows that the residue N395 is critical for lidocaine binding to Nav1.7 and suggests that the response of individuals with hereditary erythromelalgia to lidocaine treatment may be determined, at least in part, by their specific genotype.
+Action Potentials
+Anesthetics, Local
+Binding Sites
+Cell Line
+Computer Simulation
+Dose-Response Relationship, Drug
+Erythromelalgia
+Ganglia, Spinal
+Humans
+Ion Channel Gating
+Kinetics
+Lidocaine
+Models, Neurological
+Mutation
+NAV1.7 Voltage-Gated Sodium Channel
+Nerve Tissue Proteins
+Neurons, Afferent
+Sodium Channel Blockers
+Sodium Channels
+Transfection
+Voltage-Gated Sodium Channel beta-2 Subunit

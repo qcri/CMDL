@@ -1,0 +1,20 @@
+BACKGROUND: The aryl hydrocarbon receptor (AhR) is a ligand-activated transcription factor that mediates the toxicity and biological activity of dioxins and related chemicals. The AhR influences a variety of processes involved in cellular growth and differentiation, and recent studies have suggested that the AhR is a potential target for immune-mediated diseases.
+METHODOLOGY/PRINCIPAL FINDINGS: During a screen for molecules that activate the AhR, leflunomide, an immunomodulatory drug presently used in the clinic for the treatment of rheumatoid arthritis, was identified as an AhR agonist. We aimed to determine whether any biological activity of leflunomide could be attributed to a previously unappreciated interaction with the AhR. The currently established mechanism of action of leflunomide involves its metabolism to A771726, possibly by cytochrome P450 enzymes, followed by inhibition of de novo pyrimidine biosynthesis by A771726. Our results demonstrate that leflunomide, but not its metabolite A771726, caused nuclear translocation of AhR into the nucleus and increased expression of AhR-responsive reporter genes and endogenous AhR target genes in an AhR-dependent manner. In silico Molecular Docking studies employing AhR ligand binding domain revealed favorable binding energy for leflunomide, but not for A771726. Further, leflunomide, but not A771726, inhibited in vivo epimorphic regeneration in a zebrafish model of tissue regeneration in an AhR-dependent manner. However, suppression of lymphocyte proliferation by leflunomide or A771726 was not dependent on AhR.
+CONCLUSIONS: These data reveal that leflunomide, an anti-inflammatory drug, is an agonist of the AhR. Our findings link AhR activation by leflunomide to inhibition of fin regeneration in zebrafish. Identification of alternative AhR agonists is a critical step in evaluating the AhR as a therapeutic target for the treatment of immune disorders.
+Animals
+Anti-Inflammatory Agents
+Base Sequence
+Cell Line
+Cytochrome P-450 CYP1A2
+DNA Primers
+Fluorescent Antibody Technique
+Genes, Reporter
+Isoxazoles
+Leflunomide
+Ligands
+Mice
+Mice, Inbred C57BL
+Polymerase Chain Reaction
+Receptors, Aryl Hydrocarbon
+Regeneration
+Zebrafish

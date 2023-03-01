@@ -1,0 +1,17 @@
+Gemfibrozil has been suggested as a sensitive cytochrome P450 2C8 (CYP2C8) inhibitor for clinical investigation by the U.S. Food and Drug Administration and the European Medicines Agency. However, gemfibrozil drug-drug interactions (DDIs) are complex; its major circulating metabolite, gemfibrozil 1-O-β-glucuronide (Gem-Glu), exhibits time-dependent inhibition of CYP2C8, and both parent and metabolite also behave as moderate inhibitors of organic anion transporting polypeptide 1B1 (OATP1B1) in vitro. Additionally, parent and metabolite also inhibit renal transport mediated by OAT3. Here, in vitro inhibition data for gemfibrozil and Gem-Glu were used to assess their impact on the pharmacokinetics of several victim drugs (including rosiglitazone, pioglitazone, cerivastatin, and repaglinide) by employing both static mechanistic and dynamic physiologically based pharmacokinetic (PBPK) models. Of the 48 cases evaluated using the static models, about 75% and 98% of the DDIs were predicted within 1.5- and 2-fold of the observed values, respectively, when incorporating the interaction potential of both gemfibrozil and its 1-O-β-glucuronide. Moreover, the PBPK model was able to recover the plasma profiles of rosiglitazone, pioglitazone, cerivastatin, and repaglinide under control and gemfibrozil treatment conditions. Analyses suggest that Gem-Glu is the major contributor to the DDIs, and its exposure needed to bring about complete inactivation of CYP2C8 is only a fraction of that achieved in the clinic after a therapeutic gemfibrozil dose. Overall, the complex interactions of gemfibrozil can be quantitatively rationalized, and the learnings from this analysis can be applied in support of future predictions of gemfibrozil DDIs. 
+Algorithms
+Area Under Curve
+Carrier Proteins
+Computer Simulation
+Cytochrome P-450 CYP2C8
+Cytochrome P-450 Enzyme Inhibitors
+Drug Interactions
+Enzymes
+Gemfibrozil
+Glucuronides
+Humans
+Hypolipidemic Agents
+Liver-Specific Organic Anion Transporter 1
+Models, Biological
+Organic Anion Transporters
+Organic Anion Transporters, Sodium-Independent

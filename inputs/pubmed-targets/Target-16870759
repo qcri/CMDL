@@ -1,0 +1,13 @@
+The pharmacologic variability of nucleoside reverse transcriptase inhibitors such as lamivudine (3TC) includes not only systemic pharmacokinetic variability but also interindividual differences in cellular transport and metabolism. A modeling strategy linking laboratory studies of intracellular 3TC disposition with clinical studies in adolescent patients is described. Data from ex vivo laboratory experiments using peripheral blood mononuclear cells (PBMCs) from uninfected human subjects were first used to determine a model and population parameter estimates for 3TC cellular metabolism. Clinical study data from human immunodeficiency virus type 1-infected adolescents were then used in a Bayesian population analysis, together with the prior information from the ex vivo analysis, to develop a population model for 3TC systemic kinetics and cellular kinetics in PBMCs from patients during chronic therapy. The laboratory results demonstrate that the phosphorylation of 3TC is saturable under clinically relevant concentrations, that there is a rapid equilibrium between 3TC monophosphate and diphosphate and between 3TC diphosphate and triphosphate, and that 3TC triphosphate is recycled to 3TC monophosphate through a 3TC metabolite that remains to be definitively characterized. The resulting population model shows substantial interindividual variability in the cellular kinetics of 3TC with population coefficients of variation for model parameters ranging from 47 to 87%. This two-step ex vivo/clinical modeling approach using Bayesian population modeling of 3TC that links laboratory and clinical data has potential application for other drugs whose intracellular pharmacology is a major determinant of activity and/or toxicity.
+Adolescent
+Adult
+Anti-HIV Agents
+Bayes Theorem
+Cross-Over Studies
+HIV Infections
+HIV-1
+Humans
+Lamivudine
+Leukocytes, Mononuclear
+Models, Biological
+Reverse Transcriptase Inhibitors

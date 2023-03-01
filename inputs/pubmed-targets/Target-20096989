@@ -1,0 +1,11 @@
+Transport across the cell membrane is crucial in drug delivery. However, the process is complicated because nucleoside derivatives that are commonly used as anti-viral drugs are transported through two different types of specific transporters: concentrative transporters and equilibrative transporters. Cross-disciplinary approaches involving both biological experiments and theoretical considerations are therefore necessary to study the transport of nucleoside analogues such as ribavirin. Here we constructed an experimental model system using the Xenopus laevis oocyte that expressed examples of both types of transporters: human concentrative nucleoside transporter 3 and human equilibrative transporter 1. We also performed a kinetic study. Experimental results showed that the transport of ribavirin could be reduced by inhibiting one of the two types of transporters, which seems to be counterintuitive. We therefore designed a simple mathematical model of the dynamics of ribavirin uptake and analyzed the model behaviors using a numerical simulation. The theoretical results reproduced the experimentally observed phenomena and suggested a possible mechanism for the process. Based on this mechanism, we predicted some potential methods for the effective uptake of ribavirin from a dynamics point of view.
+Animals
+Equilibrative Nucleoside Transporter 1
+Kinetics
+Models, Biological
+Nucleoside Transport Proteins
+Oocytes
+Ribavirin
+Sodium Chloride
+Thioinosine
+Xenopus laevis

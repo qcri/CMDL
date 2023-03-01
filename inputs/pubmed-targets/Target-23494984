@@ -1,0 +1,19 @@
+BACKGROUND: Darunavir is a potent protease inhibitor of HIV. To enhance its pharmacokinetic profile, darunavir must be co-administered with ritonavir. There is wide inter-patient variability in darunavir pharmacokinetics among HIV-infected individuals, however. Darunavir is a known substrate for influx transporters, such as the 1A2 and the 1B1 members of the solute carrier organic anion transporter family (SLCO1A2, SLCO1B1), as well as for efflux transporters such as the multi-drug resistance protein 1 (MRP1).
+OBJECTIVE: The aim of this study was to develop a semi-mechanistic population pharmacokinetic model for darunavir and ritonavir administered in HIV-infected adults. The desired model would incorporate patient characteristics and pharmacogenetic data contributing to variability in drug concentrations and also take into account the interaction between the two compounds.
+METHODS: A population pharmacokinetic analysis was performed with 705 plasma samples from 75 Caucasian individuals receiving darunavir/ritonavir (600/100 mg twice daily) for at least 4 weeks. At least one full pharmacokinetic profile was obtained for each participant, and darunavir and ritonavir concentrations in plasma were determined by high performance liquid chromatography. Genotyping for 148 polymorphisms in genes coding for transporters or metabolizing enzymes was conducted by two methods: MALDI-TOF mass spectrometry and real-time polymerase chain reaction-based allelic discrimination. A population pharmacokinetic model was developed for darunavir and for ritonavir. The effect of single nucleotide polymorphisms on the post hoc individual pharmacokinetic parameters was first explored using graphic methods and regression analysis. Those covariates related to changes in darunavir or ritonavir pharmacokinetic parameters were then further evaluated using non-linear mixed effects modeling (NONMEM version VII).
+RESULTS: Darunavir and ritonavir pharmacokinetics were best described by a two- and one-compartment model, respectively, both with first-order absorption and elimination. The darunavir peripheral volume of distribution decreased as α1-acid glycoprotein concentrations increased. Darunavir clearance was 12 % lower in patients with SLCO3A1 rs8027174 GT/TT genotypes, while homozygosity for the rs4294800 A allele was associated with 2.5-fold higher central volume of distribution. Body weight influenced ritonavir clearance. Ritonavir inhibited darunavir clearance following a maximum-effect model.
+CONCLUSION: A population pharmacokinetic model to simultaneously describe the pharmacokinetics of darunavir and ritonavir was developed in HIV-infected patients. The model provides better understanding of the interaction between darunavir and ritonavir and suggests an association between SLCO3A1 polymorphisms and darunavir pharmacokinetics. Bayesian estimates of individual darunavir parameters and ritonavir may be useful to predict darunavir exposure.
+Adult
+Darunavir
+Drug Therapy, Combination
+Female
+HIV Infections
+HIV Protease Inhibitors
+Humans
+Male
+Middle Aged
+Models, Biological
+Organic Anion Transporters
+Polymorphism, Single Nucleotide
+Ritonavir
+Sulfonamides

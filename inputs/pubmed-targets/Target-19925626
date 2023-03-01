@@ -1,0 +1,20 @@
+BACKGROUND: The absolute bioavailability of subcutaneous (s.c.) sumatriptan is 96-100%. The decay curve for plasma concentration after 6 mg s.c. sumatriptan (ie, after T(max) = about 0.2 hours) includes a large distribution component. Metabolism by monoamine oxidase-A (MAO-A) leads to about 40% of the s.c. dose appearing in the urine as the inactive indole acetic acid. Product labeling states that co-administration of an inhibitor of MAO-A (a MAOI-A) causes a 2-fold increase in sumatriptan plasma concentrations, and a 40% increase in elimination half-life.
+OBJECTIVE: The objective of this study is to determine whether MAOI-A therapy should deter the use of 6 mg s.c. sumatriptan on pharmacokinetic grounds.
+METHODS: Summary pharmacokinetic data were taken from the literature and from GlaxoSmithKline (GSK) study C92-050. Half-times were converted into rate constants, which were then used in a parsimonious compartmental model (needing only 3 simultaneous differential equations). Acceptance criteria for the model included observed plasma sumatriptan concentrations at T(max), 1, 2, and 10 hours post-dose. A set of 1000 concentration measurements at a resolution of 36 seconds was generated. The model was then perturbed with elimination constants observed during concomitant moclobemide administration, creating a second set of concentration measurements. The 2 sets were then plotted, examined for their differences, and integrated for a second time to obtain and compare areas under the curve (AUCs).
+RESULTS: The greatest absolute difference between the 2 sets of measurements was 2.85 ng/mL at t = 2.95 hours. A 2-fold difference between the 2 sets occurred only after t = 5.96 hours, when the concentration in the presence of the MAOI-A was 3.72 ng/mL (or <4% of C(max)). At t = 10 hours, the concentrations in both sets were <1 ng/mL (ie, below the lower limit of assay quantitation), and AUC(0-10h) was 97.4 and 117 ng.hour/mL in the absence and presence of the MAOI-A.
+CONCLUSIONS: There are no pharmacokinetic grounds to deter co-administration of an MAOI-A and subcutaneous sumatriptan. The dominance of the distribution phase and completeness of absorption of a 6 mg dose of s.c. sumatriptan explains the trivial effect size of the MAOI-A on plasma sumatriptan concentrations. Importantly, these findings should not be extrapolated to other routes of administration for sumatriptan.
+Brain
+Computer Simulation
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Interactions
+Female
+Humans
+Indoleacetic Acids
+Migraine Disorders
+Monoamine Oxidase
+Monoamine Oxidase Inhibitors
+Pharmacokinetics
+Serotonin
+Serotonin Receptor Agonists
+Sumatriptan

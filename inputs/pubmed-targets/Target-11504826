@@ -1,0 +1,13 @@
+Paclitaxel is a substrate of the mdr1 P-glycoprotein (Pgp). The objective of the present study was to determine the kinetics of the Pgp-mediated efflux and its contribution to the overall efflux of paclitaxel at the clinically achievable concentration range of 1 to 1500 nM. Human breast carcinoma BC19 cells that were derived from MCF7 cells by mdr1 transfection and show a >10-fold higher level of the Pgp protein were used to measure the uptake and efflux of [(3)H]paclitaxel. A computational model of intracellular paclitaxel pharmacokinetics was developed to analyze for the Pgp efflux parameters. The results show a saturable Pgp-mediated efflux in BC19 cells; the dissociation constant was 14 nM, and the maximal efflux rate was 2.8 x 10(-4) pmol/h/cell. The contribution of Pgp-mediated efflux to the total efflux decreased with increasing extracellular drug concentrations; the Pgp efflux accounted for 86 and 34% of total efflux at 1 and 1500 nM, respectively. The validity of the model was confirmed by the close agreement between the model-predicted data and the experimentally obtained data (approximately 6% deviation) describing the effect of cell density and intracellular-to-extracellular concentration gradient on the kinetics of drug accumulation and efflux. In conclusion, our results indicate that the Pgp-mediated efflux represents a major efflux mechanism of paclitaxel at the low end of the clinically observed drug concentration range, but accounts for only a minor part of the efflux at higher concentrations in BC19 cells.
+ATP Binding Cassette Transporter, Subfamily B, Member 1
+Algorithms
+Antineoplastic Agents, Phytogenic
+Breast Neoplasms
+Female
+Genes, MDR
+Humans
+Models, Biological
+Paclitaxel
+Reproducibility of Results
+Transfection
+Tumor Cells, Cultured

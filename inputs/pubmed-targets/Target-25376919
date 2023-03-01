@@ -1,0 +1,17 @@
+CONTEXT: Miconazole (MIZ) and econazole (ECZ) are clinically used as antifungal drugs.
+OBJECTIVE: The drug effect and binding property with transport protein human serum albumin of MIZ and ECZ were studied.
+MATERIALS AND METHODS: The antifungal efficiency was investigated by microdiluting drug solutions from 0 to 48 μmol L(-1) through microcalorimetry and voltammetry studies. Transmission electron microscopy was used for morphological observations of C. albicans. The interaction with HSA was studied by electrochemical methods, fluorescence spectrometry, electron microscopy, and molecular simulation.
+RESULTS: IC50 of MIZ and ECZ for C. albicans were obtained as 19.72 and 29.90 μmol L(-1). Binding constants of MIZ and ECZ with HSA of 2.36 × 10(4) L mol(-1) and 3.73 × 10(4) L mol(-1) were obtained. After adding MIZ solution of 12 and 40 μmol L(-1), the peak currents increased to 4.887 and 6.024 μA. The peak currents of C. albicans in the presence of 20 and 48 μmol L(-1) ECZ were 4.701 and 5.544 μA. The docking scores for MIZ and ECZ of the best binding conformation in site I and site II were 5.60, 4.79, 5.63, and 5.85.
+DISCUSSION AND CONCLUSION: Strong inhibition to the metabolism of C. albicans and destructive effect was proved for both drugs. The lower IC50, growth rate constant of C. albicans, and higher peak current, reveal stronger antifungal activity of MIZ. Both drugs show an efficient quenching effect to intrinsic fluorescence residues of protein. MIZ mainly binds on site I while ECZ on site II. Molecular modeling experiments give further insight of the binding mechanism.
+Antifungal Agents
+Candida albicans
+Carrier Proteins
+Dose-Response Relationship, Drug
+Econazole
+Humans
+Miconazole
+Microscopy, Electron, Transmission
+Molecular Docking Simulation
+Protein Binding
+Serum Albumin
+Spectrometry, Fluorescence

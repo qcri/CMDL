@@ -1,0 +1,13 @@
+The antibiotic fusidic acid and certain closely related steroidal compounds are potent competitive inhibitors of the type I variant of chloramphenicol acetyltransferase (CATI). In the absence of crystallographic data for CATI, the structural determinants of steroid binding were identified by (1) construction in vitro of genes encoding chimaeric enzymes containing segments of CATI and the related type III variant (CATIII) and (2) site-directed mutagenesis of the gene encoding CATIII, followed by kinetic characterisation of the substituted variants. Replacement of four residues of CATIII (Gln92, Asn146, Tyr168 and Ile172) by their equivalents from CATI yields an enzyme variant that is susceptible to competitive inhibition by fusidate with respect to chloramphenicol (Ki = 5.4 microM). The structure of the complex of fusidate and the Q92C/N146F/Y168F/I172V variant, determined at 2.2 A resolution by X-ray crystallography, reveals the inhibitor bound deep within the chloramphenicol binding site and in close proximity to the side-chain of His195, an essential catalytic residue. The aromatic side-chain of Phe146 provides a critical hydrophobic surface which interacts with non-polar substituents of the steroid. The remaining three substitutions act in concert both to maintain the appropriate orientation of Phe 146 and via additional interactions with the bound inhibitor. The substitution of Gln92 by Cys eliminates a critical hydrogen bond interaction which constrains a surface loop (residues 137 to 142) of wild-type CATIII which must move in order for fusidate to bind to the enzyme. Only two hydrogen bonds are observed in the CAT-fusidate complex, involving the 3-alpha-hydroxyl of the A-ring and both hydroxyl of Tyr25 and NE2 of His195, both of which are also involved in hydrogen bonds with substrate in the CATIII-chloramphenicol complex. In the acetyl transfer reaction catalysed by CAT, NE2, of His195 serves as a general base in the abstraction of a proton from the 3-hydroxyl of chloramphenicol as the first chemical step in catalysis. The structure of the CAT-inhibitor complex suggests that deprotonation of the 3-alpha-hydroxyl of bound fusidate by this mechanism could produce an oxyanion nucleophile analogous to that seen with chloramphenicol, but one which is incorrectly positioned to attack the thioester carbonyl of acetyl-CoA, accounting for the observed failure of CAT to acetylate fusidate.
+Amino Acid Sequence
+Binding Sites
+Chloramphenicol O-Acetyltransferase
+Crystallization
+Crystallography, X-Ray
+Escherichia coli
+Fusidic Acid
+Molecular Sequence Data
+Mutagenesis, Site-Directed
+Recombinant Fusion Proteins
+Sequence Alignment
+Steroids

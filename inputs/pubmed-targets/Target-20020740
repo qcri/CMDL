@@ -1,0 +1,21 @@
+Ipratropium bromide, an anticholinergic drug used for the treatment of asthma and chronic obstructive pulmonary disease, has low oral bioavailability, but systemic exposure, superior to oral administration, can be achieved by inhalation. Therefore, we investigated the pulmonary absorption mechanism of ipratropium using human bronchial epithelial BEAS-2B cells. [3H]Ipratropium uptake by BEAS-2B cells was temperature-dependent and saturable, with a K(m) value of 78.0 microM, suggesting involvement of carrier-mediated uptake. An RT-PCR study showed that organic cation/carnitine transporters OCTN1 and OCTN2 are expressed in BEAS-2B cells, but organic cation transporters (OCTs) are not. Uptake of [3H]ipratropium by HEK293 cells expressing OCTN1 (HEK293/OCTN1) and OCTN2 (HEK293/OCTN2) was significantly increased, compared with mock-transfected cells, and the estimated K(m) values were 444 microM and 53.0 microM, respectively. Finally, the contributions of OCTN1 and OCTN2 to ipratropium uptake were evaluated by measuring [3H]ipratropium uptake by BEAS-2B cells in which OCTN1 or OCTN2 gene expression had been silenced. Knock-down of OCTN1 or OCTN2 suppressed the uptake of [3H]ipratropium to 78.2% and 14.8% of that by control BEAS-2B cells, respectively. In addition, another anticholinergic, tiotropium, was also taken up by both HEK293/OCTN1 and HEK293/OCTN2 cells. Therefore, ipratropium and tiotropium are taken up primarily by OCTN2, and to a lesser extent by OCTN1, in bronchial epithelial cells. These findings are consistent with the pharmacological activity of the drugs after administration via inhalation.
+Absorption
+Administration, Inhalation
+Base Sequence
+Biological Transport, Active
+Bronchi
+Cell Line
+Cholinergic Antagonists
+DNA Primers
+Epithelial Cells
+Humans
+Ipratropium
+Kinetics
+Lung
+Organic Cation Transport Proteins
+Pulmonary Disease, Chronic Obstructive
+RNA Interference
+RNA, Small Interfering
+Scopolamine Derivatives
+Solute Carrier Family 22 Member 5
+Tiotropium Bromide
