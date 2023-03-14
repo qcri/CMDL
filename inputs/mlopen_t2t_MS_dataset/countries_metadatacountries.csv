@@ -1,0 +1,248 @@
+CountryCode,CountryName,Region,IncomeGroup,SpecialNotes
+ABW,Aruba,"Latin America & Caribbean","High income: nonOECD","SNA data for 2000-2011 are updated from official government statistics; 1994-1999 from UN databases. Base year has changed from 1995 to 2000."
+AFG,Afghanistan,"South Asia","Low income","Fiscal year end: March 20; reporting period for national accounts data: FY (from 2013 are CY). National accounts data are sourced from the IMF and differ from the Central Statistics Organization numbers due to exclusion of the opium economy."
+AGO,Angola,"Sub-Saharan Africa","Upper middle income","April 2013 database update: Based on IMF data, national accounts data were revised for 2000 onward; the base year changed to 2002."
+ALB,Albania,"Europe & Central Asia","Upper middle income",NULL
+AND,Andorra,"Europe & Central Asia","High income: nonOECD",NULL
+ARB,"Arab World",NULL,NULL,"Arab World aggregate. Arab World is composed of members of the League of Arab States."
+ARE,"United Arab Emirates","Middle East & North Africa","High income: nonOECD","April 2013 database update: Based on data from the National Bureau of Statistics, national accounts data were revised for 2001 onward; the base year changed to 2007."
+ARG,Argentina,"Latin America & Caribbean","Upper middle income",NULL
+ARM,Armenia,"Europe & Central Asia","Lower middle income",NULL
+ASM,"American Samoa","East Asia & Pacific","Upper middle income",NULL
+ATG,"Antigua and Barbuda","Latin America & Caribbean","High income: nonOECD","April 2012 database update: Based on official government statistics, national accounts data were revised for 2000 onward; the base year changed to 2006."
+AUS,Australia,"East Asia & Pacific","High income: OECD","Fiscal year end: June 30; reporting period for national accounts data: FY. Value added current series updated by the Australian Bureau of Statistics; data revised from 1990 onward; Australia reports using SNA 2008."
+AUT,Austria,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 13.7603 Austrian schilling. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+AZE,Azerbaijan,"Europe & Central Asia","Upper middle income","April 2012 database update: National accounts historical expenditure series in constant prices were revised in line with State Statistical Committee data that were not previously available."
+BDI,Burundi,"Sub-Saharan Africa","Low income",NULL
+BEL,Belgium,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 40.3399 Belgian franc. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+BEN,Benin,"Sub-Saharan Africa","Low income",NULL
+BFA,"Burkina Faso","Sub-Saharan Africa","Low income",NULL
+BGD,Bangladesh,"South Asia","Low income","Fiscal year end: June 30; reporting period for national accounts data: FY. New base year is 2005/06."
+BGR,Bulgaria,"Europe & Central Asia","Upper middle income","New reference year is 2010. April 2011 database update: The National Statistical Office revised national accounts data from 1995 onward. GDP in current prices were about 4 percent higher than previous estimates."
+BHR,Bahrain,"Middle East & North Africa","High income: nonOECD","New base year is 2010."
+BHS,"Bahamas, The","Latin America & Caribbean","High income: nonOECD",NULL
+BIH,"Bosnia and Herzegovina","Europe & Central Asia","Upper middle income","New reference year is 2010."
+BLR,Belarus,"Europe & Central Asia","Upper middle income",NULL
+BLZ,Belize,"Latin America & Caribbean","Upper middle income",NULL
+BMU,Bermuda,"North America","High income: nonOECD",NULL
+BOL,Bolivia,"Latin America & Caribbean","Lower middle income",NULL
+BRA,Brazil,"Latin America & Caribbean","Upper middle income",NULL
+BRB,Barbados,"Latin America & Caribbean","High income: nonOECD",NULL
+BRN,"Brunei Darussalam","East Asia & Pacific","High income: nonOECD",NULL
+BTN,Bhutan,"South Asia","Lower middle income","April 2013 database update: Data were updated using the government of Bhutan macroeconomic framework."
+BWA,Botswana,"Sub-Saharan Africa","Upper middle income","Fiscal year end: March 31; reporting period for national accounts data: CY. Based on official government statistics, national accounts data have been revised from 2006 onward; the new base year is 2006. Data before 2006 were reported on a fiscal year basis."
+CAF,"Central African Republic","Sub-Saharan Africa","Low income",NULL
+CAN,Canada,"North America","High income: OECD","Fiscal year end: March 31; reporting period for national accounts data: CY."
+CEB,"Central Europe and the Baltics",NULL,NULL,"Central Europe and the Baltics aggregate."
+CHE,Switzerland,"Europe & Central Asia","High income: OECD",NULL
+CHI,"Channel Islands","Europe & Central Asia","High income: nonOECD",NULL
+CHL,Chile,"Latin America & Caribbean","High income: OECD",NULL
+CHN,China,"East Asia & Pacific","Upper middle income","On 1 July 1997 China resumed its exercise of sovereignty over Hong Kong; and on 20 December 1999 China resumed its exercise of sovereignty over Macao. Unless otherwise noted, data for China do not include data for Hong Kong SAR, China; Macao SAR, China; or Taiwan, China. Based on data from the National Bureau of Statistics, the methodology for national accounts exports and imports of goods and services in constant prices have been revised from 2000 onward."
+CIV,"Côte d'Ivoire","Sub-Saharan Africa","Lower middle income","New base year is 2009."
+CMR,Cameroon,"Sub-Saharan Africa","Lower middle income",NULL
+COD,"Congo, Dem. Rep.","Sub-Saharan Africa","Low income","Based on INS (2000-09) and IMF (2010-13) data, national accounts data were revised for 2000 onward; the base year changed to 2005."
+COG,"Congo, Rep.","Sub-Saharan Africa","Lower middle income","April 2013 database update: Based on IMF data, national accounts data were revised for 1990 onward; the base year changed to 1990."
+COL,Colombia,"Latin America & Caribbean","Upper middle income",NULL
+COM,Comoros,"Sub-Saharan Africa","Low income",NULL
+CPV,"Cabo Verde","Sub-Saharan Africa","Lower middle income","Cabo Verde is the new name for the country previously listed as Cape Verde. Based on official government statistics and IMF data, national accounts data have been revised from 1990 onward; the new base year is 2007."
+CRI,"Costa Rica","Latin America & Caribbean","Upper middle income",NULL
+CSS,"Caribbean small states",NULL,NULL,"Caribbean small states aggregate. Includes Antigua and Barbuda, The Bahamas, Barbados, Belize, Guyana, Suriname, Dominica, Grenada, Jamaica, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, and Trinidad and Tobago."
+CUB,Cuba,"Latin America & Caribbean","Upper middle income",NULL
+CUW,Curaçao,"Latin America & Caribbean","High income: nonOECD",NULL
+CYM,"Cayman Islands","Latin America & Caribbean","High income: nonOECD",NULL
+CYP,Cyprus,"Europe & Central Asia","High income: nonOECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2008: 1 euro = 0.585274 Cyprus pounds. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries."
+CZE,"Czech Republic","Europe & Central Asia","High income: OECD",NULL
+DEU,Germany,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 1.95583 German mark. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+DJI,Djibouti,"Middle East & North Africa","Lower middle income",NULL
+DMA,Dominica,"Latin America & Caribbean","Upper middle income","April 2012 database update: Based on official government statistics, national accounts data were revised for 2000 onward; the base year changed to 2006."
+DNK,Denmark,"Europe & Central Asia","High income: OECD",NULL
+DOM,"Dominican Republic","Latin America & Caribbean","Upper middle income",NULL
+DZA,Algeria,"Middle East & North Africa","Upper middle income",NULL
+EAP,"East Asia & Pacific",NULL,NULL,"East Asia and Pacific regional aggregate (does not include high-income economies)."
+EAS,"East Asia & Pacific (all income levels)",NULL,NULL,"East Asia and Pacific regional aggregate (including high-income economies)."
+ECA,"Europe & Central Asia",NULL,NULL,"Europe and Central Asia regional aggregate (does not include high-income economies)."
+ECS,"Europe & Central Asia (all income levels)",NULL,NULL,"Europe and Central Asia regional aggregate (including high-income economies)."
+ECU,Ecuador,"Latin America & Caribbean","Upper middle income","National accounts have been revised from 1965 onward based on official government data; the new base year is 2007. The large upward changes are due to an improved calculation method for nominal GDP."
+EGY,"Egypt, Arab Rep.","Middle East & North Africa","Lower middle income","Fiscal year end: June 30; reporting period for national accounts data: FY. New base year is 2001/02."
+EMU,"Euro area",NULL,NULL,"Euro area aggregate."
+ERI,Eritrea,"Sub-Saharan Africa","Low income","April 2013 database update: Based on IMF data, national accounts data were revised for 2000 onward; the base year changed to 2000."
+ESP,Spain,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 166.386 Spanish peseta. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+EST,Estonia,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2011: 1 euro = 15.6466 Estonian kroon. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries."
+ETH,Ethiopia,"Sub-Saharan Africa","Low income","Fiscal year end: July 7; reporting period for national accounts data: FY. Based on IMF data, national accounts data have been revised for 2000 onward; the new base year is 2011."
+EUU,"European Union",NULL,NULL,"European Union aggregate."
+FCS,"Fragile and conflict affected situations",NULL,NULL,"Fragile situations aggregate. Note:  Countries with fragile situations are primarily International Development Association-eligible countries and nonmember or inactive countries and territories with a 3.2 or lower harmonized average of the World Bank's Country Policy and Institutional Assessment rating and the corresponding rating by a regional development bank, or that have had a UN or regional peacebuilding and political mission (for example by the African Union, European Union, or Organization of American States) or peacekeeping mission (for example, by the African Union, European Union, North Atlantic Treaty Organization, or Organization of American States) during the last three years.  This definition is pursuant to an agreement between the World Bank and other multilateral development banks at the start of the International Development Association 15 round in 2007. The list of countries and territories with fragile situations  is imperfect and used here to reflect a complex concept. The World Bank continues to work with partners and client countries to refine the concept."
+FIN,Finland,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 5.94573 Finnish markka. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+FJI,Fiji,"East Asia & Pacific","Upper middle income","Based on data from the Bureau of Statistics, national accounts data on the expenditure side have been revised from 2005 onward; the new base year is 2005."
+FRA,France,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 6.55957 French franc. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+FRO,"Faeroe Islands","Europe & Central Asia","High income: nonOECD",NULL
+FSM,"Micronesia, Fed. Sts.","East Asia & Pacific","Lower middle income","Fiscal year ends on September 30; reporting period for national accounts data: FY. Based on the Pacific and Virgin Islands Training Initiative, national accounts data have been revised from 2009 onward. 2013 estimates are based on the IMF Small States Monitor, Issue 1.2014. In 2010, the government statistical office revised national accounts data for 1995-2008."
+GAB,Gabon,"Sub-Saharan Africa","Upper middle income","New base year is 2001."
+GBR,"United Kingdom","Europe & Central Asia","High income: OECD",NULL
+GEO,Georgia,"Europe & Central Asia","Lower middle income",NULL
+GHA,Ghana,"Sub-Saharan Africa","Lower middle income","In 2010, the Ghana Statistical Service revised the base year for Ghana's national accounts series from 1993 to 2006. The new GDP data were about 60 percent higher than previously reported and incorporated improved data sources and methodology."
+GIN,Guinea,"Sub-Saharan Africa","Low income",NULL
+GMB,"Gambia, The","Sub-Saharan Africa","Low income","Fiscal year end: June 30; reporting period for national accounts data: CY. April 2013 database update: Based on official government statistics, national accounts data were revised for 2004 onward; the base year changed to 2004."
+GNB,Guinea-Bissau,"Sub-Saharan Africa","Low income","In 2010, national accounts data for 2003-09 were revised. The new data had broader coverage of all sectors of the economy, and GDP in current prices averaged 89 percent higher than previous estimates."
+GNQ,"Equatorial Guinea","Sub-Saharan Africa","High income: nonOECD","National accounts have been revised from 1980 onward based on official government data; the new base year is 2006."
+GRC,Greece,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 340.75 Greek drachma. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+GRD,Grenada,"Latin America & Caribbean","Upper middle income","April 2012 database update: Based on official government statistics, national accounts data were revised for 2000 onward; the base year changed to 2006."
+GRL,Greenland,"Europe & Central Asia","High income: nonOECD",NULL
+GTM,Guatemala,"Latin America & Caribbean","Lower middle income",NULL
+GUM,Guam,"East Asia & Pacific","High income: nonOECD",NULL
+GUY,Guyana,"Latin America & Caribbean","Lower middle income","In 2010, the Bureau of Statistics introduced a new series of GDP rebased to year 2006. Current price GDP averaged 63 percent higher than previous estimates."
+HIC,"High income",NULL,NULL,"High income group aggregate. High-income economies are those in which 2013 GNI per capita was $12,746 or more."
+HKG,"Hong Kong SAR, China","East Asia & Pacific","High income: nonOECD","On 1 July 1997 China resumed its exercise of sovereignty over Hong Kong. Unless otherwise noted, data for China do not include data for Hong Kong SAR, China; Macao SAR, China; or Taiwan, China. Agriculture value added includes mining and quarrying."
+HND,Honduras,"Latin America & Caribbean","Lower middle income",NULL
+HPC,"Heavily indebted poor countries (HIPC)",NULL,NULL,"Heavily indebted poor countries aggregate."
+HRV,Croatia,"Europe & Central Asia","High income: nonOECD","New reference year is 2010. April 2013 database update: Based on official government statistics, the base year for constant price series changed to 2005."
+HTI,Haiti,"Latin America & Caribbean","Low income","Fiscal year end: September 30; reporting period for national accounts data: FY. In 2010, the government revised national accounts data following changes in the methodology. Current price series since 1991 and constant price series since 1996 were revised."
+HUN,Hungary,"Europe & Central Asia","Upper middle income","April 2012 database update: Based on data from the Organisation for Economic Co-operation and Development, national accounts data were revised for 1991 onward."
+IDN,Indonesia,"East Asia & Pacific","Lower middle income","Fiscal year end: March 31; reporting period for national accounts data: CY. Data for Indonesia include Timor-Leste through 1999 unless otherwise noted."
+IMN,"Isle of Man","Europe & Central Asia","High income: nonOECD",NULL
+IND,India,"South Asia","Lower middle income","Fiscal year end: March 31; reporting period for national accounts data: FY. April 2013 database update: The India Central Statistical Office revised historical data series both current and constant going back to 1960 with 2004–05 as the base."
+IRL,Ireland,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 0.787564 Irish pound. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+IRN,"Iran, Islamic Rep.","Middle East & North Africa","Upper middle income","Fiscal year end: March 20; reporting period for national accounts data: FY."
+IRQ,Iraq,"Middle East & North Africa","Upper middle income","National accounts have been revised from 2000 onward based on official government data; the new base year is 1988. The new series raises GDP significantly from previous estimates."
+ISL,Iceland,"Europe & Central Asia","High income: OECD",NULL
+ISR,Israel,"Middle East & North Africa","High income: OECD","New base year is 2010."
+ITA,Italy,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 1936.27 Italian lira. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+JAM,Jamaica,"Latin America & Caribbean","Upper middle income","April 2013 database update: Based on official government statistics, national accounts data were revised for 2002 onward; the base year changed to 2007."
+JOR,Jordan,"Middle East & North Africa","Upper middle income",NULL
+JPN,Japan,"East Asia & Pacific","High income: OECD","Fiscal year end: March 31; reporting period for national accounts data: CY."
+KAZ,Kazakhstan,"Europe & Central Asia","Upper middle income",NULL
+KEN,Kenya,"Sub-Saharan Africa","Low income","Fiscal year end: June 30; reporting period for national accounts data: CY. New base year is 2009."
+KGZ,"Kyrgyz Republic","Europe & Central Asia","Lower middle income",NULL
+KHM,Cambodia,"East Asia & Pacific","Low income",NULL
+KIR,Kiribati,"East Asia & Pacific","Lower middle income","Based on IMF and World Bank data, GDP in current and constant prices have been revised from 2000 onward. Value added components are calculated using shares from the Asian Development Bank."
+KNA,"St. Kitts and Nevis","Latin America & Caribbean","High income: nonOECD","April 2012 database update: Based on official government statistics, national accounts data were revised for 2000 onward; the base year changed to 2006."
+KOR,"Korea, Rep.","East Asia & Pacific","High income: OECD","New base year is 2010. GDP data are available from 1970 onward while components are revised from 2000 onward only. Historical data in constant prices are linked to preserve growth rates."
+KOS,Kosovo,"Europe & Central Asia","Lower middle income","Kosovo became a World Bank member on June 29, 2009. Since 1999, Kosovo has been a territory under international administration pursuant to UN Security Council Resolution 1244 (1999)."
+KWT,Kuwait,"Middle East & North Africa","High income: nonOECD","Fiscal year end: June 30; reporting period for national accounts data: CY. New base year is 2010."
+LAC,"Latin America & Caribbean",NULL,NULL,"Latin America and Caribbean regional aggregate (does not include high-income economies)."
+LAO,"Lao PDR","East Asia & Pacific","Lower middle income",NULL
+LBN,Lebanon,"Middle East & North Africa","Upper middle income",NULL
+LBR,Liberia,"Sub-Saharan Africa","Low income","April 2013 database update: Based on IMF data, national accounts data were revised for 2000 onward; the base year changed to 2000."
+LBY,Libya,"Middle East & North Africa","Upper middle income","National accounts data are revised from 2010 to 2013 based on IMF and World Bank staff estimates."
+LCA,"St. Lucia","Latin America & Caribbean","Upper middle income","April 2012 database update: Based on official government statistics, national accounts data were revised for 2000 onward; the base year changed to 2006."
+LCN,"Latin America & Caribbean (all income levels)",NULL,NULL,"Latin America and Caribbean regional aggregate (including high-income economies)."
+LDC,"Least developed countries: UN classification",NULL,NULL,"Least developed countries (UN classification) aggregate."
+LIC,"Low income",NULL,NULL,"Low income group aggregate. Low-income economies are those in which 2013 GNI per capita was $1,045 or less."
+LIE,Liechtenstein,"Europe & Central Asia","High income: nonOECD",NULL
+LKA,"Sri Lanka","South Asia","Lower middle income",NULL
+LMC,"Lower middle income",NULL,NULL,"Lower middle income group aggregate. Lower-middle-income economies are those in which 2013 GNI per capita was between $1,046 and $4,125."
+LMY,"Low & middle income",NULL,NULL,"Low and middle income group aggregate (all developing economies). Low- and middle-income economies are those in which 2013 GNI per capita was $12,745 or less."
+LSO,Lesotho,"Sub-Saharan Africa","Lower middle income","Fiscal year end: March 31; reporting period for national accounts data: CY."
+LTU,Lithuania,"Europe & Central Asia","High income: nonOECD","Country joined the euro area on 1 January 2015; local currency data in the WDI database are reported in litas."
+LUX,Luxembourg,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 40.3399 Luxembourg franc. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+LVA,Latvia,"Europe & Central Asia","High income: nonOECD","Country joined the euro area on 1 January 2014; local currency data in the WDI database are reported in lats."
+MAC,"Macao SAR, China","East Asia & Pacific","High income: nonOECD","On 20 December 1999 China resumed its exercise of sovereignty over Macao. Unless otherwise noted, data for China do not include data for Hong Kong SAR, China; Macao SAR, China; or Taiwan, China."
+MAF,"St. Martin (French part)","Latin America & Caribbean","High income: nonOECD",NULL
+MAR,Morocco,"Middle East & North Africa","Lower middle income",NULL
+MCO,Monaco,"Europe & Central Asia","High income: nonOECD",NULL
+MDA,Moldova,"Europe & Central Asia","Lower middle income",NULL
+MDG,Madagascar,"Sub-Saharan Africa","Low income",NULL
+MDV,Maldives,"South Asia","Upper middle income","April 2012 database update: The Department of National Planning revised national accounts data for 2000 onward; the base year changed to 2003."
+MEA,"Middle East & North Africa (all income levels)",NULL,NULL,"Middle East and North Africa regional aggregate (including high-income economies)."
+MEX,Mexico,"Latin America & Caribbean","Upper middle income","The new base year is 2008."
+MHL,"Marshall Islands","East Asia & Pacific","Upper middle income","Fiscal year ends on September 30; reporting period for national accounts data: FY."
+MIC,"Middle income",NULL,NULL,"Middle income group aggregate. Middle-income economies are those in which 2013 GNI per capita was between $1,046 and $12,745."
+MKD,"Macedonia, FYR","Europe & Central Asia","Upper middle income","April 2012 database update: Based on official statistics, national accounts data were revised for 2003 onward."
+MLI,Mali,"Sub-Saharan Africa","Low income",NULL
+MLT,Malta,"Middle East & North Africa","High income: nonOECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2008: 1 euro = 0.4293 Maltese lira. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries."
+MMR,Myanmar,"East Asia & Pacific","Low income","Fiscal year end: March 31; reporting period for national accounts data: FY."
+MNA,"Middle East & North Africa",NULL,NULL,"Middle East and North Africa regional aggregate (does not include high-income economies)."
+MNE,Montenegro,"Europe & Central Asia","Upper middle income","Montenegro declared independence from Serbia and Montenegro on June 3, 2006. Where available, data for each country are shown separately. However, for Serbia, some indicators continue to include data for Montenegro through 2005."
+MNG,Mongolia,"East Asia & Pacific","Lower middle income",NULL
+MNP,"Northern Mariana Islands","East Asia & Pacific","High income: nonOECD",NULL
+MOZ,Mozambique,"Sub-Saharan Africa","Low income","New base year is 2009."
+MRT,Mauritania,"Sub-Saharan Africa","Lower middle income","April 2012 database update: Based on official government statistics, data were revised for 1991 onward."
+MUS,Mauritius,"Sub-Saharan Africa","Upper middle income",NULL
+MWI,Malawi,"Sub-Saharan Africa","Low income","Fiscal year end: March 31; reporting period for national accounts data: CY. Based on IMF data, national accounts data have been revised for 2000 onward; the new base year is 2009."
+MYS,Malaysia,"East Asia & Pacific","Upper middle income","Based on official government statistics, value added in services in constant and current prices have been revised from 1990 onward. National accounts data in constant prices have been linked back to 1960; the new base year is 2005."
+NAC,"North America",NULL,NULL,"North America regional aggregate. There are no economies in North America classified as low or middle income."
+NAM,Namibia,"Sub-Saharan Africa","Upper middle income","Fiscal year end: March 31; reporting period for national accounts data: CY. Based on official government statistics, national accounts data have been revised from 1980 onward; the new base year is 2009/10."
+NCL,"New Caledonia","East Asia & Pacific","High income: nonOECD",NULL
+NER,Niger,"Sub-Saharan Africa","Low income","Based on official government statistics, national accounts data have been revised from 2006 onward; the new base year is 2006."
+NGA,Nigeria,"Sub-Saharan Africa","Lower middle income","Based on official government statistics released 6 April, 2014, national accounts data have been revised from 2010 onward; the new base year is 2010. The new GDP data are 60 to 75 percent higher than previously reported and incorporate improved data sources and methodology."
+NIC,Nicaragua,"Latin America & Caribbean","Lower middle income","April 2013 database update: Based on official government statistics, national accounts data were revised for 1994 onward; the base year changed to 2006."
+NLD,Netherlands,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 2.20371 Netherlands guilder. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+NOC,"High income: nonOECD",NULL,NULL,"High income nonOECD aggregate. High-income economies are those in which 2013 GNI per capita was $12,746 or more."
+NOR,Norway,"Europe & Central Asia","High income: OECD",NULL
+NPL,Nepal,"South Asia","Low income","Fiscal year end: July 14; reporting period for national accounts data: FY."
+NZL,"New Zealand","East Asia & Pacific","High income: OECD","Fiscal year end: March 31; reporting period for national accounts data: FY."
+OEC,"High income: OECD",NULL,NULL,"High income OECD members aggregate. High-income economies are those in which 2013 GNI per capita was $12,746 or more."
+OED,"OECD members",NULL,NULL,"OECD members aggregate (all, including developing countries)."
+OMN,Oman,"Middle East & North Africa","High income: nonOECD","New base year is 2010."
+OSS,"Other small states",NULL,NULL,"Other small states aggregate. Includes Bhutan, Botswana, Cabo Verde, Comoros, Djibouti, Equatorial Guinea, Gabon, The Gambia, Guinea-Bissau, Lesotho, Maldives, Mauritius, Montenegro, Namibia, Sao Tome and Principe, Seychelles, Swaziland, and Timor-Leste."
+PAK,Pakistan,"South Asia","Lower middle income","Fiscal year end: June 30; reporting period for national accounts data: FY. The new base year is 2005/06."
+PAN,Panama,"Latin America & Caribbean","Upper middle income",NULL
+PER,Peru,"Latin America & Caribbean","Upper middle income",NULL
+PHL,Philippines,"East Asia & Pacific","Lower middle income","Source for GNI and net income from abroad is changed to national statistical office from central bank. April 2012 database update: National accounts data were revised for 1998 onward. Because intellectual property products are now reported as a part of gross fixed capital formation, gross domestic product (GDP) in current prices averaged 4 percent higher than previous estimates."
+PLW,Palau,"East Asia & Pacific","Upper middle income","Fiscal year ends on September 30; reporting period for national accounts data: FY. National accounts data are revised based on IMF reports."
+PNG,"Papua New Guinea","East Asia & Pacific","Lower middle income",NULL
+POL,Poland,"Europe & Central Asia","High income: OECD",NULL
+PRI,"Puerto Rico","Latin America & Caribbean","High income: nonOECD","Fiscal year end: June 30; reporting period for national accounts data: FY. April 2012 database update: Based on data from the Instituto de Estadísticas de Puerto Rico, national accounts data were revised for 2001 onward."
+PRK,"Korea, Dem. Rep.","East Asia & Pacific","Low income",NULL
+PRT,Portugal,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 200.482 Portuguese escudo. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries."
+PRY,Paraguay,"Latin America & Caribbean","Lower middle income","National accounts data have been revised from 1960 onward. The methodology and base year have not changed but the output of two hydroelectric plants (shared with neighboring countries) has been added raising GDP from previous estimates. On the supply side, it was added in "gas, electricity and water." On the demand side changes were mainly to exports, but also for imports, investment and consumption. National accounts price valuations for 1991 to 2012 have also been corrected and changed from VAP to VAB."
+PSE,"West Bank and Gaza","Middle East & North Africa","Lower middle income",NULL
+PSS,"Pacific island small states",NULL,NULL,"Pacific island small states aggregate. Includes Fiji, Kiribati, Marshall Islands, Federated States of Micronesia, Palau, Samoa, Solomon Islands, Tonga, Tuvalu, and Vanuatu."
+PYF,"French Polynesia","East Asia & Pacific","High income: nonOECD",NULL
+QAT,Qatar,"Middle East & North Africa","High income: nonOECD",NULL
+ROU,Romania,"Europe & Central Asia","Upper middle income","National accounts have been revised based on data from the National Statistical Institute; the new base year is 2000."
+RUS,"Russian Federation","Europe & Central Asia","High income: nonOECD",NULL
+RWA,Rwanda,"Sub-Saharan Africa","Low income","Based on official government statistics, national accounts data are revised for 2006 onward; the new base year is 2011."
+SAS,"South Asia",NULL,NULL,"South Asia regional aggregate. There are no economies in South Asia classified as high income."
+SAU,"Saudi Arabia","Middle East & North Africa","High income: nonOECD",NULL
+SDN,Sudan,"Sub-Saharan Africa","Lower middle income","Total population data are reported separately for Sudan and South Sudan; see specific notes for other demographic-related series. National accounts data exclude South Sudan after July 9, 2011. Other data reported for Sudan include South Sudan unless otherwise noted."
+SEN,Senegal,"Sub-Saharan Africa","Lower middle income",NULL
+SGP,Singapore,"East Asia & Pacific","High income: nonOECD","Fiscal year end: March 31; reporting period for national accounts data: CY. Country reports using a blend of SNA 1993 and SNA 2008. April 2012 database update: National accounts time series were replaced with official government statistics."
+SLB,"Solomon Islands","East Asia & Pacific","Lower middle income","National accounts data have been revised from 2007 to 2013 based on IMF reports."
+SLE,"Sierra Leone","Sub-Saharan Africa","Low income","Fiscal year end: June 30; reporting period for national accounts data: CY. April 2013 database update: Based on official government statistics, national accounts data were revised for 1990 onward; the base year changed to 2006."
+SLV,"El Salvador","Latin America & Caribbean","Lower middle income",NULL
+SMR,"San Marino","Europe & Central Asia","High income: nonOECD",NULL
+SOM,Somalia,"Sub-Saharan Africa","Low income",NULL
+SRB,Serbia,"Europe & Central Asia","Upper middle income","Montenegro declared independence from Serbia and Montenegro on June 3, 2006. Where available, data for each country are shown separately. However, for Serbia, some indicators, such as those series for which data appear only for Serbia and not Montenegro--e.g., aid, environment, external debt, balance of payments, various social indicators excluding population--continue to include data for Montenegro through 2005. Moreover, data from 1999 onward for Serbia for most indicators exclude data for Kosovo, 1999 being the year when Kosovo became a territory under international administration pursuant to UN Security Council Resolution 1244 (1999); any exceptions are noted. Kosovo became a World Bank member on June 29, 2009; available data are shown separately for Kosovo. In 2011, the Statistical Office of Serbia improved the methodology of national accounts data for 2003 onward. Specifically, the classification of sectors was revised, and GDP is now calculated using chain linked volumes in 2005 prices."
+SSA,"Sub-Saharan Africa",NULL,NULL,"Sub-Saharan Africa regional aggregate (does not include high-income economies)."
+SSD,"South Sudan","Sub-Saharan Africa","Lower middle income","South Sudan declared its independence on July 9, 2011. Data are shown separately for South Sudan where available. However, data reported for Sudan include South Sudan unless otherwise noted. Though limited data are available in the WDI database for South Sudan, additional data are available from South Sudan's National Bureau of Statistics (http://ssnbs.org/)."
+SSF,"Sub-Saharan Africa (all income levels)",NULL,NULL,"Sub-Saharan Africa regional aggregate (including high-income economies)."
+SST,"Small states",NULL,NULL,"Small states aggregate. Includes 41 members of the Small States Forum. (Does not include the high-income countries Bahrain, Brunei Darussalam, Cyprus, Estonia, Iceland, Malta, Qatar, and San Marino.)"
+STP,"São Tomé and Principe","Sub-Saharan Africa","Lower middle income","Based on IMF data, national accounts data have been revised for 2000 onward; the new base year is 2000."
+SUR,Suriname,"Latin America & Caribbean","Upper middle income",NULL
+SVK,"Slovak Republic","Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2009: 1 euro = 30.126 Slovak koruna. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries."
+SVN,Slovenia,"Europe & Central Asia","High income: OECD","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate entered into force on January 1, 2007: 1 euro = 239.64 Slovenian tolar. Please note that historical data are not actual euros and are not comparable or suitable for aggregation across countries."
+SWE,Sweden,"Europe & Central Asia","High income: OECD","Fiscal year end: June 30; reporting period for national accounts data: CY."
+SWZ,Swaziland,"Sub-Saharan Africa","Lower middle income","Fiscal year end: March 31; reporting period for national accounts data: CY. In 2011, the Central Statistical Office revised national accounts data for 1990 onward."
+SXM,"Sint Maarten (Dutch part)","Latin America & Caribbean","High income: nonOECD",NULL
+SYC,Seychelles,"Sub-Saharan Africa","Upper middle income","April 2013 database update: Based on official government statistics, national accounts data were revised for 1976 onward; the base year changed to 2006."
+SYR,"Syrian Arab Republic","Middle East & North Africa","Lower middle income","April 2013 database update: Based on data from the Central Bureau of Statistics, national accounts data were revised for 2003 onward."
+TCA,"Turks and Caicos Islands","Latin America & Caribbean","High income: nonOECD",NULL
+TCD,Chad,"Sub-Saharan Africa","Low income","Based on IMF data, national accounts data have been revised for 2005 onward; the new base year is 2005."
+TGO,Togo,"Sub-Saharan Africa","Low income","April 2013 database update: Based on IMF data, national accounts data have been revised for 2000; the new base year is 2000."
+THA,Thailand,"East Asia & Pacific","Upper middle income","Fiscal year end: September 30; reporting period for national accounts data: CY."
+TJK,Tajikistan,"Europe & Central Asia","Low income",NULL
+TKM,Turkmenistan,"Europe & Central Asia","Upper middle income","On January 1, 2009, the Turkmen manat was redenominated (1 new manat = 5,000 old manats)."
+TLS,Timor-Leste,"East Asia & Pacific","Lower middle income","Based on official government statistics, national account data have been revised, and value added is measured at basic prices; the new base year is 2010."
+TON,Tonga,"East Asia & Pacific","Upper middle income","2013 national accounts estimates are based on IMF reports. Fiscal year ends on June 30; reporting period for national accounts data: FY. April 2013 database update: Based on data from the National Bureau of Statistics, national accounts data were revised; the base year changed to 2010/11."
+TTO,"Trinidad and Tobago","Latin America & Caribbean","High income: nonOECD",NULL
+TUN,Tunisia,"Middle East & North Africa","Upper middle income","National accounts data from 2005 onward have been revised based on data published by the Tunisian authorities. April 2012 database update: Based on data from the Central Bank and its Statistical Bulletin, national accounts data were revised for 1997 onward."
+TUR,Turkey,"Europe & Central Asia","Upper middle income",NULL
+TUV,Tuvalu,"East Asia & Pacific","Upper middle income","2013 national accounts estimates are based on IMF reports. Value added is measured at producer prices up to 1999 and at basic prices from 2000 onward."
+TZA,Tanzania,"Sub-Saharan Africa","Low income",NULL
+UGA,Uganda,"Sub-Saharan Africa","Low income","Fiscal year end: June 30; reporting period for national accounts data: FY. In 2011, the Bureau of Statistics revised national accounts series for 1998 onward; the base year for constant price series changed to 2001/02."
+UKR,Ukraine,"Europe & Central Asia","Lower middle income",NULL
+UMC,"Upper middle income",NULL,NULL,"Upper middle income group aggregate. Upper-middle-income economies are those in which 2013 GNI per capita was between $4,126 and $12,745."
+URY,Uruguay,"Latin America & Caribbean","High income: nonOECD","In 2011, the Central Bank revised national accounts data for 2006 onward."
+USA,"United States","North America","High income: OECD","Fiscal year end: September 30; reporting period for national accounts data: CY."
+UZB,Uzbekistan,"Europe & Central Asia","Lower middle income",NULL
+VCT,"St. Vincent and the Grenadines","Latin America & Caribbean","Upper middle income","April 2012 database update: Based on official government statistics, national accounts data were revised for 2000 onward; the base year changed to 2006."
+VEN,"Venezuela, RB","Latin America & Caribbean","Upper middle income",NULL
+VIR,"Virgin Islands (U.S.)","Latin America & Caribbean","High income: nonOECD",NULL
+VNM,Vietnam,"East Asia & Pacific","Lower middle income","Based on data from the Vietnam Statistics Office, national accounts data have been revised from 2000 onward; the new base year is 2010."
+VUT,Vanuatu,"East Asia & Pacific","Lower middle income","2013 national accounts estimates are based on IMF reports. Based on official government statistics, value added is measured at producer prices through 1997 and at basic prices from 1998 onward."
+WLD,World,NULL,NULL,"World aggregate."
+WSM,Samoa,"East Asia & Pacific","Lower middle income","Fiscal year ends on June 30; reporting period for national accounts data: FY. Data are revised from Samoa Bureau of Statistics and Central Bank of Samoa. New base year is 2009."
+YEM,"Yemen, Rep.","Middle East & North Africa","Lower middle income","Based on official government statistics and International Monetary Fund data, national accounts data have been revised for 1990 onward."
+ZAF,"South Africa","Sub-Saharan Africa","Upper middle income","Fiscal year end: March 31; reporting period for national accounts data: CY."
+ZMB,Zambia,"Sub-Saharan Africa","Lower middle income","New base year is 2010. National accounts data were rebased to reflect the January 1, 2013, introduction of the new Zambian kwacha at a rate of 1,000 old kwacha = 1 new kwacha."
+ZWE,Zimbabwe,"Sub-Saharan Africa","Low income","Fiscal year end: June 30; reporting period for national accounts data: CY. As of January 2009, multiple hard currencies, such as rand, pound sterling, euro and U.S. dollar are in use. Data are reported in U.S. dollars, the most-used currency."

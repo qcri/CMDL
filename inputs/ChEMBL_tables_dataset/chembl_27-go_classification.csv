@@ -1,0 +1,310 @@
+go_id,parent_go_id,pref_name,class_level,aspect,path
+GO:0000003,GO:0008150,reproduction,1,P,biological_process  reproduction
+GO:0000149,GO:0005515,SNARE binding,2,F,molecular_function  protein binding  SNARE binding
+GO:0000166,GO:0003674,nucleotide binding,1,F,molecular_function  nucleotide binding
+GO:0000215,GO:0016772,tRNA 2'-phosphotransferase activity,4,F,"molecular_function  catalytic activity  transferase activity  transferase activity, transferring phosphorus-containing groups  tRNA 2'-phosphotransferase activity"
+GO:0000228,GO:0005694,nuclear chromosome,3,C,cellular_component  organelle  chromosome  nuclear chromosome
+GO:0000229,GO:0005694,cytoplasmic chromosome,3,C,cellular_component  organelle  chromosome  cytoplasmic chromosome
+GO:0000902,GO:0008150,cell morphogenesis,1,P,biological_process  cell morphogenesis
+GO:0000988,GO:0003674,protein binding transcription factor activity,1,F,molecular_function  protein binding transcription factor activity
+GO:0001071,GO:0003674,nucleic acid binding transcription factor activity,1,F,molecular_function  nucleic acid binding transcription factor activity
+GO:0001515,GO:0005102,opioid peptide activity,3,F,molecular_function  protein binding  receptor binding  opioid peptide activity
+GO:0001517,GO:0008146,N-acetylglucosamine 6-O-sulfotransferase activity,4,F,molecular_function  catalytic activity  transferase activity  sulfotransferase activity  N-acetylglucosamine 6-O-sulfotransferase activity
+GO:0001540,GO:0042277,beta-amyloid binding,2,F,molecular_function  peptide binding  beta-amyloid binding
+GO:0001618,GO:0004872,virus receptor activity,2,F,molecular_function  receptor activity  virus receptor activity
+GO:0001968,GO:0005515,fibronectin binding,2,F,molecular_function  protein binding  fibronectin binding
+GO:0002376,GO:0008150,immune system process,1,P,biological_process  immune system process
+GO:0003013,GO:0008150,circulatory system process,1,P,biological_process  circulatory system process
+GO:0003674,,molecular_function,0,F,molecular_function
+GO:0003676,GO:0003674,nucleic acid binding,1,F,molecular_function  nucleic acid binding
+GO:0003677,GO:0003676,DNA binding,2,F,molecular_function  nucleic acid binding  DNA binding
+GO:0003682,GO:0003674,chromatin binding,1,F,molecular_function  chromatin binding
+GO:0003723,GO:0003676,RNA binding,2,F,molecular_function  nucleic acid binding  RNA binding
+GO:0003729,GO:0003723,mRNA binding,3,F,molecular_function  nucleic acid binding  RNA binding  mRNA binding
+GO:0003735,GO:0005198,structural constituent of ribosome,2,F,molecular_function  structural molecule activity  structural constituent of ribosome
+GO:0003823,GO:0003674,antigen binding,1,F,molecular_function  antigen binding
+GO:0003824,GO:0003674,catalytic activity,1,F,molecular_function  catalytic activity
+GO:0003847,GO:0016788,1-alkyl-2-acetylglycerophosphocholine esterase activity,4,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  1-alkyl-2-acetylglycerophosphocholine esterase activity"
+GO:0003848,GO:0016772,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity,4,F,"molecular_function  catalytic activity  transferase activity  transferase activity, transferring phosphorus-containing groups  2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity"
+GO:0003924,GO:0017111,GTPase activity,4,F,molecular_function  catalytic activity  hydrolase activity  nucleoside-triphosphatase activity  GTPase activity
+GO:0003990,GO:0004104,acetylcholinesterase activity,5,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  cholinesterase activity  acetylcholinesterase activity"
+GO:0004013,GO:0016787,adenosylhomocysteinase activity,3,F,molecular_function  catalytic activity  hydrolase activity  adenosylhomocysteinase activity
+GO:0004027,GO:0008146,alcohol sulfotransferase activity,4,F,molecular_function  catalytic activity  transferase activity  sulfotransferase activity  alcohol sulfotransferase activity
+GO:0004062,GO:0008146,aryl sulfotransferase activity,4,F,molecular_function  catalytic activity  transferase activity  sulfotransferase activity  aryl sulfotransferase activity
+GO:0004104,GO:0016788,cholinesterase activity,4,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  cholinesterase activity"
+GO:0004170,GO:0016787,dUTP diphosphatase activity,3,F,molecular_function  catalytic activity  hydrolase activity  dUTP diphosphatase activity
+GO:0004252,GO:0008233,serine-type endopeptidase activity,4,F,molecular_function  catalytic activity  hydrolase activity  peptidase activity  serine-type endopeptidase activity
+GO:0004301,GO:0016787,epoxide hydrolase activity,3,F,molecular_function  catalytic activity  hydrolase activity  epoxide hydrolase activity
+GO:0004386,GO:0017111,helicase activity,4,F,molecular_function  catalytic activity  hydrolase activity  nucleoside-triphosphatase activity  helicase activity
+GO:0004453,GO:0016788,juvenile-hormone esterase activity,4,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  juvenile-hormone esterase activity"
+GO:0004518,GO:0016788,nuclease activity,4,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  nuclease activity"
+GO:0004620,GO:0016298,phospholipase activity,5,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  lipase activity  phospholipase activity"
+GO:0004622,GO:0004620,lysophospholipase activity,6,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  lipase activity  phospholipase activity  lysophospholipase activity"
+GO:0004623,GO:0004620,phospholipase A2 activity,6,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  lipase activity  phospholipase activity  phospholipase A2 activity"
+GO:0004630,GO:0004620,phospholipase D activity,6,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  lipase activity  phospholipase activity  phospholipase D activity"
+GO:0004767,GO:0004620,sphingomyelin phosphodiesterase activity,6,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  lipase activity  phospholipase activity  sphingomyelin phosphodiesterase activity"
+GO:0004771,GO:0016298,sterol esterase activity,5,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  lipase activity  sterol esterase activity"
+GO:0004806,GO:0016298,triglyceride lipase activity,5,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  lipase activity  triglyceride lipase activity"
+GO:0004871,GO:0003674,signal transducer activity,1,F,molecular_function  signal transducer activity
+GO:0004872,GO:0003674,receptor activity,1,F,molecular_function  receptor activity
+GO:0004873,GO:0004872,asialoglycoprotein receptor activity,2,F,molecular_function  receptor activity  asialoglycoprotein receptor activity
+GO:0004930,GO:0004872,G-protein coupled receptor activity,2,F,molecular_function  receptor activity  G-protein coupled receptor activity
+GO:0005044,GO:0004872,scavenger receptor activity,2,F,molecular_function  receptor activity  scavenger receptor activity
+GO:0005085,GO:0003674,guanyl-nucleotide exchange factor activity,1,F,molecular_function  guanyl-nucleotide exchange factor activity
+GO:0005089,GO:0005085,Rho guanyl-nucleotide exchange factor activity,2,F,molecular_function  guanyl-nucleotide exchange factor activity  Rho guanyl-nucleotide exchange factor activity
+GO:0005102,GO:0005515,receptor binding,2,F,molecular_function  protein binding  receptor binding
+GO:0005109,GO:0005102,frizzled binding,3,F,molecular_function  protein binding  receptor binding  frizzled binding
+GO:0005123,GO:0005102,death receptor binding,3,F,molecular_function  protein binding  receptor binding  death receptor binding
+GO:0005125,GO:0005102,cytokine activity,3,F,molecular_function  protein binding  receptor binding  cytokine activity
+GO:0005137,GO:0005102,interleukin-5 receptor binding,3,F,molecular_function  protein binding  receptor binding  interleukin-5 receptor binding
+GO:0005138,GO:0005102,interleukin-6 receptor binding,3,F,molecular_function  protein binding  receptor binding  interleukin-6 receptor binding
+GO:0005153,GO:0005102,interleukin-8 receptor binding,3,F,molecular_function  protein binding  receptor binding  interleukin-8 receptor binding
+GO:0005154,GO:0005102,epidermal growth factor receptor binding,3,F,molecular_function  protein binding  receptor binding  epidermal growth factor receptor binding
+GO:0005164,GO:0005102,tumor necrosis factor receptor binding,3,F,molecular_function  protein binding  receptor binding  tumor necrosis factor receptor binding
+GO:0005178,GO:0005102,integrin binding,3,F,molecular_function  protein binding  receptor binding  integrin binding
+GO:0005179,GO:0005102,hormone activity,3,F,molecular_function  protein binding  receptor binding  hormone activity
+GO:0005184,GO:0005179,neuropeptide hormone activity,4,F,molecular_function  protein binding  receptor binding  hormone activity  neuropeptide hormone activity
+GO:0005198,GO:0003674,structural molecule activity,1,F,molecular_function  structural molecule activity
+GO:0005215,GO:0003674,transporter activity,1,F,molecular_function  transporter activity
+GO:0005484,GO:0005515,SNAP receptor activity,2,F,molecular_function  protein binding  SNAP receptor activity
+GO:0005515,GO:0003674,protein binding,1,F,molecular_function  protein binding
+GO:0005516,GO:0005515,calmodulin binding,2,F,molecular_function  protein binding  calmodulin binding
+GO:0005520,GO:0019838,insulin-like growth factor binding,3,F,molecular_function  protein binding  growth factor binding  insulin-like growth factor binding
+GO:0005537,GO:0030246,mannose binding,2,F,molecular_function  carbohydrate binding  mannose binding
+GO:0005539,GO:0003674,glycosaminoglycan binding,1,F,molecular_function  glycosaminoglycan binding
+GO:0005575,,cellular_component,0,C,cellular_component
+GO:0005576,GO:0005575,extracellular region,1,C,cellular_component  extracellular region
+GO:0005578,GO:0005575,proteinaceous extracellular matrix,1,C,cellular_component  proteinaceous extracellular matrix
+GO:0005615,GO:0005575,extracellular space,1,C,cellular_component  extracellular space
+GO:0005618,GO:0030312,cell wall,2,C,cellular_component  external encapsulating structure  cell wall
+GO:0005622,GO:0005575,intracellular,1,C,cellular_component  intracellular
+GO:0005623,GO:0005575,cell,1,C,cellular_component  cell
+GO:0005634,GO:0043226,nucleus,2,C,cellular_component  organelle  nucleus
+GO:0005635,GO:0005575,nuclear envelope,1,C,cellular_component  nuclear envelope
+GO:0005654,GO:0005575,nucleoplasm,1,C,cellular_component  nucleoplasm
+GO:0005694,GO:0043226,chromosome,2,C,cellular_component  organelle  chromosome
+GO:0005730,GO:0043226,nucleolus,2,C,cellular_component  organelle  nucleolus
+GO:0005737,GO:0005575,cytoplasm,1,C,cellular_component  cytoplasm
+GO:0005739,GO:0043226,mitochondrion,2,C,cellular_component  organelle  mitochondrion
+GO:0005764,GO:0005773,lysosome,3,C,cellular_component  organelle  vacuole  lysosome
+GO:0005768,GO:0043226,endosome,2,C,cellular_component  organelle  endosome
+GO:0005773,GO:0043226,vacuole,2,C,cellular_component  organelle  vacuole
+GO:0005777,GO:0043226,peroxisome,2,C,cellular_component  organelle  peroxisome
+GO:0005783,GO:0043226,endoplasmic reticulum,2,C,cellular_component  organelle  endoplasmic reticulum
+GO:0005794,GO:0043226,Golgi apparatus,2,C,cellular_component  organelle  Golgi apparatus
+GO:0005811,GO:0043226,lipid particle,2,C,cellular_component  organelle  lipid particle
+GO:0005815,GO:0005575,microtubule organizing center,1,C,cellular_component  microtubule organizing center
+GO:0005829,GO:0005575,cytosol,1,C,cellular_component  cytosol
+GO:0005840,GO:0043226,ribosome,2,C,cellular_component  organelle  ribosome
+GO:0005856,GO:0043226,cytoskeleton,2,C,cellular_component  organelle  cytoskeleton
+GO:0005886,GO:0016020,plasma membrane,2,C,cellular_component  membrane  plasma membrane
+GO:0005929,GO:0043226,cilium,2,C,cellular_component  organelle  cilium
+GO:0005975,GO:0008152,carbohydrate metabolic process,2,P,biological_process  metabolic process  carbohydrate metabolic process
+GO:0006091,GO:0008152,generation of precursor metabolites and energy,2,P,biological_process  metabolic process  generation of precursor metabolites and energy
+GO:0006259,GO:0034641,DNA metabolic process,3,P,biological_process  metabolic process  cellular nitrogen compound metabolic process  DNA metabolic process
+GO:0006397,GO:0034641,mRNA processing,3,P,biological_process  metabolic process  cellular nitrogen compound metabolic process  mRNA processing
+GO:0006399,GO:0034641,tRNA metabolic process,3,P,biological_process  metabolic process  cellular nitrogen compound metabolic process  tRNA metabolic process
+GO:0006412,GO:0009058,translation,3,P,biological_process  metabolic process  biosynthetic process  translation
+GO:0006457,GO:0008152,protein folding,2,P,biological_process  metabolic process  protein folding
+GO:0006461,GO:0065003,protein complex assembly,3,P,biological_process  cellular component assembly  macromolecular complex assembly  protein complex assembly
+GO:0006464,GO:0008152,cellular protein modification process,2,P,biological_process  metabolic process  cellular protein modification process
+GO:0006508,GO:0008152,proteolysis,2,P,biological_process  metabolic process  proteolysis
+GO:0006520,GO:0044281,cellular amino acid metabolic process,3,P,biological_process  metabolic process  small molecule metabolic process  cellular amino acid metabolic process
+GO:0006605,GO:0006810,protein targeting,2,P,biological_process  transport  protein targeting
+GO:0006629,GO:0008152,lipid metabolic process,2,P,biological_process  metabolic process  lipid metabolic process
+GO:0006790,GO:0008152,sulfur compound metabolic process,2,P,biological_process  metabolic process  sulfur compound metabolic process
+GO:0006805,GO:0008152,xenobiotic metabolic process,2,P,biological_process  metabolic process  xenobiotic metabolic process
+GO:0006810,GO:0008150,transport,1,P,biological_process  transport
+GO:0006913,GO:0006810,nucleocytoplasmic transport,2,P,biological_process  transport  nucleocytoplasmic transport
+GO:0006914,GO:0009056,autophagy,3,P,biological_process  metabolic process  catabolic process  autophagy
+GO:0006950,GO:0008150,response to stress,1,P,biological_process  response to stress
+GO:0007005,GO:0008150,mitochondrion organization,1,P,biological_process  mitochondrion organization
+GO:0007009,GO:0061024,plasma membrane organization,2,P,biological_process  membrane organization  plasma membrane organization
+GO:0007010,GO:0008150,cytoskeleton organization,1,P,biological_process  cytoskeleton organization
+GO:0007017,GO:0008150,microtubule-based process,1,P,biological_process  microtubule-based process
+GO:0007034,GO:0006810,vacuolar transport,2,P,biological_process  transport  vacuolar transport
+GO:0007049,GO:0008150,cell cycle,1,P,biological_process  cell cycle
+GO:0007059,GO:0008150,chromosome segregation,1,P,biological_process  chromosome segregation
+GO:0007067,GO:0008150,mitotic nuclear division,1,P,biological_process  mitotic nuclear division
+GO:0007155,GO:0008150,cell adhesion,1,P,biological_process  cell adhesion
+GO:0007165,GO:0008150,signal transduction,1,P,biological_process  signal transduction
+GO:0007267,GO:0008150,cell-cell signaling,1,P,biological_process  cell-cell signaling
+GO:0007275,GO:0008150,multicellular organismal development,1,P,biological_process  multicellular organismal development
+GO:0007565,GO:0008150,female pregnancy,1,P,biological_process  female pregnancy
+GO:0007568,GO:0008150,aging,1,P,biological_process  aging
+GO:0007585,GO:0008150,respiratory gaseous exchange,1,P,biological_process  respiratory gaseous exchange
+GO:0007586,GO:0008150,digestion,1,P,biological_process  digestion
+GO:0008009,GO:0005125,chemokine activity,4,F,molecular_function  protein binding  receptor binding  cytokine activity  chemokine activity
+GO:0008022,GO:0005515,protein C-terminus binding,2,F,molecular_function  protein binding  protein C-terminus binding
+GO:0008081,GO:0016788,phosphoric diester hydrolase activity,4,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  phosphoric diester hydrolase activity"
+GO:0008083,GO:0005102,growth factor activity,3,F,molecular_function  protein binding  receptor binding  growth factor activity
+GO:0008092,GO:0005515,cytoskeletal protein binding,2,F,molecular_function  protein binding  cytoskeletal protein binding
+GO:0008134,GO:0005515,transcription factor binding,2,F,molecular_function  protein binding  transcription factor binding
+GO:0008135,GO:0003723,"translation factor activity, RNA binding",3,F,"molecular_function  nucleic acid binding  RNA binding  translation factor activity, RNA binding"
+GO:0008146,GO:0016740,sulfotransferase activity,3,F,molecular_function  catalytic activity  transferase activity  sulfotransferase activity
+GO:0008150,,biological_process,0,P,biological_process
+GO:0008152,GO:0008150,metabolic process,1,P,biological_process  metabolic process
+GO:0008168,GO:0016740,methyltransferase activity,3,F,molecular_function  catalytic activity  transferase activity  methyltransferase activity
+GO:0008218,GO:0008152,bioluminescence,2,P,biological_process  metabolic process  bioluminescence
+GO:0008219,GO:0008150,cell death,1,P,biological_process  cell death
+GO:0008233,GO:0016787,peptidase activity,3,F,molecular_function  catalytic activity  hydrolase activity  peptidase activity
+GO:0008283,GO:0008150,cell proliferation,1,P,biological_process  cell proliferation
+GO:0008289,GO:0003674,lipid binding,1,F,molecular_function  lipid binding
+GO:0008474,GO:0016788,palmitoyl-(protein) hydrolase activity,4,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  palmitoyl-(protein) hydrolase activity"
+GO:0008476,GO:0008146,protein-tyrosine sulfotransferase activity,4,F,molecular_function  catalytic activity  transferase activity  sulfotransferase activity  protein-tyrosine sulfotransferase activity
+GO:0008565,GO:0005215,protein transporter activity,2,F,molecular_function  transporter activity  protein transporter activity
+GO:0008963,GO:0016772,phospho-N-acetylmuramoyl-pentapeptide-transferase activity,4,F,"molecular_function  catalytic activity  transferase activity  transferase activity, transferring phosphorus-containing groups  phospho-N-acetylmuramoyl-pentapeptide-transferase activity"
+GO:0008970,GO:0004620,phosphatidylcholine 1-acylhydrolase activity,6,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  lipase activity  phospholipase activity  phosphatidylcholine 1-acylhydrolase activity"
+GO:0009056,GO:0008152,catabolic process,2,P,biological_process  metabolic process  catabolic process
+GO:0009058,GO:0008152,biosynthetic process,2,P,biological_process  metabolic process  biosynthetic process
+GO:0009308,GO:0008152,amine metabolic process,2,P,biological_process  metabolic process  amine metabolic process
+GO:0009405,GO:0008150,pathogenesis,1,P,biological_process  pathogenesis
+GO:0009536,GO:0043226,plastid,2,C,cellular_component  organelle  plastid
+GO:0009579,GO:0005575,thylakoid,1,C,cellular_component  thylakoid
+GO:0009636,GO:0008150,response to toxic substance,1,P,biological_process  response to toxic substance
+GO:0009690,GO:0009308,cytokinin metabolic process,3,P,biological_process  metabolic process  amine metabolic process  cytokinin metabolic process
+GO:0009790,GO:0048856,embryo development,2,P,biological_process  anatomical structure development  embryo development
+GO:0009820,GO:0008152,alkaloid metabolic process,2,P,biological_process  metabolic process  alkaloid metabolic process
+GO:0010951,GO:0050790,negative regulation of endopeptidase activity,2,P,biological_process  regulation of catalytic activity  negative regulation of endopeptidase activity
+GO:0015976,GO:0008150,carbon utilization,1,P,biological_process  carbon utilization
+GO:0015979,GO:0008152,photosynthesis,2,P,biological_process  metabolic process  photosynthesis
+GO:0016020,GO:0005575,membrane,1,C,cellular_component  membrane
+GO:0016021,GO:0005575,integral component of membrane,1,C,cellular_component  integral component of membrane
+GO:0016023,GO:0043226,cytoplasmic membrane-bounded vesicle,2,C,cellular_component  organelle  cytoplasmic membrane-bounded vesicle
+GO:0016192,GO:0006810,vesicle-mediated transport,2,P,biological_process  transport  vesicle-mediated transport
+GO:0016290,GO:0016788,palmitoyl-CoA hydrolase activity,4,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  palmitoyl-CoA hydrolase activity"
+GO:0016298,GO:0016788,lipase activity,4,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  lipase activity"
+GO:0016301,GO:0016772,kinase activity,4,F,"molecular_function  catalytic activity  transferase activity  transferase activity, transferring phosphorus-containing groups  kinase activity"
+GO:0016310,GO:0008152,phosphorylation,2,P,biological_process  metabolic process  phosphorylation
+GO:0016485,GO:0006508,protein processing,3,P,biological_process  metabolic process  proteolysis  protein processing
+GO:0016491,GO:0003824,oxidoreductase activity,2,F,molecular_function  catalytic activity  oxidoreductase activity
+GO:0016540,GO:0016485,protein autoprocessing,4,P,biological_process  metabolic process  proteolysis  protein processing  protein autoprocessing
+GO:0016740,GO:0003824,transferase activity,2,F,molecular_function  catalytic activity  transferase activity
+GO:0016746,GO:0016740,"transferase activity, transferring acyl groups",3,F,"molecular_function  catalytic activity  transferase activity  transferase activity, transferring acyl groups"
+GO:0016757,GO:0016740,"transferase activity, transferring glycosyl groups",3,F,"molecular_function  catalytic activity  transferase activity  transferase activity, transferring glycosyl groups"
+GO:0016765,GO:0016740,"transferase activity, transferring alkyl or aryl (other than methyl) groups",3,F,"molecular_function  catalytic activity  transferase activity  transferase activity, transferring alkyl or aryl (other than methyl) groups"
+GO:0016772,GO:0016740,"transferase activity, transferring phosphorus-containing groups",3,F,"molecular_function  catalytic activity  transferase activity  transferase activity, transferring phosphorus-containing groups"
+GO:0016779,GO:0016772,nucleotidyltransferase activity,4,F,"molecular_function  catalytic activity  transferase activity  transferase activity, transferring phosphorus-containing groups  nucleotidyltransferase activity"
+GO:0016787,GO:0003824,hydrolase activity,2,F,molecular_function  catalytic activity  hydrolase activity
+GO:0016788,GO:0016787,"hydrolase activity, acting on ester bonds",3,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds"
+GO:0016791,GO:0016788,phosphatase activity,4,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  phosphatase activity"
+GO:0016798,GO:0016787,"hydrolase activity, acting on glycosyl bonds",3,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on glycosyl bonds"
+GO:0016810,GO:0016787,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",3,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+GO:0016829,GO:0003824,lyase activity,2,F,molecular_function  catalytic activity  lyase activity
+GO:0016853,GO:0003824,isomerase activity,2,F,molecular_function  catalytic activity  isomerase activity
+GO:0016874,GO:0003824,ligase activity,2,F,molecular_function  catalytic activity  ligase activity
+GO:0016887,GO:0017111,ATPase activity,4,F,molecular_function  catalytic activity  hydrolase activity  nucleoside-triphosphatase activity  ATPase activity
+GO:0016936,GO:0003674,galactoside binding,1,F,molecular_function  galactoside binding
+GO:0017111,GO:0016787,nucleoside-triphosphatase activity,3,F,molecular_function  catalytic activity  hydrolase activity  nucleoside-triphosphatase activity
+GO:0017144,GO:0008152,drug metabolic process,2,P,biological_process  metabolic process  drug metabolic process
+GO:0017147,GO:0005515,Wnt-protein binding,2,F,molecular_function  protein binding  Wnt-protein binding
+GO:0018738,GO:0016788,S-formylglutathione hydrolase activity,4,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  S-formylglutathione hydrolase activity"
+GO:0019012,GO:0005575,virion,1,C,cellular_component  virion
+GO:0019013,GO:0005575,viral nucleocapsid,1,C,cellular_component  viral nucleocapsid
+GO:0019028,GO:0005575,viral capsid,1,C,cellular_component  viral capsid
+GO:0019031,GO:0005575,viral envelope,1,C,cellular_component  viral envelope
+GO:0019748,GO:0008152,secondary metabolic process,2,P,biological_process  metabolic process  secondary metabolic process
+GO:0019835,GO:0008150,cytolysis,1,P,biological_process  cytolysis
+GO:0019838,GO:0005515,growth factor binding,2,F,molecular_function  protein binding  growth factor binding
+GO:0019843,GO:0003723,rRNA binding,3,F,molecular_function  nucleic acid binding  RNA binding  rRNA binding
+GO:0019864,GO:0032403,IgG binding,3,F,molecular_function  protein binding  protein complex binding  IgG binding
+GO:0019899,GO:0005515,enzyme binding,2,F,molecular_function  protein binding  enzyme binding
+GO:0019904,GO:0005515,protein domain specific binding,2,F,molecular_function  protein binding  protein domain specific binding
+GO:0021700,GO:0008150,developmental maturation,1,P,biological_process  developmental maturation
+GO:0022607,GO:0008150,cellular component assembly,1,P,biological_process  cellular component assembly
+GO:0022618,GO:0065003,ribonucleoprotein complex assembly,3,P,biological_process  cellular component assembly  macromolecular complex assembly  ribonucleoprotein complex assembly
+GO:0022857,GO:0005215,transmembrane transporter activity,2,F,molecular_function  transporter activity  transmembrane transporter activity
+GO:0030154,GO:0008150,cell differentiation,1,P,biological_process  cell differentiation
+GO:0030169,GO:0003674,low-density lipoprotein particle binding,1,F,molecular_function  low-density lipoprotein particle binding
+GO:0030198,GO:0008150,extracellular matrix organization,1,P,biological_process  extracellular matrix organization
+GO:0030234,GO:0003674,enzyme regulator activity,1,F,molecular_function  enzyme regulator activity
+GO:0030246,GO:0003674,carbohydrate binding,1,F,molecular_function  carbohydrate binding
+GO:0030312,GO:0005575,external encapsulating structure,1,C,cellular_component  external encapsulating structure
+GO:0030533,GO:0003723,triplet codon-amino acid adaptor activity,3,F,molecular_function  nucleic acid binding  RNA binding  triplet codon-amino acid adaptor activity
+GO:0030554,GO:0000166,adenyl nucleotide binding,2,F,molecular_function  nucleotide binding  adenyl nucleotide binding
+GO:0030674,GO:0005515,"protein binding, bridging",2,F,"molecular_function  protein binding  protein binding, bridging"
+GO:0030705,GO:0006810,cytoskeleton-dependent intracellular transport,2,P,biological_process  transport  cytoskeleton-dependent intracellular transport
+GO:0030881,GO:0005515,beta-2-microglobulin binding,2,F,molecular_function  protein binding  beta-2-microglobulin binding
+GO:0031638,GO:0016485,zymogen activation,4,P,biological_process  metabolic process  proteolysis  protein processing  zymogen activation
+GO:0031639,GO:0031638,plasminogen activation,5,P,biological_process  metabolic process  proteolysis  protein processing  zymogen activation  plasminogen activation
+GO:0031994,GO:0005520,insulin-like growth factor I binding,4,F,molecular_function  protein binding  growth factor binding  insulin-like growth factor binding  insulin-like growth factor I binding
+GO:0031995,GO:0005520,insulin-like growth factor II binding,4,F,molecular_function  protein binding  growth factor binding  insulin-like growth factor binding  insulin-like growth factor II binding
+GO:0032182,GO:0005515,ubiquitin-like protein binding,2,F,molecular_function  protein binding  ubiquitin-like protein binding
+GO:0032196,GO:0008150,transposition,1,P,biological_process  transposition
+GO:0032259,GO:0008152,methylation,2,P,biological_process  metabolic process  methylation
+GO:0032403,GO:0005515,protein complex binding,2,F,molecular_function  protein binding  protein complex binding
+GO:0032880,GO:0008150,regulation of protein localization,1,P,biological_process  regulation of protein localization
+GO:0033961,GO:0016787,cis-stilbene-oxide hydrolase activity,3,F,molecular_function  catalytic activity  hydrolase activity  cis-stilbene-oxide hydrolase activity
+GO:0034330,GO:0008150,cell junction organization,1,P,biological_process  cell junction organization
+GO:0034641,GO:0008152,cellular nitrogen compound metabolic process,2,P,biological_process  metabolic process  cellular nitrogen compound metabolic process
+GO:0034655,GO:0034641,nucleobase-containing compound catabolic process,3,P,biological_process  metabolic process  cellular nitrogen compound metabolic process  nucleobase-containing compound catabolic process
+GO:0035254,GO:0005102,glutamate receptor binding,3,F,molecular_function  protein binding  receptor binding  glutamate receptor binding
+GO:0035634,GO:0008150,response to stilbenoid,1,P,biological_process  response to stilbenoid
+GO:0035690,GO:0008150,cellular response to drug,1,P,biological_process  cellular response to drug
+GO:0040007,GO:0008150,growth,1,P,biological_process  growth
+GO:0040011,GO:0008150,locomotion,1,P,biological_process  locomotion
+GO:0042056,GO:0003674,chemoattractant activity,1,F,molecular_function  chemoattractant activity
+GO:0042254,GO:0008150,ribosome biogenesis,1,P,biological_process  ribosome biogenesis
+GO:0042277,GO:0003674,peptide binding,1,F,molecular_function  peptide binding
+GO:0042393,GO:0005515,histone binding,2,F,molecular_function  protein binding  histone binding
+GO:0042562,GO:0003674,hormone binding,1,F,molecular_function  hormone binding
+GO:0042592,GO:0008150,homeostatic process,1,P,biological_process  homeostatic process
+GO:0042605,GO:0003823,peptide antigen binding,2,F,molecular_function  antigen binding  peptide antigen binding
+GO:0042802,GO:0005515,identical protein binding,2,F,molecular_function  protein binding  identical protein binding
+GO:0042803,GO:0042802,protein homodimerization activity,3,F,molecular_function  protein binding  identical protein binding  protein homodimerization activity
+GO:0042813,GO:0004872,Wnt-activated receptor activity,2,F,molecular_function  receptor activity  Wnt-activated receptor activity
+GO:0043008,GO:0005515,ATP-dependent protein binding,2,F,molecular_function  protein binding  ATP-dependent protein binding
+GO:0043065,GO:0008150,positive regulation of apoptotic process,1,P,biological_process  positive regulation of apoptotic process
+GO:0043085,GO:0050790,positive regulation of catalytic activity,2,P,biological_process  regulation of catalytic activity  positive regulation of catalytic activity
+GO:0043167,GO:0003674,ion binding,1,F,molecular_function  ion binding
+GO:0043226,GO:0005575,organelle,1,C,cellular_component  organelle
+GO:0043234,GO:0005575,protein complex,1,C,cellular_component  protein complex
+GO:0043473,GO:0008150,pigmentation,1,P,biological_process  pigmentation
+GO:0043621,GO:0005515,protein self-association,2,F,molecular_function  protein binding  protein self-association
+GO:0044179,GO:0019835,hemolysis in other organism,2,P,biological_process  cytolysis  hemolysis in other organism
+GO:0044183,GO:0005515,protein binding involved in protein folding,2,F,molecular_function  protein binding  protein binding involved in protein folding
+GO:0044281,GO:0008152,small molecule metabolic process,2,P,biological_process  metabolic process  small molecule metabolic process
+GO:0044325,GO:0005515,ion channel binding,2,F,molecular_function  protein binding  ion channel binding
+GO:0044403,GO:0008150,"symbiosis, encompassing mutualism through parasitism",1,P,"biological_process  symbiosis, encompassing mutualism through parasitism"
+GO:0045569,GO:0005515,TRAIL binding,2,F,molecular_function  protein binding  TRAIL binding
+GO:0046677,GO:0009636,response to antibiotic,2,P,biological_process  response to toxic substance  response to antibiotic
+GO:0046789,GO:0005102,host cell surface receptor binding,3,F,molecular_function  protein binding  receptor binding  host cell surface receptor binding
+GO:0046982,GO:0005515,protein heterodimerization activity,2,F,molecular_function  protein binding  protein heterodimerization activity
+GO:0047372,GO:0016298,acylglycerol lipase activity,5,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  lipase activity  acylglycerol lipase activity"
+GO:0047499,GO:0004623,calcium-independent phospholipase A2 activity,7,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  lipase activity  phospholipase activity  phospholipase A2 activity  calcium-independent phospholipase A2 activity"
+GO:0047704,GO:0008146,bile-salt sulfotransferase activity,4,F,molecular_function  catalytic activity  transferase activity  sulfotransferase activity  bile-salt sulfotransferase activity
+GO:0047894,GO:0008146,flavonol 3-sulfotransferase activity,4,F,molecular_function  catalytic activity  transferase activity  sulfotransferase activity  flavonol 3-sulfotransferase activity
+GO:0048018,GO:0005102,receptor agonist activity,3,F,molecular_function  protein binding  receptor binding  receptor agonist activity
+GO:0048646,GO:0008150,anatomical structure formation involved in morphogenesis,1,P,biological_process  anatomical structure formation involved in morphogenesis
+GO:0048856,GO:0008150,anatomical structure development,1,P,biological_process  anatomical structure development
+GO:0048870,GO:0040011,cell motility,2,P,biological_process  locomotion  cell motility
+GO:0050294,GO:0008146,steroid sulfotransferase activity,4,F,molecular_function  catalytic activity  transferase activity  sulfotransferase activity  steroid sulfotransferase activity
+GO:0050790,GO:0008150,regulation of catalytic activity,1,P,biological_process  regulation of catalytic activity
+GO:0050821,GO:0008150,protein stabilization,1,P,biological_process  protein stabilization
+GO:0050840,GO:0003674,extracellular matrix binding,1,F,molecular_function  extracellular matrix binding
+GO:0050877,GO:0008150,neurological system process,1,P,biological_process  neurological system process
+GO:0051082,GO:0005515,unfolded protein binding,2,F,molecular_function  protein binding  unfolded protein binding
+GO:0051186,GO:0008152,cofactor metabolic process,2,P,biological_process  metabolic process  cofactor metabolic process
+GO:0051219,GO:0005515,phosphoprotein binding,2,F,molecular_function  protein binding  phosphoprotein binding
+GO:0051276,GO:0008150,chromosome organization,1,P,biological_process  chromosome organization
+GO:0051287,GO:0000166,NAD binding,2,F,molecular_function  nucleotide binding  NAD binding
+GO:0051301,GO:0008150,cell division,1,P,biological_process  cell division
+GO:0051400,GO:0019904,BH domain binding,3,F,molecular_function  protein binding  protein domain specific binding  BH domain binding
+GO:0051428,GO:0005102,peptide hormone receptor binding,3,F,molecular_function  protein binding  receptor binding  peptide hormone receptor binding
+GO:0051434,GO:0051400,BH3 domain binding,4,F,molecular_function  protein binding  protein domain specific binding  BH domain binding  BH3 domain binding
+GO:0051604,GO:0008152,protein maturation,2,P,biological_process  metabolic process  protein maturation
+GO:0051992,GO:0016772,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine:undecaprenyl-phosphate transferase activity",4,F,"molecular_function  catalytic activity  transferase activity  transferase activity, transferring phosphorus-containing groups  UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine:undecaprenyl-phosphate transferase activity"
+GO:0052654,GO:0016740,L-leucine transaminase activity,3,F,molecular_function  catalytic activity  transferase activity  L-leucine transaminase activity
+GO:0052655,GO:0016740,L-valine transaminase activity,3,F,molecular_function  catalytic activity  transferase activity  L-valine transaminase activity
+GO:0052656,GO:0016740,L-isoleucine transaminase activity,3,F,molecular_function  catalytic activity  transferase activity  L-isoleucine transaminase activity
+GO:0055036,GO:0016020,virion membrane,2,C,cellular_component  membrane  virion membrane
+GO:0055085,GO:0006810,transmembrane transport,2,P,biological_process  transport  transmembrane transport
+GO:0061024,GO:0008150,membrane organization,1,P,biological_process  membrane organization
+GO:0065003,GO:0022607,macromolecular complex assembly,2,P,biological_process  cellular component assembly  macromolecular complex assembly
+GO:0070290,GO:0004620,N-acylphosphatidylethanolamine-specific phospholipase D activity,6,F,"molecular_function  catalytic activity  hydrolase activity  hydrolase activity, acting on ester bonds  lipase activity  phospholipase activity  N-acylphosphatidylethanolamine-specific phospholipase D activity"
+GO:0070324,GO:0042562,thyroid hormone binding,2,F,molecular_function  hormone binding  thyroid hormone binding
+GO:0070628,GO:0032403,proteasome binding,3,F,molecular_function  protein binding  protein complex binding  proteasome binding
+GO:0070976,GO:0019904,TIR domain binding,3,F,molecular_function  protein binding  protein domain specific binding  TIR domain binding
+GO:0070989,GO:0008152,oxidative demethylation,2,P,biological_process  metabolic process  oxidative demethylation
+GO:0071554,GO:0008150,cell wall organization or biogenesis,1,P,biological_process  cell wall organization or biogenesis
+GO:0071941,GO:0008152,nitrogen cycle metabolic process,2,P,biological_process  metabolic process  nitrogen cycle metabolic process

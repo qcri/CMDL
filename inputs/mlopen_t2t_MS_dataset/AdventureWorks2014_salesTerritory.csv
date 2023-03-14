@@ -1,0 +1,11 @@
+TerritoryID,Name,CountryRegionCode,Group
+1,Northwest,US,North America
+2,Northeast,US,North America
+3,Central,US,North America
+4,Southwest,US,North America
+5,Southeast,US,North America
+6,Canada,CA,North America
+7,France,FR,Europe
+8,Germany,DE,Europe
+9,Australia,AU,Pacific
+10,United Kingdom,GB,Europe

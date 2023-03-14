@@ -1,0 +1,917 @@
+AcquisitionID,AcquisitionMonth,AcquisitionMonthDate,AcquisitionYear,Company,Business,Country,Value,DerivedProducts,ParentCompany
+ACQ99,November,11,2015,bebop,Cloud software,USA,380000000,Google Cloud Platform,Google
+ACQ98,November,11,2015,Fly Labs,Video editing,USA,,Google Photos,Google
+ACQ97,December,8,2015,Clearleap,Cloud-based video management,USA,,,IBM
+ACQ96,December,18,2015,Metanautix,Big Data Analytics,USA,,,Microsoft
+ACQ95,December,21,2015,"Talko, Inc.",Mobile communications,USA,,,Microsoft
+ACQ94,January,7,2016,Emotient,Emotion recognition,USA,,"Face ID, Animoji[100]",Apple
+ACQ93,January,15,2016,Iris Analytics,Real time transaction fraud detection,GER,,,IBM
+ACQ92,January,19,2016,Teacher Gaming LLC,Education software,FIN,,,Microsoft
+ACQ915,July,30,1987,"Forethought, Inc.",Computer software,USA,14000000,,Microsoft
+ACQ914,March,2,1988,Network Innovations,Software,USA,,,Apple
+ACQ913,June,7,1988,Orion Network Systems,Satellite communication systems,USA,,,Apple
+ACQ912,June,27,1988,Styleware,Computer software,USA,,AppleWorks GS,Apple
+ACQ911,July,11,1988,Claris,Computer software,USA,,"FileMaker, iWork, iLife",Apple
+ACQ910,January,3,1989,Coral Software,Computer software,USA,,Macintosh Common Lisp,Apple
+ACQ91,January,21,2016,Ustream,Streaming video,USA,,,IBM
+ACQ909,March,31,1991,Consumers Software,Software,CAN,,,Microsoft
+ACQ908,June,29,1992,Fox Software,PC database software,USA,,,Microsoft
+ACQ907,February,28,1994,Softimage,Wholesale 3-D visualization software,CAN,,,Microsoft
+ACQ906,September,27,1994,Altamira Software,Software,USA,,,Microsoft
+ACQ905,November,1,1994,NextBase,Software,USA,,,Microsoft
+ACQ904,November,15,1994,One Tree Software,Software,USA,,,Microsoft
+ACQ903,February,23,1995,RenderMorphics,3D graphics hardware,USA,,,Microsoft
+ACQ902,July,10,1995,Network Managers,Systems design,UK,,,Microsoft
+ACQ901,October,17,1995,The Blue Ribbon SoundWorks,Software,USA,,,Microsoft
+ACQ900,November,6,1995,Netwise,Computer software,USA,,,Microsoft
+ACQ90,January,28,2016,LearnSprout,Education technology,USA,,Classroom iPad App,Apple
+ACQ9,October,16,2017,tbh,Anonymous social media app,USA,,,Facebook
+ACQ899,December,12,1995,Bruce Artwick Organization,Programming,USA,,,Microsoft
+ACQ898,January,16,1996,Vermeer Technologies,Software,USA,133000000,,Microsoft
+ACQ897,March,6,1996,VGA-Animation Software Div[note 1],Software,GER,,,Microsoft
+ACQ896,March,12,1996,Colusa Software,Software,USA,,,Microsoft
+ACQ895,April,16,1996,Exos,Video game controllers,USA,,,Microsoft
+ACQ894,April,23,1996,Aspect Software Engineering,Computer software,USA,14150000,,Microsoft
+ACQ893,June,11,1996,eShop,Software,USA,,,Microsoft
+ACQ892,June,17,1996,Electric Gravity,Electronic games,USA,,,Microsoft
+ACQ891,November,1,1996,Panorama Software Sys-On-Line[note 2],Software,CAN,,,Microsoft
+ACQ890,February,3,1997,NetCarta,Internet software,USA,20000000,,Microsoft
+ACQ89,January,28,2016,Resource/Ammirati,Digital marketing and creative agency,USA,,,IBM
+ACQ889,February,7,1997,NeXT,Unix-like hardware and software platform,USA,404000000,"Mac OS X, iOS, macOS, tvOS, watchOS",Apple
+ACQ888,March,3,1997,Interse,Internet software,USA,,,Microsoft
+ACQ887,April,30,1997,WebTV Networks,Internet service provider,USA,425000000,,Microsoft
+ACQ886,May,7,1997,Dimension X,Java-based platforms,USA,,,Microsoft
+ACQ885,June,13,1997,Cooper & Peters,Programming,USA,,,Microsoft
+ACQ884,June,30,1997,LinkAge Software,Internet software development,CAN,,,Microsoft
+ACQ883,August,5,1997,VXtreme,Internet video software,USA,,,Microsoft
+ACQ882,September,,1997,Net Controls,Web search engine,USA,1400000,Yahoo! Search,Yahoo
+ACQ881,September,2,1997,Power Computing Corporation,Macintosh clones,USA,110000000,,Apple
+ACQ880,October,8,1997,Four11,Web-based email,USA,92000000,Yahoo! Mail,Yahoo
+ACQ88,January,29,2016,Flyby Media,Augmented reality,USA,,ARkit,Apple
+ACQ879,December,31,1997,Hotmail,Internet software,USA,500000000,,Microsoft
+ACQ878,February,23,1998,Flash Communications,Enterprise instant messaging software,USA,,,Microsoft
+ACQ877,March,31,1998,Classic Games,Online game,USA,,Yahoo! Games,Yahoo
+ACQ876,April,15,1998,Firefly,Relationship management software,USA,40000000,,Microsoft
+ACQ875,April,28,1998,MESA Group,Data sharing software,USA,,,Microsoft
+ACQ874,April,29,1998,Sportasy,Fantasy sport,USA,,Yahoo! Fantasy Sports,Yahoo
+ACQ873,June,8,1998,Viaweb,Web application,USA,48600000,Yahoo! Store,Yahoo
+ACQ872,July,17,1998,Webcal,Calendaring software,USA,21000000,Yahoo Calendar,Yahoo
+ACQ871,August,25,1998,Valence Research,Internet software,USA,,,Microsoft
+ACQ870,October,12,1998,Yoyodyne,Direct marketing,USA,29600000,Yahoo! Search Marketing,Yahoo
+ACQ87,February,2,2016,Aperto AG,Digital marketing and creative agency,GER,,,IBM
+ACQ869,November,6,1998,LinkExchange,Internet advertising network,USA,265000000,,Microsoft
+ACQ868,December,,1998,Hyperparallel,Data analysis,USA,8100000,Yahoo! Search,Yahoo
+ACQ867,January,8,1999,Xemplar Education,Software,UK,4926000,,Apple
+ACQ866,January,11,1999,FASA Interactive,Computer game software,USA,,,Microsoft
+ACQ865,March,4,1999,CompareNet,Shopping online,USA,,,Microsoft
+ACQ864,March,26,1999,Numinous Technologies,Software,USA,,,Microsoft
+ACQ863,April,1,1999,Broadcast.com,Internet radio,USA,5700000000,Yahoo! Music Radio (defunct),Yahoo
+ACQ862,April,27,1999,Interactive Objects-Digital,Web music software,USA,,,Microsoft
+ACQ861,April,30,1999,Jump Networks,Internet service provider,USA,,,Microsoft
+ACQ860,May,27,1999,Encompass,Internet service provider,USA,130000000,Yahoo!,Yahoo
+ACQ86,February,3,2016,"TouchType, Ltd.","SwiftKey, a keyboard productivity application",UK,250000000,,Microsoft
+ACQ859,May,28,1999,GeoCities,Web hosting service,USA,3600000000,Yahoo! GeoCities,Yahoo
+ACQ858,June,2,1999,Online Anywhere,Content delivery network,USA,80000000,Yahoo! TV,Yahoo
+ACQ857,June,7,1999,ShadowFactor Software,Wholesale computer software,USA,,,Microsoft
+ACQ856,June,15,1999,Omnibrowse,Internet software,USA,,,Microsoft
+ACQ855,June,28,1999,Intrinsa,Defect detection software,USA,58900000,,Microsoft
+ACQ854,July,1,1999,Sendit,Application software,SWE,125420000,,Microsoft
+ACQ853,July,7,1999,Zoomit,Encryption software,CAN,,,Microsoft
+ACQ852,July,21,1999,STNC,Community software,UK,,,Microsoft
+ACQ851,September,19,1999,Softway Systems,Computer programming,USA,,,Microsoft
+ACQ850,October,29,1999,Entropic,Software,USA,,,Microsoft
+ACQ85,Feburary,3,2016,LegbaCore,Platform security,USA,,Exposed firmware exploit in Apple computers.[104],Apple
+ACQ849,November,3,1999,Raycer Graphics,Computer graphic chips,USA,15000000,,Apple
+ACQ848,January,7,2000,Visio Corporation,Wholesale drawing software,USA,1375000000,,Microsoft
+ACQ847,January,7,2000,NetSelector,Internet software,USA,,,Apple
+ACQ846,February,29,2000,Peach Networks,Digital TV services,ISR,,,Microsoft
+ACQ845,March,17,2000,Travelscape,Internet service provider,USA,89750000,,Microsoft
+ACQ844,March,23,2000,Arthas.com,E-commerce payment systems,USA,,Yahoo! Store,Yahoo
+ACQ843,April,5,2000,MyQuest,Internet service provider,USA,,Yahoo!,Yahoo
+ACQ842,April,11,2000,Astarte-DVD Authoring Software[note 1],Software,GER,,DVD Studio Pro,Apple
+ACQ841,April,12,2000,Titus Communications,Cable television,USA,944800000,,Microsoft
+ACQ840,June,19,2000,Bungie Software,Computer software,USA,,,Microsoft
+ACQ84,February,3,2016,ecx.io AG,Digital marketing and creative agency,GER,,,IBM
+ACQ839,June,30,2000,VivaSmart,E-commerce,USA,8900000,Yahoo! Shopping,Yahoo
+ACQ838,July,12,2000,NetGames,Software,USA,,,Microsoft
+ACQ837,August,31,2000,eGroups,Electronic mailing list,USA,432000000,Yahoo! Groups,Yahoo
+ACQ836,September,13,2000,MongoMusic,Online music search engine,USA,65000000,,Microsoft
+ACQ835,September,27,2000,Pacific Microsonics,Digital audio technology,USA,,,Microsoft
+ACQ834,November,9,2000,Kimo,Web portal,TWN,30000000,Yahoo!,Yahoo
+ACQ833,,,2000,SoundJam MP[note 2],Software,USA,,iTunes,Apple
+ACQ832,,,2001,Bluefish Labs,Productivity software,USA,,iWork,Apple
+ACQ831,February,12,2001,Deja,Usenet,USA,,Google Groups,Google
+ACQ830,February,14,2001,Sold.com.au,Online auction tools,AUS,30000000,Yahoo! Shopping,Yahoo
+ACQ83,February,9,2016,Groove,Music Discovery,CAN,,,Microsoft
+ACQ829,March,17,2001,Vacationspot,Internet service provider,USA,70850000,,Microsoft
+ACQ828,April,5,2001,Great Plains Software,Business management software,USA,939884000,,Microsoft
+ACQ827,May,2,2001,Intellisol International,Software,CAN,,,Microsoft
+ACQ826,May,11,2001,bluebuzz,Internet service provider (ISP),USA,,,Apple
+ACQ825,May,31,2001,NCompass Labs,Internet software,CAN,36000000,,Microsoft
+ACQ824,June,7,2001,Mainspring,Business strategy consulting,USA,80000000,,IBM
+ACQ823,June,21,2001,Maximal Innovative Intelligence,Software,ISR,20000000,,Microsoft
+ACQ822,June,28,2001,LAUNCH Media,Online music store,USA,12000000,Yahoo! Music,Yahoo
+ACQ821,July,1,2001,Yupi,Online Spanish Portal,USA,,,Microsoft
+ACQ820,July,2,2001,Informix Corporation,Database Software,USA,1000000000,,IBM
+ACQ82,February,12,2016,BandPage,Platform for musicians,USA,,YouTube,Google
+ACQ819,July,9,2001,Spruce Technologies[note 3],Graphics software,USA,14900000,DVD Studio Pro,Apple
+ACQ818,September,20,2001,Outride,Web search engine,USA,,Google Personalized Search,Google
+ACQ817,December,31,2001,PowerSchool,Online info systems services,USA,66100000,PowerSchool,Apple
+ACQ816,January,14,2002,"CrossWorlds Software, Inc.",Software,USA,129000000,,IBM
+ACQ815,February,1,2002,Nothing Real,Special effects software,USA,15000000,Shake,Apple
+ACQ814,February,12,2002,Hotjobs.com,Job search engine,USA,436000000,Yahoo! HotJobs,Yahoo
+ACQ813,March,11,2002,Classic Custom Vacations,Travel agency,USA,78000000,,Microsoft
+ACQ812,April,4,2002,Zayante,FireWire chips and software,USA,13000000,FireWire,Apple
+ACQ811,May,22,2002,Sales Management Systems,Software,USA,,,Microsoft
+ACQ810,June,11,2002,Silicon Grail Corp-Chalice[note 5][note 6],Digital effects software,USA,20000000,Motion,Apple
+ACQ81,February,18,2016,Pie,Enterprise communications,SGP,,Spaces (app),Google
+ACQ809,June,20,2002,Propel Software,internet and network optimization for wireless carriers,USA,,Safari,Apple
+ACQ808,June,21,2002,Prismo Graphics[note 6],Special-effects titling software for film and video,USA,20000000,LiveType (Final Cut Studio),Apple
+ACQ807,June,25,2002,Metamerge,Identity management,NOR,,,IBM
+ACQ806,July,1,2002,Emagic,Music production software,GER,30000000,"Logic Pro, GarageBand",Apple
+ACQ805,July,12,2002,Navision,Software programming,DEN,1330000000,,Microsoft
+ACQ804,July,29,2002,Mobilocity,Computer consulting,USA,,,Microsoft
+ACQ803,August,19,2002,"Trellisoft, Inc.",Enterprise storage,USA,,,IBM
+ACQ802,September,10,2002,XDegrees,Security software,USA,,,Microsoft
+ACQ801,September,12,2002,"Holosofx, Inc.",Business Process Management,USA,,,IBM
+ACQ800,September,24,2002,Rare,Software and video games,UK,375000000,,Microsoft
+ACQ80,February,18,2016,Truven Health Analytics,"Provider of cloud-based healthcare data, analytics and insights",USA,2600000000,,IBM
+ACQ8,November,7,2017,SWNG,Cinemagraphic photo app,USA,,,Microsoft
+ACQ799,October,2,2002,PWC Consulting,Business Consulting and Technology Services,USA,3500000000,,IBM
+ACQ798,October,6,2002,Access360,Software,USA,,,IBM
+ACQ797,October,7,2002,EADS Matra Datavision,Product lifecycle management,USA,,,IBM
+ACQ796,November,15,2002,Tarian Software,Records Management,CAN,,,IBM
+ACQ795,December,13,2002,Vicinity,Online enterprise location,USA,95849000,,Microsoft
+ACQ794,December,23,2002,Inktomi Corporation,Internet service provider,USA,235000000,Yahoo! Search,Yahoo
+ACQ793,February,,2003,Pyra Labs,Weblog software,USA,,Blogger,Google
+ACQ792,Feburary,21,2003,Rational Software Corporation,Software Development,USA,2100000000,,IBM
+ACQ791,February,25,2003,Connectix,Software,USA,,,Microsoft
+ACQ790,March,3,2003,DCG,Internet software,AUS,,,Microsoft
+ACQ79,February,24,2016,Xamarin,Mobile application development,USA,,,Microsoft
+ACQ789,April,,2003,Applied Semantics,Online advertising,USA,102000000,"AdSense, AdWords",Google
+ACQ788,April,,2003,Neotonic Software,Customer relationship management,USA,,"Google Groups, Gmail",Google
+ACQ787,April,30,2003,PlaceWare,Web conferencing,USA,200000000,,Microsoft
+ACQ786,May,14,2003,Think Dynamics,Software,CAN,,,IBM
+ACQ785,May,27,2003,G.A. Sullivan,Information technology,USA,,,Microsoft
+ACQ784,June,10,2003,GeCAD Software,Antivirus technology,ROU,,,Microsoft
+ACQ783,June,14,2003,"Overture Services, Inc.",Search engine marketing,USA,1630000000,Yahoo! Search Marketing,Yahoo
+ACQ782,July,1,2003,Information Laboratory,Software,USA,,,IBM
+ACQ781,July,15,2003,Aptrix,Software,AUS,,,IBM
+ACQ780,August,29,2003,3DO Co-High Heat Baseball,Software,USA,450000,,Microsoft
+ACQ78,February,29,2016,Resilient Systems,"Cyber security, incident response platform",USA,,,IBM
+ACQ779,September,30,2003,Kaltix,Web search engine,USA,,iGoogle,Google
+ACQ778,October,,2003,Genius Labs,Blogging,USA,,Blogger,Google
+ACQ777,October,,2003,Sprinks,Online advertising,USA,,"AdSense, AdWords",Google
+ACQ776,October,17,2003,CrossAccess Corporation,Enterprise Information Integration,USA,,,IBM
+ACQ775,November,13,2003,"Productivity Solutions, Inc.",Automated Self-Checkout Systems,USA,,,IBM
+ACQ774,December,17,2003,"Green Pasture Software, Inc.",Content management software,USA,,,IBM
+ACQ773,January,,2004,3721 Internet Assistant,Browser Helper Object,CHN,120000000,Yahoo! Assistant,Yahoo
+ACQ772,March,26,2004,Kelkoo,Price comparison service,EU,579000000,Kelkoo,Yahoo
+ACQ771,April,6,2004,Trigo Technologies,Product information management,USA,,,IBM
+ACQ770,April,7,2004,Daksh e-Services,BPO Services,IND,170000000,,IBM
+ACQ77,March,9,2016,MSQRD (Masquerade),Visual effects (Face-swapping),BLR,,,Facebook
+ACQ769,April,13,2004,Business Continuity Services unit of Schlumberger,IT Services,FRA,,,IBM
+ACQ768,April,22,2004,Encore Bus Solutions-IP Asts,IP assets,USA,,,Microsoft
+ACQ767,April,26,2004,ActiveViews,Reporting systems,USA,,,Microsoft
+ACQ766,May,10,2004,Ignite Logic,HTML editor,USA,,Google Sites,Google
+ACQ765,June,7,2004,Candle Corporation,Infrastructure management,USA,,,IBM
+ACQ764,July,12,2004,Oddpost,Web-based email,USA,30000000,Yahoo! Mail,Yahoo
+ACQ763,July,13,2004,Picasa,Image organizer,USA,,"Picasa, Blogger",Google
+ACQ762,July,14,2004,Alphablox Corporation,Business Intelligence,USA,,,IBM
+ACQ761,July,16,2004,Lookout Software,Personal search tool,USA,,,Microsoft
+ACQ760,July,29,2004,Cyanea Systems,Application management software,USA,,,IBM
+ACQ76,March,18,2016,Optevia,Specialist provider of Microsoft Dynamics CRM based solutions and associated services to the public sector,UK,,,IBM
+ACQ759,September,,2004,ZipDash,Traffic analysis,USA,,Google Maps,Google
+ACQ758,September,14,2004,Musicmatch Jukebox,Audio player,USA,160000000,Yahoo! Music,Yahoo
+ACQ757,October,,2004,Where2,Map analysis,AUS,,Google Maps,Google
+ACQ756,October,2,2004,The All-Seeing Eye,Game server browser,EU,,Yahoo! Games,Yahoo
+ACQ755,October,7,2004,Venetica,Enterprise Information Integration,USA,,,IBM
+ACQ754,October,22,2004,Stata Labs,Web-based email,USA,,Yahoo! Mail,Yahoo
+ACQ753,October,27,2004,"Keyhole, Inc",Map analysis,USA,,"Google Maps, Google Earth",Google
+ACQ752,November,19,2004,Systemcorp ALG Ltd.,Project Portfolio Management (PPM) software,CAN,,,IBM
+ACQ751,November,23,2004,Liberty Insurance Services,Business process services,USA,,,IBM
+ACQ750,December,1,2004,Maersk Data and DMdata from Maersk,IT Services,DEN,,,IBM
+ACQ75,March,31,2016,Blue Wolf Group LLC,Salesforce systems integrator and professional services,USA,200000000,,IBM
+ACQ749,December,7,2004,WUF Networks,Mobile media,USA,,Yahoo! Mobile,Yahoo
+ACQ748,December,13,2004,KeyMRO,Procurement Services,FRA,,,IBM
+ACQ747,December,16,2004,GIANT Company Software,Anti-spyware,USA,,,Microsoft
+ACQ746,January,7,2005,Systems Research & Development,Identity management,USA,,,IBM
+ACQ745,February,11,2005,Verdisoft,Wireless data sharing,USA,58000000,Yahoo! Mobile,Yahoo
+ACQ744,March,,2005,Schemasoft,Software,CAN,,iWork,Apple
+ACQ743,March,2,2005,en'tegrate,Software,USA,,,Microsoft
+ACQ742,March,4,2005,Stadeon,Online game,USA,,Yahoo! Games,Yahoo
+ACQ741,March,16,2005,Corio,Application Services,USA,182000000,,IBM
+ACQ740,March,20,2005,Ludicorp,Image hosting service,CAN,40000000,Flickr,Yahoo
+ACQ74,April,9,2016,Peer,Employee and Manager Feedback Tool,USA,,,Twitter
+ACQ739,March,28,2005,Urchin Software Corporation,Web analytics,USA,,Google Analytics,Google
+ACQ738,April,,2005,FingerWorks,Gesture recognition company,USA,,iOS,Apple
+ACQ737,April,9,2005,Groove Networks,Community software,USA,,,Microsoft
+ACQ736,April,12,2005,TeRespondo,Advertising network,BRA,,Yahoo! Search Marketing,Yahoo
+ACQ735,April,29,2005,Ascential Software Corporation,Enterprise Information Integration,USA,1100000000,,IBM
+ACQ734,May,10,2005,Gluecode Software,Application Server,USA,,,IBM
+ACQ733,May,11,2005,MessageCast,Messaging,USA,7000000,,Microsoft
+ACQ732,May,12,2005,Dodgeball,Social networking service,USA,,Google Latitude,Google
+ACQ731,May,31,2005,Tsinghua-Shenxun-Cert Asts,Certain assets,CHN,15000000,,Microsoft
+ACQ730,June,14,2005,blo.gs,Weblog software,USA,,Yahoo! 360°,Yahoo
+ACQ73,May,2,2016,Synergyse,Interactive tutorials,CAN,,Google Docs,Google
+ACQ729,June,14,2005,Dialpad,Voice over Internet Protocol,USA,,Yahoo! Voice,Yahoo
+ACQ728,June,21,2005,Sybari Software,Software,USA,,,Microsoft
+ACQ727,June,23,2005,Meiosys,Application Management,USA,,,IBM
+ACQ726,July,,2005,Reqwireless,Mobile browser,CAN,,Google Mobile,Google
+ACQ725,July,19,2005,Akwan Information Technologies,Search engines,BRA,,Internet backbone,Google
+ACQ724,July,25,2005,"PureEdge Solutions, Inc.",Electronic Forms,CAN,,,IBM
+ACQ723,July,25,2005,Konfabulator,Widget engine,USA,,Yahoo! Widgets,Yahoo
+ACQ722,July,27,2005,Isogon Corporation,Asset Management,USA,,,IBM
+ACQ721,August,2,2005,DWL,Enterprise Information Integration,USA,,,IBM
+ACQ720,August,17,2005,Android Inc.,Mobile operating system,USA,50000000,Android,Google
+ACQ72,May,3,2016,Solair,Internet of Things platform,ITA,,,Microsoft
+ACQ719,August,23,2005,facebook.com domain name,AboutFace,USA,200000,name change from Thefacebook.com,Facebook
+ACQ718,August,29,2005,Teleo,VoIP,USA,,,Microsoft
+ACQ717,August,31,2005,FrontBridge Technologies,Email protection,USA,,,Microsoft
+ACQ716,September,19,2005,Alacris,Certificate management software,USA,,,Microsoft
+ACQ715,October,4,2005,Upcoming.org,Calendaring software,USA,,Yahoo! Local,Yahoo
+ACQ714,October,14,2005,"DataPower Technology, Inc.",Service Oriented Architecture (SOA),USA,,,IBM
+ACQ713,October,18,2005,Whereonearth,Web mapping,UK,,Yahoo! Search Marketing,Yahoo
+ACQ712,November,,2005,Skia Inc.,Graphics library,USA,,Skia,Google
+ACQ711,November,1,2005,"iPhrase Systems, Inc.",Information management software,USA,,,IBM
+ACQ710,November,3,2005,media-streams.com,Software,SWI,,,Microsoft
+ACQ71,May,23,2016,Two Big Ears,Spatial Audio,UK,,,Facebook
+ACQ709,November,10,2005,Network Solutions Pvt Ltd,IT Services,IND,,,IBM
+ACQ708,November,15,2005,"Collation, Inc.",Network management,USA,,,IBM
+ACQ707,November,17,2005,5th Finger,Mobile,AUS,3153000,,Microsoft
+ACQ706,December,12,2005,del.icio.us,Social bookmarking,USA,20000000,del.icio.us,Yahoo
+ACQ705,December,20,2005,"Bowstreet, Inc.",Portal-based tools,USA,,,IBM
+ACQ704,December,27,2005,Phatbits,Widget engine,USA,,Google Desktop,Google
+ACQ703,December,31,2005,bruNET GmbH,Mobile software,GER,,Google Mobile,Google
+ACQ702,December,31,2005,allPAY GmbH,Mobile software,GER,,Google Mobile,Google
+ACQ701,January,9,2006,Webjay,Online music store,USA,,Yahoo! Music,Yahoo
+ACQ700,January,17,2006,dMarc Broadcasting,Advertising,USA,102000000,AdSense,Google
+ACQ70,June,1,2016,EZSource,Application discovery and dashboard visualization,ISR,,,IBM
+ACQ7,December,11,2017,Shazam,Music and Image recognition,UK,,"iTunes, Siri, Apple Music",Apple
+ACQ699,January,17,2006,SearchFox,Web search engine,USA,,Yahoo! Search,Yahoo
+ACQ698,January,19,2006,UMT-Software and IP Assets,Software,USA,,,Microsoft
+ACQ697,January,20,2006,"CIMS Lab, Inc.",IT Financial Management,USA,,,IBM
+ACQ696,January,27,2006,ARGUS Semiconductor Software From INFICON,Semiconductor Manufacturing software,USA,,,IBM
+ACQ695,Feburary,8,2006,"Viacore, Inc.",Supply chain optimization,USA,,,IBM
+ACQ694,February,13,2006,Seadragon Software,Software,USA,,,Microsoft
+ACQ693,February,13,2006,MotionBridge,Search,FRA,17858000,,Microsoft
+ACQ692,February,14,2006,Measure Map,Weblog software,USA,,Google Analytics,Google
+ACQ691,Feburary,14,2006,"Micromuse, Inc.",Network management,USA,865000000,,IBM
+ACQ690,March,7,2006,Onfolio,Internet software,USA,,,Microsoft
+ACQ69,June,20,2016,Magic Pony Technology,"Advanced Video Upscaling, Compression and Enhancement",UK,150000000,,Twitter
+ACQ689,March,7,2006,Apptimum,Software,USA,,,Microsoft
+ACQ688,March,9,2006,Upstartle,Word processor,USA,,Google Docs,Google
+ACQ687,March,14,2006,@Last Software,3D modeling software,USA,,Google Sketchup,Google
+ACQ686,March,16,2006,Language Analysis Systems,Identity management,USA,,,IBM
+ACQ685,April,6,2006,Lionhead Studios,Video games,UK,,,Microsoft
+ACQ684,April,9,2006,Orion,Web search engine,AUS,,Google Search,Google
+ACQ683,April,18,2006,Meedio,Digital video recorder,USA,,Yahoo! Go,Yahoo
+ACQ682,April,26,2006,AssetMetrix,Enterprise software,CAN,,,Microsoft
+ACQ681,May,2,2006,"BuildForge, Inc.",Software Development,USA,,,IBM
+ACQ680,May,4,2006,Vexcel,Mapping software,USA,,,Microsoft
+ACQ68,June,22,2016,Webpass,Internet service provider,USA,,Google Fiber,Google
+ACQ679,May,4,2006,Massive Incorporated,Video game advertising,USA,,,Microsoft
+ACQ678,May,5,2006,"Unicorn Solutions, Inc.",Metadata management,USA,,,IBM
+ACQ677,May,15,2006,DeepMetrix,Web log analysis,USA,,,Microsoft
+ACQ676,June,1,2006,2Web Technologies,Online spreadsheets,USA,,Google Spreadsheet,Google
+ACQ675,June,6,2006,ProClarity,Analysis software,USA,,,Microsoft
+ACQ674,June,27,2006,iView Multimedia,Digital asset management,UK,,,Microsoft
+ACQ673,June,27,2006,Rembo Technology,Installation Software,SUI,,,IBM
+ACQ672,July,17,2006,Softricity,application virtualization software,USA,,,Microsoft
+ACQ671,July,18,2006,Winternals Software,Software,USA,,,Microsoft
+ACQ670,July,26,2006,Whale Communications,Applications,ISR,,,Microsoft
+ACQ67,July,6,2016,Moodstocks,Image recognition,FRA,,Google Photos,Google
+ACQ669,August,1,2006,"Webify Solutions, Inc",Service Oriented Architecture software,USA,,,IBM
+ACQ668,August,15,2006,Neven Vision Germany GmbH,Computer vision,GER,,"Picasa, Google Goggles",Google
+ACQ667,September,6,2006,Global Value Solutions,IT Services,BRA,,,IBM
+ACQ666,September,26,2006,Gteko,Applications,ISR,,,Microsoft
+ACQ665,September,27,2006,Jumpcut.com,Online video editing,USA,,Yahoo! Video,Yahoo
+ACQ664,October,2,2006,DesktopStandard,Applications,USA,,,Microsoft
+ACQ663,October,4,2006,DORANA product line from Ubiquity Pty Limited,Asset Management,AUS,,,IBM
+ACQ662,October,5,2006,MRO Software,Asset Management,USA,740000000,,IBM
+ACQ661,October,9,2006,YouTube,Video sharing,USA,1650000000,YouTube,Google
+ACQ660,October,12,2006,Colloquis,Natural language software,USA,,,Microsoft
+ACQ66,July,8,2016,Anvato,Cloud-based video services,USA,,Google Cloud Platform,Google
+ACQ659,October,12,2006,FileNet Corporation,Content management software,USA,1600000000,,IBM
+ACQ658,October,16,2006,Silicon Color,Software,USA,,Color (Final Cut Studio),Apple
+ACQ657,October,17,2006,AdInterax,Online advertising,USA,,Yahoo! Search Marketing,Yahoo
+ACQ656,October,20,2006,Palisades Technology Partners,Management consulting,USA,,,IBM
+ACQ655,October,20,2006,Internet Security Systems (ISS),Information security,USA,1300000000,,IBM
+ACQ654,October,31,2006,JotSpot,Web application,USA,,Google Sites,Google
+ACQ653,November,16,2006,Bix.com,Social media,USA,,Bix,Yahoo
+ACQ652,November,17,2006,Kenet Works,Mobile software,EU,25000000,Yahoo! Mobile,Yahoo
+ACQ651,December,,2006,Wretch,Virtual community,TWN,22000000,Wretch,Yahoo
+ACQ650,December,4,2006,Proximity,Software,AUS,,Final Cut Server,Apple
+ACQ65,July,12,2016,Kifi,Link management,USA,,Spaces (app),Google
+ACQ649,December,18,2006,Endoxon,Mapping,CHE,28000000,Google Maps,Google
+ACQ648,January,8,2007,MyBlogLog,Social network service,USA,,MyBlogLog,Yahoo
+ACQ647,January,22,2007,"Consul Risk Management, Inc.",Information security,NED,,,IBM
+ACQ646,Feburary,13,2007,Vallent Corporation,Telecommunications Management,USA,,,IBM
+ACQ645,February,16,2007,Adscape,In-game advertising,USA,23000000,AdSense,Google
+ACQ644,March,1,2007,Softek Storage Solutions Corporation,Data Mobility,USA,,,IBM
+ACQ643,March,9,2007,Medstory,Internet search engine,USA,,,Microsoft
+ACQ642,March,16,2007,Trendalyzer,Statistical software,SWE,,Google Analytics,Google
+ACQ641,March,18,2007,"BlackDot Networks, Inc.",Enterprise Data Consulting,USA,,,IBM
+ACQ640,March,26,2007,devBiz Business Solutions,Software tools,USA,,,Microsoft
+ACQ64,July,27,2016,LaunchKit,Mobile tool maker,USA,,Android,Google
+ACQ639,April,13,2007,DoubleClick,Online advertising,USA,3100000000,AdSense,Google
+ACQ638,April,17,2007,Tonic Systems,Presentation program,USA,,Google Docs,Google
+ACQ637,April,19,2007,Marratech,Videoconferencing,SWE,15000000,"Google Talk, Google Hangouts",Google
+ACQ636,April,20,2007,Unicible,IT Services,SWI,460000000,,IBM
+ACQ635,April,29,2007,Right Media,Online advertising,USA,850000000,Yahoo! Search Marketing,Yahoo
+ACQ634,May,3,2007,Tellme Networks,Mobile phone software,USA,,,Microsoft
+ACQ633,May,3,2007,ScreenTonic,Advertising and marketing,FRA,,,Microsoft
+ACQ632,May,9,2007,SoftArtisans,Business Intelligence software,USA,,,Microsoft
+ACQ631,May,11,2007,GreenBorder,Computer security,USA,,Google Chrome,Google
+ACQ630,May,28,2007,Crusix,Social networking service,USA,,YouTube,Google
+ACQ63,August,5,2016,Turi,Machine learning,USA,200000000,"Xcode, Core ML",Apple
+ACQ629,June,1,2007,Panoramio,Photo sharing,ESP,,Panoramio,Google
+ACQ628,June,3,2007,FeedBurner,Web feed,USA,100000000,FeedBurner,Google
+ACQ627,June,4,2007,Engyro,Information technology,USA,,,Microsoft
+ACQ626,June,5,2007,PeakStream,Parallel processing,USA,,Android,Google
+ACQ625,June,7,2007,Stratature,Master Data Management,USA,,,Microsoft
+ACQ624,June,19,2007,Zenter,Presentation program,USA,,Google Docs,Google
+ACQ623,June,20,2007,Rivals.com,College sports,USA,,Yahoo! Sports,Yahoo
+ACQ622,June,29,2007,Savvis Inc-Data Centers,Networking,USA,200000000,,Microsoft
+ACQ621,July,2,2007,GrandCentral,Voice over IP,USA,45000000,Google Voice,Google
+ACQ620,July,9,2007,Postini,Communications security,USA,625000000,Gmail,Google
+ACQ62,August,8,2016,Beam (now known as Mixer),Video game streaming,USA,,,Microsoft
+ACQ619,July,19,2007,Parakey,Offline applications/Web desktop,USA,,Facebook Mobile,Facebook
+ACQ618,July,20,2007,ImageAmerica,Aerial photography,USA,,Google Maps,Google
+ACQ617,July,20,2007,Watchfire Corporation,Security Software Testing,USA,,,IBM
+ACQ616,August,13,2007,aQuantive,Digital marketing,USA,6333000000,,Microsoft
+ACQ615,August,13,2007,AdECN,Ad Exchange,USA,,,Microsoft
+ACQ614,August,21,2007,WebDialogs,Web conferencing and communications,USA,,,IBM
+ACQ613,August,31,2007,DataMirror Corporation,Change Data Capture,CAN,161000000,,IBM
+ACQ612,September,4,2007,BlueLithium,Advertising network,USA,300000000,Yahoo! Search Marketing,Yahoo
+ACQ611,September,7,2007,"Qinnova, Inc.",Internet Protocol Television (IPTV),CAN,,,IBM
+ACQ610,September,10,2007,"Princeton Softech, Inc.",Business Intelligence,USA,,,IBM
+ACQ61,August,8,2016,Orbitera,Cloud software,USA,100000000,Google Cloud Platform,Google
+ACQ609,September,14,2007,BuzzTracker,News site,USA,,Yahoo! News,Yahoo
+ACQ608,September,17,2007,Zimbra,Collaborative software,USA,350000000,Zimbra,Yahoo
+ACQ607,September,27,2007,Zingku,Social networking service,USA,,Google Mobile,Google
+ACQ606,October,2,2007,Jellyfish.com,Search engine,USA,,,Microsoft
+ACQ605,October,5,2007,Parlano,Enterprise messaging software,USA,,,Microsoft
+ACQ604,October,9,2007,Jaiku,Microblogging,FIN,,Google Mobile,Google
+ACQ603,October,24,2007,NovusCG,Storage Consulting and Technology Services,USA,,,IBM
+ACQ602,October,29,2007,Global Care Solutions-Assets,Assets,THA,,,Microsoft
+ACQ601,November,1,2007,HOB Business Solutions,Information technology,DEN,,,Microsoft
+ACQ600,November,15,2007,Musiwave,Mobile music entertainment,FRA,,,Microsoft
+ACQ60,August,20,2016,Genee,AI-powered scheduling assistant service,USA,,,Microsoft
+ACQ6,January,2,2018,Buddybuild,Feedback Platform for Development teams,CAN,,"Xcode, TestFlight",Apple
+ACQ599,December,12,2007,Multimap.com,Mapping,UK,,,Microsoft
+ACQ598,January,2,2008,XIV,Enterprise storage,ISR,300000000,,IBM
+ACQ597,January,18,2008,AptSoft Corporation,Business Intelligence,USA,,,IBM
+ACQ596,January,22,2008,Calista Technologies,Software,USA,,,Microsoft
+ACQ595,January,29,2008,Solid Information Technology,Database Software,USA,,,IBM
+ACQ594,January,31,2008,Arsenal Digital Solutions,Data backup services,USA,,,IBM
+ACQ593,January,31,2008,Cognos,Business Intelligence,CAN,5000000000,,IBM
+ACQ592,February,5,2008,FoxyTunes,Browser extension,USA,,FoxyTunes,Yahoo
+ACQ591,February,7,2008,Caligari Corporation,Software,USA,,,Microsoft
+ACQ590,February,12,2008,Maven Networks,Video on demand,USA,160000000,Yahoo! Video,Yahoo
+ACQ59,August,22,2016,Gliimpse,Personal health info collection company,USA,,"HealthKit, CareKit, ResearchKit",Apple
+ACQ589,Feburary,15,2008,Net Integration Technologies Inc.,Business Server Software,CAN,,,IBM
+ACQ588,February,27,2008,YaData,Software,ISR,,,Microsoft
+ACQ587,March,11,2008,"Encentuate, Inc.",Enterprise Single Sign-On,USA,,,IBM
+ACQ586,March,14,2008,Rapt,Advertising yield management software,USA,,,Microsoft
+ACQ585,March,19,2008,Komoku,Rootkit security software,USA,5000000,,Microsoft
+ACQ584,March,31,2008,90 Degree Software,Business intelligence software,CAN,,,Microsoft
+ACQ583,April,3,2008,Telelogic AB,Enterprise software development,SWE,845000000,,IBM
+ACQ582,April,14,2008,Farecast,Online search software,USA,75000000,,Microsoft
+ACQ581,April,15,2008,Danger,Mobile Internet software,USA,500000000,,Microsoft
+ACQ580,April,18,2008,Diligent Technologies,Data De-duplication,USA,200000000,,IBM
+ACQ58,September,8,2016,Apigee,API management and predictive analytics,USA,625000000,Google Cloud Platform,Google
+ACQ579,April,21,2008,FilesX,Application Recovery Software,USA,,,IBM
+ACQ578,April,24,2008,P.A. Semi,Semiconductors,USA,278000000,Apple SOC,Apple
+ACQ577,April,25,2008,Fast Search & Transfer,Enterprise search[clarification needed],NOR,1191000000,,Microsoft
+ACQ576,April,29,2008,InfoDyne Corporation,Data Feed Connectors,USA,,,IBM
+ACQ575,May,9,2008,Inquisitor,Browser extension,USA,,Inquisitor,Yahoo
+ACQ574,May,26,2008,Kidaro,Software,USA,,,Microsoft
+ACQ573,June,4,2008,Quadreon,Software,BEL,,,Microsoft
+ACQ572,June,18,2008,Navic Networks,Management software,USA,,,Microsoft
+ACQ571,June,23,2008,ConnectU,Social networking,USA,31000000,(Court settlement),Facebook
+ACQ570,June,26,2008,Mobicomp,Mobile applications,POR,,,Microsoft
+ACQ57,September,15,2016,Urban Engines,Location-based analytics,USA,,Google Maps,Google
+ACQ569,July,2,2008,Platform Solutions,"Mainframe, System Z technologies",USA,,,IBM
+ACQ568,July,15,2008,Summize,Social search,,,,Twitter
+ACQ567,July,28,2008,ILOG,Business Rules Management Systems,FRA,340000000,,IBM
+ACQ566,July,30,2008,Omnisio,Online video,USA,15000000,YouTube,Google
+ACQ565,August,11,2008,Powerset,Semantic Search,USA,,,Microsoft
+ACQ564,September,12,2008,TNC,Weblog software,KOR,,Blogger,Google
+ACQ563,September,16,2008,DATAllegro,Data software,USA,,,Microsoft
+ACQ562,September,28,2008,Greenfield Online,Search and e-commerce services,USA,486000000,,Microsoft
+ACQ561,November,18,2008,Transitive Corporation,Virtualization Software,USA,,,IBM
+ACQ560,November,24,2008,Values of n,Social software development,,,,Twitter
+ACQ56,September,19,2016,API.AI,Natural language processing,USA,,Google Assistant,Google
+ACQ559,January,15,2009,Outblaze's E-Mail Service Assets,Online messaging and collaboration,HKG,,,IBM
+ACQ558,March,1,2009,3DV Systems,"Developer of ZCam, a time-of-flight camera",ISR,35000000,,Microsoft
+ACQ557,May,5,2009,Exeros Assets,Data Discovery Software,USA,,,IBM
+ACQ556,May,7,2009,BigPark,Interactive online gaming,CAN,,,Microsoft
+ACQ555,June,1,2009,Rosetta Biosoftware,Bioinformatics solutions for life science research,USA,,,Microsoft
+ACQ554,July,7,2009,Placebase,Maps,USA,,Apple Maps,Apple
+ACQ553,July,22,2009,Xoopit,Webmail applications,USA,20000000,Yahoo! Mail,Yahoo
+ACQ552,July,28,2009,Ounce Labs,Source code analysis,USA,,,IBM
+ACQ551,July,28,2009,SPSS Inc.,Statistical analysis software,USA,1200000000,,IBM
+ACQ550,August,5,2009,On2,Video compression,USA,133000000,"WebM, YouTube",Google
+ACQ55,September,19,2016,Nascent Objects,Modular Electronics,USA,,,Facebook
+ACQ549,August,10,2009,FriendFeed,Social networking aggregator,USA,47500000,,Facebook
+ACQ548,August,25,2009,Maktoob.com,Social media,JOR,167000000,Maktoob.com,Yahoo
+ACQ547,September,16,2009,reCAPTCHA,Security,USA,,Google Books,Google
+ACQ546,September,22,2009,Interactive Supercomputing,Software,USA,,,Microsoft
+ACQ545,September,22,2009,RedPill Solutions,Analytics and Optimisation,SGP,,,IBM
+ACQ544,November,9,2009,Gizmo5,Voice over IP,USA,30000000,"Google Talk, Google Hangouts",Google
+ACQ543,November,9,2009,AdMob,Mobile advertising,USA,750000000,"DoubleClick, Invite Media",Google
+ACQ542,November,23,2009,Teracent,Online advertising,USA,,AdSense,Google
+ACQ541,November,30,2009,Guardium,Database monitoring and protection,USA,,,IBM
+ACQ540,December,4,2009,AppJet,Collaborative real-time editor,USA,,"Google Wave, Google Docs",Google
+ACQ54,September,22,2016,Tuplejump,Machine learning,IND,,"Siri, CoreML",Apple
+ACQ539,December,6,2009,Lala.com,Music streaming,USA,17000000,"iCloud, iTunes Match",Apple
+ACQ538,December,10,2009,"Sentillion, Inc.",Identity and Access Management Software for Healthcare,USA,,,Microsoft
+ACQ537,December,10,2009,Opalis Software,Software,CAN,,,Microsoft
+ACQ536,December,16,2009,Lombardi,Business Process Management,USA,,,IBM
+ACQ535,December,23,2009,Mixer labs,Location information engine,,5170000,,Twitter
+ACQ534,January,5,2010,Quattro Wireless,Mobile advertising,USA,275000000,iAd,Apple
+ACQ533,January,20,2010,"National Interest Security Company, LLC",Public sector consulting,USA,,,IBM
+ACQ532,February,3,2010,Initiate Systems,Data integrity software,USA,,,IBM
+ACQ531,February,12,2010,Aardvark,Social search,USA,50000000,Aardvark,Google
+ACQ530,February,16,2010,Intelliden Inc.,Network Automation software,USA,,,IBM
+ACQ53,September,29,2016,Promontory Financial Group,Risk management and regulatory compliance,USA,,,IBM
+ACQ529,February,17,2010,reMail,Email search,USA,,Gmail,Google
+ACQ528,February,19,2010,Octazen,Contact importer,MYS,,FriendFinder,Facebook
+ACQ527,March,1,2010,Picnik,Photo editing,USA,,Picasa,Google
+ACQ526,March,2,2010,Divvyshot,Photo management,USA,,Facebook Photos,Facebook
+ACQ525,March,5,2010,DocVerse,Microsoft Office files sharing site,USA,25000000,Google Docs,Google
+ACQ524,March,17,2010,citizensports.com,Sports Social media,USA,,citizensports.com,Yahoo
+ACQ523,April,2,2010,Episodic,Online video platform start-up,USA,,YouTube,Google
+ACQ522,April,9,2010,Atebits,Tweetie,,,Mobile Twitter app (iOS),Twitter
+ACQ521,April,12,2010,PlinkArt,Visual search engine,UK,,Google Goggles,Google
+ACQ520,April,20,2010,Agnilux,Server CPUs,USA,,Android,Google
+ACQ52,October,10,2016,Infiniled,Oculus VR,IRL,,,Facebook
+ACQ519,April,23,2010,Cloudhopper,Mobile messaging,,,,Twitter
+ACQ518,April,27,2010,LabPixies,Gadgets,ISR,,"iGoogle, Android",Google
+ACQ517,April,27,2010,Siri,Voice control software,USA,,Siri,Apple
+ACQ516,April,27,2010,Intrinsity,Semiconductors,USA,121000000,Apple SOC,Apple
+ACQ515,April,30,2010,BumpTop,Desktop environment,CAN,30000000,Android,Google
+ACQ514,May,3,2010,Cast Iron Systems,Cloud Integration,USA,190000000,,IBM
+ACQ513,May,10,2010,Gipsy Moth Studios,Application localization,USA,12000000,"iPod, iPhone, iPad",Apple
+ACQ512,May,13,2010,Friendster patents,Intellectual property/patents,USA,40000000,,Facebook
+ACQ511,May,18,2010,Global IP Solutions,Video and audio compression,USA,68200000,WebRTC,Google
+ACQ510,May,18,2010,Associated Content,Content farm,USA,,Associated Content,Yahoo
+ACQ51,October,11,2016,FameBit,Branded content,,,YouTube,Google
+ACQ509,May,20,2010,Simplify Media,Music streaming,USA,,Android,Google
+ACQ508,May,21,2010,Ruba.com,Travel,USA,,iGoogle,Google
+ACQ507,May,24,2010,Sterling Commerce,Business software integration,USA,1400000000,,IBM
+ACQ506,May,25,2010,Koprol,Geosocial network,IDN,,Koprol,Yahoo
+ACQ505,May,26,2010,ShareGrove,Private conversations/Forums,USA,,Facebook Groups,Facebook
+ACQ504,June,3,2010,Invite Media,Advertising,USA,81000000,DoubleClick,Google
+ACQ503,June,10,2010,Smallthought Systems,Databases and analytics,,,Analytics tools,Twitter
+ACQ502,June,15,2010,Coremetrics,Web Analytics,USA,,,IBM
+ACQ501,July,1,2010,"BigFix, Inc.",Security and IT automation software,USA,,,IBM
+ACQ500,July,8,2010,Nextstop,Travel recommendations,USA,2500000,,Facebook
+ACQ50,October,24,2016,Eyefluence,"Eye tracking, virtual reality",,,Google VR,Google
+ACQ5,January,23,2018,Confirm,Government Issued ID Verification Platform,USA,,,Facebook
+ACQ499,July,14,2010,Poly9,Web-based mapping,CAN,,Apple Maps,Apple
+ACQ498,July,16,2010,Metaweb,Semantic search,USA,,Google Search,Google
+ACQ497,July,29,2010,Storwize,Data Compression,USA,140000000,,IBM
+ACQ496,August,,2010,Zetawire,"Mobile payment, NFC",CAN,,"Android, Google Wallet, Google Checkout",Google
+ACQ495,August,4,2010,Instantiations,Java/Eclipse/AJAX developer tools,USA,,Google Web Toolkit,Google
+ACQ494,August,5,2010,Slide.com,Social gaming,USA,228000000,"Google+, Orkut, Google Play",Google
+ACQ493,August,10,2010,Jambool,Social Gold payment,USA,70000000,"Google+, Orkut",Google
+ACQ492,August,10,2010,Datacap,Data capture and Content Management,USA,,,IBM
+ACQ491,August,13,2010,Unica Corporation,Marketing planning software,USA,480000000,,IBM
+ACQ490,August,15,2010,Like.com,Visual search engine,USA,100000000,Google Shopping,Google
+ACQ49,October,27,2016,Sanovi Technologies,Hybrid cloud recovery,IND,,,IBM
+ACQ489,August,15,2010,Chai Labs,Internet applications,USA,10000000,,Facebook
+ACQ488,August,20,2010,Hot Potato,Check-ins/status updates,USA,,Facebook Places,Facebook
+ACQ487,August,30,2010,"SocialDeck, Inc.",Social gaming,CAN,,"Google, Google+",Google
+ACQ486,August,30,2010,Angstro,Social networking service,USA,,"Google, Google Alert",Google
+ACQ485,September,13,2010,Quiksee,Online video,ISR,10000000,Google Maps,Google
+ACQ484,September,14,2010,IMSense,High-dynamic-range (HDR) photography,UK,,iOS,Apple
+ACQ483,September,15,2010,OpenPages,Integrated risk management solutions,USA,,,IBM
+ACQ482,September,20,2010,Polar Rose,Facial recognition,SWE,29000000,iOS,Apple
+ACQ481,September,20,2010,Netezza,Data warehousing and analytics,USA,1700000000,,IBM
+ACQ480,September,27,2010,BLADE Network Technologies,Networking,USA,,,IBM
+ACQ48,November,5,2016,LeapDroid,Android Emulator,USA,,Android,Google
+ACQ479,September,28,2010,Plannr,Schedule management,USA,,Google+,Google
+ACQ478,October,1,2010,BlindType,Touch typing,GRE,,Android,Google
+ACQ477,October,4,2010,Dapper,SmartAds,ISR,55000000,Dapper,Yahoo
+ACQ476,October,6,2010,"AVIcode, Inc.",.Net monitoring technology,USA,,,Microsoft
+ACQ475,October,13,2010,PSS Systems,Legal risk management,USA,,,IBM
+ACQ474,October,21,2010,Clarity Systems,Financial governance,CAN,350000000,,IBM
+ACQ473,October,29,2010,"Canesta, Inc.",3-D sensing technology,USA,,,Microsoft
+ACQ472,October,29,2010,Drop.io,File hosting and sharing,USA,,,Facebook
+ACQ471,November,15,2010,FB.com domain name,American Farm Bureau Federation,USA,8500000,,Facebook
+ACQ470,December,3,2010,Widevine Technologies,DRM,USA,,Google TV,Google
+ACQ47,November,11,2016,CrowdTangle,Publisher analytics,USA,,,Facebook
+ACQ469,December,3,2010,Phonetic Arts,Speech synthesis,UK,,"Google Voice, Google Translate",Google
+ACQ468,December,21,2010,Fluther,Q&A service,,,,Twitter
+ACQ467,January,13,2011,eBook Technologies,E-book,USA,,Google Books,Google
+ACQ466,January,20,2011,Spreets,Daily deals,AUS,40000000,Spreets,Yahoo
+ACQ465,January,25,2011,SayNow,Voice recognition,USA,,Google Voice,Google
+ACQ464,January,25,2011,Rel8tion,Mobile advertising,USA,,,Facebook
+ACQ463,March,1,2011,Zynamics,Security,GER,,Project Zero (Google),Google
+ACQ462,March,2,2011,Beluga,Group messaging,USA,,Facebook Messenger,Facebook
+ACQ461,March,7,2011,Next New Networks,Online video,USA,,YouTube,Google
+ACQ460,March,7,2011,BeatThatQuote.com,Price comparison service,UK,65000000,Google Shopping,Google
+ACQ46,November,16,2016,Faciometrics,"Computer Vision, Machine Learning",USA,,,Facebook
+ACQ459,March,16,2011,Green Parrot Pictures,Digital video,IRL,,YouTube,Google
+ACQ458,March,20,2011,Snaptu,Mobile app developer,ISR,70000000,Mobile,Facebook
+ACQ457,March,22,2011,Tririga Inc.,Facility and Real Estate Management,USA,,,IBM
+ACQ456,March,24,2011,RecRec,Computer vision,USA,,,Facebook
+ACQ455,April,8,2011,PushLife,Service provider,CAN,25000000,Google Play,Google
+ACQ454,April,12,2011,ITA Software,Travel technology,USA,676000000,Google Flights,Google
+ACQ453,April,25,2011,IntoNow,Recognize TV content,USA,20000000,IntoNow,Yahoo
+ACQ452,April,26,2011,TalkBin,Mobile software,USA,,Android,Google
+ACQ451,April,27,2011,DayTum,Information graphics,USA,,,Facebook
+ACQ450,May,10,2011,Skype Technologies,Telecommunications,LUX,8500000000,,Microsoft
+ACQ45,November,21,2016,Qwiklabs,Cloud based hands-on training platform,,,Google Cloud Platform,Google
+ACQ449,May,23,2011,Sparkbuy,Product search,USA,,Google Shopping,Google
+ACQ448,May,25,2011,TweetDeck,Web and desktop client,,40000000,,Twitter
+ACQ447,June,1,2011,AdGrok,Advertising,,,,Twitter
+ACQ446,June,3,2011,PostRank,Social media analytics service,CAN,,Google+ Google Analytics,Google
+ACQ445,June,7,2011,Prodiance,Software,USA,,,Microsoft
+ACQ444,June,9,2011,Admeld,Online advertising,USA,400000000,"DoubleClick, Invite Media",Google
+ACQ443,June,9,2011,MailRank,Email prioritization,USA,,,Facebook
+ACQ442,June,9,2011,Sofa,Software design,NED,,,Facebook
+ACQ441,June,18,2011,SageTV,Media center,USA,,"Google TV, Google Fiber, Android TV",Google
+ACQ440,July,5,2011,BackType,Social analytics,,,,Twitter
+ACQ44,December,1,2016,Indoor.io,Indoor mapping and navigation,FIN,,Maps,Apple
+ACQ439,July,8,2011,Punchd,Loyalty program,USA,,Google Offers,Google
+ACQ438,July,21,2011,Fridge,Social groups,USA,,Google+,Google
+ACQ437,July,23,2011,PittPatt,Facial recognition system,USA,,Android,Google
+ACQ436,August,1,2011,Dealmap,One deal a day service,USA,,Google Offers,Google
+ACQ435,August,1,2011,C3 Technologies,3D mapping,SWE,267000000,Maps,Apple
+ACQ434,August,2,2011,Push Pop Press,Digital publishing,USA,,,Facebook
+ACQ433,August,8,2011,Bagcheck,Social sharing and discovery,,,,Twitter
+ACQ432,August,15,2011,Motorola Mobility,Mobile device manufacturer,USA,12500000000,"Android, Google TV, Android TV, Patent portfolio",Google
+ACQ431,August,31,2011,i2 Limited,Intelligence Analytics,UK,,,IBM
+ACQ430,September,1,2011,Algorithmics Inc.[116],Risk Management,CAN,387000000,,IBM
+ACQ43,December,1,2016,"Yes, Inc",Social Apps Developer,USA,,,Twitter
+ACQ429,September,7,2011,Zave Networks,Digital coupons,USA,,Google Offers,Google
+ACQ428,September,8,2011,Zagat,Restaurant reviews,USA,151000000,"Google Places, Google Maps",Google
+ACQ427,September,19,2011,DailyDeal,One deal a day service,GER,114000000,Google Offers,Google
+ACQ426,September,21,2011,Julpan,Real-time social search engine,,,,Twitter
+ACQ425,October,4,2011,Q1 Labs[118],Security Intelligence,USA,,,IBM
+ACQ424,October,10,2011,Friend.ly,Social casual Q&A service app,USA,,,Facebook
+ACQ423,October,11,2011,SocialGrapple,Social media analytics service,CAN,,Google+ Google Analytics,Google
+ACQ422,October,12,2011,Platform Computing,Cluster and Grid Management Software,CAN,,,IBM
+ACQ421,November,1,2011,Interclick,Data driven advertising,USA,270000000,Yahoo! Ad Network,Yahoo
+ACQ420,November,8,2011,Strobe,"HTML5 mobile apps, SproutCore",USA,,Mobile engineering team,Facebook
+ACQ42,December,8,2016,LinkedIn,Professional Networking Service,USA,26200000000,,Microsoft
+ACQ419,November,10,2011,Apture,Instantaneous search,USA,,Google Search,Google
+ACQ418,November,14,2011,Katango,Social circle organization,USA,,Google+,Google
+ACQ417,November,22,2011,Videosurf,Video search,USA,100000000,,Microsoft
+ACQ416,November,28,2011,Whisper Systems,Mobile privacy and security,,,,Twitter
+ACQ415,December,2,2011,Gowalla,Location Based Service,USA,,,Facebook
+ACQ414,December,5,2011,Cúram Software,Smarter Cities,IRL,,,IBM
+ACQ413,December,8,2011,DemandTec,Cloud-based Retail Analytics,USA,440000000,,IBM
+ACQ412,December,9,2011,RightsFlow,Music rights management,USA,,YouTube,Google
+ACQ411,December,13,2011,Clever Sense,Local recommendations app,USA,,Google Maps,Google
+ACQ410,December,15,2011,Emptoris,Supply Chain Analytics,USA,,,IBM
+ACQ41,December,13,2016,Cronologics,Smartwatches,USA,,Android Wear,Google
+ACQ409,December,20,2011,Anobit,Flash memory,ISR,390000000,"iPod, iPhone, iPad",Apple
+ACQ408,,,2012,WIMM Labs,Android-powered smartwatches,USA,,Android Wear,Google
+ACQ407,January,4,2012,Green Hat (software company)[124],Cloud based software testing,USA,,,IBM
+ACQ406,January,19,2012,Summify,Social news,,,,Twitter
+ACQ405,January,24,2012,Dasient,Internet security,,,Revenue team,Twitter
+ACQ404,January,31,2012,Worklight,Software Development Firm,ISR,70000000,,IBM
+ACQ403,February,20,2012,Caffeinatedmind,In-browser file transfer,USA,,,Facebook
+ACQ402,February,23,2012,Chomp,App search engine,USA,50000000,App Store,Apple
+ACQ401,March,12,2012,Posterous,Blogging platform,,,,Twitter
+ACQ400,March,16,2012,"Milk, Inc",Software company,USA,,Google+,Google
+ACQ40,January,5,2017,Limes Audio,Voice communication,SWE,,"Google Duo, Google Hangouts",Google
+ACQ4,January,29,2018,Playfab,Gaming backend service,USA,,,Microsoft
+ACQ399,April,2,2012,TxVia,Online payments,USA,,"Google Wallet, Google Checkout",Google
+ACQ398,April,9,2012,Instagram,Photo sharing,USA,1000000000,,Facebook
+ACQ397,April,13,2012,Tagtile,Customer loyalty app,USA,,,Facebook
+ACQ396,April,13,2012,Varicent,Compensation and Sales Performance Management Software Solutions,CAN,,,IBM
+ACQ395,April,16,2012,Hotspots.io,Social media intelligence,,,Revenue engineering team,Twitter
+ACQ394,April,25,2012,Vivisimo,Enterprise Search Software,USA,,,IBM
+ACQ393,May,2,2012,Tealeaf Technology,Customer Experience Analytics Software,USA,,,IBM
+ACQ392,May,5,2012,Glancee,Social discovery platform,USA,,,Facebook
+ACQ391,May,10,2012,RestEngine,Personalized email marketing,,,,Twitter
+ACQ390,May,15,2012,Lightbox.com,Photo sharing,UK,,,Facebook
+ACQ39,January,13,2017,Maluuba,Artificial Intelligence,CAN,,,Microsoft
+ACQ389,May,21,2012,Karma,Social gifting,USA,,Facebook Gifts,Facebook
+ACQ388,June,2,2012,Redmatica,Audio,ITA,,"Logic Pro, GarageBand",Apple
+ACQ387,June,4,2012,Meebo,Social networking,USA,100000000,Google+,Google
+ACQ386,June,4,2012,Nclud,Boutique design agency,,,,Twitter
+ACQ385,June,5,2012,Quickoffice,Mobile office suite,USA,,Google Docs,Google
+ACQ384,June,18,2012,Face.com,Face recognition platform,ISR,100000000,,Facebook
+ACQ383,June,25,2012,Yammer,Social networking,USA,1200000000,,Microsoft
+ACQ382,July,9,2012,Perceptive Pixel,Multi touch hardware,USA,,,Microsoft
+ACQ381,July,14,2012,Spool,Mobile bookmarking and sharing content,USA,,Mobile engineering team,Facebook
+ACQ380,July,20,2012,Sparrow,Mobile apps,FRA,25000000,Gmail,Google
+ACQ38,January,17,2017,Simplygon,3D Gaming,SWE,,,Microsoft
+ACQ379,July,20,2012,Acrylic Software,RSS app Pulp and secure database app Wallet,CAN,,Facebook's design team,Facebook
+ACQ378,July,27,2012,AuthenTec,PC and mobile security products,USA,356000000,Touch ID,Apple
+ACQ377,August,1,2012,Wildfire Interactive,Social media marketing,USA,450000000,"Google, Google+",Google
+ACQ376,August,13,2012,Clutch.IO,A/B Tester,,,Design,Twitter
+ACQ375,August,16,2012,Texas Memory Systems,Solid State Storage,USA,,,IBM
+ACQ374,August,24,2012,Threadsy,"Threadsy is a social aggregator, Maker of social marketing tool Swaylo",USA,,,Facebook
+ACQ373,August,27,2012,Kenexa Corporation,Human Capital Solutions,USA,1400000000,,IBM
+ACQ372,September,7,2012,VirusTotal.com,Security,ESP,,,Google
+ACQ371,September,17,2012,"Nik Software, Inc.",Photography,USA,,"Google, Android",Google
+ACQ370,September,24,2012,Butterfly Software Ltd.,Data Analysis and Migration Software,UK,,,IBM
+ACQ37,January,19,2017,Fabric,Crash analytics,USA,,Firebase,Google
+ACQ369,September,27,2012,Particle,HTML5 Web app firm,USA,,"iCloud, iAd",Apple
+ACQ368,October,1,2012,Viewdle,Facial recognition,UKR,45000000,Android,Google
+ACQ367,October,4,2012,PhoneFactor,Two-factor authentication system,USA,,,Microsoft
+ACQ366,October,9,2012,Vine,Video Sharing Service,,30000000,,Twitter
+ACQ365,October,16,2012,StorSimple,Cloud-storage appliance vendor,USA,,,Microsoft
+ACQ364,October,16,2012,Cabana,Mobile app building software,,,,Twitter
+ACQ363,October,17,2012,MarketingPilot,Marketing automation firm,USA,,,Microsoft
+ACQ362,October,25,2012,Stamped,Social recommendation,USA,,Yahoo! Mobile,Yahoo
+ACQ361,November,1,2012,We Are Hunted,Music Service,AUS,,,Twitter
+ACQ360,November,28,2012,Incentive Targeting Inc.,Digital coupons,USA,,Google Offers,Google
+ACQ36,February,3,2017,Agile 3 Solutions,Information security,USA,,,IBM
+ACQ359,November,30,2012,BufferBox,Package delivery,CAN,17000000,"Google Shopping, Android",Google
+ACQ358,December,4,2012,OnTheAir,OnTheAir,USA,,IntoNow,Yahoo
+ACQ357,December,19,2012,StoredIQ,Big Data Analysis,USA,,,IBM
+ACQ356,,,2013,OttoCat,Search engine,USA,,App Store,Apple
+ACQ355,,,2013,Novauris Technologies,Speech recognition,UK,,Siri,Apple
+ACQ354,January,3,2013,id8 Group R2 Studios,Home automation,USA,,,Microsoft
+ACQ353,January,22,2013,Snip.it,Social network,USA,10000000,Snip.it,Yahoo
+ACQ352,January,28,2013,Crashlytics,Crash reporting,,100000000,,Twitter
+ACQ351,February,1,2013,Star Analytics,Business Analytics,USA,,,IBM
+ACQ350,February,2,2013,Pando Networks,Peer-to-peer (P2P) media distribution,USA,,,Microsoft
+ACQ35,March,8,2017,Kaggle,Data science,USA,,Google Cloud Platform,Google
+ACQ349,February,6,2013,Channel Intelligence,Product ecommerce,USA,125000000,Google Shopping,Google
+ACQ348,February,6,2013,Bluefin Labs,Social TV analytics,USA,80000000,,Twitter
+ACQ347,February,12,2013,Alike,Social recommendation,USA,,Yahoo! Mobile,Yahoo
+ACQ346,February,28,2013,Atlas Solutions,Atlas advertiser suite,USA,,,Facebook
+ACQ345,March,,2013,osmeta,Mobile software,USA,,,Facebook
+ACQ344,March,4,2013,MetricsHub,Cloud monitoring,USA,,,Microsoft
+ACQ343,March,12,2013,DNNresearch Inc.,Deep Neural Networks,CAN,,"Google, X",Google
+ACQ342,March,14,2013,Hot Studio,Design agency,USA,,,Facebook
+ACQ341,March,15,2013,Talaria Technologies,Cloud computing,USA,,Google Cloud,Google
+ACQ340,March,19,2013,Netbreeze,Social analytics,SWI,,,Microsoft
+ACQ34,March,9,2017,AppBridge,Productivity suite,USA,,Google Docs,Google
+ACQ339,March,20,2013,Jybe,Social recommendation,USA,,Jybe,Yahoo
+ACQ338,March,23,2013,WiFiSlam,Indoor location,USA,20000000,Apple Maps,Apple
+ACQ337,March,25,2013,Summly,"News aggregation, summarization",UK,30000000,Yahoo App,Yahoo
+ACQ336,April,12,2013,Behavio,Social Prediction,USA,,Google Now,Google
+ACQ335,April,22,2013,UrbanCode,Software delivery automation,USA,,,IBM
+ACQ334,April,23,2013,Wavii,Natural Language Processing,USA,30000000,Google Knowledge Graph,Google
+ACQ333,April,23,2013,Spaceport,Cross-platform game framework,USA,,,Facebook
+ACQ332,April,25,2013,Parse,Mobile app backends,USA,85000000,,Facebook
+ACQ331,May,1,2013,Astrid,Productivity,USA,,Astrid,Yahoo
+ACQ330,May,9,2013,Ubalo,Large-scale computing,,,,Twitter
+ACQ33,March,23,2017,Workflow,Automation and scripting app,USA,,iOS,Apple
+ACQ329,May,9,2013,MileWise,Flight rewards management,USA,,Yahoo Mobile Properties and Apps,Yahoo
+ACQ328,May,9,2013,GoPollGo,Real-time surveys,USA,,Yahoo Mobile Properties and Apps,Yahoo
+ACQ327,May,10,2013,Loki Studios,Mobile gaming,USA,,Yahoo Mobile Properties and Apps,Yahoo
+ACQ326,May,13,2013,Lucky Sort,Big Data visualization,,,,Twitter
+ACQ325,May,17,2013,Tumblr,Blogging,USA,1100000000,,Yahoo
+ACQ324,May,23,2013,Makani Power,Airborne wind turbines,USA,,X,Google
+ACQ323,May,23,2013,PlayerScale,Online gaming,USA,,Yahoo Mobile Properties and Apps,Yahoo
+ACQ322,June,3,2013,InRelease,Release management,CAN,,,Microsoft
+ACQ321,June,4,2013,SoftLayer Technologies,Cloud Computing Infrastructure,USA,2000000000,,IBM
+ACQ320,June,11,2013,Waze,GPS navigation software,ISR,966000000,"Google Maps , Waze",Google
+ACQ32,April,10,2017,Deis,Container Management,USA,,,Microsoft
+ACQ319,June,12,2013,GhostBird Software,Mobile Photography Apps,USA,,Yahoo Mobile Properties and Apps,Yahoo
+ACQ318,June,13,2013,Rondee,Video Conferencing,USA,,,Yahoo
+ACQ317,June,19,2013,Spindle Labs,Local Discovery,USA,,,Twitter
+ACQ316,July,2,2013,Qwiki,Automated Video Production,USA,50000000,,Yahoo
+ACQ315,July,2,2013,Bignoggins Productions,Fantasy Sports,USA,,,Yahoo
+ACQ314,July,3,2013,Xobni,CRM,USA,40000000,,Yahoo
+ACQ313,July,9,2013,CSL International,Cloud Computing,ISR,,,IBM
+ACQ312,July,18,2013,Monoidics,Automatic verification software,UK,,,Facebook
+ACQ311,July,18,2013,Ztelic,Social Analytics,CHN,,,Yahoo
+ACQ310,July,19,2013,HopStop.com,Maps,USA,,Apple Maps,Apple
+ACQ31,April,18,2017,Intentional Software,Collaborative Productivity Platform,USA,,,Microsoft
+ACQ309,July,19,2013,Locationary,Maps,CAN,,Apple Maps,Apple
+ACQ308,July,31,2013,Lexity,ecommerce Analytics,USA,35000000,,Yahoo
+ACQ307,August,1,2013,Passif Semiconductor,Semiconductors,USA,,Apple SOC,Apple
+ACQ306,August,2,2013,Rockmelt,News Aggregator,USA,,,Yahoo
+ACQ305,August,12,2013,Jibbigo,Speech translation app,USA,,,Facebook
+ACQ304,August,13,2013,Matcha,Media discovery app,USA,,TV App for Apple TV and iOS,Apple
+ACQ303,August,13,2013,Marakana,Training services,,,,Twitter
+ACQ302,August,15,2013,Trusteer,Cyber Security,ISR,1000000000,,IBM
+ACQ301,August,22,2013,Embark,Maps,USA,,Apple Maps,Apple
+ACQ300,August,23,2013,IQ Engines,Image Recognition,USA,,Flickr,Yahoo
+ACQ30,May,9,2017,Beddit,Sleep tracking hardware,FIN,,iOS,Apple
+ACQ3,March,12,2018,Texture,Digital magazine subscription service,USA,,News,Apple
+ACQ299,August,28,2013,AlgoTrim,Mobile data compression[64],SWE,,iOS,Apple
+ACQ298,August,28,2013,Trendrr,Advertising solutions,,,,Twitter
+ACQ297,September,2,2013,Nokia mobile phones unit,"Mobile phones, smartphones",FIN,7200000000,,Microsoft
+ACQ296,September,9,2013,MoPub,Advertising solutions,,350000000,,Twitter
+ACQ295,September,16,2013,Bump,Mobile software,USA,,Google Photos,Google
+ACQ294,September,19,2013,Daeja Image Systems,Viewer for document management systems,UK,,,IBM
+ACQ293,September,30,2013,Hitpost,Sports,USA,,,Yahoo
+ACQ292,October,1,2013,The Now Factory,Mobile Networks Big Data Analytics,IRL,,,IBM
+ACQ291,October,2,2013,Flutter,Gesture recognition technology,USA,40000000,"Google, Android, X",Google
+ACQ290,October,3,2013,Cue,Personal assistant,USA,50000000,Siri,Apple
+ACQ29,May,10,2017,Owlchemy Labs,Virtual reality studio,USA,,Google VR,Google
+ACQ289,October,3,2013,Xtify,In-app mobile messaging and push notification tools,USA,,,IBM
+ACQ288,October,11,2013,Bread,Advertising,USA,,,Yahoo
+ACQ287,October,12,2013,HLW Software,RDP applications,AUT,,,Microsoft
+ACQ286,October,13,2013,Onavo,Mobile analytics and Israel Facebook Headquarters Office,ISR,,,Facebook
+ACQ285,October,22,2013,FlexyCore,DroidBooster App for Android,FRA,23000000,Android,Google
+ACQ284,October,23,2013,LookFlow,Image Recognition,USA,,Flickr,Yahoo
+ACQ283,October,25,2013,Apiphany,API management,USA,,,Microsoft
+ACQ282,November,13,2013,Fiberlink Communications,Mobile Device Management,USA,330000000,,IBM
+ACQ281,November,24,2013,PrimeSense,Structured-light 3D scanners,ISR,345000000,"Face ID, TrueDepth[68][69]",Apple
+ACQ280,December,,2013,Acunu,Database analytics,USA,,iCloud,Apple
+ACQ28,May,13,2017,Lattice Data,Artificial intelligence,USA,200000000,Photos,Apple
+ACQ279,December,2,2013,"SCHAFT, Inc.","Robotics, humanoid robots",JPN,,X,Google
+ACQ278,December,2,2013,Topsy,Analytics,USA,200000000,"App Store, Apple Music, iTunes Store[71]",Apple
+ACQ277,December,2,2013,SkyPhrase,Natural Language Processing,,,,Yahoo
+ACQ276,December,3,2013,Industrial Perception,"Robotic arms, computer vision",USA,,X,Google
+ACQ275,December,3,2013,Ptch,Video sharing,USA,6500000,,Yahoo
+ACQ274,December,4,2013,Redwood Robotics,Robotic arms,USA,,X,Google
+ACQ273,December,5,2013,Meka Robotics,Robots,USA,,X,Google
+ACQ272,December,6,2013,Holomni,Robotic wheels,USA,,X,Google
+ACQ271,December,6,2013,EvntLive,Live and on demand music playing,USA,,,Yahoo
+ACQ270,December,7,2013,Bot & Dolly,Robotic cameras,USA,,X,Google
+ACQ27,May,31,2017,XCC (division of TIMETOACT),Collaboration software,GER,,,IBM
+ACQ269,December,8,2013,Autofuss,Ads and Design,USA,,X,Google
+ACQ268,December,9,2013,Quik.io,Cross Platform Video Streaming,USA,,,Yahoo
+ACQ267,December,17,2013,SportStream,Sports conversation analysis,USA,,,Facebook
+ACQ266,December,17,2013,PeerCDN,Content Delivery Network,USA,,,Yahoo
+ACQ265,December,19,2013,"Aspera, Inc.",Data Transfer Technology,USA,,,IBM
+ACQ264,December,23,2013,Catch.com,Software,USA,,Siri,Apple
+ACQ263,December,23,2013,BroadMap,Maps,USA,,Apple Maps,Apple
+ACQ262,,,2014,Dryft,On-Screen Keyboard,USA,,iOS Keyboard,Apple
+ACQ261,January,4,2014,Bitspin,Timely App for Android,CHE,,Android,Google
+ACQ260,January,4,2014,SnappyLabs,Photography software,USA,,Camera,Apple
+ACQ26,June,8,2017,Hexadite,Cybersecurity,ISR,100000000,,Microsoft
+ACQ259,January,7,2014,Parature,Customer service software,USA,100000000,,Microsoft
+ACQ258,January,7,2014,Aviate,Intelligent homescreen for the Android OS,USA,,,Yahoo
+ACQ257,January,8,2014,Little Eye Labs,Performance analysis and monitoring tools for Android,IND,15000000,,Facebook
+ACQ256,January,13,2014,Nest Labs,Home automation,USA,3200000000,Nest Labs,Google
+ACQ255,January,13,2014,Branch,Web conversation platform,USA,15000000,,Facebook
+ACQ254,January,15,2014,Impermium,Internet security,USA,,Project Zero (Google),Google
+ACQ253,January,21,2014,SPARQ,Mobile Marketing,USA,,,Yahoo
+ACQ252,January,24,2014,Cloud Party,Virtual world gaming,,,,Yahoo
+ACQ251,January,26,2014,DeepMind Technologies,Artificial intelligence,UK,625000000,Google DeepMind,Google
+ACQ250,January,28,2014,Tomfoolery,Conversation platform,USA,,,Yahoo
+ACQ25,June,16,2017,SensoMotoric Instruments,Eye tracking hardware and software,GER,,ARKit,Apple
+ACQ249,January,30,2014,Incredible Labs,Time Management App,USA,,,Yahoo
+ACQ248,February,11,2014,Wander,Social Diary,USA,,,Yahoo
+ACQ247,February,13,2014,Distill,Technical Recruiting,USA,,,Yahoo
+ACQ246,February,16,2014,SlickLogin,Internet Security,ISR,,Project Zero (Google),Google
+ACQ245,February,19,2014,WhatsApp,Mobile messaging,USA,19000000000,,Facebook
+ACQ244,February,21,2014,spider.io,Anti-click fraud,UK,,"DoubleClick, Adsense",Google
+ACQ243,February,21,2014,Burstly,Software testing,USA,,"TestFlight, App Store",Apple
+ACQ242,February,24,2014,"Cloudant, Inc.",Database-as-a-Service,USA,,,IBM
+ACQ241,March,5,2014,Vizify,Social media information transformation,USA,,,Yahoo
+ACQ240,March,12,2014,GreenThrottle,Gadgets,USA,,Android,Google
+ACQ24,June,28,2017,Cloudyn,Cloud Business Management,ISR,50000000,,Microsoft
+ACQ239,March,25,2014,Oculus VR,Virtual reality technology,USA,2000000000,,Facebook
+ACQ238,March,27,2014,Ascenta,High-altitude UAVs,UK,20000000,,Facebook
+ACQ237,March,31,2014,SecondSync,Social TV,UK,,,Twitter
+ACQ236,March,31,2014,Mesagraph,Social TV,FRA,,,Twitter
+ACQ235,April,7,2014,Cover,Android Lockscreen App,,,,Twitter
+ACQ234,April,10,2014,"Silverpop Systems, Inc.",Behavioral Marketing Automation,USA,,,IBM
+ACQ233,April,14,2014,Titan Aerospace,High-altitude UAVs,USA,,Project Loon,Google
+ACQ232,April,15,2014,Gnip,Data reseller,,134000000,,Twitter
+ACQ231,April,24,2014,ProtoGeo Oy,Fitness tracking app Moves,FIN,,,Facebook
+ACQ230,May,1,2014,Capptain,(Mobile) application development,FRA,,,Microsoft
+ACQ23,July,12,2017,Halli Labs,Artificial intelligence,IND,,,Google
+ACQ229,May,1,2014,GreenButton,Cloud computing,NZL,,,Microsoft
+ACQ228,May,2,2014,Rangespan,E-commerce,UK,,Google Shopping,Google
+ACQ227,May,2,2014,LuxVue Technology,microLED displays,USA,,,Apple
+ACQ226,May,6,2014,Adometry,Online advertising attribution,USA,,Google Analytics AdSense,Google
+ACQ225,May,7,2014,MyEnergy,Online energy usage monitoring,USA,,Nest Labs,Google
+ACQ224,May,7,2014,Stackdriver,Cloud computing,USA,,Google Cloud Platform,Google
+ACQ223,May,7,2014,Appetas,Restaurant website creation,USA,,Google My Business,Google
+ACQ222,May,13,2014,Blink,Mobile Messaging,USA,,,Yahoo
+ACQ221,May,16,2014,Quest Visual,Augmented reality,USA,,Google Translate,Google
+ACQ220,May,19,2014,Divide,Mobile device management,USA,,Android for Work,Google
+ACQ22,July,31,2017,Ozlo,Artificial Intelligence,USA,,Messenger,Facebook
+ACQ219,June,5,2014,TapCommerce,Mobile app install ads,,100000000,,Twitter
+ACQ218,June,5,2014,Namo Media,Native mobile advertising,,50000000,MoPub,Twitter
+ACQ217,June,6,2014,Spotsetter,Social search engine,USA,,Apple Maps,Apple
+ACQ216,June,10,2014,Skybox Imaging,Satellite,USA,500000000,"Google Maps, Project Loon",Google
+ACQ215,June,10,2014,PhotoDrive,Photo Management,USA,,,Yahoo
+ACQ214,June,19,2014,Alpental Technologies,Wireless,USA,,Google,Google
+ACQ213,June,19,2014,mDialog,Online advertising,CAN,,DoubleClick,Google
+ACQ212,June,19,2014,SnappyTV,Live Clipping Service,,,,Twitter
+ACQ211,June,20,2014,Dropcam,Home monitoring,USA,555000000,Nest Labs,Google
+ACQ210,June,25,2014,Appurify,Automated application testing,USA,,Android,Google
+ACQ21,August,15,2017,Cycle Computing,Cloud HPC,USA,,,Microsoft
+ACQ209,June,29,2014,BookLamp,Book analytics,USA,,iBooks,Apple
+ACQ208,June,29,2014,Swell,Music streaming,USA,30000000,Apple Music,Apple
+ACQ207,July,1,2014,Songza,Music streaming,USA,,"Google Play, Android TV",Google
+ACQ206,July,2,2014,SyntaxTree,Developer tools,FRA,,,Microsoft
+ACQ205,July,11,2014,InMage,Disaster recovery solutions,USA,,,Microsoft
+ACQ204,July,12,2014,RayV,Video Streaming Platform,ISR,,,Yahoo
+ACQ203,July,17,2014,Madbits,Deep Learning,USA,,Twitter Cortex,Twitter
+ACQ202,July,21,2014,Flurry,Mobile Analytics,USA,200000000,,Yahoo
+ACQ201,July,23,2014,drawElements,Graphics compatibility testing,FIN,,Android,Google
+ACQ200,July,29,2014,CardSpring,Payment application platform,,,Commerce,Twitter
+ACQ20,August,16,2017,AIMatter,Computer vision,BLR,,YouTube,Google
+ACQ2,March,27,2018,Tenor,GIF image search,USA,,Google Images,Google
+ACQ199,July,31,2014,CrossIdeas,Cloud Security (Identity and Access Governance),ITA,,,IBM
+ACQ198,August,1,2014,Inception Mobile Inc.,Software,CAN,,,Microsoft
+ACQ197,August,1,2014,Beats Electronics,"Headphones, music streaming (Beats Music)",USA,3000000000,"iPhone, iTunes, Apple Music",Apple
+ACQ196,August,1,2014,Mitro,Password security,,,,Twitter
+ACQ195,August,6,2014,Director,Mobile video,USA,,"YouTube, Android",Google
+ACQ194,August,6,2014,Emu,IM client,USA,,"Google Hangouts, Google Now",Google
+ACQ193,August,7,2014,PrivateCore,Secure Server Technology,USA,,,Facebook
+ACQ192,August,11,2014,Lighthouse Security Group,Cloud Security,USA,,,IBM
+ACQ191,August,14,2014,LiveRail,Publisher Monetization Platform,USA,,,Facebook
+ACQ190,August,15,2014,ClarityRay,Ad Security,ISR,,,Yahoo
+ACQ19,September,21,2017,HTC (portions),Talent and intellectual property licenses,TWN,1100000000,Google Pixel,Google
+ACQ189,August,17,2014,Jetpac,"Artificial intelligence, image recognition",USA,,Picasa,Google
+ACQ188,August,23,2014,Gecko Design,Mechanical design,USA,,X,Google
+ACQ187,August,26,2014,Zync Render,Cloud-based visual effects software,USA,,Google Cloud Platform,Google
+ACQ186,August,26,2014,WaveGroup Sound,Sound Studio,USA,,,Facebook
+ACQ185,September,5,2014,Luminate,Advertising,USA,,,Yahoo
+ACQ184,September,10,2014,Lift Labs,Liftware,USA,,Verily,Google
+ACQ183,September,11,2014,Polar,Social polling,USA,,Google+,Google
+ACQ182,September,22,2014,Bookpad,Document Handling,IND,15000000,,Yahoo
+ACQ181,September,23,2014,Prss,Digital magazine,NED,,Apple News[82],Apple
+ACQ180,October,4,2014,LittleInc,Messaging App,USA,,,Yahoo
+ACQ18,September,22,2017,Vrvana,Augmented reality head-mounted display,CAN,30000000,ARKit,Apple
+ACQ179,October,21,2014,Firebase,Data synchronization,USA,,Google Cloud Platform,Google
+ACQ178,October,23,2014,Dark Blue Labs & Vision Factory,Artificial intelligence,UK,,Google DeepMind,Google
+ACQ177,October,24,2014,Revolv,Home automation,USA,,Nest Labs,Google
+ACQ176,October,25,2014,Twitpic,Photo-Sharing Website,,,,Twitter
+ACQ175,November,6,2014,Mojang,Video games,SWE,2500000000,,Microsoft
+ACQ174,November,11,2014,BrightRoll,Online Video Advertising,USA,640000000,,Yahoo
+ACQ173,November,13,2014,Aorato,Enterprise Security & machine learning,ISR,,,Microsoft
+ACQ172,November,19,2014,RelativeWave,Mobile software prototyping,USA,,Android,Google
+ACQ171,November,21,2014,Cooliris,Photo Viewing,USA,,,Yahoo
+ACQ170,December,2,2014,Acompli,Mobile Email Apps,USA,,,Microsoft
+ACQ17,September,26,2017,Bitium,Single sign-on and identity management,USA,,Google Cloud Platform,Google
+ACQ169,December,11,2014,HockeyApp,Mobile Beta Distribution & Crash Analytics,GER,,,Microsoft
+ACQ168,December,11,2014,Media Group One,Advertising and online video,GER,,,Yahoo
+ACQ167,December,17,2014,Vidmaker,Video editing,USA,,YouTube,Google
+ACQ166,January,,2015,Camel Audio,Audio plug-ins and sound libraries,UK,,Logic Pro,Apple
+ACQ165,January,6,2015,Wit.ai,Speech recognition,USA,,,Facebook
+ACQ164,January,8,2015,Quickfire Networks,Video Compression,USA,,,Facebook
+ACQ163,January,20,2015,Equivio,Text Analytics Service,ISR,,,Microsoft
+ACQ162,January,20,2015,ZipDial,Mobile marketing and analytics,IND,,,Twitter
+ACQ161,January,21,2015,Semetric,Music analytics,UK,50000000,"Apple Music, iTunes Store",Apple
+ACQ160,January,23,2015,Revolution Analytics,Statistical computing and predictive analytics,USA,,,Microsoft
+ACQ16,September,29,2017,Regaind,Computer vision,FRA,,Photos,Apple
+ACQ159,February,4,2015,"Sunrise Atelier, Inc.",Sunrise Calendar applications,USA,100000000,,Microsoft
+ACQ158,February,4,2015,Launchpad Toys,Child-friendly apps,USA,,YouTube for Kids,Google
+ACQ157,February,8,2015,Odysee,Multimedia sharing and storage,USA,,Google+,Google
+ACQ156,February,11,2015,Niche,Advertising,,,,Twitter
+ACQ155,February,12,2015,N-trig,Styli and pen input hardware and software,ISR,200000000,,Microsoft
+ACQ154,February,23,2015,Softcard,Mobile payments,USA,,Android Pay,Google
+ACQ153,February,24,2015,Red Hot Labs,App advertising and discovery,USA,,Google Play,Google
+ACQ152,March,4,2015,AlchemyAPI,"Natural language processing, big data",USA,,,IBM
+ACQ151,March,9,2015,Periscope (app),Live-Video Streaming,,100000000,,Twitter
+ACQ150,March,14,2015,"TheFind, Inc.",Ecommerce,USA,,,Facebook
+ACQ15,October,,2017,PowerbyProxi,Wireless charging,NZL,,"iPhone, AirPower",Apple
+ACQ149,March,24,2015,FoundationDB,Database,USA,,iMessage Backend,Apple
+ACQ148,March,26,2015,LiveLoop,PowerPoint collaboration,USA,,,Microsoft
+ACQ147,March,27,2015,Blekko,"Web Search Engine, Cognitive Computing",USA,,,IBM
+ACQ146,April,,2015,Coherent Navigation,GPS,USA,,Apple Maps,Apple
+ACQ145,April,2,2015,TenXer,Collaboration Platform,,,,Twitter
+ACQ144,April,13,2015,Phytel,Health management software,USA,,,IBM
+ACQ143,April,13,2015,Explorys,Healthcare analytics,USA,,,IBM
+ACQ142,April,14,2015,"Datazen Software, Inc.",Mobile business intelligence & Data visualization,CAN,,,Microsoft
+ACQ141,April,14,2015,LinX,Camera,ISR,20000000,,Apple
+ACQ140,April,16,2015,Skillman & Hackett,Virtual reality software,USA,,Tilt Brush,Google
+ACQ14,October,,2017,init.ai,Messaging assistant,USA,,Siri,Apple
+ACQ139,April,16,2015,Thrive Audio,Surround sound technology,IRL,,Google Cardboard,Google
+ACQ138,April,28,2015,TellApart,Advertising,,479000000,,Twitter
+ACQ137,May,,2015,Metaio,Augmented reality,GER,,ARkit,Apple
+ACQ136,May,4,2015,Timeful,Mobile software,USA,,"Google Inbox, Google Calendar",Google
+ACQ135,May,26,2015,Surreal Vision,"Computer vision, augmented reality",UK,,,Facebook
+ACQ134,May,28,2015,Pulse.io,Mobile app optimizer,USA,,Android,Google
+ACQ133,June,2,2015,6Wunderkinder GmbH,Wunderlist to-do list applications,GER,,,Microsoft
+ACQ132,June,3,2015,Bluebox,Private Cloud as a Service,USA,,,IBM
+ACQ131,June,10,2015,BlueStripe Software,Application management,USA,,,Microsoft
+ACQ130,June,17,2015,Whetlab,Machine Learning,USA,,Twitter Cortex,Twitter
+ACQ13,October,3,2017,AltspaceVR,Virtual reality,USA,,,Microsoft
+ACQ129,June,18,2015,Agawi,Mobile application streaming,USA,,"Android, Google Play",Google
+ACQ128,July,16,2015,FieldOne Systems LLC,Enterprise Field Service,USA,,,Microsoft
+ACQ127,July,16,2015,Pebbles,"Computer vision, augmented reality",ISR,60000000,,Facebook
+ACQ126,July,19,2015,Adallom,Cloud security,ISR,320000000,,Microsoft
+ACQ125,July,21,2015,Pixate,Mobile software prototyping,USA,,Android,Google
+ACQ124,July,23,2015,Compose Inc.,Database as a Service,USA,,,IBM
+ACQ123,July,31,2015,Polyvore,Clothing E-commerce website,USA,160000000,,Yahoo
+ACQ122,August,3,2015,"Incent Games, LLC",Sales-gamification,USA,,,Microsoft
+ACQ121,August,6,2015,Merge Healthcare Inc.,Healthcare imaging software,USA,1000000000,,IBM
+ACQ120,September,,2015,Perceptio,"Machine learning, Image recognition",USA,,"Face ID, Animoji, Photos",Apple
+ACQ12,October,5,2017,Vivant Digital,Innovation Consultancy,AUS,,,IBM
+ACQ119,September,,2015,VocalIQ,Speech technology,UK,,Siri,Apple
+ACQ118,September,,2015,Mapsense,Mapping visualization and data collection,USA,,Apple Maps,Apple
+ACQ117,September,3,2015,"VoloMetrix, Inc.",Organisational analytics,USA,,,Microsoft
+ACQ116,September,10,2015,StrongLoop Inc.,Mobile API capabilities,USA,,,IBM
+ACQ115,September,11,2015,"Double Labs, Inc.",Mobile lock screen software,USA,,,Microsoft
+ACQ114,September,21,2015,Oyster,E-book subscriptions,USA,,Google Play Books,Google
+ACQ113,September,28,2015,Adxstudio Inc.,Web portal and application lifecycle management solutions,CAN,,,Microsoft
+ACQ112,September,28,2015,Meteorix LLC,Consulting services for Workday applications,USA,,,IBM
+ACQ111,September,30,2015,Jibe Mobile,Rich Communication Services,USA,,Android,Google
+ACQ110,October,2,2015,Telekinesys Research Ltd.,Game technology vendor,IRL,,,Microsoft
+ACQ11,October,9,2017,Relay Media,AMP converter,USA,,Accelerated Mobile Pages,Google
+ACQ109,October,3,2015,Endaga,Rural communications,USA,,,Facebook
+ACQ108,October,17,2015,Digisfera,360-degree photography,POR,,Street View,Google
+ACQ107,October,21,2015,ZeroPush,Push Notification Services,USA,,,Twitter
+ACQ106,October,21,2015,Fastlane,Deployment Services,,,,Twitter
+ACQ105,October,28,2015,The Weather Company digital assets,"Weather data sources and analytics, related online and mobile products",USA,,,IBM
+ACQ104,November,,2015,Faceshift,Realtime Motion Capture,SWI,,Animoji,Apple
+ACQ103,November,3,2015,"Gravitant, Inc",Cloud brokerage software and cloud management,USA,,,IBM
+ACQ102,November,5,2015,"Mobile Data Labs, Inc.","MileIQ, a mileage tracking application",USA,,,Microsoft
+ACQ101,November,6,2015,Cleversafe,Object-based storage software,USA,1309000000,,IBM
+ACQ100,November,9,2015,Secure Islands Technologies Ltd.,Data protection,ISR,,,Microsoft
+ACQ10,October,11,2017,60db,Podcasts,USA,,Google Play Music,Google
+ACQ1,May,18,2018,Semantic Machines,Conversational AI,USA,,,Microsoft
+AcQ916,June,4,2018,Github,Version Control Hosting,USA,7500000000,,Microsoft

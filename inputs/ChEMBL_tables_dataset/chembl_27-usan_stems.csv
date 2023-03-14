@@ -1,0 +1,711 @@
+usan_stem_id,stem,subgroup,annotation,stem_class,major_class,who_extra
+1,-trilat,-,endopeptidase inhibitors,Suffix,protease,0
+2,-caserin,-,"serotonin receptor agonists, primarily 5-HT2",Suffix,GPCR,0
+3,-serod,-,serotonin receptor antagonists and partial agonists,Suffix,GPCR,0
+4,-ditan,-,antimigraine (5-HT1 receptor agonists),Suffix,GPCR,0
+5,-triptan,-,"antimigraine agents (5-HT1 receptor agonists),sumatriptan derivatives",Suffix,GPCR,0
+6,-zotan,-,5-HT1A receptor agonists/antagonists acting primarily as neuroprotectors,Suffix,GPCR,0
+7,-sonan,-,5-HT1B receptor antagonists,Suffix,GPCR,0
+8,-anserin,-,serotonin 5-HT2 receptor antagonists,Suffix,GPCR,0
+10,-denoson,-,adenosine A receptor agonists,Suffix,GPCR,0
+11,-alol,-,combined alpha and beta receptors,Suffix,GPCR,0
+13,-algron,-,alpha1- and alpha2-adrenoreceptor agonists,Suffix,GPCR,0
+14,-olol,-,beta-blockers (propranolol type),Suffix,GPCR,0
+15,-begron,-,beta 3 adrenoreceptor agonist,Suffix,GPCR,0
+16,-adol-,-,analgesics (mixed opiate receptor agonists/antagonists),Infix,GPCR,0
+17,-adol,-,analgesics (mixed opiate receptor agonists/antagonists),Suffix,GPCR,0
+18,-sartan,-,angiotensin II receptor antagonists,Suffix,GPCR,0
+19,-tibant,-,antiasthmatics (bradykinin antagonists),Suffix,GPCR,0
+20,-ast,-lukast,antiasthmatics/antiallergics: leukotriene receptor antagonists,Suffix,GPCR,0
+21,-ast,-trodast,antiasthmatics/antiallergics: thromboxane A2 receptor antagonists,Suffix,GPCR,0
+23,-azosin,-,antihypertensives (prazosin type),Suffix,GPCR,0
+24,-sidone,-,antipsychotic with binding activity on serotonin (5HT2A) and dopamine (D2) receptors,Suffix,GPCR,0
+25,-tiapine,-,antipsychotics (dibenzothiazepine derivatives),Suffix,GPCR,0
+26,-troline,-,antipsychotics (dopamine D2 antagonists),Suffix,GPCR,0
+27,-peridol,-,antipsychotics (haloperidol type),Suffix,GPCR,0
+28,-peridone,-,antipsychotics (risperidone type),Suffix,GPCR,0
+29,-troban,-,antithrombotics (thromboxane A2 receptor antagonists),Suffix,GPCR,0
+30,-spirone,-,anxiolytics (buspirone type),Suffix,GPCR,0
+31,-terol,-,bronchodilators (phenethylamine derivatives),Suffix,GPCR,0
+32,-nab-,-,cannabinol derivatives,Infix,GPCR,0
+33,nab-,-,cannabinol derivatives,Prefix,GPCR,0
+34,-viroc,-,CCR5 antagonists,Suffix,GPCR,0
+35,-viroc,-criviroc,CCR5 antagonists: immunomodulators,Suffix,GPCR,0
+36,-azepide,-,cholecystokinin receptor antagonists,Suffix,GPCR,0
+37,-glumide,-,"CCK antagonists, antiulcer, anxiolytic agent",Suffix,GPCR,0
+38,trop-,-,atropine derivatives,Prefix,GPCR,0
+39,-rixin,-,CXCR2 modulators,Suffix,GPCR,0
+40,-ixafor,-,CXCR4 antagonists,Suffix,GPCR,0
+41,-dopidine,-,dopamine D2 receptor modulator,Suffix,GPCR,0
+43,-dore,-,dopamine D2D3 receptor modulators,Suffix,GPCR,0
+44,-dopa,-,dopamine receptor agonists,Suffix,GPCR,0
+46,-pamine,-,dopaminergics (butopamine type),Suffix,GPCR,0
+48,-entan,-,endothelin receptor antagonists,Suffix,GPCR,0
+49,-kef-,-,enkephalin agonists,Infix,GPCR,0
+50,-golix,-,GnRH receptor antagonists (nonpeptide),Suffix,GPCR,0
+51,-astine,-,antihistaminics (histamine-H1 receptor antagonists),Suffix,GPCR,0
+54,-tidine,-,H2-receptor antagonists (cimetidine type),Suffix,GPCR,0
+55,-isant,-,histamine H3 receptor antagonists,Suffix,GPCR,0
+56,-azoline,-,antihistamines/local vasoconstrictors (antazoline type),Suffix,GPCR,0
+57,-lubant,-,leukotriene receptor antagonists (treatment of inflammatory skin disorders),Suffix,GPCR,0
+58,-clidine,-,muscarinic receptor agonists,Suffix,GPCR,0
+59,-fentanil,-,narcotic analgesics (fentanyl derivatives),Suffix,GPCR,0
+60,-azocine,-,"narcotic antagonists/agonists (6,7-benzomorphan derivatives)",Suffix,GPCR,0
+62,-orphan,-,narcotic antagonists/agonists (morphinan derivatives),Suffix,GPCR,0
+63,nal-,-,narcotic agonists/antagonists (normorphine type),Prefix,GPCR,0
+65,-neurin,-,"neurotensin receptor antagonists, neurotropins",Suffix,GPCR,0
+66,-tant,-pitant,tachykinin (neurokinin) receptor antagonists: NK1 receptor antagonists,Suffix,GPCR,0
+67,-tant,-dutant,tachykinin (neurokinin) receptor antagonists: NK2 receptor antagonists,Suffix,GPCR,0
+68,-tant,-netant,tachykinin (neurokinin) receptor antagonists: NK3 receptor antagonists,Suffix,GPCR,0
+69,-tocin,-,oxytocin derivatives,Suffix,GPCR,0
+70,-siban,-,oxytocin antagonists,Suffix,GPCR,0
+71,-plact,-,platelet factor 4 analogs and derivatives,Suffix,GPCR,0
+72,-pafant,-,platelet-activating factor antagonists,Suffix,GPCR,0
+73,-prost-,-,prostaglandins,Infix,GPCR,0
+74,-melteon,-,selective melatonin receptor agonist,Suffix,GPCR,0
+75,-pride,-,sulpride derivatives,Suffix,GPCR,0
+76,-fylline,-,theophylline derivatives,Suffix,GPCR,0
+77,-relin,-tirelin,prehormones or hormone-release stimulating peptides: thyrotropin releasing hormone analogues,Suffix,GPCR,0
+78,-osuran,-,urotensin receptor antagonists,Suffix,GPCR,0
+79,-pressin,-,vasoconstrictors (vasopressin derivatives),Suffix,GPCR,0
+80,-vaptan,-,vasopressin receptor antagonists,Suffix,GPCR,0
+81,-tide,-glutide,peptides: GLP peptide analogs,Suffix,GPCR,0
+82,-tide,-actide,peptides: synthetic corticotropins,Suffix,GPCR,0
+83,-setron,-,serotonin 5-HT3 antagonists,Suffix,ion channel,0
+85,-azepam,-,antianxiety agents (diazepam type),Suffix,ion channel,0
+86,-barb-,-,barbituric acid derivatives,Infix,ion channel,0
+88,-azenil,-,benzodiazepine receptor (agonists/antagonists),Suffix,ion channel,0
+92,-aj-,-,antiarrhythmics (ajmaline derivatives),Infix,ion channel,0
+93,-isomide,-,antiarrhythmics (disopyramide derivatives),Suffix,ion channel,0
+94,-afenone,-,antiarrhythmics (propafenone derivatives),Suffix,ion channel,0
+95,-arone,-,antirrhythmics,Suffix,ion channel,0
+96,-ilide,-,class III antiarrhythmic agents,Suffix,ion channel,0
+97,-tiazem,-,calcium channel blockers (diltiazem type),Suffix,ion channel,0
+98,-pamil,-,coronary vasodilators (verapamil type),Suffix,ion channel,0
+99,-gab-,-,gabamimetics,Infix,ion channel,0
+100,-capoc,-,"agonists of the Gardos channel, or the calcium activated potassium channel of intermediate conductance",Suffix,ion channel,0
+101,-pidem,-,hypnotics/sedatives (zolpidem type),Suffix,ion channel,0
+102,-clone,-,hypnotics/tranquilizers (zopiclone type),Suffix,ion channel,0
+103,-caine,-,local anesthetics,Suffix,ion channel,0
+105,-nicline,-,nicotinic acetylcholine receptor partial agonists/agonists,Suffix,ion channel,0
+106,-stinel,-,"(N-methyl-D-asparate) NMDA receptor antagonist, glycine recognition site",Suffix,ion channel,0
+107,-kalner,-,opener of large conductance calcium-activated (maxi-k) K+ channels,Suffix,ion channel,0
+108,-kalim,-,potassium channel agonists,Suffix,ion channel,0
+109,-kalant,-,potassium channel antagonists,Suffix,ion channel,0
+111,-dipine,-,phenylpyridine vasodilators (nifedipine type),Suffix,ion channel,0
+112,-anib,-,angiogenesis inhibitors,Suffix,kinase,0
+113,-imod,-mapimod,immunomodulators: mitogen-activated protein (MAP) kinase inhibitors,Suffix,kinase,0
+114,-rafenib,-,raf kinase inhibitors,Suffix,kinase,0
+115,-tinib,-brutinib,tyrosine kinase inhibitors: Bruton's (Btk) inhibitors,Suffix,kinase,0
+116,-renone,-,aldosterone antagonists (spironolactone type),Suffix,NR,0
+117,-andr-,-,androgens,Infix,NR,0
+118,-ster-,-,"steroids (androgens, anabolics)",Infix,NR,0
+120,-glitazar,-,PPAR agonists (not thiazolidene derivatives),Suffix,NR,0
+121,-glitazone,-,PPST agonists (thiazolidene derivatives),Suffix,NR,0
+124,-fibrate,-,antihyperlipidemics (clofibrate type),Suffix,NR,0
+125,-tirome,-,"antihyperlipidemic, thyromimetic derivatives",Suffix,NR,0
+127,-arotene,-,arotinoid derivatives,Suffix,NR,0
+128,-cort-,-,cortisone derivatives,Infix,NR,0
+129,estr-,-,estrogens,Prefix,NR,0
+130,-estrant,-,estrogen antagonists,Suffix,NR,0
+131,-berel,-,beta estrogen receptor agonist,Suffix,NR,0
+133,-fexorate,-,farnesoid X receptor agonists,Suffix,NR,0
+134,-pred-,-,prednisone and prednisolone derivatives,Infix,NR,0
+135,pred-,-,prednisone and prednisolone derivatives,Prefix,NR,0
+139,-gest-,-,progestins,Infix,NR,0
+140,-pristone,-,progesterone receptor antagonists,Suffix,NR,0
+141,-proget,-,nonsteroidal ligand for the progesterone receptor,Suffix,NR,0
+142,-retin-,-,retinol derivatives,Infix,NR,0
+143,-prisnil,-,selective progesterone receptor modulators (SPRM),Suffix,NR,0
+144,-olone,-,steroids (not prednisolone derivatives),Suffix,NR,0
+145,-onide,-,topical steroids (acetal derivatives),Suffix,NR,0
+146,calci-,-,vitamin D analogues,Prefix,NR,0
+147,-ast,-milast,antiasthmatics/antiallergics: type IV phosphodiesterase inhibitors,Suffix,PDE,0
+148,-rinone,-,cardiotonics (amrinone type),Suffix,PDE,0
+149,-fentrine,-,phosphodiesterase inhibitor,Suffix,PDE,0
+150,-afil,-,PDE5 inhibitors,Suffix,PDE,0
+152,-gliptin,-,dipeptidyl aminopeptidase-IV inhibitors,Suffix,protease,0
+153,-pril,-,antihypertensives (ACE inhibitors),Suffix,protease,0
+156,-tril,-,endopeptidase inhibitors,Suffix,protease,0
+157,-kiren,-,renin inhibitors,Suffix,protease,0
+158,-stat,-mastat,enzyme inhibitors: matrix metalloprotease inhibitors,Suffix,protease,0
+159,-xaban,-,antithrombotic: blood coagulation factor XA inhibitors,Suffix,protease,0
+160,-vir,-navir,antivirals: HIV protease inhibitors (saquinavir type),Suffix,protease,0
+161,-catib,-,cathespin inhibitors,Suffix,protease,0
+162,-stat,-elestat,enzyme inhibitors: elastase inhibitors,Suffix,protease,0
+164,-stat,-mostat,enzyme inhibitors: proteolytic enzyme inhibitors,Suffix,protease,0
+165,-vir,-previr,antivirals: serine protease inhibitors,Suffix,protease,0
+166,-gatran,-,thrombin inhibitors (argatroban type),Suffix,protease,0
+167,-setrag,-,"serotonin 5-HT receptor agonists, not principally 5-HT2",Suffix,GPCR,0
+168,-pirdine,-,5-HT6 inhibitors,Suffix,GPCR,0
+169,-leuton,-,5-lipoxgenase inhibitors,Suffix,,0
+170,-flapon,-,5-lipoxygenase-activating protein (FLAP) inhibitors,Suffix,,0
+171,nifur-,-,5-nitrofuran derivatives,Prefix,,0
+172,-ditraz,-,acaricide/tick repellent,Suffix,,0
+173,-crine,-,acridine derivatives,Suffix,,0
+175,-stat-,-restat-,enzyme inhibitors: aldose-reductase inhibitors,Infix,,0
+176,-erg-,-,ergot alkaloid derivatives,Infix,,0
+177,-serpine,-,Rauwolfia alkaloid derivatives,Suffix,,0
+178,vin-,-,vinca alkaloids,Prefix,,0
+183,-fenine,-,analgesics (fenamic acid subgroup),Suffix,,0
+184,-eridine,-,analgesics (meperidine type),Suffix,,0
+186,-orex,-,anorexiants,Suffix,,0
+187,-prazan,-,"acid pump inhibitors, not dependent on acid activation",Suffix,,0
+188,-prazole,-maprazole,antiulcer agents (benzimidazole derivatives): acid pump inhibitors,Suffix,,0
+189,-aldrate,-,antiacid aluminum salts,Suffix,,0
+190,-prazole,-,antiulcer agents (benzimidazole derivatives),Suffix,,0
+191,-bendazole,-,anthelmintics (tibendazole type),Suffix,,0
+192,-antel,-,anthelmintics (undefined group),Suffix,,0
+193,-ac,-,anti-inflammatory agents (acetic acid derivatives),Suffix,,0
+194,-nixin,-,anti-inflammatory agents (anilinonicotinic acid derivatives),Suffix,,0
+195,-fenamic acid,-,anti-inflammatory agents (anthranilic acid derivatives) and their salts or esters,Suffix,,0
+196,-coxib,-,cyclooxygenase-2 inhibitors,Suffix,,0
+197,-fenamate,-,anti-inflammatory agents (anthranilic acid derivatives) and their salts or esters,Suffix,,0
+198,-bufen,-,"non-steroidal anti-inflammatory agents, fenbufen derivatives",Suffix,,0
+199,-metacin,-,anti-inflammatory agents (indomethacin type),Suffix,,0
+200,-icam,-,anti-inflammatory agents (isoxicam type),Suffix,,0
+202,-sal-,-,anti-inflammatory agents (salicylic acid derivatives),Infix,,0
+203,sal-,-,anti-inflammatory agents (salicylic acid derivatives),Prefix,,0
+204,-nidap,-,nonsteroidal anti-inflammatory agents (tenidap type),Suffix,,0
+205,-profen,-,anti-inflammatory/analgesic agents (ibuprofen type),Suffix,,0
+206,-butazone,-,anti-inflammatory analgesics (phenylbutazone type),Suffix,,0
+208,-cromil,-,antiallergics (cromoglicic acid derivatives),Suffix,,0
+209,-xanox,-,antiallergic respiratory tract drugs (xanoxic acid derivatives),Suffix,,0
+210,-lutamide,-,non-steroid antiandrogens,Suffix,,0
+211,-sidomine,-,antianginals (sydnone derivatives),Suffix,,0
+212,-ast,-zolast,antiasthmatics/antiallergics: leukotriene biosynthesis inhibitors,Suffix,,0
+213,-ast,-,antiasthmatics/antiallergics (not acting primarily as antihistamines),Suffix,,0
+214,-planin,-,antibacterials (Actinoplanes strains),Suffix,,0
+215,-penem,-,"antibacterial antibiotics, carbapenem derivatives",Suffix,,0
+216,cef-,-,cephalosporins,Prefix,,0
+218,-cillin,-,penicillins,Suffix,,0
+219,-mulin,-,"antibacterials, pleuromulin derivatives",Suffix,,0
+220,-pristin,-,"antibacterials, pristinamycin derivatives",Suffix,,0
+221,-adox,-,antibacterials (quinoline dioxide derivatives),Suffix,,0
+222,-oxacin,-,antibacterials (quinolone derivatives),Suffix,,0
+223,-prim,-,antibacterials (trimethoprim type),Suffix,,0
+224,-gillin,-,antibiotics (Aspergillus strains),Suffix,,0
+225,-carbef,-,antibiotics (carbacephem derivatives),Suffix,,0
+226,-micin,-,antibiotics (Micromonospora strains),Suffix,,0
+227,-monam,-,monobactam antibiotics,Suffix,,0
+228,-cidin,-,natural antibiotics (undefined group),Suffix,,0
+229,-oxef,-,antibiotics (oxacefalosporanic acid derivatives),Suffix,,0
+230,-tricin,-,antibiotics (polyene derivatives),Suffix,,0
+231,-kacin,-,antibiotics obtained from Streptomyces kanamyceticus (related to kanamycin),Suffix,,0
+232,-mycin,-,antibiotics (Streptomyces strains),Suffix,,0
+233,-cycline,-,antibiotics (tetracycline derivatives),Suffix,,0
+234,rifa-,-,antibiotics (rifamycin derivatives),Prefix,,0
+235,-arol,-,anticoagulants (dicumarol type),Suffix,,0
+236,-irudin,-,anticoagulants (hirudin type),Suffix,,0
+237,-bersat,-,"anticonvulsants,antimigraine (benzoylamino-benzpyran derivatives)",Suffix,,0
+238,-triptyline,-,"antidepressants (dibenzo[a,d]cycloheptane derivatives)",Suffix,,0
+239,-oxetine,-,antidepressants (fluoxetine type),Suffix,,0
+240,-pramine,-,antidepressants (imipramine type),Suffix,,0
+241,-formin,-,hypoglycemics (phenformin type),Suffix,,0
+242,-glinide,-,"antidiabetic, SGLT2 inhibitors, not phlorozin derivatives",Suffix,,0
+243,-toin,-,antiepileptics (hydantoin derivatives),Suffix,,0
+244,-conazole,-,systemic antifungals (miconazole type),Suffix,,0
+245,-fungin,-,antifungal antibiotics (undefined group),Suffix,,0
+246,gli-,-,antihyperglycemics,Prefix,,0
+250,-dralazine,-,antihypertensives (hydrazine-phthalazines),Suffix,,0
+251,guan-,-,antihypertensives (guanidine derivatives),Prefix,,0
+252,arte-,-,antimalarials (artemisin dervatives),Prefix,,0
+253,-trexate,-,antimetabolites (folic acid derivatives),Suffix,,0
+254,-ganan,-,"antimicrobial, bactericidal permeability increasing polypeptide",Suffix,,0
+255,sulfa-,-,antimicrobials (sulfonamides derivatives),Prefix,,0
+256,-dapsone,-,antimycobacterials (diaminodiphenylsulfone derivatives),Suffix,,0
+257,-pirox,-,antimycotics (pyridone derivatives),Suffix,,0
+258,-amidis,-,antimyloidotics,Suffix,,0
+259,-fulven,-,"antineoplastic, acylfulven derivatives",Suffix,,0
+260,-sulfan,-,"antineoplastics, alkylating agents (methanesulfonate derivatives)",Suffix,,0
+261,-antrone,-,"antineoplastics, anthraquinone derivatives",Suffix,,0
+262,-sulam,-,"antineoplastics, apoptosis inducing sulfonamide",Suffix,,0
+263,-arabine,-,antineoplastics (arabinofuranosyl derivatives),Suffix,,0
+264,-mestane,-,antineoplastics (aromatase inhibitors),Suffix,,0
+265,-toclax,-,BCL-2 (B-cell lymphoma 2) inhibitors,Suffix,,0
+266,-tecan,-,antineoplastics (camptothecine derivatives),Suffix,,0
+267,-mustine,-,antineoplastics (chloroethylamine derivatives),Suffix,,0
+269,-bulin,-,"antineoplastics (mitotic inhibitors,tubulin binders",Suffix,,0
+271,-platin,-,antineoplastics (platinum derivatives),Suffix,,0
+272,-tecarin,-,antineoplastics (rebeccamycin derivatives),Suffix,,0
+274,-taxel,-,"antineoplastics, taxane derivatives",Suffix,,0
+275,-tepa,-,antineoplastics (thiotepa derivatives),Suffix,,0
+276,-trexed,-,antineoplastic thymidylate synthetase inhibitors,Suffix,,0
+277,-rubicin,-,antineoplastic antibiotics (daunorubicin type),Suffix,,0
+278,-vudine,-,"antineoplastics,antivirals (zidovudine group) (exception: edoxudine)",Suffix,,0
+279,-ectin,-,antiparasitics (ivermectin type),Suffix,,0
+280,-oxanide,-,antiparasitics (salicylanilide derivatives),Suffix,,0
+281,-nidazole,-,antiprotozoal substances (metronidazole type),Suffix,,0
+282,-arit,-,antirheumatics (lobenzarit type),Suffix,,0
+283,-rsen,-,antisense oligonucleotides,Suffix,,0
+284,-butan,-,antiseptics (dapabutan type),Suffix,,0
+286,-paroid,-,antithrombotics (heparinoid type),Suffix,,0
+287,-parinux,-,antithrombotyic indirect selective synthetic factor Xa inhibitors,Suffix,,0
+288,-vir-,-,antivirals,Infix,,0
+289,vir-,-,antivirals,Prefix,,0
+290,-vir,-ciclovir,antivirals: antivirals (acyclovir type),Suffix,,0
+291,-vir,-cyclovir,antivirals: antivirals (acyclovir type),Suffix,,0
+292,-uridine,-,"antivirals, antineoplastics (uridine derivatives)",Suffix,,0
+293,-rsen,-virsen,antisense oligonucleotides: antivirals,Suffix,,0
+294,-aril-,-,antiviral (arildone derivatives),Infix,,0
+295,aril-,-,antiviral (arildone derivatives),Prefix,,0
+296,-aril,-,antiviral (arildone derivatives),Suffix,,0
+298,-vir,-tegravir,antivirals: integrase inhibitors,Suffix,,0
+299,-camra,-,"antivirals (intracellular adhesion molecules, icam-1 derivatives)",Suffix,,0
+300,-vir,-amivir,antivirals: neuraminidase inhibitors,Suffix,,0
+301,-vir-,-virenz,antivirals: non-nucleoside reverse transcriptase inhibitors; benzoxazinone derivatives,Infix,,0
+303,-motine,-,antivirals (quinoline derivatives),Suffix,,0
+304,-vir,-buvir,antivirals: RNA polymerase (NS5B) inhibitor,Suffix,,0
+305,-citabine,-,"nucleoside antiviral or antineoplastic agents, cytarabine or azarabine derivatives",Suffix,,0
+306,-mantadine,-,antivirals/antiparkinsonians (adamantane derivatives),Suffix,,0
+307,-mantine,-,antivirals/antiparkinsonians (adamantane derivatives),Suffix,,0
+309,-perone,-,antianxiety agents/neuroleptics (4-fluoro-4-piperidinobutyrophenone derivatives),Suffix,,0
+310,-plon,-,"non-benzodiazepine anxiolytics, sedatives, hypnotics",Suffix,,0
+312,-rozole,-,aromatase inhibitors (imidazole/triazole derivatives),Suffix,,0
+313,-arsin,-,organoarsenic compounds,Suffix,,0
+315,-porfin,-,benzoporphyrin derivatives,Suffix,,0
+316,-bactam,-,beta-lactamase inhibitors,Suffix,,0
+322,perflu-,-,blood substitutes and/or diagnostics (perfluorochemicals),Prefix,,0
+323,-ermin,-otermin,growth factors: bone morphogenetic proteins,Suffix,,0
+325,-dronate,-,calcium metabolism regulators,Suffix,,0
+328,-caleret,-,calcium receptor antagonists,Suffix,,0
+329,-camsule,-,camphorsulfonic acid derivatives used as UVA sunscreens,Suffix,,0
+330,-vir,-cavir,antivirals: carbocyclic nucleosides,Suffix,,0
+331,-zolamide,-,carbonic anhydrase inhibitors,Suffix,,0
+332,-capone,-,catechol-O-methyltransferase (COMT) inhibitors,Suffix,,0
+333,-cetrapib,-,cholesterol ester transfer protein inhibitors,Suffix,,0
+334,-queside,-,cholesterol sequestrants (glycosides),Suffix,,0
+335,-meline,-,cholinergic agonists (arecoline derivatives used in treatment of Alzheimer disease),Suffix,,0
+336,-stigmine,-,cholinesterase inhibitors (physostigmine type),Suffix,,0
+337,-stim,-,colony-stimulating factors,Suffix,,0
+338,-cerfont,-,CRF-1 (corticotropin releasing factor) receptor antagonists,Suffix,GPCR,0
+340,-depsin,-,depsipeptide derivatives,Suffix,,0
+341,-fenin,-,diagnostic aids ((phenylcarbamoyl)methyl iminodiacetic acid derivatives),Suffix,,0
+344,-crinat,-,diuretics (ethacrynic acid derivatives),Suffix,,0
+345,-semide,-,diuretics (furosemide type),Suffix,,0
+346,-etanide,-,diuretics (piretanide type),Suffix,,0
+347,-pamide,-,diuretics (sulfamoylbenzoic acid derivatives),Suffix,,0
+348,-thiazide,-,diuretics (thiazide derivatives),Suffix,,0
+349,-dotin,-,synthetic analogs of the dolastatin series,Suffix,,0
+350,-stat,-castat,enzyme inhibitors: dopamine beta-hydrolase (DBH) inhibitors,Suffix,,0
+351,-ectedin,-,ecteinascodin derivatives,Suffix,,0
+352,-stat-,-,enzyme inhibitors,Infix,,0
+353,-stat,-,enzyme inhibitors,Suffix,,0
+354,-ermin,-dermin,growth factors: epidermal growth factors,Suffix,,0
+355,-opilone,-,epothilones,Suffix,,0
+356,-emcinal,-,"erythromycin derivatives lacking antibiotic activity, motilin agonists",Suffix,,0
+357,-poetin,-,erythropoietins,Suffix,,0
+358,-farnib,-,farnesyl transferase inhibitor,Suffix,,0
+359,-fiban,-,fibrinogen receptor antagonists (glycoprotein IIb/IIIa receptor antagonists),Suffix,,0
+360,-ermin,-fermin,growth factors: fibroblast growth factors,Suffix,,0
+361,gado-,-,gadolinium derivatives (principally for diagnostic use),Prefix,,0
+362,-flurane,-,general inhalation anesthetics (halogenated alkane derivatives),Suffix,,0
+363,-corat,-,glucocorticoid receptor agonists (not glucocorticoids),Suffix,NR,0
+364,-gliatin,-,glucokinase activator,Suffix,,0
+365,-vir,-gosivir,antivirals: glucosidase inhibitor,Suffix,,0
+366,-parcin,-,glycopeptide antibiotics,Suffix,,0
+367,-ermin,-,growth factors,Suffix,,0
+368,som-,-,growth hormone derivatives,Prefix,,0
+369,-relin,-morelin,prehormones or hormone-release stimulating peptides: growth hormone-release stimulating peptides,Suffix,,0
+370,-ciguat,-,guanaline cyclase activator,Suffix,,0
+372,-clomol,-,"heat-shock protein inducers, bimoclomal type",Suffix,,0
+373,-degib,-,hedgehog signaling inhibitors,Suffix,,0
+374,-parin,-,heparin derivatives and low molecular weight (or depolymerized) heparins,Suffix,,0
+375,-otilate,-,"hepatoprotectants, di-isopropyl-1,3-dithiol-malonate derivatives",Suffix,,0
+376,-cic,-,hepatoprotectives (timonacic type),Suffix,,0
+377,-stat,-inostat,enzyme inhibitors: inhibitors of histone deacetylase,Suffix,,0
+378,-relix,-,hormone-release inhibiting peptides,Suffix,,0
+379,-filcon,-,hydrophilic contact lens materials,Suffix,,0
+380,-focon,-,hydrophobic contact lens materials,Suffix,,0
+382,-imod,-,immunomodulators,Suffix,,0
+383,-imex,-,immunostimulants,Suffix,,0
+384,-imus,-,immunosuppressives,Suffix,,0
+386,-imus,-rolimus,"immunosuppressives: immunosuppressant, rapamycin derivatives",Suffix,,0
+387,-basib,-,inhibitors of the ADAM (A disintegrin and A metalloprotease) enzymes (sheddases),Suffix,,0
+388,-imepodib,-,inosine monophosphate dehydrogenase inhibitors,Suffix,,0
+389,-ermin,-sermin,growth factors: insulin-like growth factors,Suffix,,0
+391,-kinra,-nakinra,interleukin-1 (IL-1) receptor antagonists,Suffix,,0
+392,-kinra,-,interleukin receptor antagonists,Suffix,,0
+393,-kin,-,interleukins,Suffix,,0
+394,io-,-,iodine-containing contrast media,Prefix,,0
+397,-nesib,-,kinesin inhibitors,Suffix,,0
+398,-leptin,-,leptin derivatives,Suffix,,0
+400,-lipim,-,lipoprotein lipase activators,Suffix,,0
+401,-moxin,-,monoamine oxidase inhibitors (hydrazine derivatives),Suffix,,0
+402,-giline,-,"MAO inhibitors, type B",Suffix,,0
+403,-dar,-,multidrug resistance inhibitors,Suffix,,0
+404,-dar,-cridar,multidrug resistance inhibitors: acridine carboxamide derivatives,Suffix,,0
+405,-dar,-spodar,multidrug resistance inhibitors: ciclosporin D derivatives,Suffix,,0
+407,-dar,-quidar,multidrug resistance inhibitors: quinoline derivatives,Suffix,,0
+408,-tapide,-,microsomal triglyceride transfer protein (MTP) inhibitors,Suffix,,0
+412,-multin,-,mucosal tolerance inductors,Suffix,,0
+415,-imod,-tirimod,immunomodulators: napthyridine analogs,Suffix,,0
+418,-gapil,-,"neuronal apoptosis inhibitors,GAPDH",Suffix,,0
+422,-moren,-,non-peptidic growth hormone secretagogues,Suffix,,0
+423,-nepag,-,non-prostanoid prostaglandin receptor agonists,Suffix,,0
+424,-racetam,-,nootropes (piracetam type),Suffix,,0
+425,-prinim,-,"nootropic agents, purine derivatives",Suffix,,0
+427,-zolid,-,oxazolidinone antibacterials,Suffix,,0
+428,-apsel,-,P-selectin antagonists,Suffix,,0
+429,peg-,-,PEGylated compounds,Prefix,,0
+432,-tide,-,peptides,Suffix,,0
+433,-tide,-pultide,peptides: peptides used as pulmonary surfactants,Suffix,,0
+434,-tide,-murtide,peptides: peptides with muranic acid present,Suffix,,0
+435,-tide,-potide,peptides: peptides with prostate cancer indications,Suffix,,0
+436,-gliflozin,-,"phlorozin derivatives, phenolic glycosides",Suffix,,0
+437,-pladib,-,phospholipase A2 inhibitors,Suffix,,0
+439,-plasinin,-,inhibitors of plasminogen activator inhibitors - type 1,Suffix,,0
+440,-grel-,-,platelet aggregation inhibitors,Infix,,0
+441,-tide,-fibatide,peptides: platelet aggregation inhibitors (glycoprotein IIb/IIIa receptor antagonists),Suffix,,0
+442,-ermin,-plermin,growth factors: platelet derived growth factors,Suffix,,0
+443,-parib,-,poly-ADP-ribose polymerase inhibitors,Suffix,,0
+444,-mer,-,polymers,Suffix,,0
+445,-dan,-,positive inotropic agents (pimobendan type),Suffix,,0
+446,-relin,-,prehormones or hormone-release stimulating peptides,Suffix,,0
+447,-protafib,-,protein tyrosine phosphatase 1B inhibitors,Suffix,,0
+448,-zomib,-,proteozome inhibitors,Suffix,,0
+449,-ium,-,quaternary ammonium derivatives,Suffix,,0
+450,-onium,-,quaternary ammonium derivatives,Suffix,,0
+452,-ribine,-,ribofuranil derivatives (pyrazofurin type),Suffix,,0
+453,-traline,-,selective serotonin reuptake inhibitors (SSRI),Suffix,,0
+454,-mesine,-,sigma receptor ligands,Suffix,,0
+456,-verine,-,spasmolytic agents (papaverine type),Suffix,,0
+457,-fingol,-,sphingosine derivatives,Suffix,,0
+458,-ase,-dismase,enzymes: superoxide dismutase activity,Suffix,,0
+459,-drine,-,sympathomimetics,Suffix,,1
+461,-rocin,-,t-RNA synthetase inhibitors,Suffix,,0
+462,-steride,-,testosterone reductase inhibitors,Suffix,,0
+463,-pertin,-,glycine transporter/reuptake inhibitors,Suffix,,0
+464,-rian,-,ryanodine receptor modulators ,Suffix,,0
+465,-sarm,-,selective androgen receptor modulator (non-steroidal),Suffix,,0
+468,-domide,-,thalidomide derivatives,Suffix,,0
+470,-trombopag,-,thrombopoetin agonists,Suffix,,0
+471,-tesind,-,thymidilate synthetase inhibitors (benzindole derivatives),Suffix,,0
+472,-ase,-teplase,enzymes: tissue-type plasminogen activators,Suffix,,0
+473,-toran,-,TLR4 receptor antagonists,Suffix,,0
+475,-mab,-toxa-,monoclonal antibodies: toxin as a target,Suffix,,0
+476,-bamate,-,tranquilizers/antiepileptics (propanediol and pentanediol groups),Suffix,,0
+477,-ermin,-termin,growth factors: transforming growth factors,Suffix,,0
+478,-ermin,-nermin,growth factors: tumor necrosis factors,Suffix,,0
+480,-uracil,-,uracil derivatives used as thyroid antagonists and as antineoplastics,Suffix,,0
+481,-racil,-,uracil type antineoplastics,Suffix,,0
+482,-ase,-uplase,enzymes: urokinase-type plasminogen activators,Suffix,,0
+483,-ermin,-bermin,growth factors: vascular endothelial growth factors,Suffix,,0
+484,-dil-,-,vasodilators (undefined group),Infix,,0
+486,-ivon,-,Von Willebrand factor inhibitors ,Suffix,,0
+487,-farin,-,warfarin analogs,Suffix,,0
+488,-trop-,-,atropine derivatives,Infix,GPCR,0
+489,-prost,-,prostaglandins,Suffix,GPCR,0
+490,-barb,-,barbituric acid derivatives,Suffix,ion channel,0
+491,-ciclib,-,cyclin dependent kinase inhibitors,Suffix,kinase,0
+492,-bol-,-,anabolic steroids,Infix,NR,0
+493,-estr-,-,estrogens,Infix,NR,0
+494,-pred,-,prednisone and prednisolone derivatives,Suffix,NR,0
+495,-retin,-,retinol derivatives,Suffix,NR,0
+496,-calci-,-,vitamin D analogues,Infix,NR,0
+497,-casan,-,caspase inhibitors,Suffix,protease,0
+498,-pezil,-,acetylcholinesterase inhibitors used in the treatment of Alzheimer's disease,Suffix,,0
+499,-stat,-restat,enzyme inhibitors: aldose-reductase inhibitors,Suffix,,0
+500,-vin-,-,vinca alkaloids,Infix,,0
+501,-sal,-,anti-inflammatory agents (salicylic acid derivatives),Suffix,,0
+502,-vir,-,antivirals,Suffix,,0
+503,-grel,-,platelet aggregation inhibitors,Suffix,,0
+504,-dil,-,vasodilators (undefined group),Suffix,,0
+505,-lisib,-,phosphatidylinositol 3-kinase inhibitors,Suffix,,0
+521,-cept,-nacept,"receptor molecules, native or modified: interleukins",Suffix,,0
+522,-kin,-leukin,interleukins: interleukin-2 analogues and derivatives,Suffix,,0
+523,-kin,-benakin,interleukins: interleukin-1-beta analogues and derivatives,Suffix,,0
+524,-nab-,-nabant,cannabinol derivatives: CB cannabinoid receptor antagonists,Infix,GPCR,0
+525,-stim,-distim,colony-stimulating factors: conjugates of two different types of colony-stimulating factors,Suffix,,0
+526,-stim,-gramostim,colony-stimulating factors: granulocyte macrophage colony-stimulating factors (GM-CSF),Suffix,,0
+527,-tansine,-,maytansinoid derivatives,Suffix,,0
+528,-antel,-quantel,anthelmintics: 2-deoxoparaherquamide A derivatives,Suffix,,0
+529,-cept,-bacept,"receptor molecules, native or modified: B-cells",Suffix,,0
+531,-cept,-lefacept,"receptor molecules, native or modified: lymphocyte function-associated antigen 3 (LFA) receptor",Suffix,,0
+532,-kin,-eptakin,interleukins: interleukin-7 analogues and derivatives,Suffix,,0
+533,-kin,-nonakin,interleukins: interleukin-9 analogues and derivatives,Suffix,,0
+534,-stat,-listat,enzyme inhibitors: gastrointestinal lipase inhibitors,Suffix,,0
+535,-stat,-tiostat,enzyme inhibitors: glutathione -s- transferase inhibitors,Suffix,,0
+536,-imibe,-,"antihyperlipidaemics, acyl CoA: cholesterol acyltransferase (ACAT)inhibitors",Suffix,,0
+537,-arone,-iodarone,antirrhythmics: indicates high iodine content,Suffix,,0
+538,-cept,-cocept,"receptor molecules, native or modified: complement receptors",Suffix,,0
+539,-cept,-farcept,"receptor molecules, native or modified: interferon receptors",Suffix,,0
+540,-kin,-dodekin,interleukins: interleukin-12 analogues and derivatives,Suffix,,0
+543,-stat,-telstat,enzyme inhibitors: telomerase inhibitors,Suffix,,0
+544,-stim,-mostim,colony-stimulating factors: macrophage colony-stimulating factors (M-CSF),Suffix,,0
+545,-stim,-plestim,"colony-stimulating factors: interleukin 3 derivatives, pleiotropic colony-stimulating factors",Suffix,,0
+546,-kin,-enicokin,interleukins: interleukin-21,Suffix,,0
+547,-kin,-onakin,interleukins: interleukin-1-alpha analogues and derivatives,Suffix,,0
+548,-kin,-penkin,interleukins: interleukin-5 analogues and derivatives,Suffix,,0
+549,-paxar,-,PAR1 antagonists,Suffix,,0
+550,-stat,-glustat,enzyme inhibitors: glucosyltransferase inhibitors,Suffix,,0
+551,-tant,-,tachykinin (neurokinin) receptor antagonists,Suffix,,0
+552,-ase,-,enzymes,Suffix,,0
+553,-gepant,-,calcitonin gene-related peptide receptor antagonists,Suffix,GPCR,0
+554,-kin,-elvekin,interleukins: interleukin-11 analogues and derivatives,Suffix,,0
+555,-kin,-trakin,interleukins: interleukin-4 analogues and derivatives,Suffix,,0
+556,-oxin,-,"fluoroquinolone derivatives, nonantibacterial indications (e.g., antineoplastic antibiotics)",Suffix,,0
+558,-plasmin,-,plasmin proteins and derivatives,Suffix,,0
+559,-sertib,-,serine/threonine kinase inhibitors,Suffix,,0
+560,-stat,-gacestat,enzyme inhibitors: gamma secretase inhibitors,Suffix,,0
+561,-stat,-quistat,enzyme inhibitors: squalene synthase inhibitors,Suffix,,0
+562,-stat,-tristat,enzyme inhibitors: tryptophan hydroxylase inhibitors,Suffix,,0
+563,-stim,-grastim,colony-stimulating factors: granulocyte colony-stimulating factors (G-CSF),Suffix,,0
+564,-tide,-lintide,peptides: amylin derivatives or mimics,Suffix,,0
+566,-kin,-exakin,interleukins: interleukin-6 analogues and derivatives,Suffix,,0
+567,-stat,-lanstat,enzyme inhibitors: lanosterol 14alpha-demethylase inhibitors,Suffix,,0
+569,-tide,-netide,peptides: neurologic indications,Suffix,,0
+570,-tide,-ritide,peptides: atrial natriuretic type substances,Suffix,,0
+571,-tide,-zotide,peptides: zonulin antagonists,Suffix,,0
+572,-cept,-nercept,"receptor molecules, native or modified: tumor necrosis factor receptors",Suffix,,0
+574,-cept,-vircept,"receptor molecules, native or modified: antiviral receptors",Suffix,,0
+575,-fosfamide,-,isophosphoramide mustard derivatives,Suffix,,0
+576,-kin,-octakin,interleukins: interleukin-8 analogues and derivatives,Suffix,,0
+577,-luren,-,inducers of ribossomal readthrough of nonsense mutation mRNA stop codons,Suffix,,0
+578,-stat,-xostat,enzyme inhibitors: xanthine oxydase and xanthine,Suffix,,0
+579,-tril,-patril,endopeptidase inhibitors: ACE (angiotensin-1 converting enzyme) and NEP (neutral endopeptidase) inhibitors,Suffix,,0
+580,-trilat,-patrilat,endopeptidase inhibitors: ACE (angiotensin-1 converting enzyme) and NEP (neutral endopeptidase) inhibitors,Suffix,,0
+582,-kin,-decakin,interleukins: interleukin-10 analogues and derivatives,Suffix,,0
+583,-mab,-,monoclonal antibodies,Suffix,,0
+584,-tide,-gaptide,peptides: gap junction protein channel modulators,Suffix,,0
+585,-tide,-paratide,peptides: parathyroid hormone related peptide,Suffix,,0
+586,-cept,-,"receptor molecules, native or modified (a preceding infix should designate the target)",Suffix,,0
+587,-cept,-tercept,"receptor molecules, native or modified: transforming growth factor",Suffix,,0
+588,-vir,-asvir,antivirals: NS5A inhibitors,Suffix,,0
+590,-stat,-folastat,enzyme inhibitors: folate hydrolose (also called PSMA) inhibitors,Suffix,,0
+592,-perit,-,neuropeptide Y5 antagonists,Suffix,GPCR,0
+594,-cept,-tacept,"receptor molecules, native or modified: T-cells",Suffix,,0
+597,-mab,-axo-,monoclonal antibodies: rat-murine hybrid antibodies,Suffix,,0
+600,-bol,-,anabolic steroids,Suffix,NR,0
+601,-cirnon,-,CCR receptor antagonists,Suffix,GPCR,0
+602,-closporin,-,cyclosporine derivatives,Suffix,,0
+603,-fenacin,-,muscarinic receptor antagonists,Suffix,GPCR,0
+604,-fensine,-,"norepinephrine, serotonin, dopamine reuptake inhibitor",Suffix,,0
+605,-fetamin(e),-,amfetamine derivatives,Suffix,,0
+606,-fexor-,-,farnesoid X receptor agonists,Infix,NR,0
+607,fos-,-,phosphoro-derivatives,Prefix,,0
+609,-glurant,-,"metabotropic glutamate receptor antagonists, negative allosteric modulators",Suffix,GPCR,0
+611,-manid,-,mycolic acid inhibitors,Suffix,,0
+612,-napant,-,inhibitor of apoptosis protein (IAP) inhibitors,Suffix,,0
+613,-opran,-,opioid receptor antagonists,Suffix,GPCR,0
+614,-pansel,-,P-selectin antagonists inhibiting all selectin types,Suffix,,0
+615,-parantag,-,antagonists of heparin and/or low molecular weight heparins,Suffix,,0
+616,-peg-,-,PEGylated compounds,Infix,,0
+618,-piprant,-,"prostaglandin receptor antagonists, non prostinoid structure",Suffix,,0
+619,-quiline,-,"antibiotics, diarylquinoline structure",Suffix,,0
+622,stat-,-,enzyme inhibitors,Prefix,,0
+627,-imod,-tolimod,immunomodulators: toll-like receptor agonist,Suffix,,0
+628,-stat,-unistat,enzyme inhibitors: nitric oxide synthase inhibitors,Suffix,,0
+630,-vir,-sporivir,antivirals: cyclosporine derivatives,Suffix,,0
+632,-mab,-xizu-,monoclonal antibodies: combination of humanized and chimeric chains,Suffix,,0
+633,-mab,-les-,monoclonal antibodies: infix for inflammatory/infectious lesions,Suffix,,0
+635,-mab,-kin-,monoclonal antibodies: interleukins as targets,Suffix,,0
+636,-oxetine,-tioxetine,antidepressants (fluoxetine type): thioether derivatives,Suffix,,0
+637,som-,-bove,growth hormone derivatives: bovine somatotropin derivatives,Prefix,,0
+638,som-,-por,growth hormone derivatives: porcine somatotropin derivatives,Prefix,,0
+639,-tinib,-metinib,tyrosine kinase inhibitors: mitogen-activated protein (MAP) kinase inhibitors,Suffix,kinase,0
+640,-tinib,-,tyrosine kinase inhibitors,Suffix,kinase,0
+668,-ast,-tegrast,antiasthmatics/antiallergics: integrin antagonists,Suffix,,0
+669,-calcet,-,calcium receptor agonists,Suffix,,0
+670,-lazard,-,lipid peroxidation inhibitors,Suffix,,0
+672,-pril-,-prilat,antihypertensives (ACE inhibitors): diacid analogs,Infix,,0
+673,-stat-,-statin,enzyme inhibitors: antihyperlipidemics (HMG-CoA inhibitors),Infix,,0
+674,-stat,-urestat,urease inhibitors,Suffix,,0
+675,-sulind,-,"antineoplastics, pro-apoptotic cGMP phosphodiesterase inhibitors, sulindac metabolites');",Suffix,,0
+677,-betin,-,amyloid beta binders,Suffix,,0
+678,-cept,-bercept,"receptor molecules, native or modified: vascular endothelial growth factor (VEGF) receptors",Suffix,,0
+679,-dil,-fradil,vasodilators: calcium channel blockers acting as vasodilators,Suffix,,0
+680,-faxine,-,"antianxiety, antidepressant inhibitor of norepinephrine and dopamine re-uptake",Suffix,,0
+681,-fibric acid,-,antihyperlipidemics (clofibrate type),Suffix,,0
+682,-fos-,-,phosphoro-derivatives,Infix,,0
+684,gab-,-,gabamimetics,Prefix,,0
+685,-kalant,-nakalant,potassium channel antagonists: mixed sodium/potassium channel blockers,Suffix,,0
+686,-kinra,-trakinra,interleukin-4 (IL-4) receptor antagonists,Suffix,,0
+687,-laner,-,antiparasitics (isoxazoline compounds),Suffix,,0
+688,-napanor,-,sodium-hydrogen antiporter inhibitors,Suffix,,0
+689,-mer,-drimer,polymers: dendrimers,Suffix,,0
+690,-nal-,-,narcotic agonists/antagonists (normorphine type),Infix,,0
+691,-punil,-,"mitochondrial benzodiazepine receptor (MBR) selective, partial or inverse agonists (purine derivatives)",Suffix,,0
+692,-quinil,-,"benzodiazepine receptor agonists, also partial or inverse (quinoline derivatives)",Suffix,,0
+693,-orex,-orexant,anorexiants: orexin antagonists,Suffix,,0
+694,-orphan-,-,narcotic antagonists/agonists (morphinan derivatives),Infix,,0
+695,-tant,-nertant,tachykinin (neurokinin) receptor antagonists: neurotensin receptor antagonists,Suffix,,0
+696,-tinib,-citinib,tyrosine kinase inhibitors: janus kinase inhibitors,Suffix,,0
+721,-apt-,-,"aptamers, classical and mirror",Infix,,0
+722,-ase,-glutenase,enzymes: enzymes/proteases that have gluten as the substrate,Suffix,,0
+723,-borole,-,"boroles, boron compounds",Suffix,,0
+724,-bresib,-,bromodomain and extra terminal motif (BET) inhibitors,Suffix,,0
+725,-camtiv,-,cardiac myosin activator,Suffix,,0
+726,-copan,-,human complement C5a receptor antagonists,Suffix,,0
+727,-dacin,-,"antibiotics, DNA gyrase and topoisomerase IV inhibitors",Suffix,,0
+728,-dar,-codar,multidrug resistance inhibitors: pipecolic acid derivatives,Suffix,,0
+729,-delpar,-,PPAR delta receptor agonists,Suffix,,0
+731,deu-,-,deuterated compounds,Prefix,,0
+732,-dil,-sudil,vasodilators: Rho protein kinase (ROCK) inhibitors,Suffix,,0
+733,-dnar,-,DNA fragments that block transcription,Suffix,,0
+734,ef-,-,Fc fusion protein,Prefix,,0
+735,-fadine,-,monoamine transport inhibitors,Suffix,,0
+736,-forant,-,histamine H4 receptor antagonists,Suffix,,0
+737,-glivant,-,antagonist of the glucagon receptor,Suffix,,0
+739,-lazine,-,"antiarrhythmic/antianginal/antihypertensive agents, phthalazine like structure",Suffix,,0
+740,-mab,-amimab,monoclonal antibodies: serum amyloid protein (SAP),Suffix,,0
+741,-mab,-bamab,monoclonal antibodies: bacterial,Suffix,,0
+742,-mab,-cimab,monoclonal antibodies: cardiovascular,Suffix,,0
+743,-mab,-fungmab,monoclonal antibodies: antifungal,Suffix,,0
+744,-mab,-grosmab,monoclonal antibodies: skeletal muscle mass related growth factors and receptors,Suffix,,0
+745,-mab,-kimab,monoclonal antibodies: interleukins,Suffix,,0
+746,-mab,-limab,monoclonal antibodies: immunomodulating,Suffix,,0
+747,-mab,-nemab,monoclonal antibodies: neural,Suffix,,0
+748,-mab,-osmab,monoclonal antibodies: bone,Suffix,,0
+749,-mab,-tamab,monoclonal antibodies: tumors,Suffix,,0
+750,-mab,-toxamab,monoclonal antibodies: toxin target,Suffix,,0
+751,-mab,-vetmab,monoclonal antibodies: veterinary use,Suffix,,0
+752,-mab,-vimab,"monoclonal antibodies: viruses, antiviral indications",Suffix,,0
+753,-mab,-tuzumab,"monoclonal antibodies: humanized, tumors as target",Suffix,,0
+754,-mab,-tomab,"monoclonal antibodies: mouse, tumors as target",Suffix,,0
+755,-mab,-tumab,"monoclonal antibodies: fully human, tumors as target",Suffix,,0
+756,-mab,-tuximab,"monoclonal antibodies: chimeric, tumors as target",Suffix,,0
+757,-mab,-tuxizumab,"monoclonal antibodies: combination of humanized and chimeric chains, tumors as target",Suffix,,0
+758,-mab,-taxomab,"monoclonal antibodies: rat/mouse chimer, tumors as target",Suffix,,0
+759,-mab,-temab,"monoclonal antibodies: hamster, tumors as target",Suffix,,0
+761,-mab,-timab,"monoclonal antibodies: primate, tumors as target",Suffix,,0
+762,-mab,-bazumab,"monoclonal antibodies: humanized, bacterial target",Suffix,,0
+763,-mab,-bomab,"monoclonal antibodies: mouse, bacterial target",Suffix,,0
+764,-mab,-bumab,"monoclonal antibodies: fully human, bacterial target",Suffix,,0
+765,-mab,-baximab,"monoclonal antibodies: chimeric, bacterial target",Suffix,,0
+766,-mab,-baxizumab,"monoclonal antibodies: combination of humanized and chimeric chains, bacterial target",Suffix,,0
+767,-mab,-baxomab,"monoclonal antibodies: rat/mouse chimer, bacterial target",Suffix,,0
+768,-mab,-bemab,"monoclonal antibodies: hamster, bacterial target",Suffix,,0
+769,-mab,-bimab,"monoclonal antibodies: primate, bacterial target",Suffix,,0
+770,-mab,-cizumab,"monoclonal antibodies: humanized, cardiovascular indications",Suffix,,0
+771,-mab,-comab,"monoclonal antibodies: mouse, cardiovascular indications",Suffix,,0
+772,-mab,-cumab,"monoclonal antibodies: fully human, cardiovascular indications",Suffix,,0
+773,-mab,-ciximab,"monoclonal antibodies: chimeric, cardiovascular indications",Suffix,,0
+774,-mab,-cixizumab,"monoclonal antibodies: combination of humanized and chimeric chains, cardiovascular indications",Suffix,,0
+775,-mab,-caxomab,"monoclonal antibodies: rat/mouse chimer, cardiovascular indications",Suffix,,0
+776,-mab,-cemab,"monoclonal antibodies: hamster, cardiovascular indications",Suffix,,0
+777,-mab,-camab,"monoclonal antibodies: rat, cardiovascular indications",Suffix,,0
+778,-mab,-fuzumab,"monoclonal antibodies: humanized, antifungal indications",Suffix,,0
+779,-mab,-fomab,"monoclonal antibodies: mouse, antifungal indications",Suffix,,0
+780,-mab,-fumab,"monoclonal antibodies: fully human, antifungal indications",Suffix,,0
+781,-mab,-fuximab,"monoclonal antibodies: chimeric, antifungal indications",Suffix,,0
+782,-mab,-fuxizumab,"monoclonal antibodies: combination of humanized and chimeric chains, antifungal indications",Suffix,,0
+783,-mab,-faxomab,"monoclonal antibodies: rat/mouse chimer, antifungal indications",Suffix,,0
+784,-mab,-femab,"monoclonal antibodies: hamster, antifungal indications",Suffix,,0
+785,-mab,-famab,"monoclonal antibodies: rat, antifungal indications",Suffix,,0
+786,-mab,-fimab,"monoclonal antibodies: primate, antifungal indications",Suffix,,0
+787,-mab,-grozumab,"monoclonal antibodies: humanized, skeletal muscle mass related growth factors and receptors as target",Suffix,,0
+788,-mab,-gromab,"monoclonal antibodies: mouse, skeletal muscle mass related growth factors and receptors as target",Suffix,,0
+789,-mab,-grumab,"monoclonal antibodies: fully human, skeletal muscle mass related growth factors and receptors as target",Suffix,,0
+790,-mab,-groximab,"monoclonal antibodies: chimeric, skeletal muscle mass related growth factors and receptors as target",Suffix,,0
+791,-mab,-groxizumab,"monoclonal antibodies: combination of humanized and chimeric chains, skeletal muscle mass related growth factors and receptors as target",Suffix,,0
+792,-mab,-graxomab,"monoclonal antibodies: rat/mouse chimer, skeletal muscle mass related growth factors and receptors as target",Suffix,,0
+793,-mab,-gremab,"monoclonal antibodies: hamster, skeletal muscle mass related growth factors and receptors as target",Suffix,,0
+794,-mab,-gramab,"monoclonal antibodies: rat, skeletal muscle mass related growth factors and receptors as target",Suffix,,0
+795,-mab,-grimab,"monoclonal antibodies: primate, skeletal muscle mass related growth factors and receptors as target",Suffix,,0
+796,-mab,-kizumab,"monoclonal antibodies: humanized, interleukins as target",Suffix,,0
+797,-mab,-komab,"monoclonal antibodies: mouse, interleukins as target",Suffix,,0
+798,-mab,-kumab,"monoclonal antibodies: fully human, interleukins as target",Suffix,,0
+799,-mab,-kiximab,"monoclonal antibodies: chimeric, interleukins as target",Suffix,,0
+800,-mab,-kixizumab,"monoclonal antibodies: combination of humanized and chimeric chains, interleukins as target",Suffix,,0
+801,-mab,-kaxomab,"monoclonal antibodies: rat/mouse chimer, interleukins as target",Suffix,,0
+802,-mab,-kemab,"monoclonal antibodies: hamster, interleukins as target",Suffix,,0
+803,-mab,-kamab,"monoclonal antibodies: rat, interleukins as target",Suffix,,0
+804,-mab,-lizumab,"monoclonal antibodies: humanized, immunomodulating",Suffix,,0
+805,-mab,-lomab,"monoclonal antibodies: mouse, immunomodulating",Suffix,,0
+806,-mab,-lumab,"monoclonal antibodies: fully human, immunomodulating",Suffix,,0
+807,-mab,-liximab,"monoclonal antibodies: chimeric, immunomodulating",Suffix,,0
+808,-mab,-lixizumab,"monoclonal antibodies: combination of humanized and chimeric chains, immunomodulating",Suffix,,0
+809,-mab,-laxomab,"monoclonal antibodies: rat/mouse chimer, immunomodulating",Suffix,,0
+810,-mab,-lemab,"monoclonal antibodies: hamster, immunomodulating",Suffix,,0
+811,-mab,-lamab,"monoclonal antibodies: rat, immunomodulating",Suffix,,0
+812,-mab,-nezumab,"monoclonal antibodies: humanized, neural indications",Suffix,,0
+813,-mab,-nomab,"monoclonal antibodies: mouse, neural indications",Suffix,,0
+814,-mab,-numab,"monoclonal antibodies: fully human, neural indications",Suffix,,0
+815,-mab,-neximab,"monoclonal antibodies: chimeric, neural indications",Suffix,,0
+816,-mab,-nexizumab,"monoclonal antibodies: combination of humanized and chimeric chains, neural indications",Suffix,,0
+817,-mab,-naxomab,"monoclonal antibodies: rat/mouse chimer, neural indications",Suffix,,0
+818,-mab,-namab,"monoclonal antibodies: rat, neural indications",Suffix,,0
+819,-mab,-nimab,"monoclonal antibodies: primate, neural indications",Suffix,,0
+820,-mab,-sozumab,"monoclonal antibodies: humanized, bone target",Suffix,,0
+821,-mab,-somab,"monoclonal antibodies: mouse, bone target",Suffix,,0
+822,-mab,-sumab,"monoclonal antibodies: fully human, bone target",Suffix,,0
+823,-mab,-soximab,"monoclonal antibodies: chimeric, bone target",Suffix,,0
+824,-mab,-soxizumab,"monoclonal antibodies: combination of humanized and chimeric chains, bone target",Suffix,,0
+825,-mab,-saxomab,"monoclonal antibodies: rat/mouse chimer, bone target",Suffix,,0
+826,-mab,-semab,"monoclonal antibodies: hamster, bone target",Suffix,,0
+827,-mab,-samab,"monoclonal antibodies: rat, bone target",Suffix,,0
+828,-mab,-simab,"monoclonal antibodies: primate, bone target",Suffix,,0
+829,-mab,-vizumab,"monoclonal antibodies: humanized, antiviral indications",Suffix,,0
+830,-mab,-vomab,"monoclonal antibodies: mouse, antiviral indications",Suffix,,0
+831,-mab,-vumab,"monoclonal antibodies: fully human, antiviral indications",Suffix,,0
+832,-mab,-viximab,"monoclonal antibodies: chimeric, antiviral indications",Suffix,,0
+833,-mab,-vixizumab,"monoclonal antibodies: combination of humanized and chimeric chains, antiviral indications",Suffix,,0
+834,-mab,-vaxomab,"monoclonal antibodies: rat/mouse chimer, antiviral indications",Suffix,,0
+835,-mab,-vemab,"monoclonal antibodies: hamster, antiviral indications",Suffix,,0
+836,-mab,-vamab,"monoclonal antibodies: rat, antiviral indications",Suffix,,0
+837,-mab,-ner-,monoclonal antibodies: neurologic indications,Suffix,,0
+839,-nab,-,cannabinol derivatives,Suffix,,0
+840,-nemdaz,-,N-methyl D-aspartate (NMDA) receptor antagonists (N2B subunit),Suffix,,0
+841,-podect,-,phosphodiesterase 10 (PDE10) inhibitors,Suffix,,0
+843,-pris-,-,steriodal compounds acting on progesterone receptors (excluding -gest- compounds),Infix,,0
+844,-ragone,-,receptor for advanced glycation endproducts (RAGE) inhibitors,Suffix,,0
+845,-selan,-,E-selectin antagonists,Suffix,,0
+846,-semtiv,-,skeletal muscle troponin activator,Suffix,,0
+847,-siptor,-,Src homology 2-containing inositol-5'' phosphatase 1 (SHIP1) activators,Suffix,,0
+848,-siran-,-,small interfering RNA (siRNA),Infix,,0
+849,-stat,-becestat,enzyme inhibitors: beta secretase inhibitors,Suffix,,0
+850,-stat,-dostat,"enzyme inhibitors: indoleamine 2, 3-dioxygenase 1 (IDO1) inhibitors",Suffix,,0
+851,-stat,-dustat,enzyme inhibitors: hypoxia-inducible factor (HIF) prolyl hydroxylase inhibitors,Suffix,,0
+852,-stat,-parstat,heparin derivatives,Suffix,,0
+853,-teronel,-,non-steroid antiandrogens,Suffix,,0
+854,-tide,-clotide,peptides: gastrointestinal functions; normalising agent,Suffix,,0
+855,-tide,-melanotide,peptides: melanocortin receptor antagonists,Suffix,,0
+856,-tide,-reotide,peptides: inhibition of growth hormone release,Suffix,,0
+857,-tide,-virtide,peptides: antiviral peptides,Suffix,,0
+858,-tinib,-trectinib,tyrosine kinase inhibitors: tropomyosin receptor kinase (TRK) inhibitors,Suffix,,0
+859,-tinib,-xertinib,tyrosine kinase inhibitors: Tyrosine kinase inhibitors ERK1 and ERK2 inhibitors,Suffix,,0
+860,-treg-,-,cellular therapy T regulatory cells,Infix,,0
+861,-trigine,-,"sodium channel blockers, signal transduction modulators",Suffix,,0
+862,-tril,-lutril,endopeptidase inhibitors: neural endopeptidase inhibitors possessing additional endothelin converting enzyme inhibitory activity,Suffix,,0
+863,-vancin,-,vancomycin-related compounds,Suffix,,0
+864,-vir-,-virimat,"antivirals: antiviral, disrupts viral maturation",Infix,,0
+865,-vir-,-virine,"antivirals: non-nucleoside reverse transcriptase inhibitors, not benzoxazinone derivatives",Infix,,0
+866,-xetan,-,chelating agents,Suffix,,0
+881,-ac,-zolac,anti-inflammatory agents: pyrazole acetic acid derivatives,Suffix,,0
+882,-actant,-,pulmonary surfactants,Suffix,,0
+883,-adenant,-,adenosine receptor antagonists,Suffix,,0
+884,-alap,-,aldehyde traps,Suffix,,0
+885,-ampa-,-ampanel,ionotropic non-NMDA glutamate receptors (AMPA and/or KA receptors): antagonists,Infix,,0
+886,-ampa-,-ampator,ionotropic non-NMDA glutamate receptors (AMPA and/or KA receptors): modulators,Infix,,0
+887,-ampa-,-,ionotropic non-NMDA glutamate receptors (AMPA and/or KA receptors),Infix,,0
+888,-aniten,-,"androgen receptor inhibitor, N-terminal domain inhibitor",Suffix,,0
+889,-cebec,-,cytochrome bc1 complex inhibitors in mycobacterium tuberculosis,Suffix,,0
+890,-corilant,-,glucocorticoid receptor antagonists (not glucocorticoids),Suffix,,0
+891,-fusp,-,fusion proteins,Suffix,,0
+892,-glucagon,-,synthetic glucagon analogs,Suffix,,0
+893,-inurad,-,urate transporter inhibitors,Suffix,,0
+894,-ixibat,-,ileal bile acid transporter (IBAT) inhibitors,Suffix,,0
+895,-mab,-demab,monoclonal antibodies: endocrine targets,Suffix,,0
+897,-minib,-,"kinase inhibitor, binds to myristoyl binding site",Suffix,,0
+898,-nexor,-,exportin 1 inhibitors,Suffix,,0
+899,-nod,-,"nitrogen oxide (eg., nitrxyl and nitric oxide) donors",Suffix,,0
+900,-oligide,-,decoy oligodeoxynucleotides (ODNs),Suffix,,0
+901,-padon,-,"dopamine D1-like receptors (e.g., D1 and D5 subtypes) agonists/partial agonists and potentiators",Suffix,,0
+902,-pin,-,tricyclic compounds,Suffix,,0
+903,-pivat,-,pyruvate kinase activators,Suffix,,0
+904,-plam,-,survival motor neurin SMN1 and SMN2 splicing modulators,Suffix,,0
+905,-sap,-,serum amyloid P (SAP) inhibitors,Suffix,,0
+906,-sidenib,-,mutated isocitrate dehydrogenase (IDH) inhibitors,Suffix,,0
+907,-stat,-sonstat,enzyme inhibitors: s-nitrosoglutathione reductase (GSNOR) inhibitors,Suffix,,0
+908,-tide,-dutide,peptides: oxyntomodulin analogs,Suffix,,0
+909,-tinib,-ertinib,tyrosine kinase inhibitors: epidermal growth factor receptor (EGFR) inhibitors,Suffix,,0
+910,-trep,-,transient receptor potential antagonists,Suffix,,0
+911,-vir,-atovir,antivirals: respiratory syncytial virus (RSV) fusion inhibitors,Suffix,,0
+912,-vir,-desivir,antivirals: adenosine analogs acting as RNA polymerase inhibitors,Suffix,,0
+913,-vivint,-,WNT (wingless-type mouse mammary tumor virus) pathway inhibitors,Suffix,,0
+921,-ium,-clidinium,quaternary ammonium derivatives: muscarinic receptor antagonists,Suffix,,0
+922,-ium,-curium,quaternary ammonium derivatives: neuromuscular blocking agents,Suffix,,0
+923,-onium,-curonium,quaternary ammonium derivatives: neuromuscular blocking agents,Suffix,,0
+941,-trep,-metrep,transient receptor potential antagonists: melastatin (TRPM) type,Suffix,,0
+942,-trep,-vatrep,transient receptor potential antagonists: vanilloid 1 (TRPV1) type,Suffix,,0

@@ -1,0 +1,88 @@
+FREQUENCY;DATE;REGION_ID;REGION_NAME;REGION_REGIONID;SEX_ID;SEX_NAME;VALUE
+Annual;2011;BW;Botswana;BW;KN.S1;Both Sexes;2024904.0
+Annual;2011;BW;Botswana;BW;KN.S3;Female;1035947.0
+Annual;2011;BW-SE-GA;Gaborone;BW-SE-GA;KN.S2;Male;113536.0
+Annual;2011;BW-NE-FR;Francistown;BW-NE-FR;KN.S1;Both Sexes;98961.0
+Annual;2011;BW-SE-LO;Lobatse;BW-SE-LO;KN.S1;Both Sexes;29007.0
+Annual;2011;BW-CE-SI;Selebi_Pikwe;BW-CE-SI;KN.S2;Male;24732.0
+Annual;2011;BW-CE-OR;Orapa;BW-CE-OR;KN.S1;Both Sexes;9531.0
+Annual;2011;BW-CE-OR;Orapa;BW-CE-OR;KN.S2;Male;4731.0
+Annual;2011;BW-SO-JW;Jwaneng;BW-SO-JW;KN.S2;Male;9819.0
+Annual;2011;BW-CE-ST;Sowa Town;BW-CE-ST;KN.S2;Male;1960.0
+Annual;2011;BW-SO-KW;Ngwaketse West;BW-SO-KW;KN.S1;Both Sexes;13689.0
+Annual;2011;BW-SO-KW;Ngwaketse West;BW-SO-KW;KN.S2;Male;6875.0
+Annual;2011;BW-SE;South East;BW-SE;KN.S1;Both Sexes;85014.0
+Annual;2011;BW-SE;South East;BW-SE;KN.S3;Female;44317.0
+Annual;2011;BW-KL;Kgatleng;BW-KL;KN.S1;Both Sexes;91660.0
+Annual;2011;BW-KL;Kgatleng;BW-KL;KN.S3;Female;47095.0
+Annual;2011;BW-CE-SP;Central Serowe Palapye;BW-CE-SP;KN.S2;Male;88879.0
+Annual;2011;BW-CE-ME;Central Mahalapye;BW-CE-ME;KN.S1;Both Sexes;118875.0
+Annual;2011;BW-CE-ME;Central Mahalapye;BW-CE-ME;KN.S2;Male;57547.0
+Annual;2011;BW-CE-TU;Central Tutume;BW-CE-TU;KN.S3;Female;77054.0
+Annual;2011;BW-GH;Ghanzi;BW-GH;KN.S1;Both Sexes;43095.0
+Annual;2011;BW-KG-CK;Central Kgalagadi Game Reserve (CKGR);BW-KG-CK;KN.S2;Male;193.0
+Annual;2011;BW-NE-FR;Francistown;BW-NE-FR;KN.S2;Male;48104.0
+Annual;2011;BW-SO;Ngwaketse;BW-SO;KN.S3;Female;66991.0
+Annual;2011;BW-SO-BA;Barolong;BW-SO-BA;KN.S1;Both Sexes;54831.0
+Annual;2011;BW-SO-KW;Ngwaketse West;BW-SO-KW;KN.S3;Female;6814.0
+Annual;2011;BW-SE;South East;BW-SE;KN.S2;Male;40697.0
+Annual;2011;BW-KW-KW;Kweneng West;BW-KW-KW;KN.S2;Male;24392.0
+Annual;2011;BW-CE-SP;Central Serowe Palapye;BW-CE-SP;KN.S1;Both Sexes;180500.0
+Annual;2011;BW-CE-BB-BA;Central Bobonong;BW-CE-BB-BA;KN.S1;Both Sexes;71936.0
+Annual;2011;BW-CE-BB-BA;Central Bobonong;BW-CE-BB-BA;KN.S2;Male;34247.0
+Annual;2011;BW-NE;North East;BW-NE;KN.S3;Female;31668.0
+Annual;2011;BW-NW-NE;Ngamiland East;BW-NW-NE;KN.S3;Female;45933.0
+Annual;2011;BW-KG-CK;Central Kgalagadi Game Reserve (CKGR);BW-KG-CK;KN.S1;Both Sexes;260.0
+Annual;2011;BW-SE-LO;Lobatse;BW-SE-LO;KN.S2;Male;14144.0
+Annual;2011;BW-SO-JW;Jwaneng;BW-SO-JW;KN.S1;Both Sexes;18008.0
+Annual;2011;BW-SO-JW;Jwaneng;BW-SO-JW;KN.S3;Female;8189.0
+Annual;2011;BW-CE-ST;Sowa Town;BW-CE-ST;KN.S1;Both Sexes;3598.0
+Annual;2011;BW-KW-KW;Kweneng West;BW-KW-KW;KN.S3;Female;23405.0
+Annual;2011;BW-CE-ME;Central Mahalapye;BW-CE-ME;KN.S3;Female;61328.0
+Annual;2011;BW-CE-BO;Central Boteti;BW-CE-BO;KN.S1;Both Sexes;57376.0
+Annual;2011;BW-NE;North East;BW-NE;KN.S1;Both Sexes;60264.0
+Annual;2011;BW-NW-NW;Ngamiland West;BW-NW-NW;KN.S2;Male;27913.0
+Annual;2011;BW-CH;Chobe;BW-CH;KN.S2;Male;12023.0
+Annual;2011;BW-NW-OK;Okavango Delta;BW-NW-OK;KN.S3;Female;1251.0
+Annual;2011;BW-GH;Ghanzi;BW-GH;KN.S2;Male;22259.0
+Annual;2011;BW-KG-KS;Kgalagadi South;BW-KG-KS;KN.S1;Both Sexes;30016.0
+Annual;2011;BW-KG-KN;Kgalagadi North;BW-KG-KN;KN.S2;Male;10350.0
+Annual;2011;BW-NE-FR;Francistown;BW-NE-FR;KN.S3;Female;50857.0
+Annual;2011;BW-SE-LO;Lobatse;BW-SE-LO;KN.S3;Female;14863.0
+Annual;2011;BW-CE-SI;Selebi_Pikwe;BW-CE-SI;KN.S1;Both Sexes;49411.0
+Annual;2011;BW-CE-ST;Sowa Town;BW-CE-ST;KN.S3;Female;1638.0
+Annual;2011;BW-SO;Ngwaketse;BW-SO;KN.S1;Both Sexes;129247.0
+Annual;2011;BW-SO-BA;Barolong;BW-SO-BA;KN.S2;Male;26680.0
+Annual;2011;BW-KW-KE;Kweneng East;BW-KW-KE;KN.S1;Both Sexes;256752.0
+Annual;2011;BW-KW-KE;Kweneng East;BW-KW-KE;KN.S3;Female;131557.0
+Annual;2011;BW-KW-KW;Kweneng West;BW-KW-KW;KN.S1;Both Sexes;47797.0
+Annual;2011;BW-KL;Kgatleng;BW-KL;KN.S2;Male;44565.0
+Annual;2011;BW-CE-SP;Central Serowe Palapye;BW-CE-SP;KN.S3;Female;91621.0
+Annual;2011;BW-CE-BB-BA;Central Bobonong;BW-CE-BB-BA;KN.S3;Female;37689.0
+Annual;2011;BW-CE-BO;Central Boteti;BW-CE-BO;KN.S2;Male;28143.0
+Annual;2011;BW-CE-BO;Central Boteti;BW-CE-BO;KN.S3;Female;29233.0
+Annual;2011;BW-CE-TU;Central Tutume;BW-CE-TU;KN.S1;Both Sexes;147377.0
+Annual;2011;BW-CE-TU;Central Tutume;BW-CE-TU;KN.S2;Male;70323.0
+Annual;2011;BW-NW-NW;Ngamiland West;BW-NW-NW;KN.S3;Female;31508.0
+Annual;2011;BW-CH;Chobe;BW-CH;KN.S1;Both Sexes;23347.0
+Annual;2011;BW-CH;Chobe;BW-CH;KN.S3;Female;11324.0
+Annual;2011;BW-NW-OK;Okavango Delta;BW-NW-OK;KN.S2;Male;1278.0
+Annual;2011;BW-GH;Ghanzi;BW-GH;KN.S3;Female;20836.0
+Annual;2011;BW-KG-CK;Central Kgalagadi Game Reserve (CKGR);BW-KG-CK;KN.S3;Female;67.0
+Annual;2011;BW-KG-KS;Kgalagadi South;BW-KG-KS;KN.S3;Female;14897.0
+Annual;2011;BW-KG-KN;Kgalagadi North;BW-KG-KN;KN.S1;Both Sexes;20476.0
+Annual;2011;BW-KG-KN;Kgalagadi North;BW-KG-KN;KN.S3;Female;10126.0
+Annual;2011;BW;Botswana;BW;KN.S2;Male;988957.0
+Annual;2011;BW-SE-GA;Gaborone;BW-SE-GA;KN.S1;Both Sexes;231592.0
+Annual;2011;BW-SE-GA;Gaborone;BW-SE-GA;KN.S3;Female;118056.0
+Annual;2011;BW-CE-SI;Selebi_Pikwe;BW-CE-SI;KN.S3;Female;24679.0
+Annual;2011;BW-CE-OR;Orapa;BW-CE-OR;KN.S3;Female;4800.0
+Annual;2011;BW-SO;Ngwaketse;BW-SO;KN.S2;Male;62256.0
+Annual;2011;BW-SO-BA;Barolong;BW-SO-BA;KN.S3;Female;28151.0
+Annual;2011;BW-KW-KE;Kweneng East;BW-KW-KE;KN.S2;Male;125195.0
+Annual;2011;BW-NE;North East;BW-NE;KN.S2;Male;28596.0
+Annual;2011;BW-NW-NE;Ngamiland East;BW-NW-NE;KN.S1;Both Sexes;90334.0
+Annual;2011;BW-NW-NE;Ngamiland East;BW-NW-NE;KN.S2;Male;44401.0
+Annual;2011;BW-NW-NW;Ngamiland West;BW-NW-NW;KN.S1;Both Sexes;59421.0
+Annual;2011;BW-NW-OK;Okavango Delta;BW-NW-OK;KN.S1;Both Sexes;2529.0
+Annual;2011;BW-KG-KS;Kgalagadi South;BW-KG-KS;KN.S2;Male;15119.0

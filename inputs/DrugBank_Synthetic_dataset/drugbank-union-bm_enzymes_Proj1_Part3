@@ -1,0 +1,229 @@
+id,name
+BE0009693,Carboxylic ester hydrolase
+BE0000637,UMP-CMP kinase
+BE0004454,Phosphoglycerate kinase 1
+BE0003106,Nucleoside diphosphate kinase A
+BE0003281,Nucleoside diphosphate kinase B
+BE0000615,Choline-phosphate cytidylyltransferase A
+BE0004773,Ethanolamine-phosphate cytidylyltransferase
+BE0004774,"5'(3')-deoxyribonucleotidase, cytosolic type"
+BE0009673,Sulfotransferase 1A2
+BE0002561,Sulfotransferase family cytosolic 1B member 1
+BE0004887,3-oxo-5-alpha-steroid 4-dehydrogenase
+BE0003610,3-oxo-5-beta-steroid 4-dehydrogenase
+BE0000585,3-oxo-5-alpha-steroid 4-dehydrogenase 2
+BE0002615,Mannitol dehydrogenase
+BE0000503,NADH-ubiquinone oxidoreductase chain 1
+BE0001274,Beta-lactamase OXA-10
+BE0004712,Cocaine esterase
+BE0009711,Bacterial beta-lactamase enzymes
+BE0000592,Aldo-keto reductase family 1 member C3
+BE0004771,Carbonyl reductase [NADPH] 3
+BE0000458,Thymidine kinase
+BE0009686,Pyruvate Kinases
+BE0009688,Phosphoglycerate Kinases
+BE0009689,Succinyl-CoA Synthetases
+BE0009690,Phosphoenolpyruvate Carboxykinases
+BE0009692,Adenylosuccinate Synthetases
+BE0000261,Cytosolic purine 5'-nucleotidase
+BE0004764,Cytochrome P450 2B1
+BE0004761,Cytochrome P450 3A2
+BE0000930,Serum paraoxonase/arylesterase 1
+BE0000465,Alcohol dehydrogenase 1C
+BE0009795,20-ketosteroid reductase (20-hydroxysteroid dehydrogenase)
+BE0009796,11beta-hydroxysteroid dehydrogenase
+BE0008629,UDP-glucuronosyltransferase 1A1
+BE0001096,5'-nucleotidase
+BE0004700,Deoxycytidylate deaminase
+BE0009809,Nucleotide triphosphate diphosphatase NUDT15
+BE0000761,Inosine-5'-monophosphate dehydrogenase 1
+BE0000722,Inosine-5'-monophosphate dehydrogenase 2
+BE0004443,Inosine triphosphate pyrophosphatase
+BE0000067,"Nitric oxide synthase, brain"
+BE0000005,"Nitric oxide synthase, inducible"
+BE0000263,"Nitric oxide synthase, endothelial"
+BE0000729,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial"
+BE0000191,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial"
+BE0000307,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial"
+BE0002290,Microsomal glutathione S-transferase 2
+BE0000638,NADPH azoreductase
+BE0004729,Cytochrome P450 4F12
+BE0004727,Leukotriene-B(4) omega-hydroxylase 1
+BE0000747,Aldose reductase
+BE0009569,Alpha-methylacyl-CoA racemase
+BE0003894,Beta-lactamase TEM
+BE0001426,Beta-lactamase 2
+BE0003553,Acetylserotonin O-methyltransferase
+BE0002436,Histamine N-methyltransferase
+BE0001064,Heparanase
+BE0000875,Lanosterol 14-alpha demethylase
+BE0003195,Arylsulfatase A
+BE0003547,Kanamycin nucleotidyltransferase
+BE0003548,Aminoglycoside 3'-phosphotransferase
+BE0000854,Dipeptidyl peptidase 4
+BE0003589,"Deoxyguanosine kinase, mitochondrial"
+BE0001482,Beta-lactamase
+BE0001222,Primary amine oxidase
+BE0000267,Carbonic anhydrase 1
+BE0001148,Dipeptidase 1
+BE0002015,Beta-lactamase SHV-1
+BE0002831,Beta-lactamase CTX-M
+BE0009747,Beta-lactamase (KPC-2)
+BE0009369,Cytochrome P450 1A1
+BE0000194,Estradiol 17-beta-dehydrogenase 1
+BE0001264,Sulfotransferase family cytosolic 2B member 1
+BE0000051,3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1
+BE0001230,Cholesterol oxidase
+BE0001108,Hexokinase-1
+BE0001056,Glucokinase
+BE0002303,Bile acid-CoA:amino acid N-acyltransferase
+BE0001286,Benzoylformate decarboxylase
+BE0001354,Pyruvate oxidase
+BE0000181,Pyridoxine-5'-phosphate oxidase
+BE0004713,Pyridoxine 5'-phosphate phosphatase
+BE0001332,NH(3)-dependent NAD(+) synthetase
+BE0008629,UDP-glucuronosyltransferase 1-4
+BE0001066,Solute carrier family 22 member 6
+BE0003645,Solute carrier family 22 member 8
+BE0003659,Solute carrier organic anion transporter family member 1B3
+BE0009325,Deazaflavin-dependent nitroreductase
+BE0000507,Thyroid peroxidase
+BE0009802,Aldo-keto reductase family
+BE0004353,Aldo-keto reductase family 1 member B10
+BE0003578,Guanylate cyclase soluble subunit alpha-2
+BE0000539,3-oxo-5-alpha-steroid 4-dehydrogenase 1
+BE0009560,"Ferredoxin--NADP reductase, apicoplast"
+BE0000266,Neprilysin
+BE0000220,Ribosyldihydronicotinamide dehydrogenase [quinone]
+BE0004387,Carboxylesterase
+BE0001197,Steryl-sulfatase
+BE0009340,"Beta,beta-carotene 15,15'-dioxygenase"
+BE0005210,Cytoplasmic aconitate hydratase
+BE0000391,Alpha-N-acetylglucosaminidase
+BE0001078,Aminopeptidase N
+BE0004461,Phosphoglucomutase-1
+BE0000753,Phenylalanine-4-hydroxylase
+BE0008684,Protein-lysine 6-oxidase
+BE0000335,Cytochrome c oxidase subunit 1
+BE0004453,"Superoxide dismutase [Mn], mitochondrial"
+BE0004687,A disintegrin and metalloproteinase with thrombospondin motifs 4
+BE0004762,Cytochrome P450 2A1
+BE0004763,Cytochrome P450 2A2
+BE0004765,Cytochrome P450 2B2
+BE0004766,Cytochrome P450 2B9
+BE0004728,Sphingosine kinase 1
+BE0000683,Pancreatic triacylglycerol lipase
+BE0008657,Lysosomal protective protein
+BE0001473,Histidine triad nucleotide-binding protein 1
+BE0003841,"ATP synthase subunit beta, mitochondrial"
+BE0008719,Diacylglycerol O-acyltransferase 2
+BE0002181,Phospholipase D1
+BE0009154,Arylalkylamine N-acetyltransferase
+BE0000309,Arachidonate 15-lipoxygenase
+BE0001185,Quinone oxidoreductase
+BE0000152,"Succinate-semialdehyde dehydrogenase, mitochondrial"
+BE0008675,"Hydroxyacid-oxoacid transhydrogenase, mitochondrial"
+BE0009854,Type I iodothyronine deiodinase
+BE0009855,Type II iodothyronine deiodinase
+BE0009333,Thyroxine 5-deiodinase
+BE0009763,Sulfotransferase 1C2
+BE0000648,"Glutathione reductase, mitochondrial"
+BE0001207,Catalase
+BE0000252,Tyrosinase
+BE0002200,Peptidyl-glycine alpha-amidating monooxygenase
+BE0001181,Angiogenin
+BE0001105,Major prion protein
+BE0000816,Glutathione peroxidase 1
+BE0005844,Peroxiredoxin-1
+BE0000907,"Peroxiredoxin-5, mitochondrial"
+BE0000595,Flavin reductase (NADPH)
+BE0003785,Arylsulfate sulfotransferase
+BE0000574,3-hydroxy-3-methylglutaryl-coenzyme A reductase
+BE0000182,"cGMP-specific 3',5'-cyclic phosphodiesterase"
+BE0001262,Adenylate kinase isoenzyme 1
+BE0000972,Beta-glucuronidase
+BE0001153,Beta-hexosaminidase subunit beta
+BE0000883,N-acetylgalactosamine-6-sulfatase
+BE0009328,Iduronate 2-sulfatase
+BE0009329,Alpha-L-iduronidase
+BE0009330,Arylsulfatase B
+BE0008643,Proprotein convertase subtilisin/kexin type 9
+BE0000896,"Alkaline phosphatase, placental-like"
+BE0004122,Enolase-phosphatase E1
+BE0009701,Enolase
+BE0009702,Enolase
+BE0009703,Enolase
+BE0009704,Enolase
+BE0002274,"N-acetylglutamate synthase, mitochondrial"
+BE0000888,Fatty acid desaturase 1
+BE0002247,Elongation of very long chain fatty acids protein 4
+BE0004135,Peroxisomal acyl-coenzyme A oxidase 1
+BE0000713,Vitamin K epoxide reductase complex subunit 1
+BE0009080,Inter-alpha-trypsin inhibitor heavy chain H1
+BE0000906,"Phosphoenolpyruvate carboxykinase, cytosolic [GTP]"
+BE0001818,6-phosphofructokinase
+BE0001251,Isocitrate dehydrogenase [NADP] cytoplasmic
+BE0000350,"Acetyl-coenzyme A synthetase, cytoplasmic"
+BE0008244,Intestinal-type alkaline phosphatase
+BE0001242,Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1
+BE0002503,Hypoxia-inducible factor 1-alpha inhibitor
+BE0000554,Retinal dehydrogenase 1
+BE0008669,Adenosine triphosphate (ATP)
+BE0004455,Thiosulfate sulfurtransferase
+BE0000105,Sterol O-acyltransferase 1
+BE0000865,Phenylethanolamine N-methyltransferase
+BE0002499,Pentaerythritol tetranitrate reductase
+BE0003753,Carboxypeptidase A1
+BE0004671,"Carbamoyl-phosphate synthase [ammonia], mitochondrial"
+BE0004605,Selenocysteine lyase
+BE0003751,Lysozyme C
+BE0000734,Methionine synthase
+BE0000216,Coagulation factor X
+BE0009375,Elongation of very long chain fatty acids protein 5
+BE0002246,Fatty acid desaturase 2
+BE0000302,Beta-lactamase
+BE0000511,Receptor tyrosine-protein kinase erbB-2
+BE0004865,"POU domain, class 2, transcription factor 2"
+BE0003657,Multidrug and toxin extrusion protein 1
+BE0009868,Very long-chain acyl-CoA synthetase
+BE0009503,NUAK family SNF1-like kinase 2
+BE0000600,Fatty aldehyde dehydrogenase
+BE0009992,Carboxypeptidase A6
+BE0001739,Trypsin-1
+BE0001529,Complement C1s subcomponent
+BE0002093,Complement C1r subcomponent
+BE0009336,A disintegrin and metalloproteinase with thrombospondin motifs 13
+BE0008679,TetX family tetracycline inactivation enzyme
+BE0000333,Coagulation factor VII
+BE0000016,Coagulation factor VIII
+BE0000364,Coagulation factor IX
+BE0000041,Coagulation factor V
+BE0003239,Exonuclease
+BE0001140,Ceruloplasmin
+BE0009858,Hepcidin
+BE0000510,Serotransferrin
+BE0008687,Hephaestin
+BE0009859,Cytochrome b reductase 1
+BE0000229,Sodium/potassium-transporting ATPase subunit gamma
+BE0003246,Hexokinase
+BE0000082,Creatine kinase B-type
+BE0000014,Tyrosine-protein kinase ABL1
+BE0000484,"ATP synthase subunit delta, mitochondrial"
+BE0000269,Adenylate cyclase type 1
+BE0001073,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1"
+BE0009741,Phosphoribosylpyrophosphate synthetase
+BE0000732,Sodium/potassium-transporting ATPase subunit alpha-1
+BE0000070,Group 10 secretory phospholipase A2
+BE0000457,Ectonucleotide pyrophosphatase/phosphodiesterase family member 1
+BE0000239,Lipoprotein lipase
+BE0001671,Alpha-amylase 1
+BE0001123,Carboxypeptidase E
+BE0000322,Carbonic anhydrase 2
+BE0009765,Sulfotransferase 1C4
+BE0001405,Queuine tRNA-ribosyltransferase
+BE0009561,Liver esterases
+BE0000453,Mast/stem cell growth factor receptor Kit
+BE0000852,Platelet-derived growth factor receptor alpha
+BE0000876,Lysosomal alpha-glucosidase
+BE0000971,DNA topoisomerase 1
+BE0000939,Cathepsin B

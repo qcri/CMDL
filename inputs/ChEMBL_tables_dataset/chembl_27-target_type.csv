@@ -1,0 +1,28 @@
+target_type,target_desc,parent_type
+ADMET,"Target is not applicable for an ADMET assay (e.g., physchem property)",UNDEFINED
+CELL-LINE,Target is a specific cell-line,NON-MOLECULAR
+CHIMERIC PROTEIN,"Target is a fusion of two different proteins, either a synthetic construct or naturally occurring fusion protein",PROTEIN
+LIPID,Target is a lipid,MOLECULAR
+MACROMOLECULE,"Target is a biological macromolecule (e.g., glycoproteins, hemozoin, hydroxyapatite)",MOLECULAR
+METAL,"Target is a metal e.g., iron",MOLECULAR
+MOLECULAR,"Target has been identified as a defined molecular entity (e.g., protein or nucleic acid)",
+NO TARGET,"Target is not applicable for a screening assay (e.g., negative control/counterscreen)",UNDEFINED
+NON-MOLECULAR,"Target has not been defined at a molecular level, only the non-molecular entity which is affected (e.g., organism, cell line etc)",
+NUCLEIC-ACID,"Target is DNA, RNA or PNA",MOLECULAR
+OLIGOSACCHARIDE,"Target is an oligosaccharide (e.g., heparin, starch)",MOLECULAR
+ORGANISM,Target is a complete organism,NON-MOLECULAR
+PHENOTYPE,Target is a biological phenotype or process,NON-MOLECULAR
+PROTEIN,Target is a protein or group of proteins,MOLECULAR
+PROTEIN COMPLEX,"Target is a defined protein complex, consisting of multiple subunits",PROTEIN
+PROTEIN COMPLEX GROUP,"Target is a poorly defined protein complex, where subunit composition is unclear (e.g., GABA-A receptor)",PROTEIN
+PROTEIN FAMILY,Target is a group of closely related proteins,PROTEIN
+PROTEIN NUCLEIC-ACID COMPLEX,"Target is a complex consisting of both protein and nucleic-acid components (e.g., ribosome)",MOLECULAR
+PROTEIN-PROTEIN INTERACTION,Target is the disruption of a protein-protein interaction,PROTEIN
+SELECTIVITY GROUP,Target is a pair of proteins for which the selectivity has been assessed,PROTEIN
+SINGLE PROTEIN,Target is a single protein chain,PROTEIN
+SMALL MOLECULE,"Target is a small molecule such as an amino acid, sugar or metabolite)",MOLECULAR
+SUBCELLULAR,Target is a subcellular fraction,NON-MOLECULAR
+TISSUE,Target is a healthy or diseased tissue,NON-MOLECULAR
+UNCHECKED,Target has not yet been assigned,UNDEFINED
+UNDEFINED,No target has been defined,
+UNKNOWN,"Molecular identity of target is unknown (e.g., pharmacologically defined target)",UNDEFINED

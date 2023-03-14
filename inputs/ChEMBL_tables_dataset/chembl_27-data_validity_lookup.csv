@@ -1,0 +1,8 @@
+data_validity_comment,description
+Author confirmed error,Error in publication - Author confirmed (personal communication)
+Manually validated,Data have been checked against the publication and are believed to be accurate
+Non standard unit for type,Units for this activity type are unusual and may be incorrect (or the standard_type may be incorrect)
+Outside typical range,"Values for this activity type are unusually large/small, so may not be accurate"
+Potential author error,Data have been checked against the publication and are as reported - possibly an error was made by the author
+Potential missing data,"No data provided for value, units or activity_comment, needs further investigation"
+Potential transcription error,"Values appear to be an order of magnitude different from previously reported, so units may be incorrect"

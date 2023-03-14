@@ -1,0 +1,182 @@
+StateProvinceID,StateProvinceCode,CountryRegionCode,IsOnlyStateProvinceFlag,Name
+1,AB,CA,0,Alberta
+2,AK,US,0,Alaska
+3,AL,US,0,Alabama
+4,AR,US,0,Arkansas
+5,AS,AS,1,American Samoa
+6,AZ,US,0,Arizona
+7,BC,CA,0,British Columbia
+8,BY,DE,0,Bayern
+9,CA,US,0,California
+10,CO,US,0,Colorado
+11,CT,US,0,Connecticut
+12,DC,US,0,District of Columbia
+13,DE,US,0,Delaware
+14,ENG,GB,1,England
+15,FL,US,0,Florida
+16,FM,FM,1,Micronesia
+17,GA,US,0,Georgia
+18,GU,US,0,Guam
+19,HE,DE,0,Hessen
+20,HH,DE,0,Hamburg
+21,HI,US,0,Hawaii
+22,IA,US,0,Iowa
+23,ID,US,0,Idaho
+24,IL,US,0,Illinois
+25,IN,US,0,Indiana
+26,KS,US,0,Kansas
+27,KY,US,0,Kentucky
+28,LA,US,0,Louisiana
+29,LB,CA,0,Labrador
+30,MA,US,0,Massachusetts
+31,MB,CA,0,Manitoba
+32,MD,US,0,Maryland
+33,ME,US,0,Maine
+34,MH,MH,1,Marshall Islands
+35,MI,US,0,Michigan
+36,MN,US,0,Minnesota
+37,MO,US,0,Missouri
+38,MP,MP,1,Northern Mariana Islands
+39,MS,US,0,Mississippi
+40,MT,US,0,Montana
+41,NB,CA,0,Brunswick
+42,NC,US,0,North Carolina
+43,ND,US,0,North Dakota
+44,NE,US,0,Nebraska
+45,NF,CA,0,Newfoundland
+46,NH,US,0,New Hampshire
+47,NJ,US,0,New Jersey
+48,NM,US,0,New Mexico
+49,NS,CA,0,Nova Scotia
+50,NSW,AU,0,New South Wales
+51,NT,CA,0,Northwest Territories
+52,NV,US,0,Nevada
+53,NW,DE,0,Nordrhein-Westfalen
+54,NY,US,0,New York
+55,OH,US,0,Ohio
+56,OK,US,0,Oklahoma
+57,ON,CA,0,Ontario
+58,OR,US,0,Oregon
+59,PA,US,0,Pennsylvania
+60,PE,CA,0,Prince Edward Island
+61,PR,US,0,Puerto Rico
+62,PW,PW,1,Palau
+63,QC,CA,0,Quebec
+64,QLD,AU,0,Queensland
+65,RI,US,0,Rhode Island
+66,SA,AU,0,South Australia
+67,SC,US,0,South Carolina
+68,SD,US,0,South Dakota
+69,SK,CA,0,Saskatchewan
+70,SL,DE,0,Saarland
+71,TAS,AU,0,Tasmania
+72,TN,US,0,Tennessee
+73,TX,US,0,Texas
+74,UT,US,0,Utah
+75,VA,US,0,Virginia
+76,VI,VI,1,Virgin Islands
+77,VIC,AU,0,Victoria
+78,VT,US,0,Vermont
+79,WA,US,0,Washington
+80,WI,US,0,Wisconsin
+81,WV,US,0,West Virginia
+82,WY,US,0,Wyoming
+83,YT,CA,0,Yukon Territory
+84,FR,FR,1,France
+85,BB,DE,0,Brandenburg
+86,SN,DE,0,Saxony
+87,1,FR,0,Ain
+88,2,FR,0,Aisne
+89,3,FR,0,Allier
+90,4,FR,0,Alpes-de-Haute Provence
+91,5,FR,0,Alpes (Haute)
+92,6,FR,0,Alpes-Maritimes
+93,7,FR,0,Ardèche
+94,8,FR,0,Ardennes
+95,9,FR,0,Ariège
+96,10,FR,0,Aube
+97,11,FR,0,Aude
+98,12,FR,0,Aveyron
+99,13,FR,0,Bouches du Rhône
+100,14,FR,0,Calvados
+101,15,FR,0,Cantal
+102,16,FR,0,Charente
+103,17,FR,0,Charente-Maritime
+104,18,FR,0,Cher
+105,19,FR,0,Corrèze
+106,20,FR,0,Corse
+107,21,FR,0,Côte d'Or
+108,22,FR,0,Côtes-d'Armor
+109,23,FR,0,Creuse
+110,24,FR,0,Dordogne
+111,25,FR,0,Toubs
+112,26,FR,0,Drôme
+113,27,FR,0,Eure
+114,28,FR,0,Eure et Loir
+115,29,FR,0,Finistère
+116,30,FR,0,Gard
+117,31,FR,0,Garonne (Haute)
+118,32,FR,0,Gers
+119,33,FR,0,Gironde
+120,34,FR,0,Hérault
+121,35,FR,0,Ille et Vilaine
+122,36,FR,0,Indre
+123,37,FR,0,Indre et Loire
+124,38,FR,0,Isère
+125,39,FR,0,Jura
+126,40,FR,0,Landes
+127,41,FR,0,Loir et Cher
+128,42,FR,0,Loire
+129,43,FR,0,Loire (Haute)
+130,44,FR,0,Loire Atlantique
+131,45,FR,0,Loiret
+132,46,FR,0,Lot
+133,47,FR,0,Lot et Garonne
+134,48,FR,0,Lozère
+135,49,FR,0,Maine et Loire
+136,50,FR,0,Manche
+137,51,FR,0,Marne
+138,52,FR,0,Marne (Haute)
+139,53,FR,0,Mayenne
+140,54,FR,0,Meurthe et Moselle
+141,55,FR,0,Meuse
+142,56,FR,0,Morbihan
+143,57,FR,0,Moselle
+144,58,FR,0,Nièvre
+145,59,FR,0,Nord
+146,60,FR,0,Oise
+147,61,FR,0,Orne
+148,62,FR,0,Pas de Calais
+149,63,FR,0,Puy de Dôme
+150,64,FR,0,Pyrénées Atlantiques
+151,65,FR,0,Pyrénées (Hautes)
+152,66,FR,0,Pyrénées Orientales
+153,67,FR,0,Rhin (Bas)
+154,68,FR,0,Rhin (Haut)
+155,69,FR,0,Rhône
+156,70,FR,0,Saône (Haute)
+157,71,FR,0,Saône et Loire
+158,72,FR,0,Sarthe
+159,73,FR,0,Savoie
+160,74,FR,0,Savoie Haute
+161,75,FR,0,Seine (Paris)
+162,76,FR,0,Seine Maritime
+163,77,FR,0,Seine et Marne
+164,78,FR,0,Yveline
+165,79,FR,0,Sèvres (Deux)
+166,80,FR,0,Somme
+167,81,FR,0,Tarne
+168,82,FR,0,Tarne et Garonne
+169,83,FR,0,Var
+170,84,FR,0,Vaucluse
+171,85,FR,0,La Vendée
+172,86,FR,0,Vienne
+173,87,FR,0,Vienne (Haute)
+174,88,FR,0,Vosges
+175,89,FR,0,Yonne
+176,90,FR,0,Belford (Territoire de)
+177,91,FR,0,Essonne
+178,92,FR,0,Hauts de Seine
+179,93,FR,0,Seine Saint Denis
+180,94,FR,0,Val de Marne
+181,95,FR,0,Val d'Oise

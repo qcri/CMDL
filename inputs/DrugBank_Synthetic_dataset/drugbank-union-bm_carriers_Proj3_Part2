@@ -1,0 +1,269 @@
+id,name,parent_key
+BE0000530,Serum albumin,DB00537
+BE0000530,Serum albumin,DB00540
+BE0000925,Alpha-1-acid glycoprotein 1,DB00540
+BE0000925,Alpha-1-acid glycoprotein 1,DB00543
+BE0000530,Serum albumin,DB00544
+BE0000537,Thyroxine-binding globulin,DB00544
+BE0000530,Serum albumin,DB00554
+BE0000530,Serum albumin,DB00555
+BE0000530,Serum albumin,DB00557
+BE0000530,Serum albumin,DB00563
+BE0000530,Serum albumin,DB00567
+BE0000925,Alpha-1-acid glycoprotein 1,DB00571
+BE0000530,Serum albumin,DB00571
+BE0000530,Serum albumin,DB00573
+BE0000530,Serum albumin,DB00575
+BE0000530,Serum albumin,DB00576
+BE0000530,Serum albumin,DB00584
+BE0000337,Transthyretin,DB00586
+BE0000530,Serum albumin,DB00586
+BE0000209,Corticosteroid-binding globulin,DB00588
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB00588
+BE0000209,Corticosteroid-binding globulin,DB00591
+BE0000530,Serum albumin,DB00595
+BE0000209,Corticosteroid-binding globulin,DB00596
+BE0000530,Serum albumin,DB00598
+BE0004879,alpha1-acid glycoprotein,DB00598
+BE0000530,Serum albumin,DB00603
+BE0000530,Serum albumin,DB00605
+BE0000530,Serum albumin,DB00607
+BE0000530,Serum albumin,DB00608
+BE0004879,alpha1-acid glycoprotein,DB00608
+BE0000530,Serum albumin,DB00619
+BE0000925,Alpha-1-acid glycoprotein 1,DB00619
+BE0000209,Corticosteroid-binding globulin,DB00620
+BE0000530,Serum albumin,DB00620
+BE0000530,Serum albumin,DB00624
+BE0000685,Sex hormone-binding globulin,DB00624
+BE0000530,Serum albumin,DB00625
+BE0000537,Thyroxine-binding globulin,DB00627
+BE0000530,Serum albumin,DB00635
+BE0000209,Corticosteroid-binding globulin,DB00635
+BE0000537,Thyroxine-binding globulin,DB00636
+BE0000685,Sex hormone-binding globulin,DB00648
+BE0000209,Corticosteroid-binding globulin,DB00648
+BE0000537,Thyroxine-binding globulin,DB00648
+BE0000530,Serum albumin,DB00649
+BE0000530,Serum albumin,DB00655
+BE0000530,Serum albumin,DB00661
+BE0000925,Alpha-1-acid glycoprotein 1,DB00661
+BE0000209,Corticosteroid-binding globulin,DB00663
+BE0000530,Serum albumin,DB00675
+BE0000537,Thyroxine-binding globulin,DB00675
+BE0000530,Serum albumin,DB00677
+BE0000530,Serum albumin,DB00678
+BE0000530,Serum albumin,DB00682
+BE0000925,Alpha-1-acid glycoprotein 1,DB00682
+BE0000530,Serum albumin,DB00687
+BE0000209,Corticosteroid-binding globulin,DB00687
+BE0000530,Serum albumin,DB00695
+BE0000537,Thyroxine-binding globulin,DB00695
+BE0000925,Alpha-1-acid glycoprotein 1,DB00706
+BE0000530,Serum albumin,DB00709
+BE0000530,Serum albumin,DB00712
+BE0000530,Serum albumin,DB00714
+BE0000530,Serum albumin,DB00717
+BE0000685,Sex hormone-binding globulin,DB00717
+BE0000530,Serum albumin,DB00731
+BE0000925,Alpha-1-acid glycoprotein 1,DB00731
+BE0000530,Serum albumin,DB00734
+BE0000925,Alpha-1-acid glycoprotein 1,DB00734
+BE0000530,Serum albumin,DB00737
+BE0000685,Sex hormone-binding globulin,DB00741
+BE0000209,Corticosteroid-binding globulin,DB00741
+BE0000530,Serum albumin,DB00743
+BE0000530,Serum albumin,DB00744
+BE0000530,Serum albumin,DB00749
+BE0000530,Serum albumin,DB00753
+BE0000537,Thyroxine-binding globulin,DB00754
+BE0000530,Serum albumin,DB00755
+BE0000530,Serum albumin,DB00759
+BE0000530,Serum albumin,DB00762
+BE0000530,Serum albumin,DB00768
+BE0000530,Serum albumin,DB00774
+BE0000530,Serum albumin,DB00776
+BE0000685,Sex hormone-binding globulin,DB00783
+BE0000530,Serum albumin,DB00783
+BE0003591,"Fatty acid-binding protein, intestinal",DB00783
+BE0000530,Serum albumin,DB00784
+BE0000530,Serum albumin,DB00787
+BE0000530,Serum albumin,DB00788
+BE0000925,Alpha-1-acid glycoprotein 1,DB00802
+BE0000530,Serum albumin,DB00802
+BE0004879,alpha1-acid glycoprotein,DB00808
+BE0000530,Serum albumin,DB00808
+BE0010007,Erythrocyte,DB00808
+BE0000530,Serum albumin,DB00813
+BE0004879,alpha1-acid glycoprotein,DB00813
+BE0000530,Serum albumin,DB00814
+BE0000530,Serum albumin,DB00815
+BE0000530,Serum albumin,DB00818
+BE0000530,Serum albumin,DB00829
+BE0000530,Serum albumin,DB00842
+BE0000530,Serum albumin,DB00845
+BE0000209,Corticosteroid-binding globulin,DB00846
+BE0000530,Serum albumin,DB00852
+BE0000530,Serum albumin,DB00857
+BE0004879,alpha1-acid glycoprotein,DB00857
+BE0000685,Sex hormone-binding globulin,DB00858
+BE0000209,Corticosteroid-binding globulin,DB00860
+BE0000530,Serum albumin,DB00860
+BE0000337,Transthyretin,DB00861
+BE0000530,Serum albumin,DB00861
+BE0000530,Serum albumin,DB00864
+BE0000925,Alpha-1-acid glycoprotein 1,DB00864
+BE0000530,Serum albumin,DB00870
+BE0000530,Serum albumin,DB00878
+BE0000530,Serum albumin,DB00879
+BE0000530,Serum albumin,DB00881
+BE0000510,Serotransferrin,DB00893
+BE0000209,Corticosteroid-binding globulin,DB00896
+BE0000530,Serum albumin,DB00900
+BE0000530,Serum albumin,DB00903
+BE0004879,alpha1-acid glycoprotein,DB00907
+BE0000925,Alpha-1-acid glycoprotein 1,DB00908
+BE0000530,Serum albumin,DB00912
+BE0000530,Serum albumin,DB00924
+BE0000508,Cellular retinoic acid-binding protein 1,DB00926
+BE0000530,Serum albumin,DB00931
+BE0000925,Alpha-1-acid glycoprotein 1,DB00934
+BE0000530,Serum albumin,DB00936
+BE0000530,Serum albumin,DB00938
+BE0004879,alpha1-acid glycoprotein,DB00938
+BE0000537,Thyroxine-binding globulin,DB00939
+BE0000530,Serum albumin,DB00943
+BE0000530,Serum albumin,DB00946
+BE0000925,Alpha-1-acid glycoprotein 1,DB00946
+BE0000530,Serum albumin,DB00950
+BE0004879,alpha1-acid glycoprotein,DB00950
+BE0000530,Serum albumin,DB00951
+BE0000530,Serum albumin,DB00957
+BE0000685,Sex hormone-binding globulin,DB00957
+BE0000530,Serum albumin,DB00959
+BE0000530,Serum albumin,DB00977
+BE0000685,Sex hormone-binding globulin,DB00977
+BE0000530,Serum albumin,DB00982
+BE0000530,Serum albumin,DB00983
+BE0000530,Serum albumin,DB00993
+BE0000530,Serum albumin,DB00995
+BE0000530,Serum albumin,DB00997
+BE0000530,Serum albumin,DB00999
+BE0000530,Serum albumin,DB01006
+BE0000530,Serum albumin,DB01009
+BE0000209,Corticosteroid-binding globulin,DB01013
+BE0000530,Serum albumin,DB01013
+BE0000530,Serum albumin,DB01015
+BE0000530,Serum albumin,DB01016
+BE0000530,Serum albumin,DB01026
+BE0000685,Sex hormone-binding globulin,DB01026
+BE0000530,Serum albumin,DB01029
+BE0004879,alpha1-acid glycoprotein,DB01029
+BE0000530,Serum albumin,DB01032
+BE0000530,Serum albumin,DB01039
+BE0000530,Serum albumin,DB01044
+BE0000530,Serum albumin,DB01045
+BE0004879,alpha1-acid glycoprotein,DB01045
+BE0000209,Corticosteroid-binding globulin,DB01047
+BE0000530,Serum albumin,DB01050
+BE0000530,Serum albumin,DB01053
+BE0000530,Serum albumin,DB01056
+BE0000530,Serum albumin,DB01057
+BE0000530,Serum albumin,DB01060
+BE0000925,Alpha-1-acid glycoprotein 1,DB01062
+BE0000530,Serum albumin,DB01062
+BE0000530,Serum albumin,DB01067
+BE0000530,Serum albumin,DB01068
+BE0000530,Serum albumin,DB01069
+BE0000530,Serum albumin,DB01072
+BE0004879,alpha1-acid glycoprotein,DB01072
+BE0000530,Serum albumin,DB01076
+BE0000337,Transthyretin,DB01093
+BE0000530,Serum albumin,DB01098
+BE0000530,Serum albumin,DB01104
+BE0000537,Thyroxine-binding globulin,DB01109
+BE0000530,Serum albumin,DB01110
+BE0000530,Serum albumin,DB01115
+BE0004879,alpha1-acid glycoprotein,DB01115
+BE0000530,Serum albumin,DB01118
+BE0000530,Serum albumin,DB01120
+BE0000530,Serum albumin,DB01124
+BE0000530,Serum albumin,DB01126
+BE0000925,Alpha-1-acid glycoprotein 1,DB01126
+BE0000530,Serum albumin,DB01132
+BE0000530,Serum albumin,DB01133
+BE0000530,Serum albumin,DB01136
+BE0000530,Serum albumin,DB01137
+BE0003591,"Fatty acid-binding protein, intestinal",DB01138
+BE0000530,Serum albumin,DB01142
+BE0000925,Alpha-1-acid glycoprotein 1,DB01142
+BE0000530,Serum albumin,DB01147
+BE0000925,Alpha-1-acid glycoprotein 1,DB01151
+BE0000925,Alpha-1-acid glycoprotein 1,DB01156
+BE0000530,Serum albumin,DB01159
+BE0000530,Serum albumin,DB01169
+BE0000530,Serum albumin,DB01183
+BE0000685,Sex hormone-binding globulin,DB01185
+BE0000530,Serum albumin,DB01189
+BE0000925,Alpha-1-acid glycoprotein 1,DB01190
+BE0004879,alpha1-acid glycoprotein,DB01195
+BE0000530,Serum albumin,DB01195
+BE0000530,Serum albumin,DB01197
+BE0004879,alpha1-acid glycoprotein,DB01203
+BE0000530,Serum albumin,DB01212
+BE0000537,Thyroxine-binding globulin,DB01219
+BE0000209,Corticosteroid-binding globulin,DB01222
+BE0000530,Serum albumin,DB01222
+BE0000925,Alpha-1-acid glycoprotein 1,DB01232
+BE0000530,Serum albumin,DB01232
+BE0000925,Alpha-1-acid glycoprotein 1,DB01233
+BE0000530,Serum albumin,DB01234
+BE0000530,Serum albumin,DB01235
+BE0000530,Serum albumin,DB01236
+BE0000530,Serum albumin,DB01238
+BE0000530,Serum albumin,DB01241
+BE0000530,Serum albumin,DB01242
+BE0000530,Serum albumin,DB01264
+BE0000925,Alpha-1-acid glycoprotein 1,DB01264
+BE0000530,Serum albumin,DB01275
+BE0000530,Serum albumin,DB01276
+BE0000970,Insulin-like growth factor-binding protein 3,DB01277
+BE0009058,Insulin-like growth factor-binding protein complex acid labile subunit,DB01277
+BE0009658,Insulin-like growth factor-binding protein 1,DB01277
+BE0009659,Insulin-like growth factor-binding protein 2,DB01277
+BE0009660,Insulin-like growth factor-binding protein 4,DB01277
+BE0009661,Insulin-like growth factor-binding protein 5,DB01277
+BE0009662,Insulin-like growth factor-binding protein 6,DB01277
+BE0000530,Serum albumin,DB01294
+BE0000510,Serotransferrin,DB01294
+BE0000530,Serum albumin,DB01307
+BE0000530,Serum albumin,DB01320
+BE0000537,Thyroxine-binding globulin,DB01320
+BE0000530,Serum albumin,DB01324
+BE0000530,Serum albumin,DB01327
+BE0000530,Serum albumin,DB01328
+BE0000530,Serum albumin,DB01329
+BE0000530,Serum albumin,DB01330
+BE0000925,Alpha-1-acid glycoprotein 1,DB01359
+BE0000530,Serum albumin,DB01364
+BE0000530,Serum albumin,DB01370
+BE0000209,Corticosteroid-binding globulin,DB01384
+BE0000530,Serum albumin,DB01394
+BE0000530,Serum albumin,DB01396
+BE0000530,Serum albumin,DB01397
+BE0000685,Sex hormone-binding globulin,DB01406
+BE0000209,Corticosteroid-binding globulin,DB01410
+BE0000530,Serum albumin,DB01418
+BE0000925,Alpha-1-acid glycoprotein 1,DB01418
+BE0000685,Sex hormone-binding globulin,DB01420
+BE0000530,Serum albumin,DB01420
+BE0000925,Alpha-1-acid glycoprotein 1,DB01426
+BE0000925,Alpha-1-acid glycoprotein 1,DB01429
+BE0001141,Vitamin D-binding protein,DB01436
+BE0000537,Thyroxine-binding globulin,DB01452
+BE0000530,Serum albumin,DB01581
+BE0000530,Serum albumin,DB01582
+BE0000337,Transthyretin,DB01583
+BE0000537,Thyroxine-binding globulin,DB01583
+BE0000530,Serum albumin,DB01583
+BE0000530,Serum albumin,DB01587

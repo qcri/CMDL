@@ -1,0 +1,4 @@
+curated_by,description
+Autocuration,Curated against extractor target assignment
+Expert,Curated against ChEMBL target assignment from original publication
+Intermediate,Curated against ChEMBL target assignment from assay description

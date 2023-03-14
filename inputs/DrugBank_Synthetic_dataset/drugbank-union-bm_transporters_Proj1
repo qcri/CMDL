@@ -1,0 +1,273 @@
+id,name
+BE0001032,P-glycoprotein 1
+BE0001069,Canalicular multispecific organic anion transporter 1
+BE0000703,Bile salt export pump
+BE0003643,Ileal sodium/bile acid cotransporter
+BE0003644,Sodium/bile acid cotransporter
+BE0001066,Solute carrier family 22 member 6
+BE0003651,Multidrug resistance-associated protein 7
+BE0001067,ATP-binding cassette sub-family G member 2
+BE0001004,Solute carrier organic anion transporter family member 1B1
+BE0003659,Solute carrier organic anion transporter family member 1B3
+BE0000340,Protein amnionless
+BE0000238,Transcobalamin-1
+BE0000362,Transcobalamin-2
+BE0004690,Gastric intrinsic factor
+BE0000936,Cubilin
+BE0000942,Low-density lipoprotein receptor-related protein 2
+BE0000785,Multidrug resistance-associated protein 1
+BE0003654,Monocarboxylate transporter 10
+BE0000440,Monocarboxylate transporter 2
+BE0000669,Monocarboxylate transporter 1
+BE0003655,Solute carrier organic anion transporter family member 2A1
+BE0000449,Monocarboxylate transporter 4
+BE0000094,Sodium-dependent multivitamin transporter
+BE0004708,Sodium-coupled monocarboxylate transporter 1
+BE0003647,Solute carrier family 22 member 2
+BE0003648,Solute carrier family 22 member 1
+BE0003650,Solute carrier family 22 member 3
+BE0000106,Solute carrier family 22 member 5
+BE0000757,Solute carrier family 22 member 4
+BE0001059,Choline transporter-like protein 1
+BE0002182,Choline transporter-like protein 4
+BE0002183,Choline transporter-like protein 2
+BE0002184,Choline transporter-like protein 3
+BE0000696,High affinity choline transporter 1
+BE0000168,Solute carrier family 23 member 1
+BE0009869,Solute carrier family 23 member 2
+BE0001057,"Solute carrier family 2, facilitated glucose transporter member 1"
+BE0004707,"Solute carrier family 2, facilitated glucose transporter member 3"
+BE0000893,"Solute carrier family 2, facilitated glucose transporter member 4"
+BE0009870,Sodium-coupled neutral amino acid transporter 1
+BE0009871,Sodium-coupled neutral amino acid transporter 2
+BE0000285,Sodium-coupled neutral amino acid transporter 3
+BE0000236,Neutral amino acid transporter B(0)
+BE0000423,Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+)
+BE0004769,Y+L amino acid transporter 1
+BE0009872,Y+L amino acid transporter 2
+BE0000222,Large neutral amino acids transporter small subunit 1
+BE0000789,Large neutral amino acids transporter small subunit 2
+BE0002251,"B(0,+)-type amino acid transporter 1"
+BE0000178,Monocarboxylate transporter 8
+BE0001130,Neutral and basic amino acid transport protein rBAT
+BE0003645,Solute carrier family 22 member 8
+BE0002261,Mitochondrial dicarboxylate carrier
+BE0000022,Solute carrier family 13 member 1
+BE0000447,Solute carrier family 13 member 2
+BE0000611,Solute carrier family 13 member 3
+BE0002275,Mitochondrial glutamate carrier 2
+BE0002276,Mitochondrial glutamate carrier 1
+BE0001061,Canalicular multispecific organic anion transporter 2
+BE0001188,Multidrug resistance-associated protein 4
+BE0003639,Multidrug resistance-associated protein 5
+BE0000536,Proton-coupled amino acid transporter 1
+BE0002308,Vesicular inhibitory amino acid transporter
+BE0002310,Sodium- and chloride-dependent glycine transporter 2
+BE0000940,Sodium- and chloride-dependent glycine transporter 1
+BE0003530,Thiamine transporter 1
+BE0000963,Thiamine transporter 2
+BE0003658,ATP-binding cassette sub-family C member 11
+BE0001048,Proton-coupled folate transporter
+BE0000730,Mitochondrial folate transporter/carrier
+BE0009879,Receptor for retinol uptake STRA6
+BE0000189,Scavenger receptor class B member 1
+BE0000119,ATP-binding cassette sub-family A member 1
+BE0000802,Niemann-Pick C1-like protein 1
+BE0001168,ATP-binding cassette sub-family G member 1
+BE0003546,"Alkaline phosphatase, tissue-nonspecific isozyme"
+BE0000879,Solute carrier family 22 member 11
+BE0001042,Solute carrier organic anion transporter family member 2B1
+BE0003642,Solute carrier organic anion transporter family member 1A2
+BE0003646,Solute carrier family 22 member 7
+BE0001018,Solute carrier family 15 member 1
+BE0001134,Solute carrier family 15 member 2
+BE0003657,Multidrug and toxin extrusion protein 1
+BE0004752,Multidrug and toxin extrusion protein 2
+BE0001054,Excitatory amino acid transporter 3
+BE0003672,Solute carrier family 28 member 3
+BE0003660,Solute carrier organic anion transporter family member 1C1
+BE0002369,ATP-binding cassette sub-family B member 5
+BE0004704,Proton-coupled amino acid transporter 2
+BE0004907,5'-AMP-activated protein kinase
+BE0003653,Solute carrier organic anion transporter family member 4C1
+BE0003656,Solute carrier organic anion transporter family member 4A1
+BE0003652,Solute carrier family 22 member 10
+BE0003667,Organic solute transporter subunit alpha
+BE0003668,Organic solute transporter subunit beta
+BE0003661,Solute carrier organic anion transporter family member 3A1
+BE0003640,Multidrug resistance-associated protein 6
+BE0004775,Equilibrative nucleoside transporter 4
+BE0000249,Sodium- and chloride-dependent GABA transporter 1
+BE0004733,Sodium- and chloride-dependent GABA transporter 3
+BE0000486,Sodium-dependent noradrenaline transporter
+BE0003665,"POU domain, class 5, transcription factor 1"
+BE0000749,Sodium-dependent serotonin transporter
+BE0004770,RalA-binding protein 1
+BE0004705,Sodium/nucleoside cotransporter 1
+BE0001204,Equilibrative nucleoside transporter 1
+BE0004706,Equilibrative nucleoside transporter 2
+BE0003649,High affinity copper uptake protein 1
+BE0003662,Probable low affinity copper uptake protein 2
+BE0003664,Copper-transporting ATPase 2
+BE0003666,Copper-transporting ATPase 1
+BE0004711,Folate transporter 1
+BE0003405,Folate receptor alpha
+BE0000271,Folate receptor beta
+BE0003669,Solute carrier family 22 member 16
+BE0002083,Sodium channel protein type 4 subunit alpha
+BE0000353,Acid-sensing ion channel 1
+BE0000897,Potassium voltage-gated channel subfamily KQT member 2
+BE0002398,Potassium voltage-gated channel subfamily KQT member 3
+BE0003671,ATP-binding cassette sub-family A member 3
+BE0009705,Bacitracin transport ATP-binding protein BcrA
+BE0009706,Bacitracin transport permease protein BCRB
+BE0009707,Bacitracin transport permease protein BcrC
+BE0004782,Solute carrier family 22 member 12
+BE0004783,"Solute carrier family 2, facilitated glucose transporter member 9"
+BE0000118,Synaptic vesicular amine transporter
+BE0000647,Sodium-dependent dopamine transporter
+BE0000508,Cellular retinoic acid-binding protein 1
+BE0000782,Cellular retinoic acid-binding protein 2
+BE0000281,Solute carrier family 12 member 2
+BE0000502,Solute carrier family 12 member 1
+BE0000047,Solute carrier family 12 member 5
+BE0000140,Solute carrier family 12 member 6
+BE0000276,Solute carrier family 12 member 7
+BE0000601,Solute carrier family 12 member 4
+BE0004754,Sodium/glucose cotransporter 1
+BE0009808,Transient receptor potential cation channel subfamily M member 3
+BE0009848,Human vesicular glutamate transporters
+BE0009791,ABC multidrug transporter MDR2
+BE0003670,ATP-binding cassette sub-family A member 5
+BE0009810,Solute carrier family 43 member 3
+BE0003673,"ATP-binding cassette sub-family B member 8, mitochondrial"
+BE0001570,Outer membrane protein F
+BE0009852,Outer membrane porin C
+BE0004781,Sodium/nucleoside cotransporter 2
+BE0000752,Sodium/hydrogen exchanger 1
+BE0000030,Cystine/glutamate transporter
+BE0009676,Sodium-dependent dopamine transporter
+BE0009675,Synaptic vesicular amine transporter
+BE0009712,"POU domain, class 2, transcription factor 1"
+BE0004865,"POU domain, class 2, transcription factor 2"
+BE0009674,Solute carrier family 12 member 5
+BE0003109,Antigen peptide transporter 1
+BE0004675,Electrogenic sodium bicarbonate cotransporter 1
+BE0004676,Sodium bicarbonate cotransporter 3
+BE0004680,Electroneutral sodium bicarbonate exchanger 1
+BE0004677,Electrogenic sodium bicarbonate cotransporter 4
+BE0004683,Sodium-driven chloride bicarbonate exchanger
+BE0001045,"Solute carrier family 2, facilitated glucose transporter member 2"
+BE0005216,"Solute carrier family 2, facilitated glucose transporter member 5"
+BE0005217,"Solute carrier family 2, facilitated glucose transporter member 6"
+BE0005218,"Solute carrier family 2, facilitated glucose transporter member 7"
+BE0005219,"Solute carrier family 2, facilitated glucose transporter member 8"
+BE0005220,"Solute carrier family 2, facilitated glucose transporter member 10"
+BE0005221,"Solute carrier family 2, facilitated glucose transporter member 11"
+BE0005222,"Solute carrier family 2, facilitated glucose transporter member 12"
+BE0004753,Sodium/glucose cotransporter 2
+BE0009148,Sodium- and chloride-dependent taurine transporter
+BE0004710,Solute carrier family 10 member 6
+BE0004691,Urea transporter 2
+BE0004692,Urea transporter 1
+BE0003541,UDP-glucuronosyltransferase 1-1
+BE0004850,Transferrin receptor
+BE0009346,Sodium/iodide cotransporter
+BE0009874,Pendrin
+BE0003641,Multidrug resistance protein 3
+BE0000510,Serotransferrin
+BE0000085,Ferritin light chain
+BE0000399,Ferritin heavy chain
+BE0000530,Serum albumin
+BE0001140,Ceruloplasmin
+BE0007205,Lactoferrin
+BE0008685,Natural resistance-associated macrophage protein 2
+BE0008217,Glypican-1
+BE0004785,Solute carrier family 22 member 21
+BE0000884,Excitatory amino acid transporter 2
+BE0001115,Excitatory amino acid transporter 1
+BE0008678,Mitochondrial 2-oxodicarboxylate carrier
+BE0008677,Solute carrier family 13 member 5
+BE0008676,"Tricarboxylate transport protein, mitochondrial"
+BE0008629,UDP-glucuronosyltransferase 1-4
+BE0003949,Ammonium transporter Rh type C
+BE0008661,vesicular monoamine transporter 2 (VMAT2)
+BE0005055,Sodium-dependent phosphate transporter 1
+BE0008680,Sodium-dependent phosphate transporter 2
+BE0008681,Sodium-dependent phosphate transport protein 2A
+BE0008682,Sodium-dependent phosphate transport protein 2B
+BE0008683,Sodium-dependent phosphate transport protein 2C
+BE0010003,Aquaporin-7
+BE0010004,Aquaporin-9
+BE0002037,Glycerol uptake facilitator protein
+BE0005126,Transient receptor potential cation channel subfamily M member 6
+BE0008673,Solute carrier family 41 member 3
+BE0008674,Metal transporter CNNM2
+BE0004624,Transient receptor potential cation channel subfamily M member 7
+BE0000986,Sodium/calcium exchanger 1
+BE0000012,Voltage-dependent T-type calcium channel subunit alpha-1I
+BE0003501,Mucin-1
+BE0005102,Transient receptor potential cation channel subfamily V member 6
+BE0005112,Transient receptor potential cation channel subfamily V member 5
+BE0000739,Ryanodine receptor 1
+BE0005295,Ryanodine receptor 2
+BE0008712,Polycystic kidney disease 2-like 1 protein
+BE0005296,Ryanodine receptor 3
+BE0008713,Polycystic kidney disease protein 1-like 3
+BE0008714,Cation channel sperm-associated protein 1
+BE0008715,Voltage-dependent L-type calcium channel
+BE0008717,Voltage-dependent P/Q-type calcium channel
+BE0008716,Voltage-dependent T-type calcium channel
+BE0008718,Voltage-dependent R-type calcium channel
+BE0005533,Selenoprotein P
+BE0000643,Alpha-tocopherol transfer protein
+BE0000076,SEC14-like protein 4
+BE0000256,SEC14-like protein 2
+BE0000339,SEC14-like protein 3
+BE0005852,Apolipoprotein B receptor
+BE0004522,"Inositol 1,4,5-trisphosphate receptor type 1"
+BE0004750,ATP-binding cassette sub-family G member 5
+BE0004751,ATP-binding cassette sub-family G member 8
+BE0009680,B-cell antigen receptor complex-associated protein beta chain
+BE0000090,Potassium voltage-gated channel subfamily H member 2
+BE0002196,Amine oxidase [flavin-containing] B
+BE0003941,Outer membrane porin C
+BE0009368,Sodium/myo-inositol cotransporter
+BE0009856,Solute carrier family 40 member 1
+BE0000732,Sodium/potassium-transporting ATPase subunit alpha-1
+BE0009378,Hydrogen potassium ATPase
+BE0000190,Amiloride-sensitive sodium channel subunit alpha
+BE0000024,Amiloride-sensitive sodium channel subunit beta
+BE0000497,Amiloride-sensitive sodium channel subunit gamma
+BE0009861,Claudin-16
+BE0009863,Solute carrier family 41 member 1
+BE0009864,"Magnesium transporter MRS2 homolog, mitochondrial"
+BE0009891,Zinc transporter 1
+BE0009892,Zinc transporter 2
+BE0009895,Zinc transporter 3
+BE0009886,Zinc transporter 4
+BE0009907,Zinc transporter 6
+BE0009898,Zinc transporter 5
+BE0009885,Zinc transporter 7
+BE0009896,Zinc transporter 8
+BE0009890,Zinc transporter 9
+BE0009899,Zinc transporter 10
+BE0009902,Zinc transporter ZIP1
+BE0009889,Zinc transporter ZIP2
+BE0009904,Zinc transporter ZIP3
+BE0009894,Zinc transporter ZIP4
+BE0009888,Zinc transporter ZIP5
+BE0009887,Zinc transporter ZIP6
+BE0009893,Zinc transporter SLC39A7
+BE0009901,Zinc transporter ZIP8
+BE0009905,Zinc transporter ZIP9
+BE0009884,Zinc transporter ZIP10
+BE0009906,Zinc transporter ZIP11
+BE0009897,Zinc transporter ZIP12
+BE0009900,Zinc transporter ZIP13
+BE0009903,Zinc transporter ZIP14
+BE0009805,MexAB-OprM efflux system
+BE0009806,Catecholate siderophore receptor Fiu
+BE0004172,Colicin I receptor
+BE0009807,Putative outer membrane ferric siderophore receptor
+BE0001155,Integrin beta-3

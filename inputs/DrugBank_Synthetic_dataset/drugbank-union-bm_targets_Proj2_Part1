@@ -1,0 +1,3077 @@
+name,parent_key
+Prothrombin,DB00001
+Epidermal growth factor receptor,DB00002
+Low affinity immunoglobulin gamma Fc region receptor III-B,DB00002
+Complement C1q subcomponent subunit A,DB00002
+Complement C1q subcomponent subunit B,DB00002
+Complement C1q subcomponent subunit C,DB00002
+Low affinity immunoglobulin gamma Fc region receptor III-A,DB00002
+High affinity immunoglobulin gamma Fc receptor I,DB00002
+Low affinity immunoglobulin gamma Fc region receptor II-a,DB00002
+DNA,DB00003
+Interleukin-2 receptor subunit alpha,DB00004
+Interleukin-2 receptor subunit beta,DB00004
+Cytokine receptor common subunit gamma,DB00004
+Tumor necrosis factor,DB00005
+High affinity immunoglobulin gamma Fc receptor I,DB00005
+Low affinity immunoglobulin gamma Fc region receptor II-a,DB00005
+Low affinity immunoglobulin gamma Fc region receptor II-b,DB00005
+Low affinity immunoglobulin gamma Fc region receptor II-c,DB00005
+Low affinity immunoglobulin gamma Fc region receptor III-A,DB00005
+Low affinity immunoglobulin gamma Fc region receptor III-B,DB00005
+Lymphotoxin-alpha,DB00005
+Complement component 1q (C1q),DB00005
+Prothrombin,DB00006
+Gonadotropin-releasing hormone receptor,DB00007
+Interferon alpha/beta receptor 2,DB00008
+Interferon alpha/beta receptor 1,DB00008
+Plasminogen,DB00009
+Fibrinogen alpha chain,DB00009
+Urokinase plasminogen activator surface receptor,DB00009
+Plasminogen activator inhibitor 1,DB00009
+Growth hormone-releasing hormone receptor,DB00010
+Interferon alpha/beta receptor 2,DB00011
+Interferon alpha/beta receptor 1,DB00011
+Erythropoietin receptor,DB00012
+Plasminogen,DB00013
+Urokinase plasminogen activator surface receptor,DB00013
+Plasminogen activator inhibitor 1,DB00013
+Plasminogen activator inhibitor 2,DB00013
+Plasma serine protease inhibitor,DB00013
+Low-density lipoprotein receptor-related protein 2,DB00013
+Suppressor of tumorigenicity 14 protein,DB00013
+Nidogen-1,DB00013
+Lutropin-choriogonadotropic hormone receptor,DB00014
+Gonadotropin-releasing hormone receptor,DB00014
+Plasminogen,DB00015
+Fibrinogen alpha chain,DB00015
+Plasminogen activator inhibitor 1,DB00015
+Erythropoietin receptor,DB00016
+Calcitonin receptor,DB00017
+Interferon alpha/beta receptor 1,DB00018
+Interferon alpha/beta receptor 2,DB00018
+Granulocyte colony-stimulating factor receptor,DB00019
+Granulocyte-macrophage colony-stimulating factor receptor subunit alpha,DB00020
+Interleukin-3 receptor subunit alpha,DB00020
+Cytokine receptor common subunit beta,DB00020
+Syndecan-2,DB00020
+Bone marrow proteoglycan,DB00020
+Interferon alpha/beta receptor 1,DB00022
+Interferon alpha/beta receptor 2,DB00022
+L-asparagine,DB00023
+Thyrotropin receptor,DB00024
+Coagulation factor X,DB00025
+Coagulation factor IX,DB00025
+von Willebrand factor,DB00025
+"Phytanoyl-CoA dioxygenase, peroxisomal",DB00025
+Asialoglycoprotein receptor 2,DB00025
+78 kDa glucose-regulated protein,DB00025
+Calreticulin,DB00025
+Calnexin,DB00025
+Protein ERGIC-53,DB00025
+Prolow-density lipoprotein receptor-related protein 1,DB00025
+Multiple coagulation factor deficiency protein 2,DB00025
+Interleukin-1 receptor type 1,DB00026
+High affinity immunoglobulin gamma Fc receptor I,DB00028
+High affinity immunoglobulin gamma Fc receptor IB,DB00028
+Low affinity immunoglobulin gamma Fc region receptor II-a,DB00028
+Low affinity immunoglobulin gamma Fc region receptor II-b,DB00028
+Low affinity immunoglobulin gamma Fc region receptor II-c,DB00028
+Low affinity immunoglobulin gamma Fc region receptor III-A,DB00028
+Low affinity immunoglobulin gamma Fc region receptor III-B,DB00028
+Complement C3,DB00028
+Complement C4-A,DB00028
+Complement C4-B,DB00028
+Complement C5,DB00028
+Plasminogen,DB00029
+Fibrinogen alpha chain,DB00029
+Plasminogen activator inhibitor 1,DB00029
+Insulin receptor,DB00030
+Insulin-like growth factor 1 receptor,DB00030
+Retinoblastoma-associated protein,DB00030
+Carboxypeptidase E,DB00030
+Plasminogen,DB00031
+Fibrinogen alpha chain,DB00031
+Urokinase plasminogen activator surface receptor,DB00031
+Plasminogen activator inhibitor 1,DB00031
+Plasminogen activator inhibitor 2,DB00031
+Tetranectin,DB00031
+"Keratin, type II cytoskeletal 8",DB00031
+Annexin A2,DB00031
+Calreticulin,DB00031
+Calnexin,DB00031
+Prolow-density lipoprotein receptor-related protein 1,DB00031
+Follicle-stimulating hormone receptor,DB00032
+Lutropin-choriogonadotropic hormone receptor,DB00032
+Interferon gamma receptor 1,DB00033
+Interferon gamma receptor 2,DB00033
+Interferon alpha/beta receptor 1,DB00034
+Interferon alpha/beta receptor 2,DB00034
+Vasopressin V2 receptor,DB00035
+Vasopressin V1a receptor,DB00035
+Vasopressin V1b receptor,DB00035
+Coagulation factor X,DB00036
+Tissue factor pathway inhibitor,DB00036
+Vitamin K-dependent gamma-carboxylase,DB00036
+Coagulation factor VII,DB00036
+Tissue factor,DB00036
+Interleukin-11 receptor subunit alpha,DB00038
+Fibroblast growth factor receptor 2,DB00039
+Neuropilin-1,DB00039
+Fibroblast growth factor receptor 1,DB00039
+Fibroblast growth factor receptor 4,DB00039
+Fibroblast growth factor receptor 3,DB00039
+Basement membrane-specific heparan sulfate proteoglycan core protein,DB00039
+Glucagon receptor,DB00040
+Glucagon-like peptide 2 receptor,DB00040
+Glucagon-like peptide 1 receptor,DB00040
+Interleukin-2 receptor subunit beta,DB00041
+Interleukin-2 receptor subunit alpha,DB00041
+Cytokine receptor common subunit gamma,DB00041
+Vesicle-associated membrane protein 2,DB00042
+Vesicle-associated membrane protein 1,DB00042
+Synaptotagmin-2,DB00042
+High affinity immunoglobulin epsilon receptor subunit alpha,DB00043
+High affinity immunoglobulin epsilon receptor subunit beta,DB00043
+Lutropin-choriogonadotropic hormone receptor,DB00044
+Toll-like receptor 2,DB00045
+Insulin receptor,DB00046
+Insulin-like growth factor 1 receptor,DB00046
+Insulin receptor,DB00047
+Insulin-like growth factor 1 receptor,DB00047
+Collagen alpha-1(I) chain,DB00048
+Collagen alpha-1(II) chain,DB00048
+Collagen alpha-1(III) chain,DB00048
+Collagen alpha-2(I) chain,DB00048
+Uric acid,DB00049
+Gonadotropin-releasing hormone receptor,DB00050
+Lutropin-choriogonadotropic hormone receptor,DB00050
+Tumor necrosis factor,DB00051
+Growth hormone receptor,DB00052
+Prolactin receptor,DB00052
+Glucocerebroside,DB00053
+Integrin beta-3,DB00054
+Integrin alpha-IIb,DB00054
+Low affinity immunoglobulin gamma Fc region receptor II-a,DB00054
+Low affinity immunoglobulin gamma Fc region receptor II-b,DB00054
+Vitronectin,DB00054
+Coagulation factor VIII,DB00055
+Coagulation factor V,DB00055
+Plasminogen activator inhibitor 1,DB00055
+Thrombomodulin,DB00055
+Vitamin K-dependent protein S,DB00055
+Prothrombin,DB00055
+Platelet factor 4,DB00055
+Plasma serine protease inhibitor,DB00055
+Serpin B6,DB00055
+Endothelial protein C receptor,DB00055
+Myeloid cell surface antigen CD33,DB00056
+Low affinity immunoglobulin gamma Fc region receptor III-B,DB00056
+Low affinity immunoglobulin gamma Fc region receptor III-A,DB00056
+High affinity immunoglobulin gamma Fc receptor I,DB00056
+Tumor-associated glycoprotein 72 (TAG-72),DB00057
+Neutrophil elastase,DB00058
+L-asparagine,DB00059
+Interferon alpha/beta receptor 1,DB00060
+Interferon alpha/beta receptor 2,DB00060
+Adenosine,DB00061
+Growth factor receptor-bound protein 2,DB00061
+Nitric oxide,DB00062
+Integrin beta-3,DB00063
+Tumor necrosis factor,DB00065
+Follicle-stimulating hormone receptor,DB00066
+Vasopressin V2 receptor,DB00067
+Vasopressin V1a receptor,DB00067
+Vasopressin V1b receptor,DB00067
+Interferon alpha/beta receptor 1,DB00068
+Interferon alpha/beta receptor 2,DB00068
+Interferon alpha/beta receptor 1,DB00069
+Interferon alpha/beta receptor 2,DB00069
+Hyaluronan,DB00070
+Transforming growth factor beta-1,DB00070
+Insulin receptor,DB00071
+Insulin-like growth factor 1 receptor,DB00071
+Insulin-degrading enzyme,DB00071
+"HLA class II histocompatibility antigen, DQ alpha 2 chain",DB00071
+"HLA class II histocompatibility antigen, DQ beta 1 chain",DB00071
+Retinoblastoma-associated protein,DB00071
+Cathepsin D,DB00071
+Carboxypeptidase E,DB00071
+Neuroendocrine convertase 2,DB00071
+Neuroendocrine convertase 1,DB00071
+Protein NOV homolog,DB00071
+Low-density lipoprotein receptor-related protein 2,DB00071
+Insulin-like growth factor-binding protein 7,DB00071
+Synaptotagmin-like protein 4,DB00071
+Receptor tyrosine-protein kinase erbB-2,DB00072
+B-lymphocyte antigen CD20,DB00073
+Interleukin-2 receptor subunit alpha,DB00074
+Interleukin-2 receptor subunit beta,DB00074
+T-cell surface glycoprotein CD3 delta chain,DB00075
+T-cell surface glycoprotein CD3 epsilon chain,DB00075
+T-cell surface glycoprotein CD3 gamma chain,DB00075
+T-cell surface glycoprotein CD3 zeta chain,DB00075
+Low affinity immunoglobulin gamma Fc region receptor III-B,DB00075
+Digoxin,DB00076
+B-lymphocyte antigen CD20,DB00078
+Bacterial outer membrane,DB00080
+B-lymphocyte antigen CD20,DB00081
+Low affinity immunoglobulin gamma Fc region receptor II-b,DB00081
+Growth hormone receptor,DB00082
+Synaptosomal-associated protein 25,DB00083
+Rho-related GTP-binding protein RhoB,DB00083
+Dietary fat,DB00085
+Dietary protein,DB00085
+Dietary starch,DB00085
+Plasminogen,DB00086
+Proteinase-activated receptor 1,DB00086
+CAMPATH-1 antigen,DB00087
+Low affinity immunoglobulin gamma Fc region receptor III-B,DB00087
+Low affinity immunoglobulin gamma Fc region receptor III-A,DB00087
+High affinity immunoglobulin gamma Fc receptor I,DB00087
+Low affinity immunoglobulin gamma Fc region receptor II-a,DB00087
+Low affinity immunoglobulin gamma Fc region receptor II-b,DB00087
+Low affinity immunoglobulin gamma Fc region receptor II-c,DB00087
+Glucocerebroside,DB00088
+Glutamate carboxypeptidase 2,DB00089
+Iduronic acid,DB00090
+Calcium signal-modulating cyclophilin ligand,DB00091
+Calcineurin subunit B type 2,DB00091
+Peptidyl-prolyl cis-trans isomerase A,DB00091
+"Peptidyl-prolyl cis-trans isomerase F, mitochondrial",DB00091
+T-cell surface antigen CD2,DB00092
+Low affinity immunoglobulin gamma Fc region receptor III-A,DB00092
+Low affinity immunoglobulin gamma Fc region receptor III-B,DB00092
+Vasopressin V1a receptor,DB00093
+Follicle-stimulating hormone receptor,DB00094
+Integrin alpha-L,DB00095
+Integrin alpha-X,DB00095
+Lutropin-choriogonadotropic hormone receptor,DB00097
+Follicle-stimulating hormone receptor,DB00097
+T-cell surface glycoprotein CD1a,DB00098
+Major histocompatibility complex class I-related gene protein,DB00098
+Integrin alpha-L,DB00098
+T-lymphocyte activation antigen CD86,DB00098
+Low affinity immunoglobulin gamma Fc region receptor II-b,DB00098
+T-cell surface glycoprotein CD4,DB00098
+Integrin beta-1,DB00098
+Integrin alpha-V,DB00098
+Integrin beta-3,DB00098
+Granulocyte colony-stimulating factor receptor,DB00099
+Neutrophil elastase,DB00099
+Coagulation factor X,DB00100
+Coagulation factor XI,DB00100
+Coagulation factor VII,DB00100
+Coagulation factor VIII,DB00100
+Prothrombin,DB00100
+Prolow-density lipoprotein receptor-related protein 1,DB00100
+Vitamin K-dependent gamma-carboxylase,DB00100
+Platelet-derived growth factor receptor beta,DB00102
+Platelet-derived growth factor receptor alpha,DB00102
+Alpha-2-macroglobulin,DB00102
+Globotriaosylceramide,DB00103
+Somatostatin receptor,DB00104
+Interferon alpha/beta receptor 2,DB00105
+Interferon alpha/beta receptor 1,DB00105
+Gonadotropin-releasing hormone receptor,DB00106
+Oxytocin receptor,DB00107
+Oxytocin-neurophysin 1,DB00107
+Integrin alpha-4,DB00108
+Low affinity immunoglobulin gamma Fc region receptor III-B,DB00108
+Intercellular adhesion molecule 1,DB00108
+High affinity immunoglobulin gamma Fc receptor I,DB00108
+Envelope glycoprotein,DB00109
+Fusion glycoprotein F0,DB00110
+Low affinity immunoglobulin gamma Fc region receptor III-B,DB00110
+Complement C1r subcomponent,DB00110
+Complement C1q subcomponent subunit A,DB00110
+Complement C1q subcomponent subunit B,DB00110
+Complement C1q subcomponent subunit C,DB00110
+Low affinity immunoglobulin gamma Fc region receptor III-A,DB00110
+High affinity immunoglobulin gamma Fc receptor I,DB00110
+Low affinity immunoglobulin gamma Fc region receptor II-b,DB00110
+Interleukin-2 receptor subunit alpha,DB00111
+Interleukin-2 receptor subunit beta,DB00111
+Low affinity immunoglobulin gamma Fc region receptor III-B,DB00111
+Complement C1r subcomponent,DB00111
+Complement C1q subcomponent subunit A,DB00111
+Complement C1q subcomponent subunit B,DB00111
+Complement C1q subcomponent subunit C,DB00111
+Low affinity immunoglobulin gamma Fc region receptor III-A,DB00111
+High affinity immunoglobulin gamma Fc receptor I,DB00111
+Low affinity immunoglobulin gamma Fc region receptor II-a,DB00111
+Low affinity immunoglobulin gamma Fc region receptor II-b,DB00111
+Low affinity immunoglobulin gamma Fc region receptor II-c,DB00111
+Vascular endothelial growth factor A,DB00112
+Complement C1q subcomponent subunit A,DB00112
+Complement C1q subcomponent subunit B,DB00112
+Complement C1q subcomponent subunit C,DB00112
+Low affinity immunoglobulin gamma Fc region receptor III-A,DB00112
+High affinity immunoglobulin gamma Fc receptor I,DB00112
+Low affinity immunoglobulin gamma Fc region receptor II-a,DB00112
+Low affinity immunoglobulin gamma Fc region receptor II-b,DB00112
+Low affinity immunoglobulin gamma Fc region receptor II-c,DB00112
+Carcinoembryonic antigen-related cell adhesion molecule 1,DB00113
+"Alanine--glyoxylate aminotransferase 2, mitochondrial",DB00114
+Glutamate decarboxylase 1,DB00114
+Cystathionine beta-synthase,DB00114
+Kynureninase,DB00114
+"Serine hydroxymethyltransferase, cytosolic",DB00114
+"Cysteine desulfurase, mitochondrial",DB00114
+"Aspartate aminotransferase, cytoplasmic",DB00114
+"Ornithine aminotransferase, mitochondrial",DB00114
+Ornithine decarboxylase,DB00114
+"Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial",DB00114
+"4-aminobutyrate aminotransferase, mitochondrial",DB00114
+Pyridoxine-5'-phosphate oxidase,DB00114
+Sphingosine-1-phosphate lyase 1,DB00114
+Tyrosine aminotransferase,DB00114
+Kynurenine--oxoglutarate transaminase 1,DB00114
+"Glycogen phosphorylase, liver form",DB00114
+Serine palmitoyltransferase 2,DB00114
+Cysteine sulfinic acid decarboxylase,DB00114
+Histidine decarboxylase,DB00114
+Arginine decarboxylase,DB00114
+L-serine dehydratase/L-threonine deaminase,DB00114
+"2-amino-3-ketobutyrate coenzyme A ligase, mitochondrial",DB00114
+"Glycine dehydrogenase [decarboxylating], mitochondrial",DB00114
+Alanine aminotransferase 1,DB00114
+Phosphoserine aminotransferase,DB00114
+"5-aminolevulinate synthase, nonspecific, mitochondrial",DB00114
+Serine--pyruvate aminotransferase,DB00114
+Pyridoxal phosphate phosphatase,DB00114
+Serine palmitoyltransferase 1,DB00114
+Cystathionine gamma-lyase,DB00114
+"Branched-chain-amino-acid aminotransferase, cytosolic",DB00114
+"Branched-chain-amino-acid aminotransferase, mitochondrial",DB00114
+Proline synthase co-transcribed bacterial homolog protein,DB00114
+"Aspartate aminotransferase, mitochondrial",DB00114
+"Glycogen phosphorylase, brain form",DB00114
+"Glycogen phosphorylase, muscle form",DB00114
+Aromatic-L-amino-acid decarboxylase,DB00114
+Aspartate aminotransferase,DB00114
+Serine hydroxymethyltransferase,DB00114
+Selenocysteine lyase variant,DB00114
+Phosphorylase,DB00114
+5-aminolevulinate synthase,DB00114
+"Glutamate decarboxylase 2 (Pancreatic islets and brain, 65kDa)",DB00114
+DDC protein,DB00114
+Kynurenine--oxoglutarate transaminase 3,DB00114
+Glutamate decarboxylase-like protein 1,DB00114
+Selenocysteine lyase,DB00114
+Immunoglobulin superfamily member 10,DB00114
+5-phosphohydroxy-L-lysine phospho-lyase,DB00114
+"Glutamate decarboxylase 1 (Brain, 67kDa)",DB00114
+"Serine hydroxymethyltransferase, mitochondrial",DB00114
+"5-aminolevulinate synthase, erythroid-specific, mitochondrial",DB00114
+Alanine aminotransferase 2,DB00114
+Molybdenum cofactor sulfurase,DB00114
+Serine dehydratase-like,DB00114
+Hepatic peroxysomal alanine:glyoxylate aminotransferase,DB00114
+Serine racemase,DB00114
+O-phosphoseryl-tRNA(Sec) selenium transferase,DB00114
+Serine palmitoyltransferase 3,DB00114
+Glutamic acid decarboxylase,DB00114
+Alanine-glyoxylate aminotransferase homolog,DB00114
+Methionine synthase,DB00115
+"Methylmalonyl-CoA mutase, mitochondrial",DB00115
+Methionine synthase reductase,DB00115
+"Methylmalonic aciduria type A protein, mitochondrial",DB00115
+Methylmalonic aciduria and homocystinuria type C protein,DB00115
+Methylenetetrahydrofolate reductase,DB00115
+"C-1-tetrahydrofolate synthase, cytoplasmic",DB00116
+"Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial",DB00116
+"Aminomethyltransferase, mitochondrial",DB00116
+Cytosolic 10-formyltetrahydrofolate dehydrogenase,DB00116
+Methionine synthase,DB00116
+Formimidoyltransferase-cyclodeaminase,DB00116
+Bifunctional purine biosynthesis protein PURH,DB00116
+"Serine hydroxymethyltransferase, cytosolic",DB00116
+"Serine hydroxymethyltransferase, mitochondrial",DB00116
+Methylenetetrahydrofolate reductase,DB00116
+Serine hydroxymethyltransferase,DB00116
+"Methionyl-tRNA formyltransferase, mitochondrial",DB00116
+Histidine decarboxylase,DB00117
+"Histidine--tRNA ligase, cytoplasmic",DB00117
+Sodium-coupled neutral amino acid transporter 3,DB00117
+Histidine ammonia-lyase,DB00117
+Glycine N-methyltransferase,DB00118
+S-adenosylmethionine decarboxylase proenzyme,DB00118
+S-adenosylmethionine synthase isoform type-2,DB00118
+Cystathionine beta-synthase,DB00118
+S-adenosylmethionine synthase isoform type-1,DB00118
+Catechol O-methyltransferase,DB00118
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1,DB00118
+Arsenite methyltransferase,DB00118
+Monocarboxylate transporter 4,DB00119
+Monocarboxylate transporter 8,DB00119
+"Alanine--glyoxylate aminotransferase 2, mitochondrial",DB00119
+Monocarboxylate transporter 6,DB00119
+Pyruvate kinase PKLR,DB00119
+Monocarboxylate transporter 7,DB00119
+Monocarboxylate transporter 2,DB00119
+"Pyruvate dehydrogenase E1 component subunit beta, mitochondrial",DB00119
+Pyruvate kinase PKM,DB00119
+"4-aminobutyrate aminotransferase, mitochondrial",DB00119
+Monocarboxylate transporter 5,DB00119
+Monocarboxylate transporter 3,DB00119
+Monocarboxylate transporter 1,DB00119
+"Pyruvate carboxylase, mitochondrial",DB00119
+Tyrosine aminotransferase,DB00120
+Large neutral amino acids transporter small subunit 2,DB00120
+Phenylalanine--tRNA ligase alpha subunit,DB00120
+Phenylalanine-4-hydroxylase,DB00120
+"Phenylalanine--tRNA ligase, mitochondrial",DB00120
+Phenylalanine--tRNA ligase beta subunit,DB00120
+Tyrosine 3-monooxygenase,DB00120
+"Propionyl-CoA carboxylase beta chain, mitochondrial",DB00121
+Biotin--protein ligase,DB00121
+"Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial",DB00121
+Acetyl-CoA carboxylase 2,DB00121
+"Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial",DB00121
+"Pyruvate carboxylase, mitochondrial",DB00121
+"Propionyl-CoA carboxylase alpha chain, mitochondrial",DB00121
+Acetyl-CoA carboxylase 1,DB00121
+Choline-phosphate cytidylyltransferase B,DB00122
+Acetylcholinesterase,DB00122
+Choline-phosphate cytidylyltransferase A,DB00122
+Phospholipase D2,DB00122
+Cholinesterase,DB00122
+Phospholipase D1,DB00122
+Phosphoethanolamine/phosphocholine phosphatase,DB00122
+Neuronal acetylcholine receptor subunit alpha-7,DB00122
+High affinity cationic amino acid transporter 1,DB00123
+Cationic amino acid transporter 4,DB00123
+Cationic amino acid transporter 3,DB00123
+Low affinity cationic amino acid transporter 2,DB00123
+Lysine--tRNA ligase,DB00123
+"Nitric oxide synthase, endothelial",DB00125
+Cationic amino acid transporter 3,DB00125
+Arginine decarboxylase,DB00125
+Argininosuccinate lyase,DB00125
+"Nitric oxide synthase, inducible",DB00125
+High affinity cationic amino acid transporter 1,DB00125
+"Arginase-2, mitochondrial",DB00125
+Cationic amino acid transporter 4,DB00125
+Argininosuccinate synthase,DB00125
+Hyaluronate lyase,DB00126
+DNA,DB00126
+Xylose isomerase,DB00126
+"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",DB00126
+"Phytanoyl-CoA dioxygenase, peroxisomal",DB00126
+"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",DB00126
+Gamma-butyrobetaine dioxygenase,DB00126
+Dopamine beta-hydroxylase,DB00126
+Peptidyl-glycine alpha-amidating monooxygenase,DB00126
+Prolyl 3-hydroxylase 1,DB00126
+Prolyl 3-hydroxylase 2,DB00126
+Prolyl 3-hydroxylase 3,DB00126
+Prolyl 4-hydroxylase subunit alpha-1,DB00126
+2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1,DB00126
+2-oxoglutarate and iron-dependent oxygenase domain-containing protein 2,DB00126
+Alpha-ketoglutarate-dependent dioxygenase alkB homolog 2,DB00126
+Alpha-ketoglutarate-dependent dioxygenase alkB homolog 3,DB00126
+Lysine-specific demethylase 5D,DB00126
+"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",DB00126
+"Trimethyllysine dioxygenase, mitochondrial",DB00126
+Transmembrane prolyl 4-hydroxylase,DB00126
+Egl nine homolog 1,DB00126
+Egl nine homolog 2,DB00126
+Egl nine homolog 3,DB00126
+Spermine synthase,DB00127
+Spermine oxidase,DB00127
+DNA,DB00127
+Ornithine decarboxylase,DB00127
+Extracellular calcium-sensing receptor,DB00127
+Beta-1 adrenergic receptor,DB00127
+Beta-2 adrenergic receptor,DB00127
+Ribonuclease pancreatic,DB00128
+Lysozyme C,DB00128
+Calcium-binding mitochondrial carrier protein Aralar2,DB00128
+"Aspartate aminotransferase, cytoplasmic",DB00128
+Aspartoacylase,DB00128
+Asparagine synthetase [glutamine-hydrolyzing],DB00128
+Argininosuccinate synthase,DB00128
+Aminoacylase-1,DB00128
+"Aspartate aminotransferase, mitochondrial",DB00128
+"Aspartate--tRNA ligase, cytoplasmic",DB00128
+Calcium-binding mitochondrial carrier protein Aralar1,DB00128
+Aspartyl/asparaginyl beta-hydroxylase,DB00128
+Multifunctional protein ADE2,DB00128
+Adenylosuccinate synthetase isozyme 2,DB00128
+Excitatory amino acid transporter 3,DB00128
+"Argininosuccinate synthetase, isoform CRA_a",DB00128
+"Aspartate--tRNA ligase, mitochondrial",DB00128
+Isoaspartyl peptidase/L-asparaginase,DB00128
+Adenylosuccinate Synthetases,DB00128
+"Ornithine aminotransferase, mitochondrial",DB00129
+"Ornithine carbamoyltransferase, mitochondrial",DB00129
+Arginase-1,DB00129
+Ornithine decarboxylase antizyme 1,DB00129
+High affinity cationic amino acid transporter 1,DB00129
+Low affinity cationic amino acid transporter 2,DB00129
+Mitochondrial ornithine transporter 2,DB00129
+"Arginase-2, mitochondrial",DB00129
+Mitochondrial ornithine transporter 1,DB00129
+"Glycine amidinotransferase, mitochondrial",DB00129
+CTP synthase 1,DB00130
+Amidophosphoribosyltransferase,DB00130
+Glutamine synthetase,DB00130
+Cyclic AMP-responsive element-binding protein 1,DB00131
+DNA,DB00131
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",DB00131
+"Glycogen phosphorylase, liver form",DB00131
+5'-AMP-activated protein kinase subunit beta-1,DB00131
+Histidine triad nucleotide-binding protein 1,DB00131
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4D",DB00131
+"Acetyl-coenzyme A synthetase, cytoplasmic",DB00131
+5'-AMP-activated protein kinase catalytic subunit alpha-1,DB00131
+Adenylate cyclase type 1,DB00131
+Long-chain-fatty-acid--CoA ligase 1,DB00131
+"Fructose-1,6-bisphosphatase 1",DB00131
+Adenosine kinase,DB00131
+5'-AMP-activated protein kinase,DB00131
+Fatty acid desaturase 1,DB00132
+Fatty acid desaturase 2,DB00132
+Sodium/calcium exchanger 1,DB00132
+Transient receptor potential cation channel subfamily V member 1,DB00132
+Peroxisome proliferator-activated receptor alpha,DB00132
+Bile acid receptor,DB00132
+Peroxisome proliferator-activated receptor delta,DB00132
+Peroxisome proliferator-activated receptor gamma,DB00132
+Retinoic acid receptor RXR-alpha,DB00132
+Elongation of very long chain fatty acids protein 2,DB00132
+Elongation of very long chain fatty acids protein 5,DB00132
+Cystathionine beta-synthase,DB00133
+L-serine dehydratase/L-threonine deaminase,DB00133
+Serine racemase,DB00133
+Serine palmitoyltransferase 2,DB00133
+Serine palmitoyltransferase 1,DB00133
+"Serine--tRNA ligase, cytoplasmic",DB00133
+Serine--pyruvate aminotransferase,DB00133
+Methionine synthase reductase,DB00134
+Methionine synthase,DB00134
+Methionine aminopeptidase 2,DB00134
+Betaine--homocysteine S-methyltransferase 1,DB00134
+S-methylmethionine--homocysteine S-methyltransferase BHMT2,DB00134
+Tyrosine 3-monooxygenase,DB00135
+"Tyrosine--tRNA ligase, mitochondrial",DB00135
+"Tyrosine--tRNA ligase, cytoplasmic",DB00135
+Tyrosine aminotransferase,DB00135
+Vitamin D3 receptor,DB00136
+Homeobox protein Hox-A10,DB00136
+Cystine/glutamate transporter,DB00138
+Cystinosin,DB00138
+Succinate receptor 1,DB00139
+"Succinate-semialdehyde dehydrogenase, mitochondrial",DB00139
+Riboflavin kinase,DB00140
+Riboflavin synthase,DB00140
+Flavin reductase (NADPH),DB00140
+"Beta-1,4-galactosyltransferase 1",DB00141
+"Beta-1,4-galactosyltransferase 4",DB00141
+N-acetyl-D-glucosamine kinase,DB00141
+N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase,DB00141
+Alpha-N-acetylglucosaminidase,DB00141
+N-acylglucosamine 2-epimerase,DB00141
+Metabotropic glutamate receptor 1,DB00142
+Metabotropic glutamate receptor 4,DB00142
+"Glutamate receptor ionotropic, kainate 4",DB00142
+"Glutamate receptor ionotropic, kainate 5",DB00142
+Metabotropic glutamate receptor 7,DB00142
+Metabotropic glutamate receptor 8,DB00142
+Excitatory amino acid transporter 5,DB00142
+5-oxoprolinase,DB00142
+Phosphoribosylformylglycinamidine synthase,DB00142
+"Branched-chain-amino-acid aminotransferase, mitochondrial",DB00142
+"Glutamate receptor ionotropic, NMDA 2D",DB00142
+"Glutaminase kidney isoform, mitochondrial",DB00142
+"Aspartate aminotransferase, mitochondrial",DB00142
+Bifunctional glutamate/proline--tRNA ligase,DB00142
+Asparagine synthetase [glutamine-hydrolyzing],DB00142
+Glutamine synthetase,DB00142
+"Aspartate aminotransferase, cytoplasmic",DB00142
+Tyrosine aminotransferase,DB00142
+Alanine aminotransferase 1,DB00142
+Vitamin K-dependent gamma-carboxylase,DB00142
+Excitatory amino acid transporter 1,DB00142
+Excitatory amino acid transporter 2,DB00142
+Excitatory amino acid transporter 3,DB00142
+Glutamate--cysteine ligase catalytic subunit,DB00142
+Excitatory amino acid transporter 4,DB00142
+"Glutamate dehydrogenase 2, mitochondrial",DB00142
+GMP synthase [glutamine-hydrolyzing],DB00142
+"Branched-chain-amino-acid aminotransferase, cytosolic",DB00142
+"4-aminobutyrate aminotransferase, mitochondrial",DB00142
+"Glutamate receptor ionotropic, NMDA 1",DB00142
+"Folylpolyglutamate synthase, mitochondrial",DB00142
+Glutamyl aminopeptidase,DB00142
+"Glutamate receptor ionotropic, NMDA 2A",DB00142
+"Glutamate receptor ionotropic, NMDA 2B",DB00142
+"Glutamate receptor ionotropic, NMDA 2C",DB00142
+Aspartate aminotransferase,DB00142
+"Probable glutamate--tRNA ligase, mitochondrial",DB00142
+Glutamine-dependent NAD(+) synthetase,DB00142
+"N-acetylglutamate synthase, mitochondrial",DB00142
+"Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial",DB00142
+"Glutamate receptor ionotropic, NMDA 3A",DB00142
+Alanine aminotransferase 2,DB00142
+"Alpha-aminoadipic semialdehyde synthase, mitochondrial",DB00142
+"Glutaminase liver isoform, mitochondrial",DB00142
+Aspartyl aminopeptidase,DB00142
+Cystine/glutamate transporter,DB00142
+Carboxypeptidase Q,DB00142
+Phosphoserine aminotransferase,DB00142
+"Glutamate dehydrogenase 1, mitochondrial",DB00142
+"Glutamate receptor ionotropic, kainate 1",DB00142
+Glutamate receptor 1,DB00142
+Glutamate--cysteine ligase regulatory subunit,DB00142
+Glutamate carboxypeptidase 2,DB00142
+Glutamate decarboxylase 2,DB00142
+Glutamate decarboxylase 1,DB00142
+Formimidoyltransferase-cyclodeaminase,DB00142
+Glutamate receptor 2,DB00142
+Glutamate receptor 3,DB00142
+Glutamate receptor 4,DB00142
+Delta-1-pyrroline-5-carboxylate synthase,DB00142
+"Glutamate receptor ionotropic, kainate 2",DB00142
+"Glutamate receptor ionotropic, kainate 3",DB00142
+Microsomal glutathione S-transferase 3,DB00143
+Hematopoietic prostaglandin D synthase,DB00143
+Glutathione S-transferase A1,DB00143
+Glutathione S-transferase A2,DB00143
+Microsomal glutathione S-transferase 1,DB00143
+S-formylglutathione hydrolase,DB00143
+Gamma-glutamyltranspeptidase 1,DB00143
+Glutathione S-transferase Mu 2,DB00143
+Glutaredoxin-1,DB00143
+"Phospholipid hydroperoxide glutathione peroxidase, mitochondrial",DB00143
+Glutathione S-transferase Mu 5,DB00143
+Glutathione peroxidase 6,DB00143
+"Hydroxyacylglutathione hydrolase, mitochondrial",DB00143
+Glutathione peroxidase,DB00143
+Glutathione peroxidase 7,DB00143
+Microsomal glutathione S-transferase 2,DB00143
+Glutathione S-transferase omega-2,DB00143
+"Glutaredoxin-2, mitochondrial",DB00143
+Lactoylglutathione lyase,DB00143
+Leukotriene C4 synthase,DB00143
+"Glutathione reductase, mitochondrial",DB00143
+Glutathione synthetase,DB00143
+Glutathione S-transferase Mu 1,DB00143
+Glutathione S-transferase kappa 1,DB00143
+Glutathione S-transferase A3,DB00143
+Glutathione S-transferase Mu 3,DB00143
+Glutathione S-transferase A4,DB00143
+Glutathione S-transferase Mu 4,DB00143
+Glutathione S-transferase A5,DB00143
+Glutathione S-transferase P,DB00143
+Glutathione S-transferase omega-1,DB00143
+Glutathione peroxidase 1,DB00143
+Glutathione peroxidase 2,DB00143
+Glutathione S-transferase theta-1,DB00143
+Maleylacetoacetate isomerase,DB00143
+Epididymal secretory glutathione peroxidase,DB00143
+Glutathione peroxidase 3,DB00143
+Aldose reductase,DB00143
+Matrix metalloproteinase-9,DB00143
+Cytochrome P450 3A4,DB00143
+Diacylglycerol kinase gamma,DB00144
+Diacylglycerol kinase delta,DB00144
+Phosphatidylserine synthase 2,DB00144
+Sphingomyelin phosphodiesterase 4,DB00144
+Sphingomyelin phosphodiesterase 3,DB00144
+Probable phospholipid-transporting ATPase IA,DB00144
+Protein kinase C alpha type,DB00144
+Phosphatidylserine synthase 1,DB00144
+Phosphatidylserine decarboxylase proenzyme,DB00144
+Scavenger receptor class B member 1,DB00144
+"2-amino-3-ketobutyrate coenzyme A ligase, mitochondrial",DB00145
+"5-aminolevulinate synthase, nonspecific, mitochondrial",DB00145
+"5-aminolevulinate synthase, erythroid-specific, mitochondrial",DB00145
+Glycine--tRNA ligase,DB00145
+"Glutamate receptor ionotropic, NMDA 2A",DB00145
+Bile acid-CoA:amino acid N-acyltransferase,DB00145
+N-arachidonyl glycine receptor,DB00145
+Glutathione synthetase,DB00145
+"Glutamate receptor ionotropic, NMDA 2C",DB00145
+Serine hydroxymethyltransferase,DB00145
+Glycine N-acyltransferase,DB00145
+"Serine hydroxymethyltransferase, mitochondrial",DB00145
+Glycine N-acyltransferase-like protein 2,DB00145
+Glycine N-acyltransferase-like protein 1,DB00145
+"Alanine--glyoxylate aminotransferase 2, mitochondrial",DB00145
+Peroxisomal sarcosine oxidase,DB00145
+"Glutamate receptor ionotropic, NMDA 3B",DB00145
+Glycine receptor subunit alpha-1,DB00145
+Serine--pyruvate aminotransferase,DB00145
+Glycine receptor subunit beta,DB00145
+"Serine hydroxymethyltransferase, cytosolic",DB00145
+Glycine receptor subunit alpha-3,DB00145
+Glycine receptor subunit alpha-2,DB00145
+Glycine N-methyltransferase,DB00145
+"Glycine amidinotransferase, mitochondrial",DB00145
+Vitamin D3 receptor,DB00146
+Pyridoxal kinase,DB00147
+Creatine kinase M-type,DB00148
+"Creatine kinase U-type, mitochondrial",DB00148
+Creatine kinase B-type,DB00148
+"Creatine kinase S-type, mitochondrial",DB00148
+Sodium- and chloride-dependent creatine transporter 1,DB00148
+Guanidinoacetate N-methyltransferase,DB00148
+"Probable leucine--tRNA ligase, mitochondrial",DB00149
+"Branched-chain-amino-acid aminotransferase, mitochondrial",DB00149
+"Branched-chain-amino-acid aminotransferase, cytosolic",DB00149
+Leucine carboxyl methyltransferase 2,DB00149
+Leucine carboxyl methyltransferase 1,DB00149
+"Leucine--tRNA ligase, cytoplasmic",DB00149
+"Tryptophan--tRNA ligase, mitochondrial",DB00150
+Tryptophan--tRNA ligase,DB00150
+"Tryptophan--tRNA ligase, cytoplasmic",DB00150
+Glutamate--cysteine ligase regulatory subunit,DB00151
+Glutamate--cysteine ligase catalytic subunit,DB00151
+"Aspartate aminotransferase, cytoplasmic",DB00151
+"Aspartate aminotransferase, mitochondrial",DB00151
+Cystathionine gamma-lyase,DB00151
+Cystathionine beta-synthase,DB00151
+"Cysteine--tRNA ligase, cytoplasmic",DB00151
+Methylated-DNA--protein-cysteine methyltransferase,DB00151
+Glutathione synthetase,DB00151
+"Probable cysteine--tRNA ligase, mitochondrial",DB00151
+Cysteine sulfinic acid decarboxylase,DB00151
+"Cysteine desulfurase, mitochondrial",DB00151
+Cysteine dioxygenase type 1,DB00151
+Thiamin pyrophosphokinase 1,DB00152
+Vitamin D3 receptor,DB00153
+Voltage-dependent calcium channel,DB00153
+Prostaglandin G/H synthase 1,DB00154
+Prostaglandin G/H synthase 2,DB00154
+Argininosuccinate synthase,DB00155
+"N(G),N(G)-dimethylarginine dimethylaminohydrolase 2",DB00155
+"Argininosuccinate synthetase, isoform CRA_a",DB00155
+"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",DB00155
+"Ornithine carbamoyltransferase, mitochondrial",DB00155
+"Nitric oxide synthase, brain",DB00155
+"Nitric oxide synthase, inducible",DB00155
+"Nitric oxide synthase, endothelial",DB00155
+Protein-arginine deiminase type-6,DB00155
+Protein-arginine deiminase type-1,DB00155
+Protein-arginine deiminase type-3,DB00155
+Protein-arginine deiminase type-2,DB00155
+Protein-arginine deiminase type-4,DB00155
+"Threonine--tRNA ligase, cytoplasmic",DB00156
+"Threonine--tRNA ligase, mitochondrial",DB00156
+UDP-glucose 6-dehydrogenase,DB00157
+Alcohol dehydrogenase 1A,DB00157
+Sorbitol dehydrogenase,DB00157
+Alcohol dehydrogenase 4,DB00157
+Alcohol dehydrogenase 1C,DB00157
+Alcohol dehydrogenase 1B,DB00157
+Alcohol dehydrogenase class 4 mu/sigma chain,DB00157
+"Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic",DB00157
+L-lactate dehydrogenase A-like 6A,DB00157
+Alcohol dehydrogenase class-3,DB00157
+Aldose reductase,DB00157
+3-hydroxyacyl-CoA dehydrogenase type-2,DB00157
+"Malate dehydrogenase, mitochondrial",DB00157
+L-lactate dehydrogenase A chain,DB00157
+"NAD-dependent malic enzyme, mitochondrial",DB00157
+Peroxisomal multifunctional enzyme type 2,DB00157
+L-lactate dehydrogenase A-like 6B,DB00157
+L-lactate dehydrogenase C chain,DB00157
+L-lactate dehydrogenase B chain,DB00157
+Peroxisomal bifunctional enzyme,DB00157
+"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial",DB00157
+"NADP-dependent malic enzyme, mitochondrial",DB00157
+"D-beta-hydroxybutyrate dehydrogenase, mitochondrial",DB00157
+"Malate dehydrogenase, cytoplasmic",DB00157
+"3-hydroxyisobutyrate dehydrogenase, mitochondrial",DB00157
+Testosterone 17-beta-dehydrogenase 3,DB00157
+3-hydroxy-3-methylglutaryl-coenzyme A reductase,DB00157
+NADP-dependent malic enzyme,DB00157
+D-3-phosphoglycerate dehydrogenase,DB00157
+3-keto-steroid reductase,DB00157
+"Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial",DB00157
+"Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial",DB00157
+"Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial",DB00157
+Estradiol 17-beta-dehydrogenase 1,DB00157
+Estradiol 17-beta-dehydrogenase 2,DB00157
+11-cis retinol dehydrogenase,DB00157
+GDH/6PGL endoplasmic bifunctional protein,DB00157
+Estradiol 17-beta-dehydrogenase 8,DB00157
+Aldo-keto reductase family 1 member C4,DB00157
+Inosine-5'-monophosphate dehydrogenase 2,DB00157
+Aldo-keto reductase family 1 member C3,DB00157
+15-hydroxyprostaglandin dehydrogenase [NAD(+)],DB00157
+GDP-L-fucose synthase,DB00157
+Aldo-keto reductase family 1 member C1,DB00157
+Corticosteroid 11-beta-dehydrogenase isozyme 1,DB00157
+3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2,DB00157
+3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1,DB00157
+Inosine-5'-monophosphate dehydrogenase 1,DB00157
+"Trifunctional enzyme subunit alpha, mitochondrial",DB00157
+"Aldehyde dehydrogenase, mitochondrial",DB00157
+Corticosteroid 11-beta-dehydrogenase isozyme 2,DB00157
+Aldo-keto reductase family 1 member C2,DB00157
+"Sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating",DB00157
+Aldehyde dehydrogenase family 3 member B2,DB00157
+"Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial",DB00157
+"Aldehyde dehydrogenase, dimeric NADP-preferring",DB00157
+Retinal dehydrogenase 1,DB00157
+"Glyceraldehyde-3-phosphate dehydrogenase, testis-specific",DB00157
+4-trimethylaminobutyraldehyde dehydrogenase,DB00157
+Aldehyde dehydrogenase family 1 member A3,DB00157
+"Aldehyde dehydrogenase X, mitochondrial",DB00157
+Aldehyde dehydrogenase family 3 member B1,DB00157
+Glyceraldehyde-3-phosphate dehydrogenase,DB00157
+Retinal dehydrogenase 2,DB00157
+Fatty aldehyde dehydrogenase,DB00157
+"Succinate-semialdehyde dehydrogenase, mitochondrial",DB00157
+Alpha-aminoadipic semialdehyde dehydrogenase,DB00157
+Flavin reductase (NADPH),DB00157
+Pyrroline-5-carboxylate reductase 2,DB00157
+"Pyrroline-5-carboxylate reductase 1, mitochondrial",DB00157
+"Glutamate dehydrogenase 1, mitochondrial",DB00157
+"Pyruvate dehydrogenase E1 component subunit beta, mitochondrial",DB00157
+"Pyruvate dehydrogenase E1 component subunit alpha, testis-specific form, mitochondrial",DB00157
+"Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial",DB00157
+Biliverdin reductase A,DB00157
+"Short-chain specific acyl-CoA dehydrogenase, mitochondrial",DB00157
+Dihydrofolate reductase,DB00157
+"2-oxoglutarate dehydrogenase, mitochondrial",DB00157
+"Glutamate dehydrogenase 2, mitochondrial",DB00157
+7-dehydrocholesterol reductase,DB00157
+Ribosyldihydronicotinamide dehydrogenase [quinone],DB00157
+NADH-ubiquinone oxidoreductase chain 2,DB00157
+"Alpha-aminoadipic semialdehyde synthase, mitochondrial",DB00157
+NADH-ubiquinone oxidoreductase chain 3,DB00157
+"NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial",DB00157
+"C-1-tetrahydrofolate synthase, cytoplasmic",DB00157
+"Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial",DB00157
+"Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial",DB00157
+NADH-cytochrome b5 reductase 3,DB00157
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 11,DB00157
+NADH-ubiquinone oxidoreductase chain 4,DB00157
+Dihydropteridine reductase,DB00157
+NADH-ubiquinone oxidoreductase chain 1,DB00157
+"NAD(P) transhydrogenase, mitochondrial",DB00157
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5,DB00157
+"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9, mitochondrial",DB00157
+NADH-ubiquinone oxidoreductase chain 4L,DB00157
+"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial",DB00157
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7,DB00157
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1,DB00157
+NADH-ubiquinone oxidoreductase chain 6,DB00157
+NADH-ubiquinone oxidoreductase chain 5,DB00157
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4,DB00157
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6,DB00157
+"Acyl carrier protein, mitochondrial",DB00157
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2,DB00157
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8,DB00157
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3,DB00157
+"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial",DB00157
+NADH dehydrogenase [ubiquinone] 1 subunit C2,DB00157
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 1,DB00157
+"NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial",DB00157
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10,DB00157
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4,DB00157
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3,DB00157
+"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, mitochondrial",DB00157
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7,DB00157
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9,DB00157
+"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial",DB00157
+"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 5, mitochondrial",DB00157
+"NADH dehydrogenase [ubiquinone] 1 subunit C1, mitochondrial",DB00157
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 6,DB00157
+"NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial",DB00157
+"Dihydrolipoyl dehydrogenase, mitochondrial",DB00157
+"NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial",DB00157
+"Glutathione reductase, mitochondrial",DB00157
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12,DB00157
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 5,DB00157
+"NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial",DB00157
+"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial",DB00157
+"NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial",DB00157
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13,DB00157
+Cysteine dioxygenase type 1,DB00157
+"NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial",DB00157
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4-like 2,DB00157
+"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial",DB00157
+Cytochrome P450 4A11,DB00157
+"Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial",DB00157
+"Aminomethyltransferase, mitochondrial",DB00157
+Methylsterol monooxygenase 1,DB00157
+Heme oxygenase 1,DB00157
+Heme oxygenase 2,DB00157
+"Steroid 17-alpha-hydroxylase/17,20 lyase",DB00157
+Tyrosinase,DB00157
+Folate receptor gamma,DB00158
+Folate receptor beta,DB00158
+Folate receptor alpha,DB00158
+Prostaglandin G/H synthase 2,DB00159
+Prostaglandin G/H synthase 1,DB00159
+Peroxisome proliferator-activated receptor gamma,DB00159
+Peroxisome proliferator-activated receptor delta,DB00159
+Fatty acid desaturase 1,DB00159
+Long-chain-fatty-acid--CoA ligase 4,DB00159
+Free fatty acid receptor 1,DB00159
+Sodium/calcium exchanger 1,DB00159
+Transient receptor potential cation channel subfamily V member 1,DB00159
+Peroxisome proliferator-activated receptor alpha,DB00159
+Serine--pyruvate aminotransferase,DB00160
+"4-aminobutyrate aminotransferase, mitochondrial",DB00160
+Kynureninase,DB00160
+"Alanine--tRNA ligase, mitochondrial",DB00160
+5-phosphohydroxy-L-lysine phospho-lyase,DB00160
+Alanine aminotransferase 2,DB00160
+Alanine aminotransferase 1,DB00160
+"Cysteine desulfurase, mitochondrial",DB00160
+Proton-coupled amino acid transporter 1,DB00160
+Large neutral amino acids transporter small subunit 2,DB00160
+"Alanine--glyoxylate aminotransferase 2, mitochondrial",DB00160
+"Alanine--tRNA ligase, cytoplasmic",DB00160
+Neutral amino acid transporter A,DB00160
+"Propionyl-CoA carboxylase beta chain, mitochondrial",DB00161
+"Branched-chain-amino-acid aminotransferase, cytosolic",DB00161
+Valine--tRNA ligase,DB00161
+Retinol dehydrogenase 12,DB00162
+Short-chain dehydrogenase/reductase 3,DB00162
+Aldehyde dehydrogenase family 1 member A3,DB00162
+"All-trans-retinol 13,14-reductase",DB00162
+Retinol dehydrogenase 11,DB00162
+Dehydrogenase/reductase SDR family member 4,DB00162
+Retinol dehydrogenase 14,DB00162
+Retinol dehydrogenase 8,DB00162
+Lecithin retinol acyltransferase,DB00162
+11-cis retinol dehydrogenase,DB00162
+Retinol dehydrogenase 13,DB00162
+Retinal dehydrogenase 2,DB00162
+Retinal dehydrogenase 1,DB00162
+Apolipoprotein D,DB00162
+Prostaglandin-H2 D-isomerase,DB00162
+Nuclear receptor subfamily 1 group I member 2,DB00163
+Protein kinase C beta type,DB00163
+Arachidonate 5-lipoxygenase,DB00163
+Protein kinase C alpha type,DB00163
+Diacylglycerol kinase alpha,DB00163
+Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform,DB00163
+Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform,DB00163
+SEC14-like protein 4,DB00163
+SEC14-like protein 3,DB00163
+SEC14-like protein 2,DB00163
+Pyridoxal kinase,DB00165
+"Lipoyltransferase 1, mitochondrial",DB00166
+"Lipoyl synthase, mitochondrial",DB00166
+Sodium-dependent multivitamin transporter,DB00166
+"Isoleucine--tRNA ligase, mitochondrial",DB00167
+"Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial",DB00167
+"Branched-chain-amino-acid aminotransferase, cytosolic",DB00167
+"Branched-chain-amino-acid aminotransferase, mitochondrial",DB00167
+"Isoleucine--tRNA ligase, cytoplasmic",DB00167
+Transient receptor potential cation channel subfamily V member 1,DB00168
+Taste receptor type 1 member 2,DB00168
+Taste receptor type 1 member 3,DB00168
+Vitamin D3 receptor,DB00169
+Vitamin K-dependent gamma-carboxylase,DB00170
+Vitamin K epoxide reductase complex subunit 1,DB00170
+Vitamin K epoxide reductase complex subunit 1-like protein 1,DB00170
+Prothrombin,DB00170
+Coagulation factor IX,DB00170
+Vitamin K-dependent protein C,DB00170
+Vitamin K-dependent protein S,DB00170
+Ribosyldihydronicotinamide dehydrogenase [quinone],DB00170
+NAD(P)H dehydrogenase [quinone] 1,DB00170
+Osteocalcin,DB00170
+Abelson tyrosine-protein kinase 2,DB00171
+P-glycoprotein 1,DB00171
+ATP-binding cassette sub-family G member 1,DB00171
+Canalicular multispecific organic anion transporter 1,DB00171
+ATP-binding cassette sub-family A member 1,DB00171
+"Acetyl-coenzyme A synthetase, cytoplasmic",DB00171
+ALK tyrosine kinase receptor,DB00171
+NEDD8-activating enzyme E1 regulatory subunit,DB00171
+5'-AMP-activated protein kinase catalytic subunit alpha-1,DB00171
+Serine/threonine-protein kinase A-Raf,DB00171
+Serine/threonine-protein kinase receptor R3,DB00171
+Long-chain-fatty-acid--CoA ligase 1,DB00171
+Cytosolic purine 5'-nucleotidase,DB00171
+ATPase ASNA1,DB00171
+ATP-binding cassette sub-family C member 9,DB00171
+RAC-alpha serine/threonine-protein kinase,DB00171
+Beta-adrenergic receptor kinase 1,DB00171
+Apoptotic protease-activating factor 1,DB00171
+"Acetyl-coenzyme A synthetase 2-like, mitochondrial",DB00171
+Activin receptor type-1B,DB00171
+Activin receptor type-1,DB00171
+Bile salt export pump,DB00171
+Asparagine synthetase [glutamine-hydrolyzing],DB00171
+Cyclin-dependent kinase 15,DB00171
+ADP/ATP translocase 1,DB00171
+ATP-binding cassette sub-family C member 8,DB00171
+Argininosuccinate synthase,DB00171
+AFG3-like protein 2,DB00171
+Beta-adrenergic receptor kinase 2,DB00171
+Anti-Muellerian hormone type-2 receptor,DB00171
+Activated CDC42 kinase 1,DB00171
+Tyrosine-protein kinase ABL1,DB00171
+Adenylate cyclase type 1,DB00171
+Multidrug resistance-associated protein 6,DB00171
+Multidrug resistance-associated protein 4,DB00171
+Multidrug resistance-associated protein 1,DB00171
+Cystic fibrosis transmembrane conductance regulator,DB00171
+"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",DB00171
+Casein kinase II subunit alpha,DB00171
+Casein kinase II subunit beta,DB00171
+P2Y purinoceptor 11,DB00171
+Serine/threonine-protein phosphatase 5,DB00171
+Prolyl 4-hydroxylase subunit alpha-2,DB00172
+"Proline dehydrogenase 1, mitochondrial",DB00172
+Peptidyl-prolyl cis-trans isomerase H,DB00172
+Proline synthase co-transcribed bacterial homolog protein,DB00172
+Prolyl 4-hydroxylase subunit alpha-1,DB00172
+Peptidyl-prolyl cis-trans isomerase B,DB00172
+"Peptidyl-prolyl cis-trans isomerase F, mitochondrial",DB00172
+Peptidyl-prolyl cis-trans isomerase C,DB00172
+Peptidyl-prolyl cis-trans isomerase A,DB00172
+Peptidyl-prolyl cis-trans isomerase G,DB00172
+Prolyl 3-hydroxylase 1,DB00172
+Pyrroline-5-carboxylate reductase,DB00172
+"Probable proline--tRNA ligase, mitochondrial",DB00172
+Prolyl 3-hydroxylase 2,DB00172
+Prolyl 3-hydroxylase 3,DB00172
+Pyrroline-5-carboxylate reductase 3,DB00172
+Trans-L-3-hydroxyproline dehydratase,DB00172
+"Pyrroline-5-carboxylate reductase 1, mitochondrial",DB00172
+Bifunctional glutamate/proline--tRNA ligase,DB00172
+Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+),DB00172
+Sodium-dependent proline transporter,DB00172
+Pyrroline-5-carboxylate reductase 2,DB00172
+Adenine phosphoribosyltransferase,DB00173
+5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,DB00173
+Acetyl-CoA carboxylase 2,DB00173
+Low molecular weight phosphotyrosine protein phosphatase,DB00173
+Peroxisomal trans-2-enoyl-CoA reductase,DB00173
+A/G-specific adenine glycosylase,DB00173
+Nucleoside deoxyribosyltransferase-I,DB00173
+SRSF protein kinase 2,DB00173
+Holliday junction ATP-dependent DNA helicase RuvB,DB00173
+DNA,DB00173
+S-methyl-5'-thioadenosine phosphorylase,DB00173
+Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase,DB00173
+Neutral amino acid transporter B(0),DB00174
+Isoaspartyl peptidase/L-asparaginase,DB00174
+"Probable asparagine--tRNA ligase, mitochondrial",DB00174
+Asparagine synthetase [glutamine-hydrolyzing],DB00174
+"Asparagine--tRNA ligase, cytoplasmic",DB00174
+Sodium-coupled neutral amino acid transporters,DB00174
+3-hydroxy-3-methylglutaryl-coenzyme A reductase,DB00175
+Histone deacetylase 2,DB00175
+Sodium-dependent serotonin transporter,DB00176
+Potassium voltage-gated channel subfamily H member 2,DB00176
+Type-1 angiotensin II receptor,DB00177
+Angiotensin-converting enzyme,DB00178
+B1 bradykinin receptor,DB00178
+Arachidonate 5-lipoxygenase,DB00179
+Sex hormone-binding globulin,DB00179
+Glucocorticoid receptor,DB00180
+Gamma-aminobutyric acid type B receptor subunit 1,DB00181
+Gamma-aminobutyric acid type B receptor subunit 2,DB00181
+Synaptic vesicular amine transporter,DB00182
+Sodium-dependent dopamine transporter,DB00182
+Cocaine- and amphetamine-regulated transcript protein,DB00182
+Trace amine-associated receptor 1,DB00182
+Sodium-dependent noradrenaline transporter,DB00182
+Alpha adrenergic receptor,DB00182
+Beta adrenergic receptor,DB00182
+Dopamine D2 receptor,DB00182
+Amine oxidase [flavin-containing] B,DB00182
+Sodium-dependent serotonin transporter,DB00182
+Monoamine oxidase,DB00182
+vesicular monoamine transporter 2 (VMAT2),DB00182
+Gastrin/cholecystokinin type B receptor,DB00183
+Neuronal acetylcholine receptor subunit alpha-4,DB00184
+Neuronal acetylcholine receptor subunit alpha-7,DB00184
+Neuronal acetylcholine receptor subunit beta-2,DB00184
+Neuronal acetylcholine receptor subunit alpha-2,DB00184
+Neuronal acetylcholine receptor subunit alpha-3,DB00184
+Neuronal acetylcholine receptor subunit alpha-5,DB00184
+Neuronal acetylcholine receptor subunit alpha-6,DB00184
+Neuronal acetylcholine receptor subunit alpha-9,DB00184
+Neuronal acetylcholine receptor subunit alpha-10,DB00184
+Neuronal acetylcholine receptor subunit beta-3,DB00184
+Neuronal acetylcholine receptor subunit beta-4,DB00184
+Cytochrome P450 19A1,DB00184
+Choline O-acetyltransferase,DB00184
+Muscarinic acetylcholine receptor M3,DB00185
+Muscarinic acetylcholine receptor M1,DB00185
+GABA(A) Receptor,DB00186
+GABA(A) Receptor Benzodiazepine Binding Site,DB00186
+Beta-1 adrenergic receptor,DB00187
+Proteasome subunit beta type-5,DB00188
+Proteasome subunit beta type-1,DB00188
+GABA(A) Receptor,DB00189
+Aromatic-L-amino-acid decarboxylase,DB00190
+Sodium-dependent noradrenaline transporter,DB00191
+Sodium-dependent serotonin transporter,DB00191
+Sodium-dependent dopamine transporter,DB00191
+Amine oxidase [flavin-containing] A,DB00191
+Amine oxidase [flavin-containing] B,DB00191
+Pro-neuropeptide Y,DB00191
+Sodium channel protein type 5 subunit alpha,DB00192
+Mu-type opioid receptor,DB00193
+Sodium-dependent noradrenaline transporter,DB00193
+Sodium-dependent serotonin transporter,DB00193
+5-hydroxytryptamine receptor 2C,DB00193
+Kappa-type opioid receptor,DB00193
+Delta-type opioid receptor,DB00193
+Alpha-7 nicotinic cholinergic receptor subunit,DB00193
+Muscarinic acetylcholine receptor M3,DB00193
+Muscarinic acetylcholine receptor M1,DB00193
+Neurokinin 1 receptor,DB00193
+Sodium channel protein type 2 subunit alpha,DB00193
+Transient receptor potential cation channel subfamily V member 1,DB00193
+NMDA receptor,DB00193
+Adenosine receptor A1,DB00193
+Alpha-2 adrenergic receptors,DB00193
+DNA polymerase catalytic subunit,DB00194
+Thymidine kinase,DB00194
+Beta-1 adrenergic receptor,DB00195
+Beta-2 adrenergic receptor,DB00195
+Cytochrome P450 51,DB00196
+Peroxisome proliferator-activated receptor gamma,DB00197
+Long-chain-fatty-acid--CoA ligase 4,DB00197
+Plasminogen activator inhibitor 1,DB00197
+Equilibrative nucleoside transporter 1,DB00197
+Estrogen-related receptor gamma,DB00197
+Steroid hormone receptor ERR1,DB00197
+Peroxisome proliferator-activated receptor delta,DB00197
+Peroxisome proliferator-activated receptor alpha,DB00197
+Glutathione S-transferase P,DB00197
+Neuraminidase,DB00198
+Sialidase-1,DB00198
+Sialidase-2,DB00198
+23S ribosomal RNA,DB00199
+Motilin receptor,DB00199
+Potassium voltage-gated channel subfamily H member 2,DB00199
+Methionine synthase,DB00200
+"Methylmalonyl-CoA mutase, mitochondrial",DB00200
+"Methylmalonic aciduria type A protein, mitochondrial",DB00200
+Transcobalamin-1,DB00200
+Protein amnionless,DB00200
+Cubilin,DB00200
+Methylmalonic aciduria and homocystinuria type C protein,DB00200
+Adenosine receptor A1,DB00201
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",DB00201
+Adenosine receptor A2a,DB00201
+Ryanodine receptor 1,DB00201
+Cyclic nucleotide phosphodiesterase,DB00201
+DNA-dependent protein kinase catalytic subunit,DB00201
+"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",DB00201
+"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",DB00201
+"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",DB00201
+"Inositol 1,4,5-trisphosphate receptor",DB00201
+Serine-protein kinase ATM,DB00201
+Adenosine receptor A2b,DB00201
+Adenosine receptor A3,DB00201
+Phosphodiesterase enzymes,DB00201
+Neuronal acetylcholine receptor subunit alpha-10,DB00202
+Alpha-7 nicotinic cholinergic receptor subunit,DB00202
+Muscarinic acetylcholine receptor M1,DB00202
+Muscarinic acetylcholine receptor M2,DB00202
+Muscarinic acetylcholine receptor M3,DB00202
+"cGMP-specific 3',5'-cyclic phosphodiesterase",DB00203
+"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma",DB00203
+"Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma",DB00203
+Potassium voltage-gated channel subfamily H member 2,DB00204
+Potassium channel subfamily K member 2,DB00204
+ATP-sensitive inward rectifier potassium channel 12,DB00204
+Dihydrofolate reductase,DB00205
+Bifunctional dihydrofolate reductase-thymidylate synthase,DB00205
+Beta-hexosaminidase subunit beta,DB00205
+Synaptic vesicular amine transporter,DB00206
+Chromaffin granule amine transporter,DB00206
+Baculoviral IAP repeat-containing protein 5,DB00206
+23S ribosomal RNA,DB00207
+Protein-arginine deiminase type-4,DB00207
+P2Y purinoceptor 12,DB00208
+Muscarinic acetylcholine receptor M1,DB00209
+Muscarinic acetylcholine receptor M3,DB00209
+Retinoic acid receptor beta,DB00210
+Retinoic acid receptor gamma,DB00210
+Retinoic acid receptor RXR-beta,DB00210
+Retinoic acid receptor RXR-gamma,DB00210
+Retinoic acid receptor RXR-alpha,DB00210
+Transcription factor AP-1,DB00210
+Toll-like receptor 2,DB00210
+Retinoic acid receptor alpha,DB00210
+"Aspartate aminotransferase, cytoplasmic",DB00210
+Alpha-1A adrenergic receptor,DB00211
+Alpha-1B adrenergic receptor,DB00211
+Alpha-1D adrenergic receptor,DB00211
+Renin,DB00212
+Potassium-transporting ATPase alpha chain 1,DB00213
+"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",DB00213
+Solute carrier family 12 member 1,DB00214
+Solute carrier family 12 member 2,DB00214
+Sodium-dependent serotonin transporter,DB00215
+Histamine H1 receptor,DB00215
+5-hydroxytryptamine receptor 1D,DB00216
+5-hydroxytryptamine receptor 1B,DB00216
+5-hydroxytryptamine receptor 1F,DB00216
+5-hydroxytryptamine receptor 1A,DB00216
+Alpha-2 adrenergic receptors,DB00217
+ATP-sensitive inward rectifier potassium channel 1,DB00217
+Beta adrenergic receptor,DB00217
+DNA topoisomerase 4 subunit A,DB00218
+DNA gyrase subunit A,DB00218
+DNA topoisomerase 2-alpha,DB00218
+Muscarinic acetylcholine receptor M1,DB00219
+HIV-1 protease,DB00220
+Beta-1 adrenergic receptor,DB00221
+Beta-2 adrenergic receptor,DB00221
+ATP-sensitive inward rectifier potassium channel 11,DB00222
+ATP-sensitive inward rectifier potassium channel 1,DB00222
+ATP-binding cassette sub-family C member 8,DB00222
+Glucocorticoid receptor,DB00223
+Human immunodeficiency virus type 1 protease,DB00224
+Sodium-dependent noradrenaline transporter,DB00226
+3-hydroxy-3-methylglutaryl-coenzyme A reductase,DB00227
+Integrin alpha-L,DB00227
+Histone deacetylase 2,DB00227
+GABA(A) Receptor,DB00228
+Voltage-gated Potassium Channels,DB00228
+Calcium-transporting ATPase type 2C member 1,DB00228
+Glutamate (NMDA) receptor,DB00228
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,DB00228
+Voltage-dependent calcium channel,DB00228
+Glycine receptor subunit alpha-1,DB00228
+Penicillin-binding protein 1A,DB00229
+Voltage-dependent calcium channel subunit alpha-2/delta-1,DB00230
+GABA(A) Receptor,DB00231
+GABA(A) Receptor Benzodiazepine Binding Site,DB00231
+Solute carrier family 12 member 1,DB00232
+Carbonic anhydrase 1,DB00232
+Carbonic anhydrase 2,DB00232
+Carbonic anhydrase 4,DB00232
+Prostaglandin G/H synthase 2,DB00233
+Inhibitor of nuclear factor kappa-B kinase subunit alpha,DB00233
+Arachidonate 5-lipoxygenase,DB00233
+Group IIE secretory phospholipase A2,DB00233
+Sodium-dependent noradrenaline transporter,DB00234
+"cGMP-inhibited 3',5'-cyclic phosphodiesterase A",DB00235
+DNA,DB00236
+GABA(A) Receptor,DB00237
+Neuronal Acetylcholine (nACh) Receptor Subunits,DB00237
+Glutamate receptor 1,DB00237
+Glutamate receptor 2,DB00237
+Glutamate receptor 3,DB00237
+Glutamate receptor 4,DB00237
+"Glutamate receptor ionotropic, kainate 1",DB00237
+"Glutamate receptor ionotropic, kainate 2",DB00237
+"Glutamate receptor ionotropic, kainate 3",DB00237
+"Glutamate receptor ionotropic, kainate 4",DB00237
+"Glutamate receptor ionotropic, kainate 5",DB00237
+Reverse transcriptase/RNaseH,DB00238
+Cytochrome P450 51,DB00239
+Lanosterol synthase,DB00239
+Nuclear receptor subfamily 1 group I member 2,DB00239
+Glucocorticoid receptor,DB00240
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00241
+Gamma-aminobutyric acid receptor subunit alpha-2,DB00241
+Gamma-aminobutyric acid receptor subunit alpha-3,DB00241
+Gamma-aminobutyric acid receptor subunit alpha-4,DB00241
+Gamma-aminobutyric acid receptor subunit alpha-5,DB00241
+Gamma-aminobutyric acid receptor subunit alpha-6,DB00241
+Neuronal acetylcholine receptor subunit alpha-4,DB00241
+Neuronal acetylcholine receptor subunit alpha-7,DB00241
+Glutamate receptor 2,DB00241
+"Glutamate receptor ionotropic, kainate 2",DB00241
+GABA(A) Receptor,DB00241
+Ribonucleoside-diphosphate reductase large subunit,DB00242
+Ribonucleoside-diphosphate reductase subunit M2,DB00242
+Ribonucleoside-diphosphate reductase subunit M2 B,DB00242
+DNA,DB00242
+DNA polymerase alpha catalytic subunit,DB00242
+DNA polymerase epsilon catalytic subunit A,DB00242
+DNA polymerase epsilon subunit 2,DB00242
+DNA polymerase epsilon subunit 3,DB00242
+DNA polymerase epsilon subunit 4,DB00242
+Purine nucleoside phosphorylase,DB00242
+Sodium channel protein,DB00243
+Inward rectifier potassium channel,DB00243
+Voltage gated L-type calcium channel,DB00243
+Alpha-1 adrenergic receptors,DB00243
+Beta-1 adrenergic receptor,DB00243
+Fatty acid,DB00243
+Prostaglandin G/H synthase 2,DB00244
+Prostaglandin G/H synthase 1,DB00244
+Arachidonate 5-lipoxygenase,DB00244
+Peroxisome proliferator-activated receptor gamma,DB00244
+Inhibitor of nuclear factor kappa-B kinase subunit alpha,DB00244
+Inhibitor of nuclear factor kappa-B kinase subunit beta,DB00244
+Myeloperoxidase,DB00244
+Arylamine N-acetyltransferase,DB00244
+Muscarinic acetylcholine receptor M1,DB00245
+Sodium-dependent dopamine transporter,DB00245
+Histamine H1 receptor,DB00245
+Sodium-dependent serotonin transporter,DB00245
+Sodium-dependent noradrenaline transporter,DB00245
+Dopamine D2 receptor,DB00246
+Dopamine D1 receptor,DB00246
+Dopamine D5 receptor,DB00246
+5-hydroxytryptamine receptor 2A,DB00246
+Dopamine D3 receptor,DB00246
+Dopamine D4 receptor,DB00246
+5-hydroxytryptamine receptor 1A,DB00246
+5-hydroxytryptamine receptor 1B,DB00246
+5-hydroxytryptamine receptor 1D,DB00246
+5-hydroxytryptamine receptor 1E,DB00246
+5-hydroxytryptamine receptor 2C,DB00246
+5-hydroxytryptamine receptor 6,DB00246
+5-hydroxytryptamine receptor 7,DB00246
+Histamine H1 receptor,DB00246
+Alpha-1A adrenergic receptor,DB00246
+Alpha-1B adrenergic receptor,DB00246
+Alpha-2A adrenergic receptor,DB00246
+Alpha-2B adrenergic receptor,DB00246
+Alpha-2C adrenergic receptor,DB00246
+Muscarinic acetylcholine receptor M1,DB00246
+Muscarinic acetylcholine receptor M2,DB00246
+Muscarinic acetylcholine receptor M3,DB00246
+Muscarinic acetylcholine receptor M4,DB00246
+Muscarinic acetylcholine receptor M5,DB00246
+5-hydroxytryptamine 3 receptor,DB00246
+5-hydroxytryptamine receptor 5A,DB00246
+5-hydroxytryptamine receptor 2B,DB00247
+5-hydroxytryptamine receptor 2C,DB00247
+5-hydroxytryptamine receptor 2A,DB00247
+5-hydroxytryptamine receptor 1A,DB00247
+5-hydroxytryptamine receptor 7,DB00247
+5-hydroxytryptamine receptor 1B,DB00247
+5-hydroxytryptamine receptor 1F,DB00247
+5-hydroxytryptamine receptor 1E,DB00247
+Dopamine D2 receptor,DB00248
+5-hydroxytryptamine receptor 2B,DB00248
+Dopamine D3 receptor,DB00248
+5-hydroxytryptamine receptor 2A,DB00248
+Alpha-2B adrenergic receptor,DB00248
+5-hydroxytryptamine receptor 1D,DB00248
+Dopamine D4 receptor,DB00248
+Alpha-2A adrenergic receptor,DB00248
+5-hydroxytryptamine receptor 1A,DB00248
+Alpha-2C adrenergic receptor,DB00248
+Dopamine D5 receptor,DB00248
+Dopamine D1 receptor,DB00248
+5-hydroxytryptamine receptor 1B,DB00248
+5-hydroxytryptamine receptor 2C,DB00248
+5-hydroxytryptamine receptor 7,DB00248
+Alpha-1A adrenergic receptor,DB00248
+Alpha-1B adrenergic receptor,DB00248
+Alpha-1D adrenergic receptor,DB00248
+Beta-1 adrenergic receptor,DB00248
+Beta-2 adrenergic receptor,DB00248
+D(1) dopamine receptor,DB00248
+DNA,DB00249
+Thymidine kinase,DB00249
+Inactive dihydropteroate synthase 2,DB00250
+Dihydropteroate synthase 1,DB00250
+Cytochrome P450 51,DB00251
+Sodium channel protein type 5 subunit alpha,DB00252
+Sodium channel protein type 1 subunit alpha,DB00252
+Nuclear receptor subfamily 1 group I member 2,DB00252
+Sodium channel subunit beta-1,DB00252
+Sodium channel protein type 3 subunit alpha,DB00252
+Potassium voltage-gated channel subfamily H member 2,DB00252
+Voltage-dependent L-type calcium channel,DB00252
+Sodium channel protein type 2 subunit alpha,DB00252
+Sodium channel protein type 8 subunit alpha,DB00252
+GABA(A) Receptor,DB00252
+Glucocorticoid receptor,DB00253
+16S ribosomal RNA,DB00254
+Estrogen receptor alpha,DB00255
+Estrogen-related receptor gamma,DB00255
+Estrogen receptor beta,DB00255
+Steroid hormone receptor ERR1,DB00255
+Steroid hormone receptor ERR2,DB00255
+Nuclear receptor coactivator 2,DB00255
+Nuclear receptor subfamily 1 group I member 2,DB00255
+Androgen receptor,DB00255
+Sex hormone-binding globulin,DB00255
+30S ribosomal protein S4,DB00256
+Cytochrome P450 51,DB00257
+Intermediate conductance calcium-activated potassium channel protein 4,DB00257
+Nuclear receptor subfamily 1 group I member 2,DB00257
+Hydroxycarboxylic acid receptor 2,DB00257
+Ergosterol,DB00257
+Phosphate,DB00258
+Dihydropteroate synthase,DB00259
+D-alanine--D-alanine ligase A,DB00260
+Alanine racemase,DB00260
+"cGMP-inhibited 3',5'-cyclic phosphodiesterase A",DB00261
+DNA,DB00262
+"Glutathione reductase, mitochondrial",DB00262
+RNA,DB00262
+Dihydropteroate synthase,DB00263
+Beta-1 adrenergic receptor,DB00264
+Beta-2 adrenergic receptor,DB00264
+Vitamin K epoxide reductase complex subunit 1,DB00266
+NAD(P)H dehydrogenase [quinone] 1,DB00266
+Quinone oxidoreductase,DB00266
+Penicillin-binding protein 1A,DB00267
+Peptidoglycan synthase FtsI,DB00267
+Dopamine D3 receptor,DB00268
+Dopamine D4 receptor,DB00268
+Alpha adrenergic receptor,DB00268
+Dopamine D2 receptor,DB00268
+Estrogen receptor alpha,DB00269
+Voltage-dependent L-type calcium channel subunit alpha-1C,DB00270
+Voltage-dependent calcium channel subunit alpha-2/delta-1,DB00270
+Voltage-dependent L-type calcium channel subunit beta-2,DB00270
+Voltage-dependent T-type calcium channel subunit alpha-1H,DB00270
+Voltage-dependent calcium channel subunit alpha-2/delta-2,DB00270
+Voltage-dependent L-type calcium channel subunit alpha-1D,DB00270
+Voltage-dependent L-type calcium channel subunit alpha-1S,DB00270
+Histamine H2 receptor,DB00272
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00273
+Voltage-gated sodium channel alpha subunit,DB00273
+Kainate receptors,DB00273
+Carbonic anhydrase 2,DB00273
+Carbonic anhydrase 4,DB00273
+Carbonic anhydrase 1,DB00273
+Carbonic anhydrase 3,DB00273
+Voltage gated L-type calcium channel,DB00273
+Voltage-dependent R-type calcium channel,DB00273
+Penicillin binding protein 2a,DB00274
+Penicillin-binding protein 1A,DB00274
+Penicillin-binding protein 1B,DB00274
+Peptidoglycan synthase FtsI,DB00274
+D-alanyl-D-alanine carboxypeptidase DacA,DB00274
+D-alanyl-D-alanine carboxypeptidase DacC,DB00274
+Type-1 angiotensin II receptor,DB00275
+DNA,DB00276
+DNA topoisomerase 2-alpha,DB00276
+Potassium voltage-gated channel subfamily H member 2,DB00276
+Alpha-1-acid glycoprotein 1,DB00276
+Serum albumin,DB00276
+Adenosine receptor A1,DB00277
+Adenosine receptor A2a,DB00277
+Adenosine receptor A2b,DB00277
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",DB00277
+"cGMP-specific 3',5'-cyclic phosphodiesterase",DB00277
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4A",DB00277
+"cGMP-inhibited 3',5'-cyclic phosphodiesterase A",DB00277
+Histone deacetylase 2,DB00277
+Copine-1,DB00277
+Minor histocompatibility antigen H13,DB00277
+Nodal modulator 1,DB00277
+Poly [ADP-ribose] polymerase 1,DB00277
+Protein RIC-3,DB00277
+Tubulin monoglycylase TTLL3,DB00277
+Prothrombin,DB00278
+Thyroid hormone receptor alpha,DB00279
+Thyroid hormone receptor beta,DB00279
+Proliferating cell nuclear antigen,DB00279
+Sodium channel protein type 5 subunit alpha,DB00280
+Muscarinic acetylcholine receptor M1,DB00280
+Muscarinic acetylcholine receptor M2,DB00280
+Muscarinic acetylcholine receptor M3,DB00280
+Potassium voltage-gated channel subfamily D member 2,DB00280
+Potassium voltage-gated channel subfamily D member 3,DB00280
+Potassium voltage-gated channel subfamily H member 2,DB00280
+Alpha-1-acid glycoprotein 2,DB00280
+Sodium channel protein type 10 subunit alpha,DB00281
+Sodium channel protein type 9 subunit alpha,DB00281
+Sodium channel protein type 5 subunit alpha,DB00281
+Epidermal growth factor receptor,DB00281
+Sodium channel protein type 4 subunit alpha,DB00281
+Alpha-1-acid glycoprotein 1,DB00281
+Alpha-1-acid glycoprotein 2,DB00281
+Farnesyl pyrophosphate synthase,DB00282
+Hydroxylapatite,DB00282
+Geranylgeranyl pyrophosphate synthase,DB00282
+Caspase-3,DB00282
+Caspase-9,DB00282
+Histamine H1 receptor,DB00283
+"Maltase-glucoamylase, intestinal",DB00284
+Pancreatic alpha-amylase,DB00284
+Lysosomal alpha-glucosidase,DB00284
+"Sucrase-isomaltase, intestinal",DB00284
+Sodium-dependent serotonin transporter,DB00285
+Sodium-dependent noradrenaline transporter,DB00285
+Sodium-dependent dopamine transporter,DB00285
+Estrogen receptor alpha,DB00286
+Estrogen receptor beta,DB00286
+Prostaglandin F2-alpha receptor,DB00287
+Glucocorticoid receptor,DB00288
+Annexin A1,DB00288
+Sodium-dependent noradrenaline transporter,DB00289
+Sodium-dependent serotonin transporter,DB00289
+NMDA receptor,DB00289
+G protein-activated inward rectifier potassium channel 1,DB00289
+Kappa-type opioid receptor,DB00289
+DNA ligase 1,DB00290
+DNA,DB00290
+DNA ligase 3,DB00290
+DNA,DB00291
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00292
+Alpha-2B adrenergic receptor,DB00292
+GABA(A) Receptor,DB00292
+Thymidylate synthase,DB00293
+"Folylpolyglutamate synthase, mitochondrial",DB00293
+Progesterone receptor,DB00294
+Mu-type opioid receptor,DB00295
+Kappa-type opioid receptor,DB00295
+Delta-type opioid receptor,DB00295
+Lymphocyte antigen 96,DB00295
+Sodium channel protein type 10 subunit alpha,DB00296
+Sodium channel protein type 10 subunit alpha,DB00297
+Prostaglandin E2 receptor EP1 subtype,DB00297
+Alpha-1A adrenergic receptor,DB00298
+Alpha-1D adrenergic receptor,DB00298
+Alpha-1B adrenergic receptor,DB00298
+DNA polymerase catalytic subunit,DB00299
+Thymidine kinase,DB00299
+Reverse transcriptase/RNaseH,DB00300
+DNA polymerase/reverse transcriptase,DB00300
+Penicillin-binding protein 1A,DB00301
+Plasminogen,DB00302
+Penicillin-binding protein 2,DB00303
+Peptidoglycan synthase FtsI,DB00303
+D-alanyl-D-alanine carboxypeptidase DacB,DB00303
+Penicillin-binding protein 1A,DB00303
+Penicillin-binding protein 1B,DB00303
+D-alanyl-D-alanine carboxypeptidase DacC,DB00303
+Progesterone receptor,DB00304
+Estrogen receptor alpha,DB00304
+DNA,DB00305
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00306
+Gamma-aminobutyric acid receptor subunit alpha-2,DB00306
+Gamma-aminobutyric acid receptor subunit alpha-3,DB00306
+Gamma-aminobutyric acid receptor subunit alpha-4,DB00306
+Gamma-aminobutyric acid receptor subunit alpha-5,DB00306
+Gamma-aminobutyric acid receptor subunit alpha-6,DB00306
+Neuronal acetylcholine receptor subunit alpha-4,DB00306
+Neuronal acetylcholine receptor subunit alpha-7,DB00306
+Glutamate receptor 2,DB00306
+"Glutamate receptor ionotropic, kainate 2",DB00306
+GABA(A) Receptor,DB00306
+Retinoic acid receptor RXR-alpha,DB00307
+Retinoic acid receptor RXR-beta,DB00307
+Retinoic acid receptor RXR-gamma,DB00307
+Voltage-dependent L-type calcium channel subunit alpha-1C,DB00308
+Voltage-dependent L-type calcium channel subunit beta-1,DB00308
+Potassium voltage-gated channel subfamily H member 2,DB00308
+Voltage-dependent calcium channel subunit alpha-2/delta-1,DB00308
+Voltage-dependent calcium channel gamma-1 subunit,DB00308
+Potassium channel subfamily K member 1,DB00308
+Potassium channel subfamily K member 6,DB00308
+Potassium voltage-gated channel subfamily H member 6,DB00308
+Potassium voltage-gated channel subfamily H member 7,DB00308
+ATP-sensitive inward rectifier potassium channel 11,DB00308
+Tubulin beta-1 chain,DB00309
+Solute carrier family 12 member 1,DB00310
+Carbonic anhydrase 1,DB00310
+Carbonic anhydrase 1,DB00311
+Carbonic anhydrase 2,DB00311
+Carbonic anhydrase 4,DB00311
+Carbonic anhydrase 7,DB00311
+Carbonic anhydrase 3,DB00311
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00312
+Gamma-aminobutyric acid receptor subunit alpha-2,DB00312
+Gamma-aminobutyric acid receptor subunit alpha-3,DB00312
+Gamma-aminobutyric acid receptor subunit alpha-4,DB00312
+Gamma-aminobutyric acid receptor subunit alpha-5,DB00312
+Gamma-aminobutyric acid receptor subunit alpha-6,DB00312
+Neuronal acetylcholine receptor subunit alpha-4,DB00312
+Neuronal acetylcholine receptor subunit alpha-7,DB00312
+Glutamate receptor 2,DB00312
+"Glutamate receptor ionotropic, kainate 2",DB00312
+GABA(A) Receptor,DB00312
+NMDA receptor,DB00312
+Nuclear receptor subfamily 1 group I member 2,DB00312
+"Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial",DB00313
+Histone deacetylase 9,DB00313
+"2-oxoglutarate dehydrogenase, mitochondrial",DB00313
+"Succinate-semialdehyde dehydrogenase, mitochondrial",DB00313
+Sodium channel protein,DB00313
+Histone deacetylase 2,DB00313
+Peroxisome proliferator-activated receptor alpha,DB00313
+Peroxisome proliferator-activated receptor delta,DB00313
+Peroxisome proliferator-activated receptor gamma,DB00313
+16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA,DB00314
+5-hydroxytryptamine receptor 1B,DB00315
+5-hydroxytryptamine receptor 1D,DB00315
+5-hydroxytryptamine receptor 1F,DB00315
+5-hydroxytryptamine receptor 1E,DB00315
+5-hydroxytryptamine receptor 7,DB00315
+5-hydroxytryptamine receptor 1A,DB00315
+5-hydroxytryptamine receptor 2A,DB00315
+5-hydroxytryptamine receptor 2B,DB00315
+Prostaglandin E synthase 3,DB00316
+Prostaglandin G/H synthase 2,DB00316
+Prostaglandin G/H synthase 1,DB00316
+Transient receptor potential cation channel subfamily V member 1,DB00316
+Epidermal growth factor receptor,DB00317
+Mu-type opioid receptor,DB00318
+Kappa-type opioid receptor,DB00318
+Delta-type opioid receptor,DB00318
+Penicillin-binding protein 3,DB00319
+Penicillin-binding protein 2B,DB00319
+Penicillin-binding protein 2a,DB00319
+Penicillin-binding protein 1b,DB00319
+5-hydroxytryptamine receptor 1D,DB00320
+5-hydroxytryptamine receptor 1B,DB00320
+Alpha-2A adrenergic receptor,DB00320
+5-hydroxytryptamine receptor 2B,DB00320
+Sodium-dependent noradrenaline transporter,DB00321
+Sodium-dependent serotonin transporter,DB00321
+5-hydroxytryptamine receptor 2A,DB00321
+5-hydroxytryptamine receptor 1A,DB00321
+Delta-type opioid receptor,DB00321
+Kappa-type opioid receptor,DB00321
+High affinity nerve growth factor receptor,DB00321
+BDNF/NT-3 growth factors receptor,DB00321
+Alpha-1A adrenergic receptor,DB00321
+Alpha-1D adrenergic receptor,DB00321
+Alpha-2A adrenergic receptor,DB00321
+Histamine H1 receptor,DB00321
+Potassium voltage-gated channel subfamily KQT member 2,DB00321
+Potassium voltage-gated channel subfamily A member 1,DB00321
+Histamine H2 receptor,DB00321
+Histamine H4 receptor,DB00321
+Sigma non-opioid intracellular receptor 1,DB00321
+5-hydroxytryptamine receptor 2C,DB00321
+Alpha-1B adrenergic receptor,DB00321
+5-hydroxytryptamine receptor 7,DB00321
+5-hydroxytryptamine receptor 1D,DB00321
+Mu-type opioid receptor,DB00321
+5-hydroxytryptamine receptor 1B,DB00321
+5-hydroxytryptamine receptor 6,DB00321
+Potassium voltage-gated channel subfamily KQT member 3,DB00321
+5-hydroxytryptamine receptor 1C,DB00321
+Muscarinic acetylcholine receptor,DB00321
+HERG human cardiac K+ channel,DB00321
+Thymidylate synthase,DB00322
+Catechol O-methyltransferase,DB00323
+Glucocorticoid receptor,DB00324
+Atrial natriuretic peptide receptor 1,DB00325
+Mu-type opioid receptor,DB00327
+Delta-type opioid receptor,DB00327
+Kappa-type opioid receptor,DB00327
+Prostaglandin G/H synthase 1,DB00328
+Prostaglandin G/H synthase 2,DB00328
+"Phospholipase A2, membrane associated",DB00328
+Prostaglandin reductase 2,DB00328
+Peroxisome proliferator-activated receptor gamma,DB00328
+Lactoylglutathione lyase,DB00328
+Prostaglandin D2 receptor 2,DB00328
+Peroxisome proliferator-activated receptor alpha,DB00328
+Aldo-keto reductase family 1 member C3,DB00328
+Probable arabinosyltransferase C,DB00330
+Probable arabinosyltransferase B,DB00330
+Probable arabinosyltransferase A,DB00330
+5'-AMP-activated protein kinase subunit beta-1,DB00331
+"Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial",DB00331
+"Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic",DB00331
+Muscarinic acetylcholine receptor M1,DB00332
+Muscarinic acetylcholine receptor M2,DB00332
+Muscarinic acetylcholine receptor M3,DB00332
+Mu-type opioid receptor,DB00333
+NMDA receptor,DB00333
+Delta-type opioid receptor,DB00333
+5-hydroxytryptamine receptor 3A,DB00333
+Neuronal acetylcholine receptor subunit alpha-7,DB00333
+Neuronal acetylcholine receptor subunit alpha-3,DB00333
+Neuronal acetylcholine receptor subunit alpha-4,DB00333
+Neuronal acetylcholine receptor subunit beta-2,DB00333
+5-hydroxytryptamine receptor 2A,DB00334
+Dopamine D2 receptor,DB00334
+Dopamine D1 receptor,DB00334
+Dopamine D5 receptor,DB00334
+Dopamine D3 receptor,DB00334
+Dopamine D4 receptor,DB00334
+5-hydroxytryptamine receptor 2C,DB00334
+5-hydroxytryptamine receptor 3A,DB00334
+5-hydroxytryptamine receptor 6,DB00334
+Histamine H1 receptor,DB00334
+Alpha-1A adrenergic receptor,DB00334
+Alpha-1B adrenergic receptor,DB00334
+Muscarinic acetylcholine receptor M1,DB00334
+Muscarinic acetylcholine receptor M2,DB00334
+Muscarinic acetylcholine receptor M3,DB00334
+Muscarinic acetylcholine receptor M4,DB00334
+D(1) dopamine receptor,DB00334
+Beta adrenergic receptor,DB00334
+5-hydroxytryptamine receptor 1,DB00334
+GABA(A) Receptor Benzodiazepine Binding Site,DB00334
+Beta-1 adrenergic receptor,DB00335
+Beta-2 adrenergic receptor,DB00335
+Glutathione reductase,DB00336
+Serine/threonine-protein kinase mTOR,DB00337
+Peptidyl-prolyl cis-trans isomerase FKBP1A,DB00337
+Potassium-transporting ATPase alpha chain 1,DB00338
+Aryl hydrocarbon receptor,DB00338
+Fatty acid synthetase,DB00339
+Muscarinic acetylcholine receptor,DB00340
+Histamine H1 receptor,DB00341
+Histamine H1 receptor,DB00342
+Potassium voltage-gated channel subfamily H member 2,DB00342
+Muscarinic acetylcholine receptor M3,DB00342
+Muscarinic acetylcholine receptor M1,DB00342
+Muscarinic acetylcholine receptor M5,DB00342
+Muscarinic acetylcholine receptor M4,DB00342
+Muscarinic acetylcholine receptor M2,DB00342
+Voltage-dependent calcium channel gamma-1 subunit,DB00343
+Voltage-dependent L-type calcium channel subunit alpha-1C,DB00343
+Sodium-dependent noradrenaline transporter,DB00344
+Sodium-dependent serotonin transporter,DB00344
+Alpha-1A adrenergic receptor,DB00346
+Alpha-1B adrenergic receptor,DB00346
+Alpha-1D adrenergic receptor,DB00346
+Potassium voltage-gated channel subfamily H member 2,DB00346
+Voltage-dependent T-type calcium channel subunit alpha-1G,DB00347
+4-hydroxyphenylpyruvate dioxygenase,DB00348
+GABA(A) Receptor,DB00349
+GABA(A) Receptor Benzodiazepine Binding Site,DB00349
+ATP-sensitive inward rectifier potassium channel 1,DB00350
+Prostaglandin G/H synthase 1,DB00350
+Renin,DB00350
+Progesterone receptor,DB00351
+Glucocorticoid receptor,DB00351
+DNA,DB00352
+Dopamine D1 receptor,DB00353
+5-hydroxytryptamine receptor 2B,DB00353
+Histamine H1 receptor,DB00354
+Muscarinic acetylcholine receptor M1,DB00354
+Penicillin-binding protein 3,DB00355
+Beta-lactamase,DB00355
+Calcium-activated potassium channel subunit alpha-1,DB00356
+Cytochrome P450 19A1,DB00357
+"Cholesterol side-chain cleavage enzyme, mitochondrial",DB00357
+Fe(II)-protoporphyrin IX,DB00358
+Adenosine receptor A2a,DB00358
+80S ribosomal subunit,DB00358
+Dihydropteroate synthetase,DB00359
+Phenylalanine-4-hydroxylase,DB00360
+"Nitric oxide synthase, endothelial",DB00360
+Tyrosine 3-monooxygenase,DB00360
+Tryptophan 5-hydroxylase 1,DB00360
+Tubulin beta chain,DB00361
+"1,3-beta-glucan synthase component FKS1",DB00362
+Dopamine D2 receptor,DB00363
+5-hydroxytryptamine receptor 2A,DB00363
+Dopamine D1 receptor,DB00363
+Dopamine D3 receptor,DB00363
+Dopamine D4 receptor,DB00363
+5-hydroxytryptamine receptor 1A,DB00363
+5-hydroxytryptamine receptor 1B,DB00363
+5-hydroxytryptamine receptor 1D,DB00363
+5-hydroxytryptamine receptor 1E,DB00363
+5-hydroxytryptamine receptor 3A,DB00363
+5-hydroxytryptamine receptor 2C,DB00363
+5-hydroxytryptamine receptor 6,DB00363
+5-hydroxytryptamine receptor 7,DB00363
+Histamine H1 receptor,DB00363
+Histamine H4 receptor,DB00363
+Alpha-1A adrenergic receptor,DB00363
+Alpha-1B adrenergic receptor,DB00363
+Alpha-2A adrenergic receptor,DB00363
+Alpha-2B adrenergic receptor,DB00363
+Alpha-2C adrenergic receptor,DB00363
+Muscarinic acetylcholine receptor M1,DB00363
+Muscarinic acetylcholine receptor M2,DB00363
+Muscarinic acetylcholine receptor M3,DB00363
+Muscarinic acetylcholine receptor M4,DB00363
+Muscarinic acetylcholine receptor M5,DB00363
+Neuron-specific vesicular protein calcyon,DB00363
+Glutathione S-transferase P,DB00363
+Pepsin A-5,DB00364
+Fibroblast growth factor 2,DB00364
+Pro-epidermal growth factor,DB00364
+Fibrinogen,DB00364
+DNA gyrase subunit A,DB00365
+DNA topoisomerase 4 subunit A,DB00365
+Histamine H1 receptor,DB00366
+Muscarinic acetylcholine receptor,DB00366
+Nuclear receptor subfamily 1 group I member 3,DB00366
+Progesterone receptor,DB00367
+3-oxo-5-alpha-steroid 4-dehydrogenase 1,DB00367
+Estrogen receptor alpha,DB00367
+Androgen receptor,DB00367
+Sex hormone-binding globulin,DB00367
+Glucocorticoid receptor,DB00367
+Alpha-1A adrenergic receptor,DB00368
+Alpha-1B adrenergic receptor,DB00368
+Alpha-1D adrenergic receptor,DB00368
+Alpha-2A adrenergic receptor,DB00368
+Alpha-2B adrenergic receptor,DB00368
+Alpha-2C adrenergic receptor,DB00368
+Beta-1 adrenergic receptor,DB00368
+Beta-2 adrenergic receptor,DB00368
+Beta-3 adrenergic receptor,DB00368
+Phenylalanine-4-hydroxylase,DB00368
+Synaptic vesicular amine transporter,DB00368
+Chromaffin granule amine transporter,DB00368
+DNA polymerase catalytic subunit,DB00369
+5-hydroxytryptamine receptor 2A,DB00370
+5HT3 serotonin receptor,DB00370
+Alpha-2A adrenergic receptor,DB00370
+5-hydroxytryptamine receptor 2C,DB00370
+Kappa-type opioid receptor,DB00370
+Histamine H1 receptor,DB00370
+Alpha-1 adrenergic receptors,DB00370
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00371
+Gamma-aminobutyric acid receptor subunit alpha-2,DB00371
+Gamma-aminobutyric acid receptor subunit alpha-3,DB00371
+Gamma-aminobutyric acid receptor subunit alpha-4,DB00371
+Gamma-aminobutyric acid receptor subunit alpha-5,DB00371
+Gamma-aminobutyric acid receptor subunit alpha-6,DB00371
+GABA(A) Receptor,DB00371
+Dopamine D2 receptor,DB00372
+Beta-1 adrenergic receptor,DB00373
+Beta-2 adrenergic receptor,DB00373
+Lysozyme,DB00373
+Prostacyclin receptor,DB00374
+Peroxisome proliferator-activated receptor delta,DB00374
+P2Y purinoceptor 12,DB00374
+Bile acids,DB00375
+Muscarinic acetylcholine receptor M1,DB00376
+Muscarinic acetylcholine receptor M2,DB00376
+Muscarinic acetylcholine receptor M3,DB00376
+Muscarinic acetylcholine receptor M4,DB00376
+Muscarinic acetylcholine receptor M5,DB00376
+5-hydroxytryptamine receptor 3A,DB00377
+Progesterone receptor,DB00378
+Sodium channel protein type 5 subunit alpha,DB00379
+Aryl hydrocarbon receptor,DB00379
+DNA topoisomerase 2-alpha,DB00380
+DNA topoisomerase 2-beta,DB00380
+Voltage-dependent L-type calcium channel subunit alpha-1C,DB00381
+Voltage-dependent N-type calcium channel subunit alpha-1B,DB00381
+Voltage-dependent L-type calcium channel subunit beta-1,DB00381
+Voltage-dependent calcium channel subunit alpha-2/delta-3,DB00381
+Carbonic anhydrase 1,DB00381
+Sphingomyelin phosphodiesterase,DB00381
+Voltage-dependent T-type calcium channel subunit alpha-1I,DB00381
+Voltage-dependent N-type calcium channel,DB00381
+Acetylcholinesterase,DB00382
+Cholinesterase,DB00382
+Liver carboxylesterase 1,DB00382
+Muscarinic acetylcholine receptor M3,DB00383
+Muscarinic acetylcholine receptor M1,DB00383
+Muscarinic acetylcholine receptor M2,DB00383
+Amiloride-sensitive sodium channel subunit gamma,DB00384
+Amiloride-sensitive sodium channel subunit alpha,DB00384
+Amiloride-sensitive sodium channel subunit beta,DB00384
+Amiloride-sensitive sodium channel subunit delta,DB00384
+DNA,DB00385
+DNA topoisomerase 2-alpha,DB00385
+Muscarinic acetylcholine receptor M1,DB00387
+Muscarinic acetylcholine receptor M2,DB00387
+Muscarinic acetylcholine receptor M4,DB00387
+Muscarinic acetylcholine receptor M3,DB00387
+Alpha-1A adrenergic receptor,DB00388
+Alpha-1B adrenergic receptor,DB00388
+Alpha-1D adrenergic receptor,DB00388
+Thyroid peroxidase,DB00389
+Sodium/potassium-transporting ATPase subunit alpha-1,DB00390
+Dopamine D2 receptor,DB00391
+Dopamine D3 receptor,DB00391
+Carbonic anhydrase 2,DB00391
+Carbonic anhydrase 3,DB00391
+Muscarinic acetylcholine receptor M1,DB00392
+"Glutamate receptor ionotropic, NMDA 3A",DB00392
+Muscarinic acetylcholine receptor M2,DB00392
+Voltage-dependent L-type calcium channel subunit alpha-1C,DB00393
+Voltage-dependent L-type calcium channel subunit alpha-1D,DB00393
+Voltage-dependent L-type calcium channel subunit alpha-1F,DB00393
+Voltage-dependent L-type calcium channel subunit alpha-1S,DB00393
+Voltage-dependent L-type calcium channel subunit beta-1,DB00393
+Voltage-dependent L-type calcium channel subunit beta-2,DB00393
+Voltage-dependent L-type calcium channel subunit beta-3,DB00393
+Voltage-dependent L-type calcium channel subunit beta-4,DB00393
+Mineralocorticoid receptor,DB00393
+Aryl hydrocarbon receptor,DB00393
+Glucocorticoid receptor,DB00394
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00395
+Gamma-aminobutyric acid receptor subunit beta-2,DB00395
+Gamma-aminobutyric acid receptor subunit gamma-2,DB00395
+Gamma-aminobutyric acid receptor subunit alpha-5,DB00395
+Gamma-aminobutyric acid receptor subunit alpha-3,DB00395
+Progesterone receptor,DB00396
+Estrogen receptor alpha,DB00396
+Mineralocorticoid receptor,DB00396
+"Steroid 17-alpha-hydroxylase/17,20 lyase",DB00396
+Kappa-type opioid receptor,DB00396
+Alpha-1-acid glycoprotein 1,DB00396
+Glucocorticoid receptor,DB00396
+Androgen receptor,DB00396
+Sex hormone-binding globulin,DB00396
+Estrogen receptor beta,DB00396
+Dopamine D1 receptor,DB00397
+Beta-1 adrenergic receptor,DB00397
+Beta-2 adrenergic receptor,DB00397
+Alpha-2 adrenergic receptors,DB00397
+Serine/threonine-protein kinase B-raf,DB00398
+RAF proto-oncogene serine/threonine-protein kinase,DB00398
+Vascular endothelial growth factor receptor 3,DB00398
+Vascular endothelial growth factor receptor 2,DB00398
+Receptor-type tyrosine-protein kinase FLT3,DB00398
+Platelet-derived growth factor receptor beta,DB00398
+Mast/stem cell growth factor receptor Kit,DB00398
+Fibroblast growth factor receptor 1,DB00398
+Proto-oncogene tyrosine-protein kinase receptor Ret,DB00398
+Vascular endothelial growth factor receptor 1,DB00398
+Farnesyl pyrophosphate synthase,DB00399
+Geranylgeranyl pyrophosphate synthase,DB00399
+Hydroxylapatite,DB00399
+Tubulin beta chain,DB00400
+"Keratin, type I cytoskeletal 12",DB00400
+Voltage-dependent L-type calcium channel subunit alpha-1C,DB00401
+Voltage-dependent calcium channel subunit alpha-2/delta-1,DB00401
+Voltage-dependent L-type calcium channel subunit beta-2,DB00401
+Voltage-dependent L-type calcium channel subunit alpha-1D,DB00401
+Voltage-dependent L-type calcium channel subunit alpha-1S,DB00401
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00402
+Gamma-aminobutyric acid receptor subunit alpha-2,DB00402
+GABA(A) Receptor,DB00402
+Gamma-aminobutyric acid receptor subunit alpha-3,DB00402
+Gamma-aminobutyric acid receptor subunit alpha-5,DB00402
+Cholecystokinin receptor type A,DB00403
+GABA(A) Receptor,DB00404
+GABA(A) Receptor Benzodiazepine Binding Site,DB00404
+Histamine H1 receptor,DB00405
+DNA,DB00406
+Antithrombin-III,DB00407
+Heparin cofactor 2,DB00407
+Dopamine D2 receptor,DB00408
+Dopamine D1 receptor,DB00408
+5-hydroxytryptamine receptor 2A,DB00408
+5-hydroxytryptamine receptor 2C,DB00408
+5-hydroxytryptamine receptor 1A,DB00408
+5-hydroxytryptamine receptor 1B,DB00408
+5-hydroxytryptamine receptor 1D,DB00408
+5-hydroxytryptamine receptor 1E,DB00408
+5-hydroxytryptamine receptor 3A,DB00408
+5-hydroxytryptamine receptor 5A,DB00408
+5-hydroxytryptamine receptor 6,DB00408
+5-hydroxytryptamine receptor 7,DB00408
+Alpha-1A adrenergic receptor,DB00408
+Alpha-1B adrenergic receptor,DB00408
+Alpha-2A adrenergic receptor,DB00408
+Alpha-2B adrenergic receptor,DB00408
+Alpha-2C adrenergic receptor,DB00408
+Beta-1 adrenergic receptor,DB00408
+Muscarinic acetylcholine receptor M1,DB00408
+Muscarinic acetylcholine receptor M2,DB00408
+Muscarinic acetylcholine receptor M3,DB00408
+Muscarinic acetylcholine receptor M4,DB00408
+Muscarinic acetylcholine receptor M5,DB00408
+D(1) dopamine receptor,DB00408
+Dopamine D3 receptor,DB00408
+Dopamine D4 receptor,DB00408
+Dopamine D5 receptor,DB00408
+Histamine H1 receptor,DB00408
+Histamine H2 receptor,DB00408
+Histamine H4 receptor,DB00408
+Sodium-dependent serotonin transporter,DB00408
+Sodium-dependent noradrenaline transporter,DB00408
+Sodium-dependent dopamine transporter,DB00408
+Dopamine D2 receptor,DB00409
+Dopamine D4 receptor,DB00409
+Dopamine D3 receptor,DB00409
+5-hydroxytryptamine receptor 2A,DB00409
+Sigma non-opioid intracellular receptor 1,DB00409
+Isoleucine--tRNA ligase,DB00410
+Muscarinic acetylcholine receptor M1,DB00411
+Muscarinic acetylcholine receptor M2,DB00411
+Neuronal acetylcholine receptor subunit alpha-2,DB00411
+Acetylcholinesterase,DB00411
+Muscarinic acetylcholine receptor M3,DB00411
+Muscarinic acetylcholine receptor M4,DB00411
+Peroxisome proliferator-activated receptor gamma,DB00412
+Long-chain-fatty-acid--CoA ligase 4,DB00412
+Peroxisome proliferator-activated receptor alpha,DB00412
+Peroxisome proliferator-activated receptor delta,DB00412
+Retinoic acid receptor RXR-alpha,DB00412
+Retinoic acid receptor RXR-beta,DB00412
+Retinoic acid receptor RXR-gamma,DB00412
+Dopamine D3 receptor,DB00413
+Dopamine D2 receptor,DB00413
+Dopamine D4 receptor,DB00413
+5-hydroxytryptamine receptor 1A,DB00413
+Alpha-2A adrenergic receptor,DB00413
+ATP-sensitive inward rectifier potassium channel 1,DB00414
+Penicillin-binding protein 2a,DB00415
+Penicillin-binding protein 1b,DB00415
+Penicillin-binding protein 3,DB00415
+Penicillin-binding protein 1A,DB00415
+Penicillin-binding protein 2B,DB00415
+Solute carrier family 15 member 1,DB00415
+Solute carrier family 15 member 2,DB00415
+Angiopoietin-1 receptor,DB00415
+Neuronal acetylcholine receptor subunit alpha-2,DB00416
+Penicillin-binding protein 1A,DB00417
+MecA PBP2' (penicillin binding protein 2'),DB00417
+D-alanyl-D-alanine carboxypeptidase DacB,DB00417
+Penicillin acylase,DB00417
+Solute carrier family 15 member 1,DB00417
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00418
+Gamma-aminobutyric acid receptor subunit alpha-2,DB00418
+Gamma-aminobutyric acid receptor subunit alpha-3,DB00418
+Gamma-aminobutyric acid receptor subunit alpha-4,DB00418
+Gamma-aminobutyric acid receptor subunit alpha-5,DB00418
+Gamma-aminobutyric acid receptor subunit alpha-6,DB00418
+Neuronal acetylcholine receptor subunit alpha-4,DB00418
+Neuronal acetylcholine receptor subunit alpha-7,DB00418
+Glutamate receptor 2,DB00418
+"Glutamate receptor ionotropic, kainate 2",DB00418
+NMDA receptor,DB00418
+Ceramide glucosyltransferase,DB00419
+Dopamine D2 receptor,DB00420
+5-hydroxytryptamine receptor 2A,DB00420
+5-hydroxytryptamine receptor 2C,DB00420
+Alpha-1A adrenergic receptor,DB00420
+Muscarinic acetylcholine receptor M1,DB00420
+Histamine H1 receptor,DB00420
+Mineralocorticoid receptor,DB00421
+Androgen receptor,DB00421
+Progesterone receptor,DB00421
+Glucocorticoid receptor,DB00421
+"Cytochrome P450 11B2, mitochondrial",DB00421
+"Steroid 17-alpha-hydroxylase/17,20 lyase",DB00421
+3-oxo-5-alpha-steroid 4-dehydrogenase,DB00421
+Sex hormone-binding globulin,DB00421
+Voltage-dependent calcium channel,DB00421
+Nuclear receptor subfamily 1 group I member 2,DB00421
+Sodium-dependent dopamine transporter,DB00422
+Sodium-dependent noradrenaline transporter,DB00422
+5-hydroxytryptamine receptor 1A,DB00422
+Carbonic anhydrase 1,DB00423
+Muscarinic acetylcholine receptor M1,DB00424
+Muscarinic acetylcholine receptor M2,DB00424
+Muscarinic acetylcholine receptor M3,DB00424
+Muscarinic acetylcholine receptor M4,DB00424
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00425
+Gamma-aminobutyric acid receptor subunit alpha-2,DB00425
+Gamma-aminobutyric acid receptor subunit alpha-3,DB00425
+Gamma-aminobutyric acid receptor subunit gamma-2,DB00425
+DNA polymerase catalytic subunit,DB00426
+Histamine H1 receptor,DB00427
+DNA,DB00428
+"Solute carrier family 2, facilitated glucose transporter member 2",DB00428
+O-GlcNAcase BT_4395,DB00428
+Bifunctional protein NCOAT,DB00428
+Prostaglandin E2 receptor EP1 subtype,DB00429
+Peptidoglycan synthase FtsI,DB00430
+Penicillin-binding protein 1B,DB00430
+Penicillin-binding protein 1A,DB00430
+D-alanyl-D-alanine carboxypeptidase DacC,DB00430
+Penicillin binding protein 2a,DB00430
+Gamma-aminobutyric acid receptor subunit beta-1,DB00431
+Glycine receptor subunit alpha-1,DB00431
+Glycine receptor subunit alpha-2,DB00431
+Glycine receptor subunit alpha-3,DB00431
+Glycine receptor subunit beta,DB00431
+Gamma-aminobutyric acid receptor subunit beta-3,DB00431
+Gamma-aminobutyric acid receptor subunit rho-1,DB00431
+Progesterone receptor,DB00431
+Estrogen receptor alpha,DB00431
+Nuclear receptor subfamily 1 group I member 2,DB00431
+Thymidylate synthase,DB00432
+DNA,DB00432
+Dopamine D2 receptor,DB00433
+Histamine H1 receptor,DB00433
+Alpha-1 adrenergic receptors,DB00433
+Alpha-2 adrenergic receptors,DB00433
+Histamine H1 receptor,DB00434
+5-hydroxytryptamine receptor 2A,DB00434
+5-hydroxytryptamine receptor 2C,DB00434
+Muscarinic acetylcholine receptor M1,DB00434
+Muscarinic acetylcholine receptor M2,DB00434
+Muscarinic acetylcholine receptor M3,DB00434
+5-hydroxytryptamine receptor 7,DB00434
+Guanylate cyclase soluble subunit alpha-2,DB00435
+Metallothionein-1A,DB00435
+"Indoleamine 2,3-dioxygenase 1",DB00435
+Solute carrier family 12 member 3,DB00436
+Calcium-activated potassium channel subunit alpha-1,DB00436
+Carbonic anhydrase 1,DB00436
+Carbonic anhydrase 2,DB00436
+Carbonic anhydrase 4,DB00436
+Xanthine dehydrogenase/oxidase,DB00437
+Peptidoglycan synthase FtsI,DB00438
+Penicillin-binding protein 3,DB00438
+Penicillin-binding protein 1A,DB00438
+Penicillin-binding protein 1B,DB00438
+Penicillin-binding protein 2,DB00438
+D-alanyl-D-alanine endopeptidase,DB00438
+3-hydroxy-3-methylglutaryl-coenzyme A reductase,DB00439
+Dihydrofolate reductase,DB00440
+DNA,DB00441
+Ribonucleoside-diphosphate reductase large subunit,DB00441
+Thymidylate synthase,DB00441
+UMP-CMP kinase,DB00441
+DNA,DB00442
+Glucocorticoid receptor,DB00443
+DNA topoisomerase 2-alpha,DB00444
+DNA topoisomerase 2-alpha,DB00445
+DNA,DB00445
+50S ribosomal protein L16,DB00446
+Dr hemagglutinin structural subunit,DB00446
+Complement decay-accelerating factor,DB00446
+Penicillin-binding protein 3,DB00447
+Penicillin-binding protein 1A,DB00447
+Potassium-transporting ATPase alpha chain 1,DB00448
+Microtubule-associated protein tau,DB00448
+Alpha-1A adrenergic receptor,DB00449
+Alpha-2A adrenergic receptor,DB00449
+Beta-2 adrenergic receptor,DB00449
+Cholinesterase,DB00449
+Acetylcholinesterase,DB00449
+Dopamine D2 receptor,DB00450
+Alpha-1A adrenergic receptor,DB00450
+Thyroid hormone receptor alpha,DB00451
+Thyroid hormone receptor beta,DB00451
+Integrin alpha-V,DB00451
+Integrin beta-3,DB00451
+16S ribosomal RNA,DB00452
+30S ribosomal protein S12,DB00452
+C-X-C chemokine receptor type 4,DB00452
+30S ribosomal protein S4,DB00453
+30S ribosomal protein S9,DB00453
+16S ribosomal RNA,DB00453
+Kappa-type opioid receptor,DB00454
+"Glutamate receptor ionotropic, NMDA 1",DB00454
+"Glutamate receptor ionotropic, NMDA 2B",DB00454
+"Glutamate receptor ionotropic, NMDA 2A",DB00454
+"Glutamate receptor ionotropic, NMDA 2C",DB00454
+"Glutamate receptor ionotropic, NMDA 2D",DB00454
+Muscarinic acetylcholine receptor,DB00454
+Mu-type opioid receptor,DB00454
+Sodium-dependent dopamine transporter,DB00454
+Sodium-dependent noradrenaline transporter,DB00454
+Sodium-dependent serotonin transporter,DB00454
+Liver carboxylesterase 1,DB00454
+Histamine H1 receptor,DB00455
+Potassium voltage-gated channel subfamily H member 2,DB00455
+D-alanyl-D-alanine carboxypeptidase,DB00456
+Penicillin-binding protein 1A,DB00456
+Penicillin-binding protein 1b,DB00456
+Penicillin-binding protein 3,DB00456
+Penicillin-binding protein 2a,DB00456
+Penicillin-binding protein 2B,DB00456
+Beta-lactamase,DB00456
+Alpha-1A adrenergic receptor,DB00457
+Alpha-1B adrenergic receptor,DB00457
+Alpha-1D adrenergic receptor,DB00457
+Potassium voltage-gated channel subfamily H member 2,DB00457
+Alpha-2A adrenergic receptor,DB00457
+Alpha-2B adrenergic receptor,DB00457
+Alpha-1 adrenergic receptors,DB00457
+Sodium-dependent noradrenaline transporter,DB00458
+5-hydroxytryptamine receptor 2A,DB00458
+Sodium-dependent serotonin transporter,DB00458
+Histamine H1 receptor,DB00458
+Alpha-1A adrenergic receptor,DB00458
+Alpha-1D adrenergic receptor,DB00458
+Muscarinic acetylcholine receptor M1,DB00458
+Muscarinic acetylcholine receptor M2,DB00458
+Muscarinic acetylcholine receptor M3,DB00458
+Muscarinic acetylcholine receptor M4,DB00458
+Muscarinic acetylcholine receptor M5,DB00458
+Potassium voltage-gated channel subfamily D member 2,DB00458
+Potassium voltage-gated channel subfamily D member 3,DB00458
+5-hydroxytryptamine receptor 2C,DB00458
+Alpha-1B adrenergic receptor,DB00458
+5-hydroxytryptamine receptor 7,DB00458
+D(1) dopamine receptor,DB00458
+Dopamine D2 receptor,DB00458
+Potassium voltage-gated channel subfamily H member 2,DB00458
+Sodium-dependent dopamine transporter,DB00458
+5-hydroxytryptamine receptor 1A,DB00458
+5-hydroxytryptamine receptor 6,DB00458
+Potassium voltage-gated channel subfamily H member 1,DB00458
+Alpha-1-acid glycoprotein 2,DB00458
+Retinoic acid receptor RXR-alpha,DB00459
+Retinoic acid receptor alpha,DB00459
+Retinoic acid receptor beta,DB00459
+Retinoic acid receptor gamma,DB00459
+Retinoic acid receptor RXR-beta,DB00459
+Retinoic acid receptor RXR-gamma,DB00459
+Retinol-binding protein 1,DB00459
+Retinoic acid receptor RXR,DB00459
+Prostaglandin G/H synthase 2,DB00461
+Prostaglandin G/H synthase 1,DB00461
+Muscarinic acetylcholine receptor M1,DB00462
+Muscarinic acetylcholine receptor M2,DB00462
+Muscarinic acetylcholine receptor M3,DB00462
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00463
+Gamma-aminobutyric acid receptor subunit alpha-2,DB00463
+Gamma-aminobutyric acid receptor subunit alpha-3,DB00463
+Gamma-aminobutyric acid receptor subunit alpha-4,DB00463
+Gamma-aminobutyric acid receptor subunit alpha-5,DB00463
+Gamma-aminobutyric acid receptor subunit alpha-6,DB00463
+Neuronal acetylcholine receptor subunit alpha-4,DB00463
+Neuronal acetylcholine receptor subunit alpha-7,DB00463
+Glutamate receptor 2,DB00463
+"Glutamate receptor ionotropic, kainate 2",DB00463
+GABA(A) Receptor,DB00463
+Vitamin K-dependent protein C,DB00464
+Vitamin K-dependent protein S,DB00464
+Prostaglandin G/H synthase 2,DB00465
+Prostaglandin G/H synthase 1,DB00465
+Gamma-aminobutyric acid receptor subunit rho-1,DB00466
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00466
+Glycine receptor subunit alpha-2,DB00466
+Glycine receptor subunit alpha-3,DB00466
+Glycine receptor subunit alpha-1,DB00466
+DNA gyrase subunit A,DB00467
+DNA topoisomerase 4 subunit A,DB00467
+DNA topoisomerase 2-alpha,DB00467
+Fe(II)-protoporphyrin IX,DB00468
+Platelet glycoprotein IX,DB00468
+Intermediate conductance calcium-activated potassium channel protein 4,DB00468
+Prostaglandin G/H synthase 2,DB00469
+Prostaglandin G/H synthase 1,DB00469
+Cannabinoid receptor 1,DB00470
+Cannabinoid receptor 2,DB00470
+Cysteinyl leukotriene receptor 1,DB00471
+Arachidonate 5-lipoxygenase,DB00471
+Sodium-dependent serotonin transporter,DB00472
+5-hydroxytryptamine receptor 2C,DB00472
+Neuronal acetylcholine receptor subunit alpha-2,DB00472
+Neuronal acetylcholine receptor subunit alpha-3,DB00472
+Neuronal acetylcholine receptor subunit beta-4,DB00472
+Cyclin-dependent kinases regulatory subunit 1,DB00472
+Potassium voltage-gated channel subfamily H member 2,DB00472
+Sodium channel protein type 5 subunit alpha,DB00473
+Sodium channel protein type 10 subunit alpha,DB00473
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00474
+GABA(A) Receptor,DB00475
+GABA(A) Receptor Benzodiazepine Binding Site,DB00475
+Sodium-dependent serotonin transporter,DB00476
+Sodium-dependent noradrenaline transporter,DB00476
+Sodium-dependent dopamine transporter,DB00476
+Dopamine D2 receptor,DB00477
+Dopamine D1 receptor,DB00477
+5-hydroxytryptamine receptor 1A,DB00477
+5-hydroxytryptamine receptor 2A,DB00477
+Alpha-1A adrenergic receptor,DB00477
+Alpha-1B adrenergic receptor,DB00477
+Histamine H1 receptor,DB00477
+Potassium voltage-gated channel subfamily H member 2,DB00477
+D(1) dopamine receptor,DB00477
+Dopamine D3 receptor,DB00477
+Dopamine D4 receptor,DB00477
+Dopamine D5 receptor,DB00477
+5-hydroxytryptamine receptor 2C,DB00477
+5-hydroxytryptamine 2 receptor,DB00477
+Alpha-1 adrenergic receptors,DB00477
+Alpha-2 adrenergic receptors,DB00477
+Muscarinic acetylcholine receptor M1,DB00477
+Muscarinic acetylcholine receptor M3,DB00477
+Sphingomyelin phosphodiesterase,DB00477
+Calmodulin,DB00477
+alpha1-acid glycoprotein,DB00477
+5-hydroxytryptamine receptor 6,DB00477
+5-hydroxytryptamine receptor 7,DB00477
+Histamine H4 receptor,DB00477
+Matrix protein 2,DB00478
+30S ribosomal protein S12,DB00479
+Protein cereblon,DB00480
+Tumor necrosis factor ligand superfamily member 11,DB00480
+Cadherin-5,DB00480
+Prostaglandin G/H synthase 2,DB00480
+Estrogen receptor alpha,DB00481
+Estrogen receptor beta,DB00481
+Serpin B9,DB00481
+Trefoil factor 1,DB00481
+Prostaglandin G/H synthase 2,DB00482
+3-phosphoinositide-dependent protein kinase 1,DB00482
+Carbonic anhydrase 2,DB00482
+Carbonic anhydrase 3,DB00482
+Cadherin-11,DB00482
+Muscarinic acetylcholine receptor M2,DB00483
+Acetylcholinesterase,DB00483
+Neuronal acetylcholine receptor subunit alpha-2,DB00483
+Muscarinic acetylcholine receptor M1,DB00483
+Muscarinic acetylcholine receptor M5,DB00483
+Alpha-2A adrenergic receptor,DB00484
+Alpha-2B adrenergic receptor,DB00484
+Alpha-2C adrenergic receptor,DB00484
+Penicillin-binding protein 3,DB00485
+Penicillin-binding protein 1b,DB00485
+Penicillin-binding protein 2a,DB00485
+Penicillin-binding protein 1A,DB00485
+Penicillin-binding protein 2B,DB00485
+Cannabinoid receptor 2,DB00486
+Cannabinoid receptor 1,DB00486
+DNA topoisomerase 4 subunit A,DB00487
+DNA gyrase subunit A,DB00487
+DNA topoisomerase 2-alpha,DB00487
+DNA topoisomerase 1,DB00487
+DNA,DB00488
+Potassium voltage-gated channel subfamily H member 2,DB00489
+Beta-1 adrenergic receptor,DB00489
+Beta-2 adrenergic receptor,DB00489
+5-hydroxytryptamine receptor 1A,DB00490
+Dopamine D2 receptor,DB00490
+Dopamine D3 receptor,DB00490
+Dopamine D4 receptor,DB00490
+Alpha-1 adrenergic receptors,DB00490
+"Maltase-glucoamylase, intestinal",DB00491
+Lysosomal alpha-glucosidase,DB00491
+Neutral alpha-glucosidase AB,DB00491
+Neutral alpha-glucosidase C,DB00491
+Angiotensin-converting enzyme,DB00492
+Penicillin-binding protein 1b,DB00493
+Penicillin-binding protein 2a,DB00493
+Penicillin-binding protein 3,DB00493
+Penicillin-binding protein 1A,DB00493
+Penicillin-binding protein 2B,DB00493
+Solute carrier family 22 member 6,DB00493
+Solute carrier family 22 member 8,DB00493
+Solute carrier family 22 member 11,DB00493
+Solute carrier family 22 member 7,DB00493
+Solute carrier family 15 member 1,DB00493
+Serum albumin,DB00493
+Beta-lactamase,DB00493
+Solute carrier family 15 member 2,DB00493
+Catechol O-methyltransferase,DB00494
+Reverse transcriptase/RNaseH,DB00495
+Telomerase reverse transcriptase,DB00495
+Muscarinic acetylcholine receptor M3,DB00496
+Muscarinic acetylcholine receptor M1,DB00496
+Muscarinic acetylcholine receptor M2,DB00496
+Muscarinic acetylcholine receptor M4,DB00496
+Muscarinic acetylcholine receptor M5,DB00496
+Mu-type opioid receptor,DB00497
+Kappa-type opioid receptor,DB00497
+Delta-type opioid receptor,DB00497
+Vitamin K epoxide reductase complex subunit 1,DB00498
+Androgen receptor,DB00499
+Aryl hydrocarbon receptor,DB00499
+Nuclear receptor subfamily 1 group I member 2,DB00499
+Prostaglandin G/H synthase 2,DB00500
+Prostaglandin G/H synthase 1,DB00500
+Histamine H2 receptor,DB00501
+Dopamine D2 receptor,DB00502
+Dopamine D1 receptor,DB00502
+"Glutamate receptor ionotropic, NMDA 2B",DB00502
+5-hydroxytryptamine receptor 2A,DB00502
+Dopamine D3 receptor,DB00502
+Melanin-concentrating hormone receptor 1,DB00502
+Synaptic vesicular amine transporter,DB00502
+5-hydroxytryptamine receptor 2C,DB00502
+Sigma non-opioid intracellular receptor 1,DB00502
+Histamine H1 receptor,DB00502
+Muscarinic acetylcholine receptor M3,DB00502
+Alpha-1A adrenergic receptor,DB00502
+Alpha-2A adrenergic receptor,DB00502
+Alpha-2B adrenergic receptor,DB00502
+Alpha-2C adrenergic receptor,DB00502
+5-hydroxytryptamine receptor 1A,DB00502
+5-hydroxytryptamine receptor 6,DB00502
+5-hydroxytryptamine receptor 7,DB00502
+Human immunodeficiency virus type 1 protease,DB00503
+Nuclear receptor subfamily 1 group I member 2,DB00503
+Mu-type opioid receptor,DB00504
+Muscarinic acetylcholine receptor M3,DB00505
+Muscarinic acetylcholine receptor M1,DB00505
+Muscarinic acetylcholine receptor M2,DB00505
+Pyruvate-flavodoxin oxidoreductase,DB00507
+Dopamine D2 receptor,DB00508
+Dopamine D1 receptor,DB00508
+5-hydroxytryptamine receptor 2B,DB00508
+Muscarinic acetylcholine receptor M1,DB00508
+Muscarinic acetylcholine receptor M2,DB00508
+Thyroid hormone receptor alpha,DB00509
+Thyroid hormone receptor beta,DB00509
+Thyroid peroxidase,DB00509
+Sodium/potassium-transporting ATPase subunit alpha-1,DB00511
+D-Ala-D-Ala moiety of NAM/NAG peptide subunits of peptidoglycan,DB00512
+Plasminogen,DB00513
+Tissue-type plasminogen activator,DB00513
+Apolipoprotein(a),DB00513
+Sigma non-opioid intracellular receptor 1,DB00514
+"HCG20471, isoform CRA_c",DB00514
+Neuronal acetylcholine receptor subunit alpha-2,DB00514
+"Glutamate receptor ionotropic, NMDA 3A",DB00514
+Sodium-dependent serotonin transporter,DB00514
+Membrane-associated progesterone receptor component 1,DB00514
+Neuronal acetylcholine receptor subunit alpha-3,DB00514
+Neuronal acetylcholine receptor subunit alpha-4,DB00514
+Neuronal acetylcholine receptor subunit beta-4,DB00514
+Neuronal acetylcholine receptor subunit beta-2,DB00514
+Neuronal acetylcholine receptor subunit alpha-7,DB00514
+Mu-type opioid receptor,DB00514
+Delta-type opioid receptor,DB00514
+Kappa-type opioid receptor,DB00514
+NADPH oxidase,DB00514
+Sodium-dependent noradrenaline transporter,DB00514
+DNA,DB00515
+DNA-3-methyladenine glycosylase,DB00515
+Alpha-2-macroglobulin,DB00515
+Serotransferrin,DB00515
+Copper transport protein ATOX1,DB00515
+Muscarinic acetylcholine receptor M1,DB00517
+Muscarinic acetylcholine receptor M2,DB00517
+Muscarinic acetylcholine receptor M3,DB00517
+Tubulin alpha-1A chain,DB00518
+Tubulin beta-2 chain,DB00518
+Tubulin beta-4B chain,DB00518
+Fumarate reductase flavoprotein subunit,DB00518
+Angiotensin-converting enzyme,DB00519
+"1,3-beta-glucan synthase component FKS1",DB00520
+Beta-2 adrenergic receptor,DB00521
+Beta-1 adrenergic receptor,DB00521
+Serine protease hepsin,DB00522
+Retinoic acid receptor alpha,DB00523
+Retinoic acid receptor RXR-alpha,DB00523
+Retinoic acid receptor beta,DB00523
+Retinoic acid receptor RXR-beta,DB00523
+Retinoic acid receptor gamma,DB00523
+Retinoic acid receptor RXR-gamma,DB00523
+Insulin-like growth factor-binding protein 3,DB00523
+Pregnancy-specific beta-1-glycoprotein 5,DB00523
+Cytochrome P450 26C1,DB00523
+Solute carrier family 12 member 3,DB00524
+Squalene monooxygenase,DB00525
+DNA,DB00526
+Sodium channel protein type 10 subunit alpha,DB00527
+Sodium channel protein type 5 subunit alpha,DB00527
+Calmodulin,DB00527
+Voltage-dependent calcium channel gamma-1 subunit,DB00528
+DNA polymerase catalytic subunit,DB00529
+Epidermal growth factor receptor,DB00530
+Nuclear receptor subfamily 1 group I member 2,DB00530
+DNA,DB00531
+Nuclear receptor subfamily 1 group I member 2,DB00531
+Sodium channel protein type 5 subunit alpha,DB00532
+Nuclear receptor subfamily 1 group I member 2,DB00532
+Prostaglandin G/H synthase 2,DB00533
+Elastin,DB00533
+Solute carrier family 12 member 1,DB00534
+"Succinate-semialdehyde dehydrogenase, mitochondrial",DB00534
+Penicillin-binding protein 2,DB00535
+PBP3,DB00535
+Myeloperoxidase,DB00535
+Peptidoglycan transpeptidase,DB00535
+Guanidinoacetate N-methyltransferase,DB00536
+Ribonuclease pancreatic,DB00536
+DNA,DB00536
+Disks large homolog 4,DB00536
+Lysozyme,DB00536
+"Aldehyde dehydrogenase, mitochondrial",DB00536
+Arginase,DB00536
+DNA topoisomerase 4 subunit A,DB00537
+DNA gyrase subunit A,DB00537
+DNA topoisomerase 2-alpha,DB00537
+Potassium voltage-gated channel subfamily H member 2,DB00537
+DNA topoisomerase 4 subunit B,DB00537
+Multidrug resistance protein MdtK,DB00537
+Gyrase A,DB00537
+Estrogen receptor alpha,DB00539
+Sex hormone-binding globulin,DB00539
+Sodium-dependent noradrenaline transporter,DB00540
+Sodium-dependent serotonin transporter,DB00540
+5-hydroxytryptamine receptor 2A,DB00540
+5-hydroxytryptamine receptor 1A,DB00540
+Histamine H1 receptor,DB00540
+Alpha-1A adrenergic receptor,DB00540
+Alpha-1D adrenergic receptor,DB00540
+5-hydroxytryptamine receptor 2C,DB00540
+Alpha-1B adrenergic receptor,DB00540
+Alpha-2 adrenergic receptors,DB00540
+Beta adrenergic receptor,DB00540
+Dopamine D2 receptor,DB00540
+Sigma receptor,DB00540
+5-hydroxytryptamine receptor 1C,DB00540
+Muscarinic acetylcholine receptor,DB00540
+Tubulin beta chain,DB00541
+Tubulin alpha-4A chain,DB00541
+Angiotensin-converting enzyme,DB00542
+Sodium-dependent noradrenaline transporter,DB00543
+Sodium-dependent serotonin transporter,DB00543
+Dopamine D2 receptor,DB00543
+Dopamine D1 receptor,DB00543
+Alpha-2A adrenergic receptor,DB00543
+Alpha-1A adrenergic receptor,DB00543
+Muscarinic acetylcholine receptor M1,DB00543
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00543
+5-hydroxytryptamine receptor 2A,DB00543
+5-hydroxytryptamine receptor 2C,DB00543
+5-hydroxytryptamine receptor 6,DB00543
+5-hydroxytryptamine receptor 7,DB00543
+Dopamine D3 receptor,DB00543
+Dopamine D4 receptor,DB00543
+Histamine H1 receptor,DB00543
+Alpha-1 adrenergic receptors,DB00543
+Muscarinic acetylcholine receptor,DB00543
+5-hydroxytryptamine receptor 2B,DB00543
+5-hydroxytryptamine receptor 3A,DB00543
+5-hydroxytryptamine receptor 1A,DB00543
+5-hydroxytryptamine receptor 1B,DB00543
+Alpha-2 adrenergic receptors,DB00543
+Histamine H4 receptor,DB00543
+GABA(A) Receptor,DB00543
+Sodium-dependent dopamine transporter,DB00543
+Thymidylate synthase,DB00544
+DNA,DB00544
+RNA,DB00544
+Acetylcholinesterase,DB00545
+Cholinesterase,DB00545
+Serum albumin,DB00545
+GABA(A) Receptor,DB00546
+GABA(A) Receptor Benzodiazepine Binding Site,DB00546
+Glucocorticoid receptor,DB00547
+Thioredoxin reductase,DB00548
+3-oxo-5-beta-steroid 4-dehydrogenase,DB00548
+3-oxo-5-alpha-steroid 4-dehydrogenase 2,DB00548
+Tyrosinase,DB00548
+DNA polymerase I,DB00548
+Cysteinyl leukotriene receptor 1,DB00549
+Thyroid peroxidase,DB00550
+Urease subunit alpha,DB00551
+Macrophage metalloelastase,DB00551
+Adenosine deaminase,DB00552
+DNA,DB00553
+Prostaglandin G/H synthase 2,DB00554
+Prostaglandin G/H synthase 1,DB00554
+Voltage-dependent R-type calcium channel subunit alpha-1E (CACNA1E),DB00555
+Voltage-gated sodium channel alpha subunit,DB00555
+Adenosine receptor A1,DB00555
+Adenosine receptor A2a,DB00555
+Alpha-1A adrenergic receptor,DB00555
+Alpha-2A adrenergic receptor,DB00555
+Beta-1 adrenergic receptor,DB00555
+D(1) dopamine receptor,DB00555
+Dopamine D2 receptor,DB00555
+GABA(A) Receptor,DB00555
+GABA(A) Receptor Benzodiazepine Binding Site,DB00555
+Histamine H1 receptor,DB00555
+Kappa-type opioid receptor,DB00555
+Acetylcholine receptor subunit alpha,DB00555
+5-hydroxytryptamine receptor 2A,DB00555
+5-hydroxytryptamine receptor 3A,DB00555
+Glutamate receptor 1,DB00555
+Histamine H1 receptor,DB00557
+Potassium voltage-gated channel subfamily H member 2,DB00557
+Neuraminidase,DB00558
+Sialidase-2,DB00558
+Endothelin-1 receptor,DB00559
+Endothelin B receptor,DB00559
+16S ribosomal RNA,DB00560
+30S ribosomal protein S9,DB00560
+30S ribosomal protein S12,DB00560
+30S ribosomal protein S13,DB00560
+30S ribosomal protein S14,DB00560
+30S ribosomal protein S19,DB00560
+Potassium channel subfamily K member 3,DB00561
+Potassium channel subfamily K member 9,DB00561
+Solute carrier family 12 member 3,DB00562
+Carbonic anhydrase 1,DB00562
+Carbonic anhydrase 2,DB00562
+Carbonic anhydrase 4,DB00562
+Carbonic anhydrase 9,DB00562
+Carbonic anhydrase 12,DB00562
+Carbonic anhydrase,DB00562
+Dihydrofolate reductase,DB00563
+Thymidylate synthase,DB00563
+Bifunctional purine biosynthesis protein PURH,DB00563
+Voltage-gated sodium channel alpha subunit,DB00564
+Neuronal acetylcholine receptor subunit alpha-4,DB00564
+Nuclear receptor subfamily 1 group I member 2,DB00564
+Neuronal acetylcholine receptor subunit alpha-2,DB00565
+Lead,DB00566
+Mercury,DB00566
+Cadmium,DB00566
+Arsenic,DB00566
+Penicillin-binding protein 3,DB00567
+Penicillin-binding protein 2a,DB00567
+Penicillin-binding protein 1b,DB00567
+Penicillin-binding protein 2B,DB00567
+Penicillin-binding protein 1A,DB00567
+Histamine H1 receptor,DB00568
+Voltage-dependent L-type calcium channel subunit alpha-1C,DB00568
+Voltage-dependent L-type calcium channel subunit alpha-1D,DB00568
+Voltage-dependent L-type calcium channel subunit alpha-1F,DB00568
+Voltage-dependent L-type calcium channel subunit alpha-1S,DB00568
+Voltage-dependent T-type calcium channel subunit alpha-1G,DB00568
+Voltage-dependent T-type calcium channel subunit alpha-1H,DB00568
+Voltage-dependent T-type calcium channel subunit alpha-1I,DB00568
+Dopamine D2 receptor,DB00568
+D(1) dopamine receptor,DB00568
+Muscarinic acetylcholine receptor,DB00568
+Antithrombin-III,DB00569
+Coagulation factor X,DB00569
+Tubulin alpha-1A chain,DB00570
+Tubulin beta chain,DB00570
+Tubulin delta chain,DB00570
+Tubulin gamma-1 chain,DB00570
+Tubulin epsilon chain,DB00570
+Transcription factor AP-1,DB00570
+Beta-1 adrenergic receptor,DB00571
+Beta-2 adrenergic receptor,DB00571
+Beta-3 adrenergic receptor,DB00571
+5-hydroxytryptamine receptor 1A,DB00571
+5-hydroxytryptamine receptor 1B,DB00571
+Muscarinic acetylcholine receptor M1,DB00572
+Muscarinic acetylcholine receptor M2,DB00572
+Muscarinic acetylcholine receptor M3,DB00572
+Muscarinic acetylcholine receptor M4,DB00572
+Muscarinic acetylcholine receptor M5,DB00572
+Glycine receptor subunit alpha-1,DB00572
+Neuronal acetylcholine receptor subunit alpha-4,DB00572
+Neuronal acetylcholine receptor subunit beta-2,DB00572
+Prostaglandin G/H synthase 2,DB00573
+Prostaglandin G/H synthase 1,DB00573
+Peroxisome proliferator-activated receptor alpha,DB00573
+Peroxisome proliferator-activated receptor gamma,DB00573
+Sodium-dependent serotonin transporter,DB00574
+5-hydroxytryptamine receptor 2B,DB00574
+5-hydroxytryptamine receptor 2C,DB00574
+5-hydroxytryptamine receptor 2A,DB00574
+Alpha-2A adrenergic receptor,DB00575
+Alpha-2B adrenergic receptor,DB00575
+Alpha-2C adrenergic receptor,DB00575
+Alpha-1A adrenergic receptor,DB00575
+Alpha-1B adrenergic receptor,DB00575
+Alpha-1D adrenergic receptor,DB00575
+Dihydropteroate synthase,DB00576
+DNA polymerase catalytic subunit,DB00577
+Thymidine kinase,DB00577
+Penicillin-binding protein,DB00578
+Sodium-dependent noradrenaline transporter,DB00579
+Sodium-dependent dopamine transporter,DB00579
+Sodium-dependent serotonin transporter,DB00579
+Synaptic vesicular amine transporter,DB00579
+Prostaglandin G/H synthase 2,DB00580
+Carbonic anhydrase 2,DB00580
+Carbonic anhydrase 3,DB00580
+Evolved beta-galactosidase subunit alpha,DB00581
+Cytochrome P450 51,DB00582
+Solute carrier family 22 member 4,DB00583
+Solute carrier family 22 member 5,DB00583
+Carnitine O-acetyltransferase,DB00583
+Mitochondrial carnitine/acylcarnitine carrier protein CACL,DB00583
+Mitochondrial carnitine/acylcarnitine carrier protein,DB00583
+Peroxisomal carnitine O-octanoyltransferase,DB00583
+"Carnitine O-palmitoyltransferase 2, mitochondrial",DB00583
+"Carnitine O-palmitoyltransferase 1, liver isoform",DB00583
+Xanthine dehydrogenase/oxidase,DB00583
+Liver carboxylesterase 1,DB00583
+Myeloperoxidase,DB00583
+Angiotensin-converting enzyme,DB00584
+Histamine H2 receptor,DB00585
+Prostaglandin G/H synthase 2,DB00586
+Prostaglandin G/H synthase 1,DB00586
+Cysteinyl leukotriene receptor 1,DB00587
+Glucocorticoid receptor,DB00588
+Progesterone receptor,DB00588
+Cytosolic phospholipase A2,DB00588
+Mineralocorticoid receptor,DB00588
+Dopamine D2 receptor,DB00589
+Dopamine D3 receptor,DB00589
+Dopamine D4 receptor,DB00589
+Dopamine D1 receptor,DB00589
+Dopamine D5 receptor,DB00589
+5-hydroxytryptamine receptor 1A,DB00589
+5-hydroxytryptamine receptor 1D,DB00589
+5-hydroxytryptamine receptor 2B,DB00589
+5-hydroxytryptamine receptor 2A,DB00589
+5-hydroxytryptamine receptor 2C,DB00589
+5-hydroxytryptamine receptor 1B,DB00589
+Alpha-2A adrenergic receptor,DB00589
+Alpha-2B adrenergic receptor,DB00589
+Alpha-2C adrenergic receptor,DB00589
+5-hydroxytryptamine receptor 7,DB00589
+Alpha-1A adrenergic receptor,DB00590
+Alpha-1D adrenergic receptor,DB00590
+HERG human cardiac K+ channel,DB00590
+Alpha-1B adrenergic receptor,DB00590
+Glucocorticoid receptor,DB00591
+Annexin A1,DB00591
+Annexin A2,DB00591
+Annexin A3,DB00591
+Annexin A4,DB00591
+Annexin A5,DB00591
+Gamma-aminobutyric acid receptor subunit beta-3,DB00592
+Voltage-dependent T-type calcium channel subunit alpha-1G,DB00593
+Amiloride-sensitive sodium channel subunit alpha,DB00594
+Amiloride-sensitive sodium channel subunit beta,DB00594
+Amiloride-sensitive sodium channel subunit gamma,DB00594
+Amiloride-sensitive sodium channel subunit delta,DB00594
+Amiloride-sensitive amine oxidase [copper-containing],DB00594
+Acid-sensing ion channel 2,DB00594
+Acid-sensing ion channel 1,DB00594
+Sodium/hydrogen exchanger 1,DB00594
+Urokinase-type plasminogen activator,DB00594
+30S ribosomal protein S9,DB00595
+30S ribosomal protein S4,DB00595
+16S ribosomal RNA,DB00595
+Glucocorticoid receptor,DB00596
+Beta-1 adrenergic receptor,DB00598
+Beta-2 adrenergic receptor,DB00598
+Alpha-1 adrenergic receptors,DB00598
+Gamma-aminobutyric acid receptor subunit alpha-1,DB00599
+Gamma-aminobutyric acid receptor subunit alpha-2,DB00599
+Gamma-aminobutyric acid receptor subunit alpha-3,DB00599
+Gamma-aminobutyric acid receptor subunit alpha-4,DB00599
+Gamma-aminobutyric acid receptor subunit alpha-5,DB00599
+Gamma-aminobutyric acid receptor subunit alpha-6,DB00599
+Neuronal acetylcholine receptor subunit alpha-4,DB00599
+Neuronal acetylcholine receptor subunit alpha-7,DB00599
+Glutamate receptor 2,DB00599
+"Glutamate receptor ionotropic, kainate 2",DB00599
+Fatty-acid amide hydrolase 1,DB00599
+Muscarinic acetylcholine receptor M3,DB00599
+Tyrosinase,DB00600
+23S ribosomal RNA,DB00601
+Glycine receptor subunit alpha-3,DB00602
+Gamma-aminobutyric acid receptor subunit beta-3,DB00602
+Progesterone receptor,DB00603
+Estrogen receptor alpha,DB00603
+P-glycoprotein 1,DB00603
+GABA(A) Receptor,DB00603
+5-hydroxytryptamine receptor 4,DB00604
+5-hydroxytryptamine receptor 3A,DB00604
+5-hydroxytryptamine receptor 2A,DB00604
+Potassium voltage-gated channel subfamily H member 2,DB00604
+Prostaglandin G/H synthase 2,DB00605
+Prostaglandin G/H synthase 1,DB00605
+Aldose reductase,DB00605
+Mitogen-activated protein kinase 3,DB00605
+Peroxisome proliferator-activated receptor delta,DB00605
+Prostaglandin D2 receptor 2,DB00605
+Aldo-keto reductase family 1 member B10,DB00605
+Sodium/potassium-transporting ATPase subunit gamma,DB00606
+Carbonic anhydrase 1,DB00606
+Carbonic anhydrase 2,DB00606
+Secreted frizzled-related protein 4,DB00606
+Carbonic anhydrase,DB00606
+Penicillin-binding protein 1b,DB00607
+Penicillin-binding protein 2B,DB00607
+Penicillin-binding protein 2a,DB00607
+Penicillin-binding protein 3,DB00607
+Penicillin-binding protein 1A,DB00607
+Glutathione S-transferase A2,DB00608
+Tumor necrosis factor,DB00608
+Toll-like receptor 9,DB00608
+Glutathione S-transferase,DB00608
+High mobility group protein B1,DB00608
+Glutathione S-transferase Mu 1,DB00608
+Angiotensin-converting enzyme 2,DB00608
+Enoyl-[acyl-carrier-protein] reductase [NADH],DB00609
+Catalase-peroxidase,DB00609
+Alpha-1A adrenergic receptor,DB00610
+Kappa-type opioid receptor,DB00611
+Delta-type opioid receptor,DB00611
+Mu-type opioid receptor,DB00611
+Beta-1 adrenergic receptor,DB00612
+Beta-2 adrenergic receptor,DB00612
+Fe(II)-protoporphyrin IX,DB00613
+Histamine N-methyltransferase,DB00613
+DNA,DB00614
+DNA-directed RNA polymerase subunit alpha,DB00615
+DNA-directed RNA polymerase subunit beta,DB00615
+DNA-directed RNA polymerase subunit beta',DB00615
+Heat shock protein HSP 90-alpha,DB00615
+Endoplasmin,DB00615
+Neprilysin,DB00616
+Angiotensin-converting enzyme,DB00616
+Voltage-dependent T-type calcium channel subunit alpha-1I,DB00617
+30S ribosomal protein,DB00618
+Vasopressin V2 receptor,DB00618
+Breakpoint cluster region protein,DB00619
+Mast/stem cell growth factor receptor Kit,DB00619
+RET proto-oncogene,DB00619
+High affinity nerve growth factor receptor,DB00619
+Macrophage colony-stimulating factor 1 receptor,DB00619
+Platelet-derived growth factor receptor alpha,DB00619
+Epithelial discoidin domain-containing receptor 1,DB00619
+Tyrosine-protein kinase ABL1,DB00619
+Platelet-derived growth factor receptor beta,DB00619
+Glucocorticoid receptor,DB00620
+Androgen receptor,DB00621
+Voltage-dependent L-type calcium channel subunit alpha-1C,DB00622
+Voltage-dependent L-type calcium channel subunit beta-2,DB00622
+Voltage-dependent calcium channel subunit alpha-2/delta-1,DB00622
+Voltage-dependent L-type calcium channel subunit alpha-1D,DB00622
+"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",DB00622
+"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B",DB00622
+Alpha-1A adrenergic receptor,DB00622
+Alpha-1B adrenergic receptor,DB00622
+Alpha-1D adrenergic receptor,DB00622
+Muscarinic acetylcholine receptor M1,DB00622
+Muscarinic acetylcholine receptor M2,DB00622
+Muscarinic acetylcholine receptor M3,DB00622
+Muscarinic acetylcholine receptor M4,DB00622
+Muscarinic acetylcholine receptor M5,DB00622
+Calmodulin,DB00622
+Dopamine D2 receptor,DB00623
+Dopamine D1 receptor,DB00623
+Calmodulin,DB00623
+Androgen receptor,DB00623
+5-hydroxytryptamine receptor 2A,DB00623
+5-hydroxytryptamine receptor 2C,DB00623
+Androgen receptor,DB00624
+Estrogen receptor alpha,DB00624
+Mineralocorticoid receptor,DB00624
+Reverse transcriptase/RNaseH,DB00625
+C55-isoprenyl pyrophosphate,DB00626
+Insulin-degrading enzyme,DB00626
+Alpha-2-macroglobulin,DB00626
+Hydroxycarboxylic acid receptor 3,DB00627
+Hydroxycarboxylic acid receptor 2,DB00627
+Nicotinate-nucleotide pyrophosphorylase [carboxylating],DB00627
+Nicotinamide N-methyltransferase,DB00627
+GABA(A) Receptor,DB00628
+GABA(A) Receptor Benzodiazepine Binding Site,DB00628
+Alpha-2A adrenergic receptor,DB00629
+Alpha-2B adrenergic receptor,DB00629
+Farnesyl pyrophosphate synthase,DB00630
+Hydroxylapatite,DB00630
+Tyrosine-protein phosphatase non-receptor type 4,DB00630
+Receptor-type tyrosine-protein phosphatase S,DB00630
+Receptor-type tyrosine-protein phosphatase epsilon,DB00630
+V-type proton ATPase catalytic subunit A,DB00630
+DNA polymerase alpha catalytic subunit,DB00631
+Ribonucleoside-diphosphate reductase large subunit,DB00631
+DNA,DB00631
+Envelope glycoprotein GP350,DB00632
+Envelope glycoprotein GP340,DB00632
+Alpha-2A adrenergic receptor,DB00633
+Dihydropteroate synthase,DB00634
+Dihydropteroate synthase type-1,DB00634
+Folic acid synthesis protein FOL1,DB00634
+Glucocorticoid receptor,DB00635
+Peroxisome proliferator-activated receptor alpha,DB00636
+Histamine H1 receptor,DB00637
+Potassium voltage-gated channel subfamily H member 2,DB00637
+Potassium voltage-gated channel subfamily H member 1,DB00637
+Microtubule-associated protein tau,DB00637
+Cycloinulo-oligosaccharide fructanotransferase,DB00638
+Ergosterol,DB00639
+Adenosine receptor A2a,DB00640
+Adenosine receptor A2b,DB00640
+Adenosine receptor A3,DB00640
+Adenosine receptor A1,DB00640
+3-hydroxy-3-methylglutaryl-coenzyme A reductase,DB00641
+Integrin alpha-L,DB00641
+Histone deacetylase 2,DB00641
+Thymidylate synthase,DB00642
+Bifunctional purine biosynthesis protein PURH,DB00642
+Dihydrofolate reductase,DB00642
+Trifunctional purine biosynthetic protein adenosine-3,DB00642
+Tubulin alpha-1A chain,DB00643
+Tubulin beta-4B chain,DB00643
+Gonadotropin-releasing hormone receptor,DB00644
+Putative gonadotropin-releasing hormone II receptor,DB00644
+Sodium channel protein type 10 subunit alpha,DB00645
+Ergosterol,DB00646
+Mu-type opioid receptor,DB00647
+Delta-type opioid receptor,DB00647
+Kappa-type opioid receptor,DB00647
+Liver carboxylesterase 1,DB00647
+"Cytochrome P450 11B1, mitochondrial",DB00648
+"Adrenodoxin, mitochondrial",DB00648
+Estrogen receptor alpha,DB00648
+Progesterone receptor,DB00648
+Androgen receptor,DB00648
+Reverse transcriptase/RNaseH,DB00649
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",DB00651
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4A",DB00651
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4C",DB00651
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4D",DB00651
+Adenosine receptor A1,DB00651
+Adenosine receptor A2a,DB00651
+Mu-type opioid receptor,DB00652
+Kappa-type opioid receptor,DB00652
+Sigma non-opioid intracellular receptor 1,DB00652
+Voltage-dependent L-type calcium channel,DB00653
+Prostaglandin F2-alpha receptor,DB00654
+Estrogen receptor alpha,DB00655
+Estrogen receptor beta,DB00655
+Androgen receptor,DB00655
+Cytochrome P450 19A1,DB00655
+Sex hormone-binding globulin,DB00655
+5-hydroxytryptamine receptor 2A,DB00656
+5-hydroxytryptamine receptor 2C,DB00656
+Sodium-dependent serotonin transporter,DB00656
+5-hydroxytryptamine receptor 1A,DB00656
+Histamine H1 receptor,DB00656
+Alpha-1A adrenergic receptor,DB00656
+Alpha-2A adrenergic receptor,DB00656
+5-hydroxytryptamine receptor 1C,DB00656
+Neuronal acetylcholine receptor subunit alpha-2,DB00657
+Neuronal acetylcholine receptor subunit alpha-7,DB00657
+Neuronal acetylcholine receptor subunit alpha-4,DB00657
+Neuronal acetylcholine receptor subunit beta-2,DB00657
+Phosphate,DB00658
+GABA(A) Receptor,DB00659
+Glutamate (NMDA) receptor,DB00659
+Metabotropic glutamate receptor 5,DB00659
+Voltage-dependent L-type calcium channel subunit alpha-1C,DB00661
+Voltage-dependent N-type calcium channel subunit alpha-1B,DB00661
+Voltage-dependent P/Q-type calcium channel subunit alpha-1A,DB00661
+ATP-sensitive inward rectifier potassium channel 11,DB00661
+Voltage-dependent T-type calcium channel subunit alpha-1G,DB00661
+Voltage-dependent T-type calcium channel subunit alpha-1H,DB00661
+Potassium voltage-gated channel subfamily H member 2,DB00661
+Sodium-dependent serotonin transporter,DB00661
+Alpha-1A adrenergic receptor,DB00661
+Alpha-1B adrenergic receptor,DB00661
+Alpha-1D adrenergic receptor,DB00661
+Glucocorticoid receptor,DB00663
+Dihydropteroate synthetase,DB00664
+Androgen receptor,DB00665
+Gonadotropin-releasing hormone receptor,DB00666
+Putative gonadotropin-releasing hormone II receptor,DB00666
+Alpha-1A adrenergic receptor,DB00668
+Alpha-1B adrenergic receptor,DB00668
+Beta-1 adrenergic receptor,DB00668
+Beta-2 adrenergic receptor,DB00668
+Alpha-2A adrenergic receptor,DB00668
+Alpha-2B adrenergic receptor,DB00668
+Alpha-1D adrenergic receptor,DB00668
+Tumor necrosis factor,DB00668
+5-hydroxytryptamine receptor 1D,DB00669
+5-hydroxytryptamine receptor 1B,DB00669
+5-hydroxytryptamine receptor 1F,DB00669
+5-hydroxytryptamine receptor 1A,DB00669
+Muscarinic acetylcholine receptor M1,DB00670
+Penicillin-binding protein 2,DB00671
+ATP-binding cassette sub-family C member 8,DB00672
+Neurokinin 1 receptor,DB00673
+Acetylcholinesterase,DB00674
+Neuronal acetylcholine receptor subunit alpha-7,DB00674
+Muscle nicotinic acetylcholine receptor,DB00674
+Cholinesterase,DB00674
+Estrogen receptor alpha,DB00675
+Estrogen receptor beta,DB00675
+"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",DB00675
+Protein kinase C,DB00675
+Androgen receptor,DB00675
+Potassium voltage-gated channel subfamily H member 2,DB00675
+Nuclear receptor subfamily 1 group I member 2,DB00675
+Estrogen-related receptor gamma,DB00675
+Sex hormone-binding globulin,DB00675
+Mitogen-activated protein kinase 8,DB00675
+Acetylcholinesterase,DB00677
+Cholinesterase,DB00677
+Serotransferrin,DB00677
+Type-1 angiotensin II receptor,DB00678
+Dopamine D2 receptor,DB00679
+Dopamine D1 receptor,DB00679
+Alpha-1A adrenergic receptor,DB00679
+Alpha-1B adrenergic receptor,DB00679
+5-hydroxytryptamine receptor 2A,DB00679
+Potassium voltage-gated channel subfamily H member 2,DB00679
+Sodium channel protein type 5 subunit alpha,DB00680
+Ergosterol,DB00681
+Vitamin K epoxide reductase complex subunit 1,DB00682
+Nuclear receptor subfamily 1 group I member 2,DB00682
+GABA(A) Receptor,DB00683
+GABA(A) Receptor Benzodiazepine Binding Site,DB00683
+30S ribosomal protein S12,DB00684
+16S ribosomal RNA,DB00684
+DNA gyrase subunit A,DB00685
+DNA topoisomerase 4 subunit A,DB00685
+DNA topoisomerase 2-alpha,DB00685
+Fibroblast growth factor 2,DB00686
+Fibroblast growth factor 1,DB00686
+Fibroblast growth factor 4,DB00686
+Mineralocorticoid receptor,DB00687
+Glucocorticoid receptor,DB00687
+Inosine-5'-monophosphate dehydrogenase 1,DB00688
+Inosine-5'-monophosphate dehydrogenase 2,DB00688
+6-pyruvoyl tetrahydrobiopterin synthase,DB00688
+Penicillin-binding protein 1B,DB00689
+GABA(A) Receptor,DB00690
+GABA(A) Receptor Benzodiazepine Binding Site,DB00690
+Angiotensin-converting enzyme,DB00691
+Alpha-2A adrenergic receptor,DB00692
+Alpha-1A adrenergic receptor,DB00692
+Alpha-1B adrenergic receptor,DB00692
+Alpha-1D adrenergic receptor,DB00692
+Ig kappa chain V-II region RPMI 6410,DB00693
+DNA,DB00693
+DNA,DB00694
+DNA topoisomerase 2-alpha,DB00694
+DNA topoisomerase 2-beta,DB00694
+Solute carrier family 12 member 1,DB00695
+Carbonic anhydrase 2,DB00695
+G-protein coupled receptor 35,DB00695
+5-hydroxytryptamine receptor 1D,DB00696
+5-hydroxytryptamine receptor 1B,DB00696
+5-hydroxytryptamine receptor 2A,DB00696
+Dopamine D2 receptor,DB00696
+Alpha-1A adrenergic receptor,DB00696
+Alpha-1B adrenergic receptor,DB00696
+Alpha-1D adrenergic receptor,DB00696
+Alpha-2A adrenergic receptor,DB00696
+D(1) dopamine receptor,DB00696
+5-hydroxytryptamine receptor 1A,DB00696
+5-hydroxytryptamine receptor 1F,DB00696
+5-hydroxytryptamine receptor 2C,DB00696
+5-hydroxytryptamine receptor 2B,DB00696
+Alpha-2C adrenergic receptor,DB00696
+Alpha-2 adrenergic receptors,DB00697
+Nischarin,DB00697
+Alpha-1 adrenergic receptors,DB00697
+Probable pyruvate-flavodoxin oxidoreductase,DB00698
+Oxygen-insensitive NADPH nitroreductase,DB00698
+30S ribosomal protein S10,DB00698
+Alpha-1A adrenergic receptor,DB00699
+Mineralocorticoid receptor,DB00700
+Human immunodeficiency virus type 1 protease,DB00701
+Carbonic anhydrase 1,DB00703
+Carbonic anhydrase 4,DB00703
+Carbonic anhydrase 2,DB00703
+Carbonic anhydrase 7,DB00703
+Carbonic anhydrase 3,DB00703
+Delta-type opioid receptor,DB00704
+Mu-type opioid receptor,DB00704
+Kappa-type opioid receptor,DB00704
+"HCG20471, isoform CRA_c",DB00704
+Reverse transcriptase/RNaseH,DB00705
+Alpha-1A adrenergic receptor,DB00706
+Alpha-1D adrenergic receptor,DB00706
+Alpha-1B adrenergic receptor,DB00706
+Low-density lipoprotein receptor,DB00707
+High affinity immunoglobulin gamma Fc receptor I,DB00707
+Mu-type opioid receptor,DB00708
+Delta-type opioid receptor,DB00708
+Kappa-type opioid receptor,DB00708
+Reverse transcriptase/RNaseH,DB00709
+DNA,DB00709
+Protein P,DB00709
+Farnesyl pyrophosphate synthase,DB00710
+Hydroxylapatite,DB00710
+Geranylgeranyl pyrophosphate synthase,DB00710
+Arachidonate 5-lipoxygenase,DB00711
+Prostaglandin G/H synthase 1,DB00711
+Prostaglandin G/H synthase 1,DB00712
+Prostaglandin G/H synthase 2,DB00712
+Penicillin-binding protein 3,DB00713
+Penicillin-binding protein 2a,DB00713
+Penicillin-binding protein 1A,DB00713
+Penicillin-binding protein 2B,DB00713
+Penicillin-binding protein 1b,DB00713
+Solute carrier family 15 member 1,DB00713
+Penicillin-binding protein 2,DB00713
+Solute carrier family 15 member 2,DB00713
+Dopamine D4 receptor,DB00714
+Dopamine D2 receptor,DB00714
+Dopamine D3 receptor,DB00714
+Dopamine D5 receptor,DB00714
+Dopamine D1 receptor,DB00714
+Alpha-2C adrenergic receptor,DB00714
+Alpha-2B adrenergic receptor,DB00714
+5-hydroxytryptamine receptor 1A,DB00714
+5-hydroxytryptamine receptor 2A,DB00714
+5-hydroxytryptamine receptor 2B,DB00714
+5-hydroxytryptamine receptor 2C,DB00714
+Alpha-2A adrenergic receptor,DB00714
+5-hydroxytryptamine receptor 1D,DB00714

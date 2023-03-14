@@ -1,0 +1,49 @@
+src_id,src_description,src_short_name
+0,Undefined,UNDEFINED
+1,Scientific Literature,LITERATURE
+2,GSK Malaria Screening,GSK_TCMDC
+3,Novartis Malaria Screening,NOVARTIS
+4,St Jude Malaria Screening,ST_JUDE
+5,Sanger Institute Genomics of Drug Sensitivity in Cancer,SANGER
+6,PDBe Ligands,PDBE
+7,PubChem BioAssays,PUBCHEM_BIOASSAY
+8,Clinical Candidates,CANDIDATES
+9,Orange Book,ORANGE_BOOK
+10,Guide to Receptors and Channels (DEPRECATED),GRAC
+11,Open TG-GATEs,TG_GATES
+12,Manually Added Drugs,DRUGS
+13,USP Dictionary of USAN and International Drug Names,USP/USAN
+14,Drugs for Neglected Diseases Initiative (DNDi),DNDI
+15,DrugMatrix,DRUGMATRIX
+16,GSK Published Kinase Inhibitor Set,GSK_PKIS
+17,MMV Malaria Box,MMV_MBOX
+18,TP-search Transporter Database,TP_TRANSPORTER
+19,Harvard Malaria Screening,HARVARD
+20,WHO-TDR Malaria Screening,WHO_TDR
+21,Deposited Supplementary Bioactivity Data,SUPPLEMENTARY
+22,GSK Tuberculosis Screening,GSK_TB
+23,Open Source Malaria Screening,OSM
+24,Millipore Kinase Screening (DEPRECATED - MERGED WITH SRC_ID = 1,MILLIPORE
+25,External Project Compounds,EXT. PROJECT CPDS
+26,Gene Expression Atlas Compounds,ATLAS
+27,AstraZeneca Deposited Data,ASTRAZENECA
+28,FDA Approval Packages,FDA_APPROVAL
+29,GSK Kinetoplastid Screening,GSK_TCAKS
+30,K4DD Project,K4DD
+31,Curated Drug Metabolism Pathways,METABOLISM
+32,St Jude Leishmania Screening,ST_JUDE_LEISH
+33,Gates Library compound collection,GATES_LIBRARY
+34,MMV Pathogen Box,MMV_PBOX
+35,HeCaToS Compounds,HECATOS
+36,Withdrawn Drugs,WITHDRAWN
+37,BindingDB Database,BINDINGDB
+38,Patent Bioactivity Data,PATENT
+39,Curated Drug Pharmacokinetic Data,DRUG_PK
+40,CO-ADD antimicrobial screening data,COADD
+41,WHO Anatomical Therapeutic Chemical Classification,ATC
+42,British National Formulary,BNF
+43,Published Kinase Inhibitor Set 2,PKIS2
+48,Kuster lab chemical proteomics drug profiling,TUM_PROTEOMIC_KUSTER
+49,HESi,HESI
+51,Winzeler_Antonova_Plasmodium,WINZ_PLASMO
+52,SARS-CoV-2 Screening Data,SARS_COV_2

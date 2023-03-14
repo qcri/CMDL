@@ -1,0 +1,269 @@
+Code;Country;Currency;Number;ExchangeRate
+AED;United Arab Emirates (The);UAE Dirham;784.0;3.6727786406921377
+AFN;Afghanistan;Afghani;971.0;78.25019687754035
+ALL;Albania;Lek;8.0;111.7028600772268
+AMD;Armenia;Armenian Dram;51.0;477.16981096127046
+ANG;Curaçao;Netherlands Antillean Guilder;532.0;1.734310583846243
+ANG;Sint Maarten (Dutch Part);Netherlands Antillean Guilder;532.0;1.734310583846243
+AOA;Angola;Kwanza;973.0;461.04814608494945
+ARS;Argentina;Argentine Peso;32.0;59.48575858640111
+AUD;Australia;Australian Dollar;36.0;1.4582247633840435
+AUD;Christmas Island;Australian Dollar;36.0;1.4582247633840435
+AUD;Cocos (Keeling) Islands (The);Australian Dollar;36.0;1.4582247633840435
+AUD;Heard Island And Mcdonald Islands;Australian Dollar;36.0;1.4582247633840435
+AUD;Kiribati;Australian Dollar;36.0;1.4582247633840435
+AUD;Nauru;Australian Dollar;36.0;1.4582247633840435
+AUD;Norfolk Island;Australian Dollar;36.0;1.4582247633840435
+AUD;Tuvalu;Australian Dollar;36.0;1.4582247633840435
+AWG;Aruba;Aruban Florin;533.0;1.7999996370920912
+AZN;Azerbaijan;Azerbaijanian Manat;944.0;1.7111634101730344
+BAM;Bosnia And Herzegovina;Convertible Mark;977.0;1.772692631517826
+BBD;Barbados;Barbados Dollar;52.0;2.0183341075368713
+BDT;Bangladesh;Taka;50.0;84.71274568865404
+BGN;Bulgaria;Bulgarian Lev;975.0;1.774976229531994
+BHD;Bahrain;Bahraini Dinar;48.0;0.3769751262919521
+BIF;Burundi;Burundi Franc;108.0;1870.9992351715828
+BMD;Bermuda;Bermudian Dollar;60.0;1.0
+BND;Brunei Darussalam;Brunei Dollar;96.0;1.3587380966206015
+BOB;Bolivia (Plurinational State Of);Boliviano;68.0;6.912407639937289
+BOV;Bolivia (Plurinational State Of);Mvdol;984.0;
+BRL;Brazil;Brazilian Real;986.0;4.163348478690048
+BSD;Bahamas (The);Bahamian Dollar;44.0;0.9996053376495179
+BTN;Bhutan;Ngultrum;64.0;71.29006866217628
+BWP;Botswana;Pula;72.0;10.901036827894552
+BYN;Belarus;Belarussian Ruble;933.0;2.041464950354198
+BZD;Belize;Belize Dollar;84.0;2.0148901114853093
+CAD;Canada;Canadian Dollar;124.0;1.3227194867030543
+CDF;Congo (The Democratic Republic Of The);Congolese Franc;976.0;1664.9994120891881
+CHE;Switzerland;WIR Euro;947.0;
+CHF;Liechtenstein;Swiss Franc;756.0;0.997244621704796
+CHF;Switzerland;Swiss Franc;756.0;0.997244621704796
+CHW;Switzerland;WIR Franc;948.0;
+CLF;Chile;Unidad de Fomento;990.0;0.027144604285216582
+CLP;Chile;Chilean Peso;152.0;748.9998031224596
+CNY;China;Yuan Renminbi;156.0;6.995999847578678
+COP;Colombia;Colombian Peso;170.0;3338.998634558994
+COU;Colombia;Unidad de Valor Real;970.0;
+CRC;Costa Rica;Costa Rican Colon;188.0;585.053251291952
+CUC;Cuba;Peso Convertible;931.0;1.0
+CUP;Cuba;Cuban Peso;192.0;26.499989112762744
+CVE;Cabo Verde;Cabo Verde Escudo;132.0;100.30584517622808
+CZK;Czech Republic (The);Czech Koruna;203.0;23.121990586168852
+DJF;Djibouti;Djibouti Franc;262.0;177.72012542097318
+DKK;Denmark;Danish Krone;208.0;6.77915783590756
+DKK;Faroe Islands (The);Danish Krone;208.0;6.77915783590756
+DKK;Greenland;Danish Krone;208.0;6.77915783590756
+DOP;Dominican Republic (The);Dominican Peso;214.0;53.020021629311344
+DZD;Algeria;Algerian Dinar;12.0;120.13190160114969
+EGP;Egypt;Egyptian Pound;818.0;16.14500439118569
+ERN;Eritrea;Nakfa;232.0;14.999717839101148
+ETB;Ethiopia;Ethiopian Birr;230.0;29.905400795494135
+EUR;Åland Islands;Euro;978.0;0.9072697712228545
+EUR;Andorra;Euro;978.0;0.9072697712228545
+EUR;Austria;Euro;978.0;0.9072697712228545
+EUR;Belgium;Euro;978.0;0.9072697712228545
+EUR;Cyprus;Euro;978.0;0.9072697712228545
+EUR;Estonia;Euro;978.0;0.9072697712228545
+EUR;European Union;Euro;978.0;0.9072697712228545
+EUR;Finland;Euro;978.0;0.9072697712228545
+EUR;France;Euro;978.0;0.9072697712228545
+EUR;French Guiana;Euro;978.0;0.9072697712228545
+EUR;French Southern Territories (The);Euro;978.0;0.9072697712228545
+EUR;Germany;Euro;978.0;0.9072697712228545
+EUR;Greece;Euro;978.0;0.9072697712228545
+EUR;Guadeloupe;Euro;978.0;0.9072697712228545
+EUR;Holy See (The);Euro;978.0;0.9072697712228545
+EUR;Ireland;Euro;978.0;0.9072697712228545
+EUR;Italy;Euro;978.0;0.9072697712228545
+EUR;Latvia;Euro;978.0;0.9072697712228545
+EUR;Lithuania;Euro;978.0;0.9072697712228545
+EUR;Luxembourg;Euro;978.0;0.9072697712228545
+EUR;Malta;Euro;978.0;0.9072697712228545
+EUR;Martinique;Euro;978.0;0.9072697712228545
+EUR;Mayotte;Euro;978.0;0.9072697712228545
+EUR;Monaco;Euro;978.0;0.9072697712228545
+EUR;Montenegro;Euro;978.0;0.9072697712228545
+EUR;Netherlands (The);Euro;978.0;0.9072697712228545
+EUR;Portugal;Euro;978.0;0.9072697712228545
+EUR;Réunion;Euro;978.0;0.9072697712228545
+EUR;Saint Barthélemy;Euro;978.0;0.9072697712228545
+EUR;Saint Martin (French Part);Euro;978.0;0.9072697712228545
+EUR;Saint Pierre And Miquelon;Euro;978.0;0.9072697712228545
+EUR;San Marino;Euro;978.0;0.9072697712228545
+EUR;Slovakia;Euro;978.0;0.9072697712228545
+EUR;Slovenia;Euro;978.0;0.9072697712228545
+EUR;Spain;Euro;978.0;0.9072697712228545
+FJD;Fiji;Fiji Dollar;242.0;2.183987958715596
+FKP;Falkland Islands (The) [Malvinas];Falkland Islands Pound;238.0;0.8128801460341423
+GBP;Guernsey;Pound Sterling;826.0;0.7815448626756474
+GBP;Isle Of Man;Pound Sterling;826.0;0.7815448626756474
+GBP;Jersey;Pound Sterling;826.0;0.7815448626756474
+GBP;United Kingdom Of Great Britain And Northern Ireland (The);Pound Sterling;826.0;0.7815448626756474
+GEL;Georgia;Lari;981.0;2.9600928318429913
+GHS;Ghana;Ghana Cedi;936.0;5.525016149401927
+GIP;Gibraltar;Gibraltar Pound;292.0;0.8128801460341423
+GMD;Gambia (The);Dalasi;270.0;51.21967178608756
+GNF;Guinea;Guinea Franc;324.0;9239.996255697653
+GTQ;Guatemala;Quetzal;320.0;7.696933791081175
+GYD;Guyana;Guyana Dollar;328.0;209.13234434879803
+HKD;Hong Kong;Hong Kong Dollar;344.0;7.828847186737893
+HNL;Honduras;Lempira;340.0;24.710400396295437
+HRK;Croatia;Kuna;191.0;6.744299624027406
+HTG;Haiti;Gourde;332.0;97.47081040965044
+HUF;Hungary;Forint;348.0;302.6897400490651
+IDR;Indonesia;Rupiah;360.0;14018.571267855068
+ILS;Israel;New Israeli Sheqel;376.0;3.4941381300081287
+INR;Bhutan;Indian Rupee;356.0;71.37693429915224
+INR;India;Indian Rupee;356.0;71.37693429915224
+IQD;Iraq;Iraqi Dinar;368.0;1189.9995137034025
+IRR;Iran (Islamic Republic Of);Iranian Rial;364.0;42104.98274009987
+ISK;Iceland;Iceland Krona;352.0;124.95966641505052
+JMD;Jamaica;Jamaican Dollar;388.0;140.63638260654974
+JOD;Jordan;Jordanian Dinar;400.0;0.7090113662756938
+JPY;Japan;Yen;392.0;109.23045650185809
+KES;Kenya;Kenyan Shilling;404.0;102.4474781529439
+KGS;Kyrgyzstan;Som;417.0;69.8211698699338
+KHR;Cambodia;Riel;116.0;4065.998506633956
+KMF;Comoros (The);Comoro Franc;174.0;446.94978261816277
+KPW;Korea (The Democratic People’S Republic Of);North Korean Won;408.0;900.0502346199628
+KRW;Korea (The Republic Of);Won;410.0;1158.7595199817094
+KWD;Kuwait;Kuwaiti Dinar;414.0;0.3037983756242016
+KYD;Cayman Islands (The);Cayman Islands Dollar;136.0;0.833030607653002
+KZT;Kazakhstan;Tenge;398.0;388.60322098914173
+LAK;Lao People’S Democratic Republic (The);Kip;418.0;8859.996757417835
+LBP;Lebanon;Lebanese Pound;422.0;1513.2607765503424
+LKR;Sri Lanka;Sri Lanka Rupee;144.0;180.5062166124724
+LRD;Liberia;Liberian Dollar;430.0;211.37492923295784
+LSL;Lesotho;Loti;426.0;14.819741827313898
+LYD;Libya;Libyan Dinar;434.0;1.3978731782022993
+MAD;Morocco;Moroccan Dirham;504.0;9.675004173440946
+MAD;Western Sahara;Moroccan Dirham;504.0;9.675004173440946
+MDL;Moldova (The Republic Of);Moldovan Leu;498.0;17.418250457263962
+MGA;Madagascar;Malagasy Ariary;969.0;3696.998630022645
+MKD;Republic Of North Macedonia;Denar;807.0;55.875448191266976
+MMK;Myanmar;Kyat;104.0;1516.7429813610497
+MNT;Mongolia;Tugrik;496.0;2706.17147761584
+MOP;Macao;Pataca;446.0;8.059627583904307
+MRU;Mauritania;Ouguiya;929.0;
+MUR;Mauritius;Mauritius Rupee;480.0;36.3743440439554
+MVR;Maldives;Rufiyaa;462.0;15.449793505400068
+MWK;Malawi;Kwacha;454.0;732.5018843993147
+MXN;Mexico;Mexican Peso;484.0;19.1108883259784
+MXV;Mexico;Mexican Unidad de Inversion (UDI);979.0;
+MYR;Malaysia;Malaysian Ringgit;458.0;4.132990324875159
+MZN;Mozambique;Mozambique Metical;943.0;63.0749468339914
+NAD;Namibia;Namibia Dollar;516.0;14.819974995645104
+NGN;Nigeria;Naira;566.0;361.9996053376495
+NIO;Nicaragua;Cordoba Oro;558.0;33.83002210109162
+NOK;Bouvet Island;Norwegian Krone;578.0;9.13865168824759
+NOK;Norway;Norwegian Krone;578.0;9.13865168824759
+NOK;Svalbard And Jan Mayen;Norwegian Krone;578.0;9.13865168824759
+NPR;Nepal;Nepalese Rupee;524.0;114.05043331204273
+NZD;Cook Islands (The);New Zealand Dollar;554.0;1.57933439060504
+NZD;New Zealand;New Zealand Dollar;554.0;1.57933439060504
+NZD;Niue;New Zealand Dollar;554.0;1.57933439060504
+NZD;Pitcairn;New Zealand Dollar;554.0;1.57933439060504
+NZD;Tokelau;New Zealand Dollar;554.0;1.57933439060504
+OMR;Oman;Rial Omani;512.0;0.38500627830681683
+PAB;Panama;Balboa;590.0;0.9996053376495179
+PEN;Peru;Nuevo Sol;604.0;3.359934785448844
+PGK;Papua New Guinea;Kina;598.0;3.3799618583788176
+PHP;Philippines (The);Philippine Peso;608.0;50.559664781964926
+PKR;Pakistan;Pakistan Rupee;586.0;155.99987933312042
+PLN;Poland;Zloty;985.0;3.8715877583904303
+PYG;Paraguay;Guarani;600.0;6444.455868583787
+QAR;Qatar;Qatari Rial;634.0;3.6409788352107766
+RON;Romania;Romanian Leu;946.0;4.321687920973173
+RSD;Serbia;Serbian Dinar;941.0;106.61007087591452
+RUB;Russian Federation (The);Russian Ruble;643.0;63.818224872256415
+RWF;Rwanda;Rwanda Franc;646.0;931.499618946696
+SAR;Saudi Arabia;Saudi Riyal;682.0;3.7502494991870865
+SBD;Solomon Islands;Solomon Islands Dollar;90.0;8.267988437754035
+SCR;Seychelles;Seychelles Rupee;690.0;13.700501175821623
+SDG;Sudan (The);Sudanese Pound;938.0;45.088985926431306
+SEK;Sweden;Swedish Krona;752.0;9.703755552491
+SGD;Singapore;Singapore Dollar;702.0;1.3600100888398559
+SHP;Saint Helena, Ascension And Tristan Da Cunha;Saint Helena Pound;654.0;1.32089859627221
+SLL;Sierra Leone;Leone;694.0;9664.996168599755
+SOS;Somalia;Somali Shilling;706.0;580.9995808413656
+SRD;Suriname;Surinam Dollar;968.0;7.457998853211009
+SSP;South Sudan;South Sudanese Pound;728.0;
+STN;Sao Tome And Principe;Dobra;930.0;
+SVC;El Salvador;El Salvador Colon;222.0;8.746205797816746
+SYP;Syrian Arab Republic;Syrian Pound;760.0;514.9995980794913
+SZL;Swaziland;Lilangeni;748.0;14.819917837649516
+THB;Thailand;Baht;764.0;30.35567333933341
+TJS;Tajikistan;Somoni;972.0;9.691379485541747
+TMT;Turkmenistan;Turkmenistan New Manat;934.0;3.4999981854604574
+TND;Tunisia;Tunisian Dinar;788.0;2.854497517709906
+TOP;Tonga;Pa’anga;776.0;2.3159494396701894
+TRY;Turkey;Turkish Lira;949.0;5.768022914005341
+TTD;Trinidad And Tobago;Trinidad and Tobago Dollar;780.0;6.773279635059807
+TWD;Taiwan (Province Of China);New Taiwan Dollar;901.0;30.3960286987574
+TZS;Tanzania, United Republic Of;Tanzanian Shilling;834.0;2304.0984732464285
+UAH;Ukraine;Hryvnia;980.0;24.499359467541513
+UGX;Uganda;Uganda Shilling;800.0;3695.5215893914756
+USD;American Samoa;US Dollar;840.0;1.0
+USD;Bonaire, Sint Eustatius And Saba;US Dollar;840.0;1.0
+USD;British Indian Ocean Territory (The);US Dollar;840.0;1.0
+USD;Ecuador;US Dollar;840.0;1.0
+USD;El Salvador;US Dollar;840.0;1.0
+USD;Guam;US Dollar;840.0;1.0
+USD;Haiti;US Dollar;840.0;1.0
+USD;Marshall Islands (The);US Dollar;840.0;1.0
+USD;Micronesia (Federated States Of);US Dollar;840.0;1.0
+USD;Northern Mariana Islands (The);US Dollar;840.0;1.0
+USD;Palau;US Dollar;840.0;1.0
+USD;Panama;US Dollar;840.0;1.0
+USD;Puerto Rico;US Dollar;840.0;1.0
+USD;Timor-Leste;US Dollar;840.0;1.0
+USD;Turks And Caicos Islands (The);US Dollar;840.0;1.0
+USD;United States Minor Outlying Islands (The);US Dollar;840.0;1.0
+USD;United States Of America (The);US Dollar;840.0;1.0
+USD;Virgin Islands (British);US Dollar;840.0;1.0
+USD;Virgin Islands (U.S.);US Dollar;840.0;1.0
+USN;United States Of America (The);US Dollar (Next day);997.0;
+UYI;Uruguay;Uruguay Peso en Unidades Indexadas (URUIURUI);940.0;
+UYU;Uruguay;Peso Uruguayo;858.0;37.46055735396586
+UZS;Uzbekistan;Uzbekistan Sum;860.0;9465.996299246603
+VEF;Venezuela (Bolivarian Republic Of);Bolivar;937.0;9.987494193473463
+VND;Viet Nam;Dong;704.0;23208.490509958192
+VUV;Vanuatu;Vatu;548.0;117.25515510684006
+WST;Samoa;Tala;882.0;2.671228116653118
+XAF;Cameroon;CFA Franc BEAC;950.0;594.4598596635118
+XAF;Central African Republic (The);CFA Franc BEAC;950.0;594.4598596635118
+XAF;Chad;CFA Franc BEAC;950.0;594.4598596635118
+XAF;Congo (The);CFA Franc BEAC;950.0;594.4598596635118
+XAF;Equatorial Guinea;CFA Franc BEAC;950.0;594.4598596635118
+XAF;Gabon;CFA Franc BEAC;950.0;594.4598596635118
+XCD;Anguilla;East Caribbean Dollar;951.0;2.7025488836952736
+XCD;Antigua And Barbuda;East Caribbean Dollar;951.0;2.7025488836952736
+XCD;Dominica;East Caribbean Dollar;951.0;2.7025488836952736
+XCD;Grenada;East Caribbean Dollar;951.0;2.7025488836952736
+XCD;Montserrat;East Caribbean Dollar;951.0;2.7025488836952736
+XCD;Saint Kitts And Nevis;East Caribbean Dollar;951.0;2.7025488836952736
+XCD;Saint Lucia;East Caribbean Dollar;951.0;2.7025488836952736
+XCD;Saint Vincent And The Grenadines;East Caribbean Dollar;951.0;2.7025488836952736
+XDR;International Monetary Fund (Imf);SDR (Special Drawing Right);960.0;0.7282500217744745
+XOF;Benin;CFA Franc BCEAO;952.0;593.999726004529
+XOF;Burkina Faso;CFA Franc BCEAO;952.0;593.999726004529
+XOF;Côte D'Ivoire;CFA Franc BCEAO;952.0;593.999726004529
+XOF;Guinea-Bissau;CFA Franc BCEAO;952.0;593.999726004529
+XOF;Mali;CFA Franc BCEAO;952.0;593.999726004529
+XOF;Niger (The);CFA Franc BCEAO;952.0;593.999726004529
+XOF;Senegal;CFA Franc BCEAO;952.0;593.999726004529
+XOF;Togo;CFA Franc BCEAO;952.0;593.999726004529
+XPF;French Polynesia;CFP Franc;953.0;108.62498094733479
+XPF;New Caledonia;CFP Franc;953.0;108.62498094733479
+XPF;Wallis And Futuna;CFP Franc;953.0;108.62498094733479
+XSU;"Sistema Unitario De Compensacion Regional De Pagos ""Sucre""";Sucre;994.0;
+XUA;Member Countries Of The African Development Bank Group;ADB Unit of Account;965.0;
+YER;Yemen;Yemeni Rial;886.0;250.34947487225637
+ZAR;Lesotho;Rand;710.0;14.8605036435954
+ZAR;Namibia;Rand;710.0;14.8605036435954
+ZAR;South Africa;Rand;710.0;14.8605036435954
+ZMW;Zambia;Zambian Kwacha;967.0;13.629581712344674
+ZWL;Zimbabwe;Zimbabwe Dollar;932.0;321.999869353153
+;Antarctica;No universal currency;;
+;Palestine, State Of;No universal currency;;
+;South Georgia And The South Sandwich Islands;No universal currency;;

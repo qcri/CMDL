@@ -1,0 +1,3 @@
+29/03/2017 1261 Success 661418 14/00042/COM 1855 Restaurant/Cafe/Canteen 1 OX1 1AY 5 fhrs_5_en-GB 08/03/2017 269 Oxford City http://www.oxford.gov.uk foodsafety@oxford.gov.uk 5.0 5.0 5.0 FHRS False 4 Oxford Castle New Road Oxford OX1 1AY
+UK
+(51.751367, -1.262074)

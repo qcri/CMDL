@@ -1,0 +1,1525 @@
+id,name,parent_key,position
+BE0001032,P-glycoprotein 1,DB01182,4
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB01183,1
+BE0001032,P-glycoprotein 1,DB01183,2
+BE0001032,P-glycoprotein 1,DB01184,1
+BE0001032,P-glycoprotein 1,DB01190,3
+BE0001032,P-glycoprotein 1,DB01193,2
+BE0001032,P-glycoprotein 1,DB01195,7
+BE0003657,Multidrug and toxin extrusion protein 1,DB01195,8
+BE0001032,P-glycoprotein 1,DB01196,1
+BE0001032,P-glycoprotein 1,DB01197,5
+BE0001018,Solute carrier family 15 member 1,DB01197,6
+BE0001066,Solute carrier family 22 member 6,DB01197,7
+BE0003648,Solute carrier family 22 member 1,DB01199,1
+BE0003647,Solute carrier family 22 member 2,DB01199,4
+BE0001032,P-glycoprotein 1,DB01200,19
+BE0001032,P-glycoprotein 1,DB01202,1
+BE0001032,P-glycoprotein 1,DB01203,3
+BE0009712,"POU domain, class 2, transcription factor 1",DB01203,4
+BE0004865,"POU domain, class 2, transcription factor 2",DB01203,5
+BE0003657,Multidrug and toxin extrusion protein 1,DB01203,6
+BE0004752,Multidrug and toxin extrusion protein 2,DB01203,7
+BE0001032,P-glycoprotein 1,DB01204,1
+BE0000785,Multidrug resistance-associated protein 1,DB01204,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB01204,3
+BE0000106,Solute carrier family 22 member 5,DB01208,1
+BE0001069,Canalicular multispecific organic anion transporter 1,DB01208,2
+BE0001032,P-glycoprotein 1,DB01208,3
+BE0003646,Solute carrier family 22 member 7,DB01211,1
+BE0001032,P-glycoprotein 1,DB01211,1
+BE0000703,Bile salt export pump,DB01211,2
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB01211,3
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB01211,4
+BE0001018,Solute carrier family 15 member 1,DB01212,2
+BE0001134,Solute carrier family 15 member 2,DB01212,2
+BE0001066,Solute carrier family 22 member 6,DB01212,3
+BE0003645,Solute carrier family 22 member 8,DB01212,4
+BE0000879,Solute carrier family 22 member 11,DB01212,5
+BE0001032,P-glycoprotein 1,DB01212,7
+BE0009674,Solute carrier family 12 member 5,DB01216,4
+BE0001032,P-glycoprotein 1,DB01217,1
+BE0000703,Bile salt export pump,DB01222,2
+BE0001032,P-glycoprotein 1,DB01222,3
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB01222,13
+BE0003645,Solute carrier family 22 member 8,DB01222,14
+BE0001032,P-glycoprotein 1,DB01224,25
+BE0000703,Bile salt export pump,DB01229,11
+BE0001032,P-glycoprotein 1,DB01229,11
+BE0000785,Multidrug resistance-associated protein 1,DB01229,12
+BE0003651,Multidrug resistance-associated protein 7,DB01229,14
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB01229,15
+BE0001069,Canalicular multispecific organic anion transporter 1,DB01229,18
+BE0001032,P-glycoprotein 1,DB01232,5
+BE0003648,Solute carrier family 22 member 1,DB01232,6
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB01232,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB01232,7
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB01232,8
+BE0000785,Multidrug resistance-associated protein 1,DB01232,9
+BE0001069,Canalicular multispecific organic anion transporter 1,DB01232,10
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB01232,13
+BE0000703,Bile salt export pump,DB01232,14
+BE0001032,P-glycoprotein 1,DB01233,5
+BE0001032,P-glycoprotein 1,DB01234,1
+BE0003645,Solute carrier family 22 member 8,DB01234,2
+BE0000703,Bile salt export pump,DB01234,3
+BE0001069,Canalicular multispecific organic anion transporter 1,DB01234,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB01234,7
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB01234,7
+BE0001018,Solute carrier family 15 member 1,DB01235,1
+BE0003654,Monocarboxylate transporter 10,DB01235,2
+BE0000222,Large neutral amino acids transporter small subunit 1,DB01235,6
+BE0000789,Large neutral amino acids transporter small subunit 2,DB01235,7
+BE0001066,Solute carrier family 22 member 6,DB01237,1
+BE0001032,P-glycoprotein 1,DB01239,5
+BE0001032,P-glycoprotein 1,DB01242,1
+BE0001032,P-glycoprotein 1,DB01244,5
+BE0001032,P-glycoprotein 1,DB01248,1
+BE0003651,Multidrug resistance-associated protein 7,DB01248,2
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB01248,8
+BE0003646,Solute carrier family 22 member 7,DB01248,9
+BE0001067,ATP-binding cassette sub-family G member 2,DB01248,10
+BE0001069,Canalicular multispecific organic anion transporter 1,DB01248,11
+BE0000785,Multidrug resistance-associated protein 1,DB01248,12
+BE0001032,P-glycoprotein 1,DB01253,1
+BE0001032,P-glycoprotein 1,DB01254,11
+BE0001067,ATP-binding cassette sub-family G member 2,DB01254,12
+BE0001018,Solute carrier family 15 member 1,DB01255,2
+BE0001032,P-glycoprotein 1,DB01259,1
+BE0003109,Antigen peptide transporter 1,DB01259,2
+BE0001032,P-glycoprotein 1,DB01261,1
+BE0003645,Solute carrier family 22 member 8,DB01261,2
+BE0001032,P-glycoprotein 1,DB01263,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB01264,1
+BE0001032,P-glycoprotein 1,DB01264,2
+BE0001032,P-glycoprotein 1,DB01267,19
+BE0001188,Multidrug resistance-associated protein 4,DB01268,9
+BE0001032,P-glycoprotein 1,DB01268,10
+BE0001069,Canalicular multispecific organic anion transporter 1,DB01268,11
+BE0001067,ATP-binding cassette sub-family G member 2,DB01268,12
+BE0003647,Solute carrier family 22 member 2,DB01273,6
+BE0003646,Solute carrier family 22 member 7,DB01303,6
+BE0001032,P-glycoprotein 1,DB01323,1
+BE0001066,Solute carrier family 22 member 6,DB01324,1
+BE0003645,Solute carrier family 22 member 8,DB01324,2
+BE0001066,Solute carrier family 22 member 6,DB01326,1
+BE0003645,Solute carrier family 22 member 8,DB01326,2
+BE0000879,Solute carrier family 22 member 11,DB01326,3
+BE0003646,Solute carrier family 22 member 7,DB01326,4
+BE0001188,Multidrug resistance-associated protein 4,DB01327,1
+BE0001066,Solute carrier family 22 member 6,DB01327,2
+BE0003645,Solute carrier family 22 member 8,DB01327,3
+BE0000879,Solute carrier family 22 member 11,DB01327,4
+BE0001066,Solute carrier family 22 member 6,DB01329,1
+BE0003645,Solute carrier family 22 member 8,DB01329,2
+BE0000879,Solute carrier family 22 member 11,DB01329,3
+BE0003646,Solute carrier family 22 member 7,DB01329,4
+BE0001018,Solute carrier family 15 member 1,DB01332,1
+BE0001066,Solute carrier family 22 member 6,DB01332,3
+BE0003645,Solute carrier family 22 member 8,DB01332,4
+BE0000106,Solute carrier family 22 member 5,DB01333,1
+BE0001018,Solute carrier family 15 member 1,DB01333,2
+BE0001134,Solute carrier family 15 member 2,DB01333,3
+BE0001066,Solute carrier family 22 member 6,DB01333,4
+BE0003657,Multidrug and toxin extrusion protein 1,DB01333,7
+BE0003648,Solute carrier family 22 member 1,DB01337,3
+BE0003647,Solute carrier family 22 member 2,DB01337,4
+BE0001032,P-glycoprotein 1,DB01339,1
+BE0001032,P-glycoprotein 1,DB01340,2
+BE0001018,Solute carrier family 15 member 1,DB01340,3
+BE0001134,Solute carrier family 15 member 2,DB01340,4
+BE0001018,Solute carrier family 15 member 1,DB01348,2
+BE0001134,Solute carrier family 15 member 2,DB01348,3
+BE0000118,Synaptic vesicular amine transporter,DB01364,7
+BE0001032,P-glycoprotein 1,DB01388,1
+BE0004675,Electrogenic sodium bicarbonate cotransporter 1,DB01390,1
+BE0004676,Sodium bicarbonate cotransporter 3,DB01390,2
+BE0004680,Electroneutral sodium bicarbonate exchanger 1,DB01390,3
+BE0004677,Electrogenic sodium bicarbonate cotransporter 4,DB01390,4
+BE0004683,Sodium-driven chloride bicarbonate exchanger,DB01390,6
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB01393,1
+BE0001032,P-glycoprotein 1,DB01394,1
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB01396,1
+BE0003653,Solute carrier organic anion transporter family member 4C1,DB01396,2
+BE0001032,P-glycoprotein 1,DB01396,3
+BE0000106,Solute carrier family 22 member 5,DB01409,4
+BE0000757,Solute carrier family 22 member 4,DB01409,5
+BE0001069,Canalicular multispecific organic anion transporter 1,DB01411,1
+BE0000106,Solute carrier family 22 member 5,DB01413,1
+BE0001018,Solute carrier family 15 member 1,DB01413,2
+BE0001134,Solute carrier family 15 member 2,DB01413,3
+BE0001066,Solute carrier family 22 member 6,DB01414,3
+BE0003645,Solute carrier family 22 member 8,DB01414,4
+BE0001018,Solute carrier family 15 member 1,DB01415,2
+BE0001134,Solute carrier family 15 member 2,DB01415,2
+BE0001066,Solute carrier family 22 member 6,DB01415,7
+BE0003645,Solute carrier family 22 member 8,DB01415,8
+BE0001032,P-glycoprotein 1,DB01418,5
+BE0001032,P-glycoprotein 1,DB01420,6
+BE0001066,Solute carrier family 22 member 6,DB01424,1
+BE0001066,Solute carrier family 22 member 6,DB01435,1
+BE0000440,Monocarboxylate transporter 2,DB01440,1
+BE0000669,Monocarboxylate transporter 1,DB01440,2
+BE0000449,Monocarboxylate transporter 4,DB01440,3
+BE0000486,Sodium-dependent noradrenaline transporter,DB01454,7
+BE0000647,Sodium-dependent dopamine transporter,DB01454,8
+BE0000749,Sodium-dependent serotonin transporter,DB01454,9
+BE0000647,Sodium-dependent dopamine transporter,DB01576,8
+BE0003650,Solute carrier family 22 member 3,DB01577,1
+BE0000106,Solute carrier family 22 member 5,DB01577,2
+BE0003647,Solute carrier family 22 member 2,DB01580,1
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB01583,4
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB01583,5
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB01583,6
+BE0003653,Solute carrier organic anion transporter family member 4C1,DB01583,7
+BE0003644,Sodium/bile acid cotransporter,DB01583,8
+BE0003660,Solute carrier organic anion transporter family member 1C1,DB01583,9
+BE0003656,Solute carrier organic anion transporter family member 4A1,DB01583,10
+BE0003645,Solute carrier family 22 member 8,DB01583,11
+BE0000178,Monocarboxylate transporter 8,DB01583,12
+BE0003654,Monocarboxylate transporter 10,DB01583,13
+BE0001032,P-glycoprotein 1,DB01583,14
+BE0000703,Bile salt export pump,DB01586,1
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB01586,2
+BE0001069,Canalicular multispecific organic anion transporter 1,DB01586,3
+BE0001188,Multidrug resistance-associated protein 4,DB01586,4
+BE0003643,Ileal sodium/bile acid cotransporter,DB01586,5
+BE0003644,Sodium/bile acid cotransporter,DB01586,6
+BE0001032,P-glycoprotein 1,DB01587,2
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB01590,1
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB01590,2
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB01590,3
+BE0001032,P-glycoprotein 1,DB01590,5
+BE0001066,Solute carrier family 22 member 6,DB01597,1
+BE0003645,Solute carrier family 22 member 8,DB01597,2
+BE0001032,P-glycoprotein 1,DB01601,4
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB01601,8
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB01601,9
+BE0000703,Bile salt export pump,DB01601,10
+BE0001066,Solute carrier family 22 member 6,DB01606,2
+BE0003645,Solute carrier family 22 member 8,DB01606,3
+BE0001018,Solute carrier family 15 member 1,DB01610,2
+BE0001134,Solute carrier family 15 member 2,DB01610,3
+BE0000423,Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+),DB01610,4
+BE0001032,P-glycoprotein 1,DB01611,5
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB01611,8
+BE0003648,Solute carrier family 22 member 1,DB01621,5
+BE0003648,Solute carrier family 22 member 1,DB01623,5
+BE0001032,P-glycoprotein 1,DB01645,1
+BE0000785,Multidrug resistance-associated protein 1,DB01645,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB01645,3
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB01645,17
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB01645,18
+BE0003645,Solute carrier family 22 member 8,DB01650,1
+BE0001067,ATP-binding cassette sub-family G member 2,DB01685,2
+BE0003645,Solute carrier family 22 member 8,DB01685,10
+BE0001066,Solute carrier family 22 member 6,DB01685,11
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB01708,15
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB01708,16
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB01708,17
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB01708,18
+BE0000785,Multidrug resistance-associated protein 1,DB01708,19
+BE0001067,ATP-binding cassette sub-family G member 2,DB01708,20
+BE0001188,Multidrug resistance-associated protein 4,DB01708,21
+BE0003654,Monocarboxylate transporter 10,DB01746,1
+BE0000222,Large neutral amino acids transporter small subunit 1,DB01746,2
+BE0000440,Monocarboxylate transporter 2,DB01762,1
+BE0000669,Monocarboxylate transporter 1,DB01762,2
+BE0000449,Monocarboxylate transporter 4,DB01762,3
+BE0004708,Sodium-coupled monocarboxylate transporter 1,DB01762,4
+BE0003654,Monocarboxylate transporter 10,DB01786,1
+BE0003655,Solute carrier organic anion transporter family member 2A1,DB01819,1
+BE0001069,Canalicular multispecific organic anion transporter 1,DB01892,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB01892,2
+BE0001057,"Solute carrier family 2, facilitated glucose transporter member 1",DB01914,3
+BE0001045,"Solute carrier family 2, facilitated glucose transporter member 2",DB01914,4
+BE0004707,"Solute carrier family 2, facilitated glucose transporter member 3",DB01914,5
+BE0000893,"Solute carrier family 2, facilitated glucose transporter member 4",DB01914,6
+BE0005216,"Solute carrier family 2, facilitated glucose transporter member 5",DB01914,7
+BE0005217,"Solute carrier family 2, facilitated glucose transporter member 6",DB01914,8
+BE0005218,"Solute carrier family 2, facilitated glucose transporter member 7",DB01914,9
+BE0005219,"Solute carrier family 2, facilitated glucose transporter member 8",DB01914,10
+BE0004783,"Solute carrier family 2, facilitated glucose transporter member 9",DB01914,11
+BE0005220,"Solute carrier family 2, facilitated glucose transporter member 10",DB01914,12
+BE0005221,"Solute carrier family 2, facilitated glucose transporter member 11",DB01914,13
+BE0005222,"Solute carrier family 2, facilitated glucose transporter member 12",DB01914,14
+BE0004754,Sodium/glucose cotransporter 1,DB01914,15
+BE0004753,Sodium/glucose cotransporter 2,DB01914,16
+BE0000757,Solute carrier family 22 member 4,DB01917,1
+BE0000449,Monocarboxylate transporter 4,DB01942,1
+BE0000536,Proton-coupled amino acid transporter 1,DB01956,2
+BE0009148,Sodium- and chloride-dependent taurine transporter,DB01956,3
+BE0001018,Solute carrier family 15 member 1,DB01956,4
+BE0001032,P-glycoprotein 1,DB02010,1
+BE0003655,Solute carrier organic anion transporter family member 2A1,DB02056,1
+BE0001067,ATP-binding cassette sub-family G member 2,DB02115,1
+BE0000703,Bile salt export pump,DB02123,1
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB02123,2
+BE0003643,Ileal sodium/bile acid cotransporter,DB02123,3
+BE0003644,Sodium/bile acid cotransporter,DB02123,4
+BE0001032,P-glycoprotein 1,DB02261,1
+BE0003655,Solute carrier organic anion transporter family member 2A1,DB02263,1
+BE0001066,Solute carrier family 22 member 6,DB02266,5
+BE0001066,Solute carrier family 22 member 6,DB02315,1
+BE0000785,Multidrug resistance-associated protein 1,DB02375,1
+BE0001188,Multidrug resistance-associated protein 4,DB02527,1
+BE0003639,Multidrug resistance-associated protein 5,DB02527,2
+BE0003658,ATP-binding cassette sub-family C member 11,DB02527,3
+BE0001066,Solute carrier family 22 member 6,DB02527,4
+BE0003645,Solute carrier family 22 member 8,DB02527,5
+BE0003646,Solute carrier family 22 member 7,DB02527,6
+BE0000536,Proton-coupled amino acid transporter 1,DB02530,1
+BE0003654,Monocarboxylate transporter 10,DB02556,1
+BE0000222,Large neutral amino acids transporter small subunit 1,DB02556,2
+BE0001032,P-glycoprotein 1,DB02587,1
+BE0000703,Bile salt export pump,DB02659,1
+BE0001032,P-glycoprotein 1,DB02659,2
+BE0000785,Multidrug resistance-associated protein 1,DB02659,3
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB02659,4
+BE0003643,Ileal sodium/bile acid cotransporter,DB02659,5
+BE0001069,Canalicular multispecific organic anion transporter 1,DB02659,6
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB02659,7
+BE0001061,Canalicular multispecific organic anion transporter 2,DB02659,8
+BE0001188,Multidrug resistance-associated protein 4,DB02659,9
+BE0003644,Sodium/bile acid cotransporter,DB02659,10
+BE0003645,Solute carrier family 22 member 8,DB02659,11
+BE0003646,Solute carrier family 22 member 7,DB02659,12
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB02659,13
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB02691,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB02691,2
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB02691,3
+BE0000703,Bile salt export pump,DB02703,1
+BE0001069,Canalicular multispecific organic anion transporter 1,DB02703,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB02703,7
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB02703,8
+BE0001204,Equilibrative nucleoside transporter 1,DB02745,1
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB02746,1
+BE0000222,Large neutral amino acids transporter small subunit 1,DB02750,1
+BE0000789,Large neutral amino acids transporter small subunit 2,DB02750,2
+BE0004710,Solute carrier family 10 member 6,DB02789,1
+BE0000536,Proton-coupled amino acid transporter 1,DB02853,1
+BE0001032,P-glycoprotein 1,DB02901,1
+BE0003654,Monocarboxylate transporter 10,DB02952,1
+BE0000440,Monocarboxylate transporter 2,DB03066,1
+BE0000669,Monocarboxylate transporter 1,DB03066,2
+BE0000449,Monocarboxylate transporter 4,DB03066,3
+BE0003654,Monocarboxylate transporter 10,DB03107,1
+BE0000106,Solute carrier family 22 member 5,DB03128,1
+BE0003648,Solute carrier family 22 member 1,DB03128,2
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB03166,1
+BE0000669,Monocarboxylate transporter 1,DB03166,2
+BE0001032,P-glycoprotein 1,DB03203,1
+BE0003654,Monocarboxylate transporter 10,DB03225,1
+BE0001018,Solute carrier family 15 member 1,DB03424,1
+BE0001134,Solute carrier family 15 member 2,DB03424,2
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB03467,1
+BE0001032,P-glycoprotein 1,DB03467,2
+BE0000785,Multidrug resistance-associated protein 1,DB03467,3
+BE0001067,ATP-binding cassette sub-family G member 2,DB03467,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB03496,1
+BE0001066,Solute carrier family 22 member 6,DB03553,1
+BE0003645,Solute carrier family 22 member 8,DB03553,2
+BE0000879,Solute carrier family 22 member 11,DB03553,3
+BE0003646,Solute carrier family 22 member 7,DB03553,4
+BE0000757,Solute carrier family 22 member 4,DB03566,1
+BE0003648,Solute carrier family 22 member 1,DB03566,2
+BE0003655,Solute carrier organic anion transporter family member 2A1,DB03581,1
+BE0001066,Solute carrier family 22 member 6,DB03585,2
+BE0000703,Bile salt export pump,DB03619,1
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB03619,2
+BE0003643,Ileal sodium/bile acid cotransporter,DB03619,3
+BE0003644,Sodium/bile acid cotransporter,DB03619,4
+BE0000440,Monocarboxylate transporter 2,DB03773,2
+BE0000669,Monocarboxylate transporter 1,DB03773,7
+BE0001066,Solute carrier family 22 member 6,DB03783,1
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB03793,1
+BE0003645,Solute carrier family 22 member 8,DB03793,2
+BE0000669,Monocarboxylate transporter 1,DB03793,3
+BE0000785,Multidrug resistance-associated protein 1,DB03825,1
+BE0001032,P-glycoprotein 1,DB03825,2
+BE0003654,Monocarboxylate transporter 10,DB03839,1
+BE0000449,Monocarboxylate transporter 4,DB03884,1
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB03902,1
+BE0003645,Solute carrier family 22 member 8,DB03902,2
+BE0004691,Urea transporter 2,DB03904,1
+BE0004692,Urea transporter 1,DB03904,2
+BE0003654,Monocarboxylate transporter 10,DB03929,1
+BE0000423,Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+),DB03929,2
+BE0000449,Monocarboxylate transporter 4,DB03940,1
+BE0000440,Monocarboxylate transporter 2,DB04074,1
+BE0000669,Monocarboxylate transporter 1,DB04074,2
+BE0000449,Monocarboxylate transporter 4,DB04074,3
+BE0001069,Canalicular multispecific organic anion transporter 1,DB04100,1
+BE0000106,Solute carrier family 22 member 5,DB04133,2
+BE0001066,Solute carrier family 22 member 6,DB04133,3
+BE0003645,Solute carrier family 22 member 8,DB04133,4
+BE0000879,Solute carrier family 22 member 11,DB04133,5
+BE0000785,Multidrug resistance-associated protein 1,DB04216,1
+BE0001069,Canalicular multispecific organic anion transporter 1,DB04216,2
+BE0000440,Monocarboxylate transporter 2,DB04216,3
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB04216,4
+BE0001032,P-glycoprotein 1,DB04216,5
+BE0000669,Monocarboxylate transporter 1,DB04216,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB04216,7
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB04216,37
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB04272,1
+BE0003672,Solute carrier family 28 member 3,DB04335,2
+BE0000449,Monocarboxylate transporter 4,DB04343,1
+BE0000703,Bile salt export pump,DB04348,3
+BE0000785,Multidrug resistance-associated protein 1,DB04348,5
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB04348,6
+BE0003643,Ileal sodium/bile acid cotransporter,DB04348,7
+BE0001069,Canalicular multispecific organic anion transporter 1,DB04348,8
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB04348,9
+BE0001061,Canalicular multispecific organic anion transporter 2,DB04348,10
+BE0001188,Multidrug resistance-associated protein 4,DB04348,11
+BE0001032,P-glycoprotein 1,DB04348,12
+BE0001066,Solute carrier family 22 member 6,DB04348,13
+BE0003651,Multidrug resistance-associated protein 7,DB04348,14
+BE0003645,Solute carrier family 22 member 8,DB04348,15
+BE0003656,Solute carrier organic anion transporter family member 4A1,DB04348,16
+BE0003658,ATP-binding cassette sub-family C member 11,DB04348,17
+BE0003660,Solute carrier organic anion transporter family member 1C1,DB04348,18
+BE0003661,Solute carrier organic anion transporter family member 3A1,DB04348,19
+BE0001067,ATP-binding cassette sub-family G member 2,DB04348,20
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB04348,21
+BE0000669,Monocarboxylate transporter 1,DB04348,22
+BE0003644,Sodium/bile acid cotransporter,DB04348,23
+BE0003667,Organic solute transporter subunit alpha,DB04348,24
+BE0003668,Organic solute transporter subunit beta,DB04348,25
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB04348,25
+BE0000030,Cystine/glutamate transporter,DB04348,26
+BE0000440,Monocarboxylate transporter 2,DB04398,1
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB04398,2
+BE0000669,Monocarboxylate transporter 1,DB04398,3
+BE0003654,Monocarboxylate transporter 10,DB04398,4
+BE0003655,Solute carrier organic anion transporter family member 2A1,DB04398,5
+BE0000449,Monocarboxylate transporter 4,DB04398,6
+BE0003672,Solute carrier family 28 member 3,DB04485,1
+BE0001066,Solute carrier family 22 member 6,DB04519,1
+BE0003645,Solute carrier family 22 member 8,DB04519,2
+BE0000879,Solute carrier family 22 member 11,DB04519,3
+BE0001032,P-glycoprotein 1,DB04540,1
+BE0001067,ATP-binding cassette sub-family G member 2,DB04540,2
+BE0003655,Solute carrier organic anion transporter family member 2A1,DB04551,1
+BE0000440,Monocarboxylate transporter 2,DB04552,1
+BE0000669,Monocarboxylate transporter 1,DB04552,2
+BE0003655,Solute carrier organic anion transporter family member 2A1,DB04557,2
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB04573,1
+BE0001032,P-glycoprotein 1,DB04573,2
+BE0003657,Multidrug and toxin extrusion protein 1,DB04574,6
+BE0004752,Multidrug and toxin extrusion protein 2,DB04574,7
+BE0001032,P-glycoprotein 1,DB04630,1
+BE0000106,Solute carrier family 22 member 5,DB04630,2
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB04630,3
+BE0001032,P-glycoprotein 1,DB04690,1
+BE0001067,ATP-binding cassette sub-family G member 2,DB04690,2
+BE0001069,Canalicular multispecific organic anion transporter 1,DB04789,1
+BE0003648,Solute carrier family 22 member 1,DB04830,1
+BE0001032,P-glycoprotein 1,DB04832,1
+BE0001032,P-glycoprotein 1,DB04840,1
+BE0001032,P-glycoprotein 1,DB04845,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB04850,1
+BE0001032,P-glycoprotein 1,DB04851,1
+BE0001032,P-glycoprotein 1,DB04855,1
+BE0003647,Solute carrier family 22 member 2,DB04855,25
+BE0003648,Solute carrier family 22 member 1,DB04855,26
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB04855,27
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB04855,28
+BE0003645,Solute carrier family 22 member 8,DB04855,30
+BE0001032,P-glycoprotein 1,DB04868,1
+BE0001067,ATP-binding cassette sub-family G member 2,DB04868,2
+BE0003541,UDP-glucuronosyltransferase 1-1,DB04868,3
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB04868,6
+BE0001032,P-glycoprotein 1,DB04877,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB04881,1
+BE0001032,P-glycoprotein 1,DB04881,2
+BE0001032,P-glycoprotein 1,DB04908,2
+BE0002369,ATP-binding cassette sub-family B member 5,DB04948,9
+BE0003657,Multidrug and toxin extrusion protein 1,DB04948,10
+BE0001032,P-glycoprotein 1,DB04960,1
+BE0001032,P-glycoprotein 1,DB05015,6
+BE0001032,P-glycoprotein 1,DB05039,3
+BE0003645,Solute carrier family 22 member 8,DB05154,3
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB05239,3
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB05239,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB05239,5
+BE0001032,P-glycoprotein 1,DB05239,6
+BE0004850,Transferrin receptor,DB05260,7
+BE0000785,Multidrug resistance-associated protein 1,DB05294,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB05294,5
+BE0003647,Solute carrier family 22 member 2,DB05294,12
+BE0001032,P-glycoprotein 1,DB05294,13
+BE0003647,Solute carrier family 22 member 2,DB05381,1
+BE0003648,Solute carrier family 22 member 1,DB05381,2
+BE0003650,Solute carrier family 22 member 3,DB05381,3
+BE0000106,Solute carrier family 22 member 5,DB05381,4
+BE0009346,Sodium/iodide cotransporter,DB05382,1
+BE0009874,Pendrin,DB05382,6
+BE0003647,Solute carrier family 22 member 2,DB05383,1
+BE0001032,P-glycoprotein 1,DB05521,3
+BE0000030,Cystine/glutamate transporter,DB05540,1
+BE0001032,P-glycoprotein 1,DB05676,4
+BE0001032,P-glycoprotein 1,DB05773,1
+BE0003645,Solute carrier family 22 member 8,DB05804,4
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB05804,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB05804,6
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB05804,7
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB05804,8
+BE0004710,Solute carrier family 10 member 6,DB05804,9
+BE0000703,Bile salt export pump,DB05804,10
+BE0000785,Multidrug resistance-associated protein 1,DB05812,5
+BE0001032,P-glycoprotein 1,DB05889,1
+BE0001061,Canalicular multispecific organic anion transporter 2,DB05928,3
+BE0001067,ATP-binding cassette sub-family G member 2,DB05928,4
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB05928,8
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB05928,9
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB05928,12
+BE0001032,P-glycoprotein 1,DB05928,13
+BE0000703,Bile salt export pump,DB05990,2
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB06151,3
+BE0001066,Solute carrier family 22 member 6,DB06151,13
+BE0001032,P-glycoprotein 1,DB06176,2
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB06176,3
+BE0001032,P-glycoprotein 1,DB06191,1
+BE0001032,P-glycoprotein 1,DB06207,1
+BE0003641,Multidrug resistance protein 3,DB06207,4
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB06210,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB06210,5
+BE0003645,Solute carrier family 22 member 8,DB06211,7
+BE0001032,P-glycoprotein 1,DB06212,1
+BE0000510,Serotransferrin,DB06215,1
+BE0000085,Ferritin light chain,DB06215,2
+BE0000399,Ferritin heavy chain,DB06215,3
+BE0001032,P-glycoprotein 1,DB06228,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB06228,4
+BE0001032,P-glycoprotein 1,DB06240,1
+BE0000486,Sodium-dependent noradrenaline transporter,DB06262,1
+BE0003654,Monocarboxylate transporter 10,DB06262,2
+BE0002369,ATP-binding cassette sub-family B member 5,DB06263,3
+BE0000879,Solute carrier family 22 member 11,DB06282,2
+BE0001032,P-glycoprotein 1,DB06287,2
+BE0001032,P-glycoprotein 1,DB06290,4
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB06290,5
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB06290,6
+BE0001069,Canalicular multispecific organic anion transporter 1,DB06290,8
+BE0001067,ATP-binding cassette sub-family G member 2,DB06290,9
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB06290,10
+BE0003644,Sodium/bile acid cotransporter,DB06290,11
+BE0000703,Bile salt export pump,DB06290,12
+BE0001032,P-glycoprotein 1,DB06292,11
+BE0000785,Multidrug resistance-associated protein 1,DB06335,2
+BE0003653,Solute carrier organic anion transporter family member 4C1,DB06335,3
+BE0003645,Solute carrier family 22 member 8,DB06335,4
+BE0001032,P-glycoprotein 1,DB06403,6
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB06403,7
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB06403,8
+BE0001032,P-glycoprotein 1,DB06414,1
+BE0003641,Multidrug resistance protein 3,DB06414,2
+BE0001032,P-glycoprotein 1,DB06419,3
+BE0001032,P-glycoprotein 1,DB06420,1
+BE0001032,P-glycoprotein 1,DB06448,1
+BE0001032,P-glycoprotein 1,DB06480,3
+BE0000536,Proton-coupled amino acid transporter 1,DB06554,1
+BE0001032,P-glycoprotein 1,DB06589,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB06589,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB06589,6
+BE0003541,UDP-glucuronosyltransferase 1-1,DB06589,7
+BE0001032,P-glycoprotein 1,DB06603,1
+BE0001032,P-glycoprotein 1,DB06605,7
+BE0001067,ATP-binding cassette sub-family G member 2,DB06605,8
+BE0003647,Solute carrier family 22 member 2,DB06608,3
+BE0003657,Multidrug and toxin extrusion protein 1,DB06608,4
+BE0004752,Multidrug and toxin extrusion protein 2,DB06608,5
+BE0001032,P-glycoprotein 1,DB06616,6
+BE0001032,P-glycoprotein 1,DB06626,6
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB06626,7
+BE0001032,P-glycoprotein 1,DB06636,2
+BE0003647,Solute carrier family 22 member 2,DB06637,18
+BE0001067,ATP-binding cassette sub-family G member 2,DB06654,2
+BE0003661,Solute carrier organic anion transporter family member 3A1,DB06654,3
+BE0001032,P-glycoprotein 1,DB06670,4
+BE0000757,Solute carrier family 22 member 4,DB06691,3
+BE0000106,Solute carrier family 22 member 5,DB06691,4
+BE0001032,P-glycoprotein 1,DB06695,2
+BE0001032,P-glycoprotein 1,DB06702,7
+BE0000486,Sodium-dependent noradrenaline transporter,DB06704,1
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB06710,4
+BE0003645,Solute carrier family 22 member 8,DB06710,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB06721,1
+BE0001032,P-glycoprotein 1,DB06772,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB06772,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB06772,8
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB06772,9
+BE0000530,Serum albumin,DB06778,1
+BE0001140,Ceruloplasmin,DB06778,2
+BE0004850,Transferrin receptor,DB06784,1
+BE0007205,Lactoferrin,DB06784,2
+BE0000085,Ferritin light chain,DB06784,3
+BE0000399,Ferritin heavy chain,DB06784,4
+BE0008685,Natural resistance-associated macrophage protein 2,DB06796,4
+BE0004711,Folate transporter 1,DB06813,4
+BE0001069,Canalicular multispecific organic anion transporter 1,DB06813,5
+BE0001067,ATP-binding cassette sub-family G member 2,DB06813,6
+BE0008217,Glypican-1,DB06824,1
+BE0001032,P-glycoprotein 1,DB07565,3
+BE0000106,Solute carrier family 22 member 5,DB08795,6
+BE0001018,Solute carrier family 15 member 1,DB08795,7
+BE0001134,Solute carrier family 15 member 2,DB08795,8
+BE0001032,P-glycoprotein 1,DB08816,3
+BE0001032,P-glycoprotein 1,DB08820,5
+BE0000647,Sodium-dependent dopamine transporter,DB08824,1
+BE0001032,P-glycoprotein 1,DB08827,3
+BE0001032,P-glycoprotein 1,DB08828,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB08828,7
+BE0001057,"Solute carrier family 2, facilitated glucose transporter member 1",DB08830,1
+BE0001057,"Solute carrier family 2, facilitated glucose transporter member 1",DB08831,1
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB08833,1
+BE0000030,Cystine/glutamate transporter,DB08833,2
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB08834,1
+BE0000030,Cystine/glutamate transporter,DB08834,2
+BE0000536,Proton-coupled amino acid transporter 1,DB08835,1
+BE0001018,Solute carrier family 15 member 1,DB08836,1
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB08836,2
+BE0003648,Solute carrier family 22 member 1,DB08837,1
+BE0003647,Solute carrier family 22 member 2,DB08837,2
+BE0003650,Solute carrier family 22 member 3,DB08837,3
+BE0000757,Solute carrier family 22 member 4,DB08837,4
+BE0000106,Solute carrier family 22 member 5,DB08837,5
+BE0003645,Solute carrier family 22 member 8,DB08837,6
+BE0003657,Multidrug and toxin extrusion protein 1,DB08837,11
+BE0003648,Solute carrier family 22 member 1,DB08838,1
+BE0003647,Solute carrier family 22 member 2,DB08838,2
+BE0003650,Solute carrier family 22 member 3,DB08838,3
+BE0004769,Y+L amino acid transporter 1,DB08838,11
+BE0003647,Solute carrier family 22 member 2,DB08839,1
+BE0003647,Solute carrier family 22 member 2,DB08840,1
+BE0003657,Multidrug and toxin extrusion protein 1,DB08840,2
+BE0004752,Multidrug and toxin extrusion protein 2,DB08840,3
+BE0003650,Solute carrier family 22 member 3,DB08841,1
+BE0000106,Solute carrier family 22 member 5,DB08842,1
+BE0004785,Solute carrier family 22 member 21,DB08842,2
+BE0001066,Solute carrier family 22 member 6,DB08843,1
+BE0001066,Solute carrier family 22 member 6,DB08844,1
+BE0003645,Solute carrier family 22 member 8,DB08844,2
+BE0004783,"Solute carrier family 2, facilitated glucose transporter member 9",DB08844,4
+BE0001066,Solute carrier family 22 member 6,DB08846,1
+BE0000879,Solute carrier family 22 member 11,DB08846,2
+BE0000536,Proton-coupled amino acid transporter 1,DB08847,1
+BE0000536,Proton-coupled amino acid transporter 1,DB08849,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB08855,1
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB08855,2
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB08856,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB08857,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB08858,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB08860,1
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB08860,2
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB08860,8
+BE0003644,Sodium/bile acid cotransporter,DB08860,9
+BE0001067,ATP-binding cassette sub-family G member 2,DB08860,10
+BE0001032,P-glycoprotein 1,DB08860,11
+BE0001069,Canalicular multispecific organic anion transporter 1,DB08860,12
+BE0000703,Bile salt export pump,DB08860,15
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB08861,1
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB08862,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB08862,8
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB08862,9
+BE0001032,P-glycoprotein 1,DB08864,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB08864,7
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB08864,8
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB08864,9
+BE0001032,P-glycoprotein 1,DB08865,3
+BE0000884,Excitatory amino acid transporter 2,DB08868,6
+BE0001115,Excitatory amino acid transporter 1,DB08868,7
+BE0001032,P-glycoprotein 1,DB08868,8
+BE0000785,Multidrug resistance-associated protein 1,DB08868,9
+BE0002369,ATP-binding cassette sub-family B member 5,DB08870,3
+BE0004708,Sodium-coupled monocarboxylate transporter 1,DB08872,1
+BE0000094,Sodium-dependent multivitamin transporter,DB08872,2
+BE0001032,P-glycoprotein 1,DB08873,3
+BE0001032,P-glycoprotein 1,DB08874,1
+BE0001048,Proton-coupled folate transporter,DB08878,1
+BE0001067,ATP-binding cassette sub-family G member 2,DB08880,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB08880,4
+BE0000785,Multidrug resistance-associated protein 1,DB08881,7
+BE0001067,ATP-binding cassette sub-family G member 2,DB08881,8
+BE0001032,P-glycoprotein 1,DB08881,12
+BE0001032,P-glycoprotein 1,DB08882,3
+BE0003648,Solute carrier family 22 member 1,DB08882,4
+BE0003647,Solute carrier family 22 member 2,DB08882,5
+BE0003650,Solute carrier family 22 member 3,DB08882,6
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB08884,1
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB08884,2
+BE0001061,Canalicular multispecific organic anion transporter 2,DB08884,3
+BE0001069,Canalicular multispecific organic anion transporter 1,DB08884,4
+BE0001188,Multidrug resistance-associated protein 4,DB08884,5
+BE0001032,P-glycoprotein 1,DB08889,5
+BE0000669,Monocarboxylate transporter 1,DB08892,1
+BE0001032,P-glycoprotein 1,DB08893,3
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB08893,4
+BE0001032,P-glycoprotein 1,DB08896,24
+BE0001067,ATP-binding cassette sub-family G member 2,DB08896,25
+BE0001032,P-glycoprotein 1,DB08899,9
+BE0001032,P-glycoprotein 1,DB08901,11
+BE0001067,ATP-binding cassette sub-family G member 2,DB08901,12
+BE0001032,P-glycoprotein 1,DB08906,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB08906,7
+BE0001032,P-glycoprotein 1,DB08907,5
+BE0001069,Canalicular multispecific organic anion transporter 1,DB08907,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB08907,8
+BE0001032,P-glycoprotein 1,DB08910,3
+BE0001032,P-glycoprotein 1,DB08912,3
+BE0001067,ATP-binding cassette sub-family G member 2,DB08912,4
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB08912,5
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB08912,6
+BE0001066,Solute carrier family 22 member 6,DB08912,7
+BE0003645,Solute carrier family 22 member 8,DB08912,8
+BE0001032,P-glycoprotein 1,DB08916,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB08916,5
+BE0001032,P-glycoprotein 1,DB08918,8
+BE0003647,Solute carrier family 22 member 2,DB08930,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB08930,7
+BE0001066,Solute carrier family 22 member 6,DB08930,8
+BE0003645,Solute carrier family 22 member 8,DB08930,9
+BE0001032,P-glycoprotein 1,DB08930,10
+BE0001067,ATP-binding cassette sub-family G member 2,DB08931,4
+BE0001032,P-glycoprotein 1,DB08934,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB08934,7
+BE0004708,Sodium-coupled monocarboxylate transporter 1,DB08949,1
+BE0001066,Solute carrier family 22 member 6,DB09008,1
+BE0003645,Solute carrier family 22 member 8,DB09008,2
+BE0001032,P-glycoprotein 1,DB09026,3
+BE0001032,P-glycoprotein 1,DB09027,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB09027,3
+BE0001032,P-glycoprotein 1,DB09030,4
+BE0001032,P-glycoprotein 1,DB09034,4
+BE0001032,P-glycoprotein 1,DB09038,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB09038,7
+BE0003645,Solute carrier family 22 member 8,DB09038,8
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09038,9
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB09038,10
+BE0001032,P-glycoprotein 1,DB09039,3
+BE0001032,P-glycoprotein 1,DB09048,5
+BE0001067,ATP-binding cassette sub-family G member 2,DB09054,2
+BE0001032,P-glycoprotein 1,DB09054,3
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09054,9
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB09054,10
+BE0001069,Canalicular multispecific organic anion transporter 1,DB09060,1
+BE0003645,Solute carrier family 22 member 8,DB09060,2
+BE0000785,Multidrug resistance-associated protein 1,DB09061,26
+BE0001067,ATP-binding cassette sub-family G member 2,DB09061,27
+BE0001204,Equilibrative nucleoside transporter 1,DB09061,28
+BE0001032,P-glycoprotein 1,DB09063,1
+BE0001032,P-glycoprotein 1,DB09065,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB09065,3
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09065,8
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB09065,9
+BE0001032,P-glycoprotein 1,DB09073,5
+BE0001067,ATP-binding cassette sub-family G member 2,DB09073,6
+BE0003648,Solute carrier family 22 member 1,DB09073,8
+BE0001032,P-glycoprotein 1,DB09074,5
+BE0001067,ATP-binding cassette sub-family G member 2,DB09074,6
+BE0001032,P-glycoprotein 1,DB09075,1
+BE0001032,P-glycoprotein 1,DB09076,1
+BE0001032,P-glycoprotein 1,DB09078,11
+BE0001067,ATP-binding cassette sub-family G member 2,DB09078,12
+BE0001066,Solute carrier family 22 member 6,DB09078,20
+BE0003645,Solute carrier family 22 member 8,DB09078,21
+BE0003647,Solute carrier family 22 member 2,DB09078,22
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09078,23
+BE0000703,Bile salt export pump,DB09078,24
+BE0001032,P-glycoprotein 1,DB09079,18
+BE0003648,Solute carrier family 22 member 1,DB09079,19
+BE0001067,ATP-binding cassette sub-family G member 2,DB09079,21
+BE0001032,P-glycoprotein 1,DB09099,6
+BE0000178,Monocarboxylate transporter 8,DB09100,4
+BE0003660,Solute carrier organic anion transporter family member 1C1,DB09100,5
+BE0003661,Solute carrier organic anion transporter family member 3A1,DB09100,6
+BE0003656,Solute carrier organic anion transporter family member 4A1,DB09100,7
+BE0000222,Large neutral amino acids transporter small subunit 1,DB09100,8
+BE0003644,Sodium/bile acid cotransporter,DB09100,9
+BE0001032,P-glycoprotein 1,DB09102,6
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09102,7
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB09102,8
+BE0001067,ATP-binding cassette sub-family G member 2,DB09102,9
+BE0003649,High affinity copper uptake protein 1,DB09130,4
+BE0008685,Natural resistance-associated macrophage protein 2,DB09130,5
+BE0003666,Copper-transporting ATPase 1,DB09130,10
+BE0003664,Copper-transporting ATPase 2,DB09130,11
+BE0003662,Probable low affinity copper uptake protein 2,DB09130,27
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09137,1
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB09137,2
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB09142,1
+BE0008678,Mitochondrial 2-oxodicarboxylate carrier,DB09154,1
+BE0000447,Solute carrier family 13 member 2,DB09154,2
+BE0008677,Solute carrier family 13 member 5,DB09154,3
+BE0008676,"Tricarboxylate transport protein, mitochondrial",DB09154,4
+BE0001032,P-glycoprotein 1,DB09161,1
+BE0000785,Multidrug resistance-associated protein 1,DB09161,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB09183,6
+BE0002369,ATP-binding cassette sub-family B member 5,DB09183,7
+BE0001032,P-glycoprotein 1,DB09183,8
+BE0000749,Sodium-dependent serotonin transporter,DB09194,6
+BE0000486,Sodium-dependent noradrenaline transporter,DB09194,7
+BE0000647,Sodium-dependent dopamine transporter,DB09194,8
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09198,1
+BE0003661,Solute carrier organic anion transporter family member 3A1,DB09198,2
+BE0001032,P-glycoprotein 1,DB09198,3
+BE0001188,Multidrug resistance-associated protein 4,DB09213,19
+BE0000785,Multidrug resistance-associated protein 1,DB09213,20
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB09213,21
+BE0001066,Solute carrier family 22 member 6,DB09213,22
+BE0003645,Solute carrier family 22 member 8,DB09213,23
+BE0000879,Solute carrier family 22 member 11,DB09213,24
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB09213,25
+BE0001032,P-glycoprotein 1,DB09213,26
+BE0001032,P-glycoprotein 1,DB09237,9
+BE0003643,Ileal sodium/bile acid cotransporter,DB09237,10
+BE0000106,Solute carrier family 22 member 5,DB09237,11
+BE0001032,P-glycoprotein 1,DB09239,3
+BE0001032,P-glycoprotein 1,DB09241,13
+BE0003647,Solute carrier family 22 member 2,DB09241,14
+BE0004752,Multidrug and toxin extrusion protein 2,DB09241,15
+BE0003657,Multidrug and toxin extrusion protein 1,DB09241,16
+BE0001032,P-glycoprotein 1,DB09270,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09272,4
+BE0001069,Canalicular multispecific organic anion transporter 1,DB09272,5
+BE0003645,Solute carrier family 22 member 8,DB09272,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB09274,5
+BE0001032,P-glycoprotein 1,DB09274,6
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09274,7
+BE0003645,Solute carrier family 22 member 8,DB09274,8
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09279,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB09279,3
+BE0001032,P-glycoprotein 1,DB09280,7
+BE0001032,P-glycoprotein 1,DB09287,1
+BE0001067,ATP-binding cassette sub-family G member 2,DB09291,4
+BE0001032,P-glycoprotein 1,DB09291,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09292,2
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB09292,3
+BE0001032,P-glycoprotein 1,DB09296,3
+BE0008629,UDP-glucuronosyltransferase 1-4,DB09296,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB09296,5
+BE0001067,ATP-binding cassette sub-family G member 2,DB09297,4
+BE0001032,P-glycoprotein 1,DB09297,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09297,6
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB09297,7
+BE0001066,Solute carrier family 22 member 6,DB09298,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09298,3
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB09298,4
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB09298,5
+BE0001032,P-glycoprotein 1,DB09299,2
+BE0001188,Multidrug resistance-associated protein 4,DB09299,3
+BE0001066,Solute carrier family 22 member 6,DB09299,4
+BE0003645,Solute carrier family 22 member 8,DB09299,5
+BE0001067,ATP-binding cassette sub-family G member 2,DB09299,8
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB09299,9
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB09299,10
+BE0003949,Ammonium transporter Rh type C,DB09326,2
+BE0003646,Solute carrier family 22 member 7,DB09327,7
+BE0001204,Equilibrative nucleoside transporter 1,DB09327,8
+BE0004706,Equilibrative nucleoside transporter 2,DB09327,9
+BE0004705,Sodium/nucleoside cotransporter 1,DB09327,10
+BE0004781,Sodium/nucleoside cotransporter 2,DB09327,11
+BE0003672,Solute carrier family 28 member 3,DB09327,12
+BE0001032,P-glycoprotein 1,DB09330,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB09330,3
+BE0001057,"Solute carrier family 2, facilitated glucose transporter member 1",DB09341,3
+BE0001045,"Solute carrier family 2, facilitated glucose transporter member 2",DB09341,4
+BE0004707,"Solute carrier family 2, facilitated glucose transporter member 3",DB09341,5
+BE0000893,"Solute carrier family 2, facilitated glucose transporter member 4",DB09341,6
+BE0005217,"Solute carrier family 2, facilitated glucose transporter member 6",DB09341,7
+BE0005218,"Solute carrier family 2, facilitated glucose transporter member 7",DB09341,8
+BE0005219,"Solute carrier family 2, facilitated glucose transporter member 8",DB09341,9
+BE0004783,"Solute carrier family 2, facilitated glucose transporter member 9",DB09341,10
+BE0005220,"Solute carrier family 2, facilitated glucose transporter member 10",DB09341,11
+BE0005221,"Solute carrier family 2, facilitated glucose transporter member 11",DB09341,12
+BE0005222,"Solute carrier family 2, facilitated glucose transporter member 12",DB09341,13
+BE0004754,Sodium/glucose cotransporter 1,DB09341,14
+BE0003647,Solute carrier family 22 member 2,DB09343,4
+BE0003657,Multidrug and toxin extrusion protein 1,DB09343,5
+BE0001045,"Solute carrier family 2, facilitated glucose transporter member 2",DB09344,1
+BE0005216,"Solute carrier family 2, facilitated glucose transporter member 5",DB09344,2
+BE0000486,Sodium-dependent noradrenaline transporter,DB09363,2
+BE0008661,vesicular monoamine transporter 2 (VMAT2),DB09363,3
+BE0001069,Canalicular multispecific organic anion transporter 1,DB09374,1
+BE0000703,Bile salt export pump,DB09374,4
+BE0005055,Sodium-dependent phosphate transporter 1,DB09449,1
+BE0008680,Sodium-dependent phosphate transporter 2,DB09449,2
+BE0008681,Sodium-dependent phosphate transport protein 2A,DB09449,3
+BE0008682,Sodium-dependent phosphate transport protein 2B,DB09449,4
+BE0008683,Sodium-dependent phosphate transport protein 2C,DB09449,5
+BE0010003,Aquaporin-7,DB09462,15
+BE0010004,Aquaporin-9,DB09462,16
+BE0002037,Glycerol uptake facilitator protein,DB09462,17
+BE0005126,Transient receptor potential cation channel subfamily M member 6,DB09481,1
+BE0008673,Solute carrier family 41 member 3,DB09481,2
+BE0008674,Metal transporter CNNM2,DB09481,3
+BE0004624,Transient receptor potential cation channel subfamily M member 7,DB09481,4
+BE0000986,Sodium/calcium exchanger 1,DB09498,4
+BE0000012,Voltage-dependent T-type calcium channel subunit alpha-1I,DB09498,5
+BE0000893,"Solute carrier family 2, facilitated glucose transporter member 4",DB09502,2
+BE0001045,"Solute carrier family 2, facilitated glucose transporter member 2",DB09502,3
+BE0001057,"Solute carrier family 2, facilitated glucose transporter member 1",DB09502,4
+BE0004707,"Solute carrier family 2, facilitated glucose transporter member 3",DB09502,5
+BE0004783,"Solute carrier family 2, facilitated glucose transporter member 9",DB09502,6
+BE0005216,"Solute carrier family 2, facilitated glucose transporter member 5",DB09502,7
+BE0005217,"Solute carrier family 2, facilitated glucose transporter member 6",DB09502,8
+BE0005218,"Solute carrier family 2, facilitated glucose transporter member 7",DB09502,9
+BE0005219,"Solute carrier family 2, facilitated glucose transporter member 8",DB09502,10
+BE0005220,"Solute carrier family 2, facilitated glucose transporter member 10",DB09502,11
+BE0005221,"Solute carrier family 2, facilitated glucose transporter member 11",DB09502,12
+BE0005222,"Solute carrier family 2, facilitated glucose transporter member 12",DB09502,13
+BE0000486,Sodium-dependent noradrenaline transporter,DB09546,1
+BE0001032,P-glycoprotein 1,DB11077,6
+BE0003501,Mucin-1,DB11090,3
+BE0005102,Transient receptor potential cation channel subfamily V member 6,DB11093,1
+BE0000986,Sodium/calcium exchanger 1,DB11093,4
+BE0005112,Transient receptor potential cation channel subfamily V member 5,DB11093,5
+BE0000739,Ryanodine receptor 1,DB11093,38
+BE0005295,Ryanodine receptor 2,DB11093,39
+BE0008712,Polycystic kidney disease 2-like 1 protein,DB11093,40
+BE0005296,Ryanodine receptor 3,DB11093,43
+BE0008713,Polycystic kidney disease protein 1-like 3,DB11093,44
+BE0008714,Cation channel sperm-associated protein 1,DB11093,45
+BE0008715,Voltage-dependent L-type calcium channel,DB11093,46
+BE0008717,Voltage-dependent P/Q-type calcium channel,DB11093,47
+BE0008716,Voltage-dependent T-type calcium channel,DB11093,48
+BE0008718,Voltage-dependent R-type calcium channel,DB11093,49
+BE0000281,Solute carrier family 12 member 2,DB11098,2
+BE0000502,Solute carrier family 12 member 1,DB11098,3
+BE0005533,Selenoprotein P,DB11127,2
+BE0000643,Alpha-tocopherol transfer protein,DB11251,6
+BE0000076,SEC14-like protein 4,DB11251,7
+BE0000256,SEC14-like protein 2,DB11251,8
+BE0000339,SEC14-like protein 3,DB11251,9
+BE0005852,Apolipoprotein B receptor,DB11251,10
+BE0000189,Scavenger receptor class B member 1,DB11251,11
+BE0001032,P-glycoprotein 1,DB11251,12
+BE0001048,Proton-coupled folate transporter,DB11256,1
+BE0004711,Folate transporter 1,DB11256,2
+BE0005055,Sodium-dependent phosphate transporter 1,DB11348,1
+BE0008680,Sodium-dependent phosphate transporter 2,DB11348,2
+BE0008681,Sodium-dependent phosphate transport protein 2A,DB11348,3
+BE0008682,Sodium-dependent phosphate transport protein 2B,DB11348,4
+BE0008683,Sodium-dependent phosphate transport protein 2C,DB11348,5
+BE0005102,Transient receptor potential cation channel subfamily V member 6,DB11348,6
+BE0000986,Sodium/calcium exchanger 1,DB11348,9
+BE0005112,Transient receptor potential cation channel subfamily V member 5,DB11348,10
+BE0000739,Ryanodine receptor 1,DB11348,43
+BE0005295,Ryanodine receptor 2,DB11348,44
+BE0008712,Polycystic kidney disease 2-like 1 protein,DB11348,45
+BE0005296,Ryanodine receptor 3,DB11348,48
+BE0008713,Polycystic kidney disease protein 1-like 3,DB11348,49
+BE0008714,Cation channel sperm-associated protein 1,DB11348,50
+BE0008715,Voltage-dependent L-type calcium channel,DB11348,51
+BE0008717,Voltage-dependent P/Q-type calcium channel,DB11348,52
+BE0008716,Voltage-dependent T-type calcium channel,DB11348,53
+BE0008718,Voltage-dependent R-type calcium channel,DB11348,54
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11362,5
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB11362,6
+BE0001032,P-glycoprotein 1,DB11362,7
+BE0001067,ATP-binding cassette sub-family G member 2,DB11363,2
+BE0001032,P-glycoprotein 1,DB11363,3
+BE0001032,P-glycoprotein 1,DB11430,1
+BE0001032,P-glycoprotein 1,DB11544,1
+BE0001032,P-glycoprotein 1,DB11574,2
+BE0001032,P-glycoprotein 1,DB11575,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11575,2
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB11575,3
+BE0001032,P-glycoprotein 1,DB11581,3
+BE0001067,ATP-binding cassette sub-family G member 2,DB11581,4
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11581,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11586,9
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB11586,10
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB11586,11
+BE0001032,P-glycoprotein 1,DB11586,12
+BE0004522,"Inositol 1,4,5-trisphosphate receptor type 1",DB11590,2
+BE0002369,ATP-binding cassette sub-family B member 5,DB11591,2
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB11591,3
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB11591,4
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB11611,3
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB11611,4
+BE0001032,P-glycoprotein 1,DB11613,5
+BE0001067,ATP-binding cassette sub-family G member 2,DB11613,6
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11613,7
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB11613,8
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB11613,9
+BE0001032,P-glycoprotein 1,DB11633,10
+BE0001067,ATP-binding cassette sub-family G member 2,DB11633,11
+BE0003647,Solute carrier family 22 member 2,DB11633,12
+BE0000643,Alpha-tocopherol transfer protein,DB11635,3
+BE0000189,Scavenger receptor class B member 1,DB11635,4
+BE0000802,Niemann-Pick C1-like protein 1,DB11635,5
+BE0004750,ATP-binding cassette sub-family G member 5,DB11635,6
+BE0004751,ATP-binding cassette sub-family G member 8,DB11635,7
+BE0000119,ATP-binding cassette sub-family A member 1,DB11635,8
+BE0000076,SEC14-like protein 4,DB11635,9
+BE0000256,SEC14-like protein 2,DB11635,10
+BE0000339,SEC14-like protein 3,DB11635,11
+BE0005852,Apolipoprotein B receptor,DB11635,12
+BE0002369,ATP-binding cassette sub-family B member 5,DB11641,1
+BE0001032,P-glycoprotein 1,DB11641,2
+BE0003648,Solute carrier family 22 member 1,DB11642,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB11644,1
+BE0001066,Solute carrier family 22 member 6,DB11644,3
+BE0003645,Solute carrier family 22 member 8,DB11644,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB11652,1
+BE0001032,P-glycoprotein 1,DB11652,2
+BE0003647,Solute carrier family 22 member 2,DB11652,3
+BE0003657,Multidrug and toxin extrusion protein 1,DB11652,4
+BE0004752,Multidrug and toxin extrusion protein 2,DB11652,5
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB11660,2
+BE0001032,P-glycoprotein 1,DB11672,14
+BE0001032,P-glycoprotein 1,DB11689,14
+BE0001067,ATP-binding cassette sub-family G member 2,DB11689,15
+BE0002369,ATP-binding cassette sub-family B member 5,DB11691,6
+BE0001032,P-glycoprotein 1,DB11712,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB11712,5
+BE0001032,P-glycoprotein 1,DB11732,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB11732,3
+BE0003648,Solute carrier family 22 member 1,DB11732,4
+BE0003657,Multidrug and toxin extrusion protein 1,DB11732,5
+BE0004752,Multidrug and toxin extrusion protein 2,DB11732,6
+BE0001066,Solute carrier family 22 member 6,DB11751,1
+BE0003645,Solute carrier family 22 member 8,DB11751,2
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB11753,6
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11753,7
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB11753,8
+BE0003655,Solute carrier organic anion transporter family member 2A1,DB11753,9
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB11753,10
+BE0003657,Multidrug and toxin extrusion protein 1,DB11753,15
+BE0001032,P-glycoprotein 1,DB11753,17
+BE0001032,P-glycoprotein 1,DB11757,11
+BE0001067,ATP-binding cassette sub-family G member 2,DB11757,16
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11757,17
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB11757,18
+BE0001066,Solute carrier family 22 member 6,DB11757,19
+BE0004865,"POU domain, class 2, transcription factor 2",DB11757,20
+BE0003657,Multidrug and toxin extrusion protein 1,DB11757,21
+BE0004752,Multidrug and toxin extrusion protein 2,DB11757,22
+BE0001032,P-glycoprotein 1,DB11760,3
+BE0001067,ATP-binding cassette sub-family G member 2,DB11760,4
+BE0001032,P-glycoprotein 1,DB11770,2
+BE0001069,Canalicular multispecific organic anion transporter 1,DB11770,3
+BE0001032,P-glycoprotein 1,DB11791,4
+BE0003657,Multidrug and toxin extrusion protein 1,DB11791,5
+BE0004752,Multidrug and toxin extrusion protein 2,DB11791,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB11791,8
+BE0003645,Solute carrier family 22 member 8,DB11817,1
+BE0001067,ATP-binding cassette sub-family G member 2,DB11817,2
+BE0004752,Multidrug and toxin extrusion protein 2,DB11817,3
+BE0001066,Solute carrier family 22 member 6,DB11817,7
+BE0003647,Solute carrier family 22 member 2,DB11817,8
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB11817,9
+BE0001032,P-glycoprotein 1,DB11817,12
+BE0001032,P-glycoprotein 1,DB11827,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB11827,5
+BE0001032,P-glycoprotein 1,DB11828,3
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11837,14
+BE0003648,Solute carrier family 22 member 1,DB11837,15
+BE0003647,Solute carrier family 22 member 2,DB11837,16
+BE0001066,Solute carrier family 22 member 6,DB11837,17
+BE0003645,Solute carrier family 22 member 8,DB11837,18
+BE0003657,Multidrug and toxin extrusion protein 1,DB11837,19
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11855,4
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB11855,5
+BE0001032,P-glycoprotein 1,DB11855,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB11855,7
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11869,1
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB11869,2
+BE0001032,P-glycoprotein 1,DB11869,3
+BE0001032,P-glycoprotein 1,DB11901,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB11901,7
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11901,8
+BE0003647,Solute carrier family 22 member 2,DB11901,9
+BE0003645,Solute carrier family 22 member 8,DB11901,10
+BE0004752,Multidrug and toxin extrusion protein 2,DB11901,11
+BE0003657,Multidrug and toxin extrusion protein 1,DB11901,13
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11936,3
+BE0001061,Canalicular multispecific organic anion transporter 2,DB11936,4
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB11936,5
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB11942,2
+BE0002369,ATP-binding cassette sub-family B member 5,DB11943,9
+BE0001067,ATP-binding cassette sub-family G member 2,DB11943,10
+BE0001032,P-glycoprotein 1,DB11951,7
+BE0001032,P-glycoprotein 1,DB11952,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB11952,3
+BE0001032,P-glycoprotein 1,DB11963,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB11963,7
+BE0003648,Solute carrier family 22 member 1,DB11963,8
+BE0001032,P-glycoprotein 1,DB11978,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB11978,7
+BE0003657,Multidrug and toxin extrusion protein 1,DB11978,8
+BE0004752,Multidrug and toxin extrusion protein 2,DB11978,9
+BE0001032,P-glycoprotein 1,DB11979,4
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB11979,5
+BE0001032,P-glycoprotein 1,DB11986,2
+BE0001032,P-glycoprotein 1,DB11995,5
+BE0003657,Multidrug and toxin extrusion protein 1,DB12001,1
+BE0004752,Multidrug and toxin extrusion protein 2,DB12001,2
+BE0003647,Solute carrier family 22 member 2,DB12001,3
+BE0001067,ATP-binding cassette sub-family G member 2,DB12001,5
+BE0001032,P-glycoprotein 1,DB12001,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB12010,302
+BE0002369,ATP-binding cassette sub-family B member 5,DB12010,303
+BE0001067,ATP-binding cassette sub-family G member 2,DB12015,6
+BE0001032,P-glycoprotein 1,DB12015,7
+BE0001032,P-glycoprotein 1,DB12026,5
+BE0001067,ATP-binding cassette sub-family G member 2,DB12026,6
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB12026,7
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB12026,8
+BE0001032,P-glycoprotein 1,DB12035,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB12070,3
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB12070,4
+BE0001032,P-glycoprotein 1,DB12070,13
+BE0001067,ATP-binding cassette sub-family G member 2,DB12070,14
+BE0000703,Bile salt export pump,DB12070,15
+BE0003645,Solute carrier family 22 member 8,DB12070,16
+BE0001069,Canalicular multispecific organic anion transporter 1,DB12070,17
+BE0001032,P-glycoprotein 1,DB12141,5
+BE0003657,Multidrug and toxin extrusion protein 1,DB12141,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB12141,7
+BE0003648,Solute carrier family 22 member 1,DB12141,8
+BE0001032,P-glycoprotein 1,DB12147,7
+BE0003647,Solute carrier family 22 member 2,DB12147,8
+BE0009680,B-cell antigen receptor complex-associated protein beta chain,DB12240,2
+BE0001066,Solute carrier family 22 member 6,DB12243,1
+BE0003645,Solute carrier family 22 member 8,DB12243,2
+BE0002369,ATP-binding cassette sub-family B member 5,DB12267,12
+BE0001067,ATP-binding cassette sub-family G member 2,DB12267,13
+BE0003648,Solute carrier family 22 member 1,DB12267,14
+BE0003657,Multidrug and toxin extrusion protein 1,DB12267,15
+BE0004752,Multidrug and toxin extrusion protein 2,DB12267,16
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB12319,3
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB12319,4
+BE0000703,Bile salt export pump,DB12319,5
+BE0001032,P-glycoprotein 1,DB12332,7
+BE0001067,ATP-binding cassette sub-family G member 2,DB12332,8
+BE0003657,Multidrug and toxin extrusion protein 1,DB12332,9
+BE0004752,Multidrug and toxin extrusion protein 2,DB12332,10
+BE0003648,Solute carrier family 22 member 1,DB12332,11
+BE0001188,Multidrug resistance-associated protein 4,DB12332,12
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB12332,13
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB12332,14
+BE0001066,Solute carrier family 22 member 6,DB12332,15
+BE0003645,Solute carrier family 22 member 8,DB12332,16
+BE0001032,P-glycoprotein 1,DB12364,1
+BE0000090,Potassium voltage-gated channel subfamily H member 2,DB12364,3
+BE0003645,Solute carrier family 22 member 8,DB12377,1
+BE0000879,Solute carrier family 22 member 11,DB12377,2
+BE0003657,Multidrug and toxin extrusion protein 1,DB12377,3
+BE0004752,Multidrug and toxin extrusion protein 2,DB12377,4
+BE0001032,P-glycoprotein 1,DB12455,1
+BE0001032,P-glycoprotein 1,DB12457,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB12457,3
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB12457,4
+BE0003645,Solute carrier family 22 member 8,DB12457,5
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB12457,6
+BE0003647,Solute carrier family 22 member 2,DB12457,7
+BE0003657,Multidrug and toxin extrusion protein 1,DB12457,8
+BE0001032,P-glycoprotein 1,DB12466,7
+BE0001066,Solute carrier family 22 member 6,DB12466,8
+BE0003645,Solute carrier family 22 member 8,DB12466,9
+BE0004782,Solute carrier family 22 member 12,DB12466,10
+BE0001032,P-glycoprotein 1,DB12483,7
+BE0001067,ATP-binding cassette sub-family G member 2,DB12483,8
+BE0004752,Multidrug and toxin extrusion protein 2,DB12483,9
+BE0001032,P-glycoprotein 1,DB12500,1
+BE0001067,ATP-binding cassette sub-family G member 2,DB12500,2
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB12500,3
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB12500,4
+BE0004865,"POU domain, class 2, transcription factor 2",DB12500,5
+BE0003657,Multidrug and toxin extrusion protein 1,DB12500,6
+BE0004752,Multidrug and toxin extrusion protein 2,DB12500,7
+BE0001032,P-glycoprotein 1,DB12582,3
+BE0003648,Solute carrier family 22 member 1,DB12598,7
+BE0003647,Solute carrier family 22 member 2,DB12598,8
+BE0002196,Amine oxidase [flavin-containing] B,DB12612,3
+BE0001067,ATP-binding cassette sub-family G member 2,DB12612,4
+BE0001032,P-glycoprotein 1,DB12612,5
+BE0003657,Multidrug and toxin extrusion protein 1,DB12615,1
+BE0004752,Multidrug and toxin extrusion protein 2,DB12615,2
+BE0001032,P-glycoprotein 1,DB12674,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB12674,6
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB12674,7
+BE0003648,Solute carrier family 22 member 1,DB12674,8
+BE0000703,Bile salt export pump,DB12712,1
+BE0001032,P-glycoprotein 1,DB12799,1
+BE0001032,P-glycoprotein 1,DB12825,3
+BE0001032,P-glycoprotein 1,DB12836,2
+BE0003645,Solute carrier family 22 member 8,DB12866,1
+BE0001032,P-glycoprotein 1,DB12887,2
+BE0003657,Multidrug and toxin extrusion protein 1,DB12887,3
+BE0004752,Multidrug and toxin extrusion protein 2,DB12887,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB12887,7
+BE0001032,P-glycoprotein 1,DB12923,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB12941,4
+BE0001032,P-glycoprotein 1,DB12941,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB12941,8
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB12941,9
+BE0003657,Multidrug and toxin extrusion protein 1,DB12978,7
+BE0004752,Multidrug and toxin extrusion protein 2,DB12978,8
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB12978,9
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB12978,10
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB12978,11
+BE0001032,P-glycoprotein 1,DB13007,3
+BE0001570,Outer membrane protein F,DB13092,1
+BE0003941,Outer membrane porin C,DB13092,2
+BE0001032,P-glycoprotein 1,DB13125,2
+BE0001067,ATP-binding cassette sub-family G member 2,DB13125,3
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB13139,4
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB13139,5
+BE0001188,Multidrug resistance-associated protein 4,DB13146,9
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB13153,1
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB13153,2
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB13154,1
+BE0009368,Sodium/myo-inositol cotransporter,DB13178,1
+BE0001032,P-glycoprotein 1,DB13179,3
+BE0008685,Natural resistance-associated macrophage protein 2,DB13257,1
+BE0009856,Solute carrier family 40 member 1,DB13257,5
+BE0000703,Bile salt export pump,DB13345,5
+BE0000732,Sodium/potassium-transporting ATPase subunit alpha-1,DB13620,2
+BE0000502,Solute carrier family 12 member 1,DB13620,3
+BE0009378,Hydrogen potassium ATPase,DB13620,4
+BE0000703,Bile salt export pump,DB13751,10
+BE0000785,Multidrug resistance-associated protein 1,DB13783,4
+BE0001032,P-glycoprotein 1,DB13867,8
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB13867,9
+BE0001032,P-glycoprotein 1,DB13874,15
+BE0001067,ATP-binding cassette sub-family G member 2,DB13874,16
+BE0001066,Solute carrier family 22 member 6,DB13874,17
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB13874,18
+BE0003647,Solute carrier family 22 member 2,DB13874,19
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB13874,20
+BE0003645,Solute carrier family 22 member 8,DB13874,21
+BE0001032,P-glycoprotein 1,DB13878,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB13878,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB13878,6
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB13878,7
+BE0001032,P-glycoprotein 1,DB13879,3
+BE0001067,ATP-binding cassette sub-family G member 2,DB13879,4
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB13879,5
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB13879,6
+BE0001032,P-glycoprotein 1,DB13919,4
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB13919,7
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB13943,9
+BE0003645,Solute carrier family 22 member 8,DB13943,10
+BE0003646,Solute carrier family 22 member 7,DB13943,11
+BE0001032,P-glycoprotein 1,DB13943,12
+BE0003644,Sodium/bile acid cotransporter,DB13943,13
+BE0003650,Solute carrier family 22 member 3,DB13943,14
+BE0000757,Solute carrier family 22 member 4,DB13943,15
+BE0001067,ATP-binding cassette sub-family G member 2,DB13943,16
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB13944,9
+BE0003645,Solute carrier family 22 member 8,DB13944,10
+BE0003646,Solute carrier family 22 member 7,DB13944,11
+BE0001032,P-glycoprotein 1,DB13944,12
+BE0003644,Sodium/bile acid cotransporter,DB13944,13
+BE0003650,Solute carrier family 22 member 3,DB13944,14
+BE0000757,Solute carrier family 22 member 4,DB13944,15
+BE0001067,ATP-binding cassette sub-family G member 2,DB13944,16
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB13946,9
+BE0003645,Solute carrier family 22 member 8,DB13946,10
+BE0003646,Solute carrier family 22 member 7,DB13946,11
+BE0001032,P-glycoprotein 1,DB13946,12
+BE0003644,Sodium/bile acid cotransporter,DB13946,13
+BE0000757,Solute carrier family 22 member 4,DB13946,14
+BE0001067,ATP-binding cassette sub-family G member 2,DB13946,15
+BE0003647,Solute carrier family 22 member 2,DB13946,27
+BE0003657,Multidrug and toxin extrusion protein 1,DB13946,28
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB13946,29
+BE0001032,P-glycoprotein 1,DB13951,4
+BE0003647,Solute carrier family 22 member 2,DB13952,12
+BE0003648,Solute carrier family 22 member 1,DB13952,13
+BE0003650,Solute carrier family 22 member 3,DB13952,14
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB13952,15
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB13952,16
+BE0003651,Multidrug resistance-associated protein 7,DB13952,17
+BE0000879,Solute carrier family 22 member 11,DB13952,18
+BE0001067,ATP-binding cassette sub-family G member 2,DB13952,19
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB13952,20
+BE0001032,P-glycoprotein 1,DB13952,21
+BE0003645,Solute carrier family 22 member 8,DB13952,27
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB13952,28
+BE0003660,Solute carrier organic anion transporter family member 1C1,DB13952,29
+BE0003656,Solute carrier organic anion transporter family member 4A1,DB13952,30
+BE0003647,Solute carrier family 22 member 2,DB13953,12
+BE0003648,Solute carrier family 22 member 1,DB13953,13
+BE0003650,Solute carrier family 22 member 3,DB13953,14
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB13953,15
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB13953,16
+BE0003651,Multidrug resistance-associated protein 7,DB13953,17
+BE0000879,Solute carrier family 22 member 11,DB13953,18
+BE0001067,ATP-binding cassette sub-family G member 2,DB13953,19
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB13953,20
+BE0001032,P-glycoprotein 1,DB13953,21
+BE0003645,Solute carrier family 22 member 8,DB13953,27
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB13953,28
+BE0003660,Solute carrier organic anion transporter family member 1C1,DB13953,29
+BE0003656,Solute carrier organic anion transporter family member 4A1,DB13953,30
+BE0003647,Solute carrier family 22 member 2,DB13954,12
+BE0003648,Solute carrier family 22 member 1,DB13954,13
+BE0003650,Solute carrier family 22 member 3,DB13954,14
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB13954,15
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB13954,16
+BE0003651,Multidrug resistance-associated protein 7,DB13954,17
+BE0000879,Solute carrier family 22 member 11,DB13954,18
+BE0001067,ATP-binding cassette sub-family G member 2,DB13954,19
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB13954,20
+BE0001032,P-glycoprotein 1,DB13954,21
+BE0003645,Solute carrier family 22 member 8,DB13954,27
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB13954,28
+BE0003660,Solute carrier organic anion transporter family member 1C1,DB13954,29
+BE0003656,Solute carrier organic anion transporter family member 4A1,DB13954,30
+BE0003647,Solute carrier family 22 member 2,DB13955,12
+BE0003648,Solute carrier family 22 member 1,DB13955,13
+BE0003650,Solute carrier family 22 member 3,DB13955,14
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB13955,15
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB13955,16
+BE0003651,Multidrug resistance-associated protein 7,DB13955,17
+BE0000879,Solute carrier family 22 member 11,DB13955,18
+BE0001067,ATP-binding cassette sub-family G member 2,DB13955,19
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB13955,20
+BE0001032,P-glycoprotein 1,DB13955,21
+BE0003645,Solute carrier family 22 member 8,DB13955,27
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB13955,28
+BE0003660,Solute carrier organic anion transporter family member 1C1,DB13955,29
+BE0003656,Solute carrier organic anion transporter family member 4A1,DB13955,30
+BE0003647,Solute carrier family 22 member 2,DB13956,12
+BE0003648,Solute carrier family 22 member 1,DB13956,13
+BE0003650,Solute carrier family 22 member 3,DB13956,14
+BE0001042,Solute carrier organic anion transporter family member 2B1,DB13956,15
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB13956,16
+BE0003651,Multidrug resistance-associated protein 7,DB13956,17
+BE0000879,Solute carrier family 22 member 11,DB13956,18
+BE0001067,ATP-binding cassette sub-family G member 2,DB13956,19
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB13956,20
+BE0001032,P-glycoprotein 1,DB13956,21
+BE0003645,Solute carrier family 22 member 8,DB13956,27
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB13956,28
+BE0003660,Solute carrier organic anion transporter family member 1C1,DB13956,29
+BE0003656,Solute carrier organic anion transporter family member 4A1,DB13956,30
+BE0002369,ATP-binding cassette sub-family B member 5,DB13997,1
+BE0000643,Alpha-tocopherol transfer protein,DB14003,4
+BE0000076,SEC14-like protein 4,DB14003,5
+BE0000256,SEC14-like protein 2,DB14003,6
+BE0000339,SEC14-like protein 3,DB14003,7
+BE0005852,Apolipoprotein B receptor,DB14003,8
+BE0000189,Scavenger receptor class B member 1,DB14003,9
+BE0001032,P-glycoprotein 1,DB14003,10
+BE0003647,Solute carrier family 22 member 2,DB14006,7
+BE0003648,Solute carrier family 22 member 1,DB14006,8
+BE0003650,Solute carrier family 22 member 3,DB14006,9
+BE0000106,Solute carrier family 22 member 5,DB14006,10
+BE0000757,Solute carrier family 22 member 4,DB14006,11
+BE0001059,Choline transporter-like protein 1,DB14006,13
+BE0002182,Choline transporter-like protein 4,DB14006,14
+BE0002184,Choline transporter-like protein 3,DB14006,15
+BE0000696,High affinity choline transporter 1,DB14006,20
+BE0000785,Multidrug resistance-associated protein 1,DB14009,27
+BE0001067,ATP-binding cassette sub-family G member 2,DB14009,28
+BE0001204,Equilibrative nucleoside transporter 1,DB14009,29
+BE0000785,Multidrug resistance-associated protein 1,DB14011,22
+BE0001067,ATP-binding cassette sub-family G member 2,DB14011,23
+BE0001204,Equilibrative nucleoside transporter 1,DB14011,24
+BE0000703,Bile salt export pump,DB14057,1
+BE0001032,P-glycoprotein 1,DB14057,2
+BE0001032,P-glycoprotein 1,DB14061,2
+BE0001032,P-glycoprotein 1,DB14062,2
+BE0001032,P-glycoprotein 1,DB14063,3
+BE0001032,P-glycoprotein 1,DB14064,3
+BE0001032,P-glycoprotein 1,DB14065,3
+BE0001032,P-glycoprotein 1,DB14066,3
+BE0001032,P-glycoprotein 1,DB14067,3
+BE0001032,P-glycoprotein 1,DB14069,2
+BE0001032,P-glycoprotein 1,DB14126,1
+BE0001066,Solute carrier family 22 member 6,DB14126,2
+BE0003645,Solute carrier family 22 member 8,DB14126,3
+BE0001188,Multidrug resistance-associated protein 4,DB14126,4
+BE0001032,P-glycoprotein 1,DB14146,4
+BE0005055,Sodium-dependent phosphate transporter 1,DB14481,37
+BE0008680,Sodium-dependent phosphate transporter 2,DB14481,38
+BE0008681,Sodium-dependent phosphate transport protein 2A,DB14481,39
+BE0008682,Sodium-dependent phosphate transport protein 2B,DB14481,40
+BE0008683,Sodium-dependent phosphate transport protein 2C,DB14481,41
+BE0005102,Transient receptor potential cation channel subfamily V member 6,DB14481,42
+BE0000986,Sodium/calcium exchanger 1,DB14481,43
+BE0005112,Transient receptor potential cation channel subfamily V member 5,DB14481,44
+BE0000739,Ryanodine receptor 1,DB14481,45
+BE0005295,Ryanodine receptor 2,DB14481,46
+BE0008712,Polycystic kidney disease 2-like 1 protein,DB14481,47
+BE0005296,Ryanodine receptor 3,DB14481,48
+BE0008713,Polycystic kidney disease protein 1-like 3,DB14481,49
+BE0008714,Cation channel sperm-associated protein 1,DB14481,50
+BE0008715,Voltage-dependent L-type calcium channel,DB14481,51
+BE0008717,Voltage-dependent P/Q-type calcium channel,DB14481,52
+BE0008716,Voltage-dependent T-type calcium channel,DB14481,53
+BE0008718,Voltage-dependent R-type calcium channel,DB14481,54
+BE0000732,Sodium/potassium-transporting ATPase subunit alpha-1,DB14500,2
+BE0000502,Solute carrier family 12 member 1,DB14500,3
+BE0005055,Sodium-dependent phosphate transporter 1,DB14502,1
+BE0008680,Sodium-dependent phosphate transporter 2,DB14502,2
+BE0008681,Sodium-dependent phosphate transport protein 2A,DB14502,3
+BE0008682,Sodium-dependent phosphate transport protein 2B,DB14502,4
+BE0008683,Sodium-dependent phosphate transport protein 2C,DB14502,5
+BE0005055,Sodium-dependent phosphate transporter 1,DB14503,1
+BE0008680,Sodium-dependent phosphate transporter 2,DB14503,2
+BE0008681,Sodium-dependent phosphate transport protein 2A,DB14503,3
+BE0008682,Sodium-dependent phosphate transport protein 2B,DB14503,4
+BE0008683,Sodium-dependent phosphate transport protein 2C,DB14503,5
+BE0000190,Amiloride-sensitive sodium channel subunit alpha,DB14509,5
+BE0000024,Amiloride-sensitive sodium channel subunit beta,DB14509,6
+BE0000497,Amiloride-sensitive sodium channel subunit gamma,DB14509,7
+BE0009861,Claudin-16,DB14513,2
+BE0005126,Transient receptor potential cation channel subfamily M member 6,DB14513,3
+BE0004624,Transient receptor potential cation channel subfamily M member 7,DB14513,4
+BE0009863,Solute carrier family 41 member 1,DB14513,5
+BE0008673,Solute carrier family 41 member 3,DB14513,6
+BE0009864,"Magnesium transporter MRS2 homolog, mitochondrial",DB14513,7
+BE0008685,Natural resistance-associated macrophage protein 2,DB14520,6
+BE0009856,Solute carrier family 40 member 1,DB14520,7
+BE0009891,Zinc transporter 1,DB14533,1
+BE0009892,Zinc transporter 2,DB14533,2
+BE0009895,Zinc transporter 3,DB14533,3
+BE0009886,Zinc transporter 4,DB14533,4
+BE0009907,Zinc transporter 6,DB14533,5
+BE0009898,Zinc transporter 5,DB14533,6
+BE0009885,Zinc transporter 7,DB14533,7
+BE0009896,Zinc transporter 8,DB14533,8
+BE0009890,Zinc transporter 9,DB14533,9
+BE0009899,Zinc transporter 10,DB14533,10
+BE0009902,Zinc transporter ZIP1,DB14533,11
+BE0009889,Zinc transporter ZIP2,DB14533,12
+BE0009904,Zinc transporter ZIP3,DB14533,13
+BE0009894,Zinc transporter ZIP4,DB14533,14
+BE0009888,Zinc transporter ZIP5,DB14533,15
+BE0009887,Zinc transporter ZIP6,DB14533,16
+BE0009893,Zinc transporter SLC39A7,DB14533,17
+BE0009901,Zinc transporter ZIP8,DB14533,18
+BE0009905,Zinc transporter ZIP9,DB14533,19
+BE0009884,Zinc transporter ZIP10,DB14533,20
+BE0009906,Zinc transporter ZIP11,DB14533,21
+BE0009897,Zinc transporter ZIP12,DB14533,22
+BE0009900,Zinc transporter ZIP13,DB14533,23
+BE0009903,Zinc transporter ZIP14,DB14533,24
+BE0001032,P-glycoprotein 1,DB14538,7
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB14538,8
+BE0001067,ATP-binding cassette sub-family G member 2,DB14538,9
+BE0003645,Solute carrier family 22 member 8,DB14538,14
+BE0001032,P-glycoprotein 1,DB14539,7
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB14539,8
+BE0001067,ATP-binding cassette sub-family G member 2,DB14539,9
+BE0003645,Solute carrier family 22 member 8,DB14539,16
+BE0001032,P-glycoprotein 1,DB14540,7
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB14540,8
+BE0001067,ATP-binding cassette sub-family G member 2,DB14540,9
+BE0003645,Solute carrier family 22 member 8,DB14540,16
+BE0001032,P-glycoprotein 1,DB14541,7
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB14541,8
+BE0001067,ATP-binding cassette sub-family G member 2,DB14541,9
+BE0003645,Solute carrier family 22 member 8,DB14541,14
+BE0001032,P-glycoprotein 1,DB14542,7
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB14542,8
+BE0001067,ATP-binding cassette sub-family G member 2,DB14542,9
+BE0003645,Solute carrier family 22 member 8,DB14542,14
+BE0001032,P-glycoprotein 1,DB14543,7
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB14543,8
+BE0001067,ATP-binding cassette sub-family G member 2,DB14543,9
+BE0003645,Solute carrier family 22 member 8,DB14543,16
+BE0001032,P-glycoprotein 1,DB14544,7
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB14544,8
+BE0001067,ATP-binding cassette sub-family G member 2,DB14544,9
+BE0003645,Solute carrier family 22 member 8,DB14544,16
+BE0009884,Zinc transporter ZIP10,DB14548,98
+BE0009885,Zinc transporter 7,DB14548,99
+BE0009886,Zinc transporter 4,DB14548,100
+BE0009887,Zinc transporter ZIP6,DB14548,101
+BE0009888,Zinc transporter ZIP5,DB14548,102
+BE0009889,Zinc transporter ZIP2,DB14548,103
+BE0009890,Zinc transporter 9,DB14548,104
+BE0009891,Zinc transporter 1,DB14548,105
+BE0009892,Zinc transporter 2,DB14548,106
+BE0009893,Zinc transporter SLC39A7,DB14548,107
+BE0009894,Zinc transporter ZIP4,DB14548,108
+BE0009895,Zinc transporter 3,DB14548,109
+BE0009896,Zinc transporter 8,DB14548,110
+BE0009897,Zinc transporter ZIP12,DB14548,111
+BE0009898,Zinc transporter 5,DB14548,112
+BE0009899,Zinc transporter 10,DB14548,113
+BE0009900,Zinc transporter ZIP13,DB14548,114
+BE0009901,Zinc transporter ZIP8,DB14548,115
+BE0009902,Zinc transporter ZIP1,DB14548,116
+BE0009903,Zinc transporter ZIP14,DB14548,117
+BE0009904,Zinc transporter ZIP3,DB14548,118
+BE0009905,Zinc transporter ZIP9,DB14548,119
+BE0009906,Zinc transporter ZIP11,DB14548,120
+BE0009907,Zinc transporter 6,DB14548,121
+BE0003645,Solute carrier family 22 member 8,DB14568,6
+BE0001032,P-glycoprotein 1,DB14568,7
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB14631,14
+BE0001032,P-glycoprotein 1,DB14631,15
+BE0003645,Solute carrier family 22 member 8,DB14631,16
+BE0001032,P-glycoprotein 1,DB14635,14
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB14641,2
+BE0001032,P-glycoprotein 1,DB14641,3
+BE0001069,Canalicular multispecific organic anion transporter 1,DB14642,4
+BE0000703,Bile salt export pump,DB14649,8
+BE0001032,P-glycoprotein 1,DB14649,9
+BE0001069,Canalicular multispecific organic anion transporter 1,DB14649,10
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB14649,11
+BE0001067,ATP-binding cassette sub-family G member 2,DB14649,12
+BE0003645,Solute carrier family 22 member 8,DB14649,27
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB14669,7
+BE0001032,P-glycoprotein 1,DB14669,8
+BE0003645,Solute carrier family 22 member 8,DB14669,9
+BE0001032,P-glycoprotein 1,DB14723,5
+BE0001067,ATP-binding cassette sub-family G member 2,DB14723,6
+BE0001134,Solute carrier family 15 member 2,DB00781,2
+BE0003647,Solute carrier family 22 member 2,DB14754,1
+BE0000757,Solute carrier family 22 member 4,DB14754,2
+BE0000106,Solute carrier family 22 member 5,DB14754,3
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB14761,6
+BE0001032,P-glycoprotein 1,DB14761,7
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB14761,8
+BE0000703,Bile salt export pump,DB14761,9
+BE0001188,Multidrug resistance-associated protein 4,DB14761,10
+BE0003644,Sodium/bile acid cotransporter,DB14761,11
+BE0001032,P-glycoprotein 1,DB14840,12
+BE0001067,ATP-binding cassette sub-family G member 2,DB14840,13
+BE0003657,Multidrug and toxin extrusion protein 1,DB14840,14
+BE0009805,MexAB-OprM efflux system,DB14879,6
+BE0009806,Catecholate siderophore receptor Fiu,DB14879,8
+BE0004172,Colicin I receptor,DB14879,9
+BE0009807,Putative outer membrane ferric siderophore receptor,DB14879,10
+BE0001032,P-glycoprotein 1,DB14962,1
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB14962,9
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB14962,10
+BE0004752,Multidrug and toxin extrusion protein 2,DB14962,11
+BE0000785,Multidrug resistance-associated protein 1,DB14962,12
+BE0001067,ATP-binding cassette sub-family G member 2,DB14962,13
+BE0001032,P-glycoprotein 1,DB15035,2
+BE0001032,P-glycoprotein 1,DB15091,4
+BE0001067,ATP-binding cassette sub-family G member 2,DB15091,5
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB15091,6
+BE0001032,P-glycoprotein 1,DB15102,6
+BE0001067,ATP-binding cassette sub-family G member 2,DB15102,7
+BE0003647,Solute carrier family 22 member 2,DB15102,8
+BE0003657,Multidrug and toxin extrusion protein 1,DB15102,9
+BE0001032,P-glycoprotein 1,DB15233,3
+BE0001067,ATP-binding cassette sub-family G member 2,DB15233,4
+BE0001032,P-glycoprotein 1,DB15328,5
+BE0001067,ATP-binding cassette sub-family G member 2,DB15328,9
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB15328,10
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB15328,11
+BE0001066,Solute carrier family 22 member 6,DB15328,12
+BE0003647,Solute carrier family 22 member 2,DB15328,13
+BE0001004,Solute carrier organic anion transporter family member 1B1,DB15444,1
+BE0003659,Solute carrier organic anion transporter family member 1B3,DB15444,2
+BE0001032,P-glycoprotein 1,DB15444,3
+BE0003642,Solute carrier organic anion transporter family member 1A2,DB15566,4
+BE0001032,P-glycoprotein 1,DB15566,5
+BE0001155,Integrin beta-3,DB15598,1
+BE0008685,Natural resistance-associated macrophage protein 2,DB15598,3
+BE0004850,Transferrin receptor,DB15617,1
+BE0001032,P-glycoprotein 1,DB15685,10

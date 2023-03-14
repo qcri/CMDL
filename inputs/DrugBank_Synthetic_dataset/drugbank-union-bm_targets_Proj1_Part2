@@ -1,0 +1,1625 @@
+id,name
+BE0000197,Sodium channel protein type 5 subunit alpha
+BE0000770,Mu-type opioid receptor
+BE0000533,5-hydroxytryptamine receptor 2C
+BE0000632,Kappa-type opioid receptor
+BE0000420,Delta-type opioid receptor
+BE0003438,Alpha-7 nicotinic cholinergic receptor subunit
+BE0000384,Neurokinin 1 receptor
+BE0002081,Sodium channel protein type 2 subunit alpha
+BE0004956,NMDA receptor
+BE0000013,Adenosine receptor A1
+BE0004864,Alpha-2 adrenergic receptors
+BE0000308,DNA polymerase catalytic subunit
+BE0004499,Thymidine kinase
+BE0000458,Thymidine kinase
+BE0000233,Cytochrome P450 51
+BE0001204,Equilibrative nucleoside transporter 1
+BE0002088,Estrogen-related receptor gamma
+BE0003722,Steroid hormone receptor ERR1
+BE0000584,Neuraminidase
+BE0000914,Sialidase-1
+BE0003200,Sialidase-2
+BE0004800,23S ribosomal RNA
+BE0003521,Motilin receptor
+BE0000238,Transcobalamin-1
+BE0000340,Protein amnionless
+BE0000936,Cubilin
+BE0000924,Adenosine receptor A2a
+BE0000739,Ryanodine receptor 1
+BE0004922,Cyclic nucleotide phosphodiesterase
+BE0002385,DNA-dependent protein kinase catalytic subunit
+BE0002406,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+BE0002407,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform"
+BE0004914,"Inositol 1,4,5-trisphosphate receptor"
+BE0004874,Serine-protein kinase ATM
+BE0000241,Adenosine receptor A2b
+BE0000354,Adenosine receptor A3
+BE0009789,Phosphodiesterase enzymes
+BE0000560,Muscarinic acetylcholine receptor M2
+BE0000182,"cGMP-specific 3',5'-cyclic phosphodiesterase"
+BE0003556,"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma"
+BE0003557,"Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma"
+BE0000210,Potassium channel subfamily K member 2
+BE0001131,ATP-sensitive inward rectifier potassium channel 12
+BE0000563,Bifunctional dihydrofolate reductase-thymidylate synthase
+BE0001153,Beta-hexosaminidase subunit beta
+BE0004674,Chromaffin granule amine transporter
+BE0003408,Baculoviral IAP repeat-containing protein 5
+BE0000110,P2Y purinoceptor 12
+BE0000206,Retinoic acid receptor beta
+BE0000144,Retinoic acid receptor gamma
+BE0000078,Retinoic acid receptor RXR-beta
+BE0000707,Retinoic acid receptor RXR-gamma
+BE0001040,Transcription factor AP-1
+BE0000663,Retinoic acid receptor alpha
+BE0000501,Alpha-1A adrenergic receptor
+BE0000575,Alpha-1B adrenergic receptor
+BE0000715,Alpha-1D adrenergic receptor
+BE0000270,Renin
+BE0000349,Potassium-transporting ATPase alpha chain 1
+BE0000502,Solute carrier family 12 member 1
+BE0000281,Solute carrier family 12 member 2
+BE0000442,Histamine H1 receptor
+BE0000659,5-hydroxytryptamine receptor 1D
+BE0000797,5-hydroxytryptamine receptor 1B
+BE0000460,5-hydroxytryptamine receptor 1F
+BE0000291,5-hydroxytryptamine receptor 1A
+BE0000644,ATP-sensitive inward rectifier potassium channel 1
+BE0000429,DNA topoisomerase 4 subunit A
+BE0000366,DNA gyrase subunit A
+BE0000742,DNA topoisomerase 2-alpha
+BE0000664,HIV-1 protease
+BE0000708,ATP-sensitive inward rectifier potassium channel 11
+BE0004854,Human immunodeficiency virus type 1 protease
+BE0009847,Voltage-gated Potassium Channels
+BE0000218,Calcium-transporting ATPase type 2C member 1
+BE0004852,Glutamate (NMDA) receptor
+BE0003888,Sarcoplasmic/endoplasmic reticulum calcium ATPase 1
+BE0000576,Penicillin-binding protein 1A
+BE0000691,Voltage-dependent calcium channel subunit alpha-2/delta-1
+BE0000267,Carbonic anhydrase 1
+BE0000322,Carbonic anhydrase 2
+BE0000535,Carbonic anhydrase 4
+BE0004655,Inhibitor of nuclear factor kappa-B kinase subunit alpha
+BE0003768,Group IIE secretory phospholipase A2
+BE0000436,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A"
+BE0009927,Neuronal Acetylcholine (nACh) Receptor Subunits
+BE0004136,Reverse transcriptase/RNaseH
+BE0004668,Lanosterol synthase
+BE0000795,Gamma-aminobutyric acid receptor subunit alpha-1
+BE0000381,Gamma-aminobutyric acid receptor subunit alpha-2
+BE0000523,Gamma-aminobutyric acid receptor subunit alpha-3
+BE0000478,Gamma-aminobutyric acid receptor subunit alpha-4
+BE0000471,Gamma-aminobutyric acid receptor subunit alpha-5
+BE0000764,Gamma-aminobutyric acid receptor subunit alpha-6
+BE0000325,Ribonucleoside-diphosphate reductase large subunit
+BE0002450,Ribonucleoside-diphosphate reductase subunit M2
+BE0003613,Ribonucleoside-diphosphate reductase subunit M2 B
+BE0000546,DNA polymerase alpha catalytic subunit
+BE0003614,DNA polymerase epsilon catalytic subunit A
+BE0003615,DNA polymerase epsilon subunit 2
+BE0003617,DNA polymerase epsilon subunit 3
+BE0003616,DNA polymerase epsilon subunit 4
+BE0000250,Purine nucleoside phosphorylase
+BE0004901,Sodium channel protein
+BE0009631,Inward rectifier potassium channel
+BE0009739,Voltage gated L-type calcium channel
+BE0004863,Alpha-1 adrenergic receptors
+BE0009632,Fatty acid
+BE0001154,Inhibitor of nuclear factor kappa-B kinase subunit beta
+BE0001075,Myeloperoxidase
+BE0004429,Arylamine N-acetyltransferase
+BE0000020,Dopamine D1 receptor
+BE0000145,Dopamine D5 receptor
+BE0000451,5-hydroxytryptamine receptor 2A
+BE0000581,Dopamine D3 receptor
+BE0000389,Dopamine D4 receptor
+BE0000476,5-hydroxytryptamine receptor 1E
+BE0000945,5-hydroxytryptamine receptor 6
+BE0000650,5-hydroxytryptamine receptor 7
+BE0000289,Alpha-2A adrenergic receptor
+BE0000572,Alpha-2B adrenergic receptor
+BE0000342,Alpha-2C adrenergic receptor
+BE0000405,Muscarinic acetylcholine receptor M4
+BE0000247,Muscarinic acetylcholine receptor M5
+BE0009860,5-hydroxytryptamine 3 receptor
+BE0004688,5-hydroxytryptamine receptor 5A
+BE0000393,5-hydroxytryptamine receptor 2B
+BE0004889,D(1) dopamine receptor
+BE0002087,Inactive dihydropteroate synthase 2
+BE0002086,Dihydropteroate synthase 1
+BE0000141,Sodium channel protein type 1 subunit alpha
+BE0003635,Sodium channel subunit beta-1
+BE0002082,Sodium channel protein type 3 subunit alpha
+BE0008715,Voltage-dependent L-type calcium channel
+BE0002084,Sodium channel protein type 8 subunit alpha
+BE0004799,16S ribosomal RNA
+BE0000123,Estrogen receptor alpha
+BE0000792,Estrogen receptor beta
+BE0005001,Steroid hormone receptor ERR2
+BE0003740,Nuclear receptor coactivator 2
+BE0000132,Androgen receptor
+BE0000019,30S ribosomal protein S4
+BE0000415,Intermediate conductance calcium-activated potassium channel protein 4
+BE0000635,Hydroxycarboxylic acid receptor 2
+BE0004803,Ergosterol
+BE0004815,Phosphate
+BE0000803,Dihydropteroate synthase
+BE0000733,D-alanine--D-alanine ligase A
+BE0000806,Alanine racemase
+BE0004810,RNA
+BE0001185,Quinone oxidoreductase
+BE0002393,Peptidoglycan synthase FtsI
+BE0000430,Voltage-dependent L-type calcium channel subunit alpha-1C
+BE0002354,Voltage-dependent L-type calcium channel subunit beta-2
+BE0000864,Voltage-dependent T-type calcium channel subunit alpha-1H
+BE0002396,Voltage-dependent calcium channel subunit alpha-2/delta-2
+BE0002359,Voltage-dependent L-type calcium channel subunit alpha-1D
+BE0002355,Voltage-dependent L-type calcium channel subunit alpha-1S
+BE0000112,Histamine H2 receptor
+BE0009738,Voltage-gated sodium channel alpha subunit
+BE0009793,Kainate receptors
+BE0003625,Carbonic anhydrase 3
+BE0008718,Voltage-dependent R-type calcium channel
+BE0003577,Penicillin binding protein 2a
+BE0000588,Penicillin-binding protein 1A
+BE0000488,Penicillin-binding protein 1B
+BE0002063,D-alanyl-D-alanine carboxypeptidase DacA
+BE0003685,D-alanyl-D-alanine carboxypeptidase DacC
+BE0000925,Alpha-1-acid glycoprotein 1
+BE0000530,Serum albumin
+BE0001133,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A"
+BE0009002,Copine-1
+BE0009003,Minor histocompatibility antigen H13
+BE0009004,Nodal modulator 1
+BE0001717,Poly [ADP-ribose] polymerase 1
+BE0009005,Protein RIC-3
+BE0009006,Tubulin monoglycylase TTLL3
+BE0000687,Thyroid hormone receptor alpha
+BE0000315,Thyroid hormone receptor beta
+BE0009045,Proliferating cell nuclear antigen
+BE0003603,Potassium voltage-gated channel subfamily D member 2
+BE0003604,Potassium voltage-gated channel subfamily D member 3
+BE0003663,Alpha-1-acid glycoprotein 2
+BE0000177,Sodium channel protein type 10 subunit alpha
+BE0001143,Sodium channel protein type 9 subunit alpha
+BE0002083,Sodium channel protein type 4 subunit alpha
+BE0000776,Farnesyl pyrophosphate synthase
+BE0004801,Hydroxylapatite
+BE0003570,Geranylgeranyl pyrophosphate synthase
+BE0001162,Caspase-3
+BE0009991,Caspase-9
+BE0000837,"Maltase-glucoamylase, intestinal"
+BE0002639,Pancreatic alpha-amylase
+BE0000876,Lysosomal alpha-glucosidase
+BE0001176,"Sucrase-isomaltase, intestinal"
+BE0000610,Prostaglandin F2-alpha receptor
+BE0000422,Annexin A1
+BE0001028,G protein-activated inward rectifier potassium channel 1
+BE0000199,DNA ligase 1
+BE0000167,DNA ligase 3
+BE0000324,Thymidylate synthase
+BE0000557,Progesterone receptor
+BE0004024,Lymphocyte antigen 96
+BE0000064,Prostaglandin E2 receptor EP1 subtype
+BE0000514,Thymidine kinase
+BE0000312,DNA polymerase/reverse transcriptase
+BE0000103,Penicillin-binding protein 2
+BE0003579,Penicillin-binding protein 2
+BE0000001,Peptidoglycan synthase FtsI
+BE0000744,D-alanyl-D-alanine carboxypeptidase DacB
+BE0000303,Voltage-dependent L-type calcium channel subunit beta-1
+BE0000679,Voltage-dependent calcium channel gamma-1 subunit
+BE0000154,Potassium channel subfamily K member 1
+BE0000680,Potassium channel subfamily K member 6
+BE0000462,Potassium voltage-gated channel subfamily H member 6
+BE0000699,Potassium voltage-gated channel subfamily H member 7
+BE0000026,Tubulin beta-1 chain
+BE0003629,Carbonic anhydrase 7
+BE0000881,Histone deacetylase 9
+BE0009727,16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+BE0002480,Prostaglandin E synthase 3
+BE0004643,Penicillin-binding protein 3
+BE0003624,Penicillin-binding protein 2B
+BE0004644,Penicillin-binding protein 2a
+BE0004335,Penicillin-binding protein 1b
+BE0001039,High affinity nerve growth factor receptor
+BE0003605,BDNF/NT-3 growth factors receptor
+BE0000897,Potassium voltage-gated channel subfamily KQT member 2
+BE0000781,Potassium voltage-gated channel subfamily A member 1
+BE0000146,Histamine H4 receptor
+BE0000156,Sigma non-opioid intracellular receptor 1
+BE0002398,Potassium voltage-gated channel subfamily KQT member 3
+BE0004882,5-hydroxytryptamine receptor 1C
+BE0004890,Muscarinic acetylcholine receptor
+BE0009629,HERG human cardiac K+ channel
+BE0000556,Atrial natriuretic peptide receptor 1
+BE0001640,"Phospholipase A2, membrane associated"
+BE0003560,Prostaglandin reductase 2
+BE0003561,Prostaglandin D2 receptor 2
+BE0000591,Probable arabinosyltransferase C
+BE0000122,Probable arabinosyltransferase B
+BE0000034,Probable arabinosyltransferase A
+BE0003887,"Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial"
+BE0000311,5-hydroxytryptamine receptor 3A
+BE0004958,5-hydroxytryptamine receptor 1
+BE0000298,Glutathione reductase
+BE0002386,Serine/threonine-protein kinase mTOR
+BE0000695,Peptidyl-prolyl cis-trans isomerase FKBP1A
+BE0003721,Aryl hydrocarbon receptor
+BE0009744,Fatty acid synthetase
+BE0000483,Voltage-dependent T-type calcium channel subunit alpha-1G
+BE0000455,4-hydroxyphenylpyruvate dioxygenase
+BE0000790,Penicillin-binding protein 3
+BE0001444,Beta-lactamase
+BE0000553,Calcium-activated potassium channel subunit alpha-1
+BE0003537,"Cholesterol side-chain cleavage enzyme, mitochondrial"
+BE0004805,Fe(II)-protoporphyrin IX
+BE0009993,80S ribosomal subunit
+BE0002360,Dihydropteroate synthetase
+BE0000121,Tryptophan 5-hydroxylase 1
+BE0000143,Tubulin beta chain
+BE0004669,"1,3-beta-glucan synthase component FKS1"
+BE0000666,Neuron-specific vesicular protein calcyon
+BE0009737,Pepsin A-5
+BE0001015,Fibroblast growth factor 2
+BE0000953,Pro-epidermal growth factor
+BE0009672,Fibrinogen
+BE0003848,Nuclear receptor subfamily 1 group I member 3
+BE0000539,3-oxo-5-alpha-steroid 4-dehydrogenase 1
+BE0001012,Beta-3 adrenergic receptor
+BE0000343,DNA polymerase catalytic subunit
+BE0005582,5HT3 serotonin receptor
+BE0001248,Lysozyme
+BE0000475,Prostacyclin receptor
+BE0004809,Bile acids
+BE0002425,DNA topoisomerase 2-beta
+BE0002226,Voltage-dependent N-type calcium channel subunit alpha-1B
+BE0003563,Voltage-dependent calcium channel subunit alpha-2/delta-3
+BE0000973,Sphingomyelin phosphodiesterase
+BE0000012,Voltage-dependent T-type calcium channel subunit alpha-1I
+BE0009351,Voltage-dependent N-type calcium channel
+BE0002705,Liver carboxylesterase 1
+BE0000497,Amiloride-sensitive sodium channel subunit gamma
+BE0000190,Amiloride-sensitive sodium channel subunit alpha
+BE0000024,Amiloride-sensitive sodium channel subunit beta
+BE0000495,Amiloride-sensitive sodium channel subunit delta
+BE0000507,Thyroid peroxidase
+BE0000732,Sodium/potassium-transporting ATPase subunit alpha-1
+BE0002357,Voltage-dependent L-type calcium channel subunit alpha-1F
+BE0002358,Voltage-dependent L-type calcium channel subunit beta-3
+BE0002356,Voltage-dependent L-type calcium channel subunit beta-4
+BE0000668,Mineralocorticoid receptor
+BE0002346,Gamma-aminobutyric acid receptor subunit beta-2
+BE0003592,Gamma-aminobutyric acid receptor subunit gamma-2
+BE0000634,Serine/threonine-protein kinase B-raf
+BE0000036,RAF proto-oncogene serine/threonine-protein kinase
+BE0000023,Vascular endothelial growth factor receptor 3
+BE0000369,Vascular endothelial growth factor receptor 2
+BE0000147,Receptor-type tyrosine-protein kinase FLT3
+BE0000453,Mast/stem cell growth factor receptor Kit
+BE0002411,Proto-oncogene tyrosine-protein kinase receptor Ret
+BE0000029,Vascular endothelial growth factor receptor 1
+BE0000283,Tubulin beta chain
+BE0004660,"Keratin, type I cytoskeletal 12"
+BE0000402,Cholecystokinin receptor type A
+BE0000280,Antithrombin-III
+BE0000775,Heparin cofactor 2
+BE0000804,Isoleucine--tRNA ligase
+BE0004290,Penicillin-binding protein 1A
+BE0001018,Solute carrier family 15 member 1
+BE0001134,Solute carrier family 15 member 2
+BE0003379,Angiopoietin-1 receptor
+BE0003618,MecA PBP2' (penicillin binding protein 2')
+BE0001304,Penicillin acylase
+BE0000477,Ceramide glucosyltransferase
+BE0003542,"Cytochrome P450 11B2, mitochondrial"
+BE0004887,3-oxo-5-alpha-steroid 4-dehydrogenase
+BE0001045,"Solute carrier family 2, facilitated glucose transporter member 2"
+BE0004258,O-GlcNAcase BT_4395
+BE0005827,Bifunctional protein NCOAT
+BE0003686,Penicillin-binding protein 1A
+BE0003687,Penicillin-binding protein 1B
+BE0002344,Gamma-aminobutyric acid receptor subunit beta-1
+BE0002345,Gamma-aminobutyric acid receptor subunit beta-3
+BE0000129,Gamma-aminobutyric acid receptor subunit rho-1
+BE0003578,Guanylate cyclase soluble subunit alpha-2
+BE0004778,Metallothionein-1A
+BE0000693,"Indoleamine 2,3-dioxygenase 1"
+BE0000419,Solute carrier family 12 member 3
+BE0002204,Xanthine dehydrogenase/oxidase
+BE0004648,Penicillin-binding protein 2
+BE0004649,D-alanyl-D-alanine endopeptidase
+BE0002010,Dihydrofolate reductase
+BE0000637,UMP-CMP kinase
+BE0004650,50S ribosomal protein L16
+BE0001544,Dr hemagglutinin structural subunit
+BE0000929,Complement decay-accelerating factor
+BE0003474,Microtubule-associated protein tau
+BE0000279,30S ribosomal protein S12
+BE0000919,C-X-C chemokine receptor type 4
+BE0000127,30S ribosomal protein S9
+BE0001349,D-alanyl-D-alanine carboxypeptidase
+BE0001358,Beta-lactamase
+BE0005191,Potassium voltage-gated channel subfamily H member 1
+BE0000301,Retinol-binding protein 1
+BE0009978,Retinoic acid receptor RXR
+BE0000866,Platelet glycoprotein IX
+BE0000061,Cannabinoid receptor 1
+BE0000095,Cannabinoid receptor 2
+BE0000705,Cysteinyl leukotriene receptor 1
+BE0004552,Cyclin-dependent kinases regulatory subunit 1
+BE0004881,5-hydroxytryptamine 2 receptor
+BE0000418,Calmodulin
+BE0004879,alpha1-acid glycoprotein
+BE0000630,Matrix protein 2
+BE0004755,Protein cereblon
+BE0003517,Tumor necrosis factor ligand superfamily member 11
+BE0003403,Cadherin-5
+BE0008982,Serpin B9
+BE0008981,Trefoil factor 1
+BE0001193,3-phosphoinositide-dependent protein kinase 1
+BE0009698,Cadherin-11
+BE0009126,Penicillin-binding protein 3
+BE0004950,DNA topoisomerase 1
+BE0004698,Neutral alpha-glucosidase AB
+BE0004699,Neutral alpha-glucosidase C
+BE0001066,Solute carrier family 22 member 6
+BE0003645,Solute carrier family 22 member 8
+BE0000879,Solute carrier family 22 member 11
+BE0003646,Solute carrier family 22 member 7
+BE0008388,Beta-lactamase
+BE0002449,Telomerase reverse transcriptase
+BE0003478,Melanin-concentrating hormone receptor 1
+BE0002674,Pyruvate-flavodoxin oxidoreductase
+BE0004826,D-Ala-D-Ala moiety of NAM/NAG peptide subunits of peptidoglycan
+BE0001088,Tissue-type plasminogen activator
+BE0001283,Apolipoprotein(a)
+BE0000290,"HCG20471, isoform CRA_c"
+BE0004896,Membrane-associated progesterone receptor component 1
+BE0004904,NADPH oxidase
+BE0008954,DNA-3-methyladenine glycosylase
+BE0000510,Serotransferrin
+BE0002833,Copper transport protein ATOX1
+BE0001340,Tubulin alpha-1A chain
+BE0004789,Tubulin beta-2 chain
+BE0001367,Tubulin beta-4B chain
+BE0001487,Fumarate reductase flavoprotein subunit
+BE0002128,Serine protease hepsin
+BE0000970,Insulin-like growth factor-binding protein 3
+BE0008996,Pregnancy-specific beta-1-glycoprotein 5
+BE0009043,Cytochrome P450 26C1
+BE0004670,Squalene monooxygenase
+BE0001046,Elastin
+BE0003621,Penicillin-binding protein 2
+BE0003622,PBP3
+BE0009685,Peptidoglycan transpeptidase
+BE0004524,Disks large homolog 4
+BE0002994,Arginase
+BE0008382,DNA gyrase subunit A
+BE0008383,DNA topoisomerase 4 subunit A
+BE0008386,DNA topoisomerase 4 subunit B
+BE0008387,DNA gyrase subunit A
+BE0008392,Multidrug resistance protein MdtK
+BE0008384,Gyrase A
+BE0008385,DNA gyrase subunit A
+BE0004897,Sigma receptor
+BE0001391,Tubulin alpha-4A chain
+BE0000474,Thioredoxin reductase
+BE0003610,3-oxo-5-beta-steroid 4-dehydrogenase
+BE0000585,3-oxo-5-alpha-steroid 4-dehydrogenase 2
+BE0000498,DNA polymerase I
+BE0000334,Urease subunit alpha
+BE0001198,Macrophage metalloelastase
+BE0002214,Adenosine deaminase
+BE0009609,Voltage-dependent R-type calcium channel subunit alpha-1E (CACNA1E)
+BE0004661,Acetylcholine receptor subunit alpha
+BE0000057,Neuraminidase
+BE0003527,Neuraminidase
+BE0000521,Endothelin-1 receptor
+BE0000043,Endothelin B receptor
+BE0003709,30S ribosomal protein S13
+BE0003708,30S ribosomal protein S14
+BE0003710,30S ribosomal protein S19
+BE0003582,Potassium channel subfamily K member 3
+BE0003583,Potassium channel subfamily K member 9
+BE0002437,Carbonic anhydrase 9
+BE0001653,Carbonic anhydrase 12
+BE0009965,Carbonic anhydrase
+BE0004808,Lead
+BE0004814,Mercury
+BE0004802,Cadmium
+BE0004813,Arsenic
+BE0003711,Tubulin delta chain
+BE0003713,Tubulin gamma-1 chain
+BE0003712,Tubulin epsilon chain
+BE0004840,Penicillin-binding protein
+BE0000116,Evolved beta-galactosidase subunit alpha
+BE0000757,Solute carrier family 22 member 4
+BE0000106,Solute carrier family 22 member 5
+BE0000496,Carnitine O-acetyltransferase
+BE0000097,Mitochondrial carnitine/acylcarnitine carrier protein CACL
+BE0000579,Mitochondrial carnitine/acylcarnitine carrier protein
+BE0000373,Peroxisomal carnitine O-octanoyltransferase
+BE0000179,"Carnitine O-palmitoyltransferase 2, mitochondrial"
+BE0000406,"Carnitine O-palmitoyltransferase 1, liver isoform"
+BE0000657,Cytosolic phospholipase A2
+BE0003201,Annexin A3
+BE0008969,Annexin A4
+BE0004149,Annexin A5
+BE0000351,Amiloride-sensitive amine oxidase [copper-containing]
+BE0000678,Acid-sensing ion channel 2
+BE0000353,Acid-sensing ion channel 1
+BE0000752,Sodium/hydrogen exchanger 1
+BE0000895,Urokinase-type plasminogen activator
+BE0002194,Fatty-acid amide hydrolase 1
+BE0000084,5-hydroxytryptamine receptor 4
+BE0001062,Mitogen-activated protein kinase 3
+BE0004353,Aldo-keto reductase family 1 member B10
+BE0000229,Sodium/potassium-transporting ATPase subunit gamma
+BE0009094,Secreted frizzled-related protein 4
+BE0001171,Toll-like receptor 9
+BE0002659,Glutathione S-transferase
+BE0003428,High mobility group protein B1
+BE0000982,Angiotensin-converting enzyme 2
+BE0000332,Enoyl-[acyl-carrier-protein] reductase [NADH]
+BE0000466,Catalase-peroxidase
+BE0002436,Histamine N-methyltransferase
+BE0000461,DNA-directed RNA polymerase subunit alpha
+BE0000257,DNA-directed RNA polymerase subunit beta
+BE0003707,DNA-directed RNA polymerase subunit beta'
+BE0001120,Heat shock protein HSP 90-alpha
+BE0001165,Endoplasmin
+BE0000266,Neprilysin
+BE0009998,30S ribosomal protein
+BE0004743,Breakpoint cluster region protein
+BE0001104,RET proto-oncogene
+BE0000853,Macrophage colony-stimulating factor 1 receptor
+BE0001124,Epithelial discoidin domain-containing receptor 1
+BE0003565,"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A"
+BE0003323,"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B"
+BE0004829,C55-isoprenyl pyrophosphate
+BE0000836,Hydroxycarboxylic acid receptor 3
+BE0000526,Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+BE0000783,Nicotinamide N-methyltransferase
+BE0000980,Tyrosine-protein phosphatase non-receptor type 4
+BE0003567,Receptor-type tyrosine-protein phosphatase S
+BE0003568,Receptor-type tyrosine-protein phosphatase epsilon
+BE0003569,V-type proton ATPase catalytic subunit A
+BE0000594,Envelope glycoprotein GP350
+BE0000712,Envelope glycoprotein GP340
+BE0004657,Dihydropteroate synthase type-1
+BE0004658,Folic acid synthesis protein FOL1
+BE0002352,Cycloinulo-oligosaccharide fructanotransferase
+BE0000882,Trifunctional purine biosynthetic protein adenosine-3
+BE0000472,Putative gonadotropin-releasing hormone II receptor
+BE0000731,"Cytochrome P450 11B1, mitochondrial"
+BE0000242,"Adrenodoxin, mitochondrial"
+BE0002353,"cAMP-specific 3',5'-cyclic phosphodiesterase 4C"
+BE0001192,Metabotropic glutamate receptor 5
+BE0000356,Voltage-dependent P/Q-type calcium channel subunit alpha-1A
+BE0010000,Muscle nicotinic acetylcholine receptor
+BE0004877,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase"
+BE0004895,Protein kinase C
+BE0003790,Mitogen-activated protein kinase 8
+BE0000689,Fibroblast growth factor 1
+BE0000326,Fibroblast growth factor 4
+BE0004520,6-pyruvoyl tetrahydrobiopterin synthase
+BE0003837,Ig kappa chain V-II region RPMI 6410
+BE0005562,G-protein coupled receptor 35
+BE0003580,Nischarin
+BE0002361,Probable pyruvate-flavodoxin oxidoreductase
+BE0000621,Oxygen-insensitive NADPH nitroreductase
+BE0000158,30S ribosomal protein S10
+BE0000499,Low-density lipoprotein receptor
+BE0000555,Protein P
+BE0008389,Penicillin-binding protein 2
+BE0004862,Serotonin Receptors
+BE0000099,Cysteinyl leukotriene receptor 2
+BE0000995,fMet-Leu-Phe receptor
+BE0000296,Prostaglandin D2 receptor
+BE0000709,ADP/ATP translocase 2
+BE0000624,ADP/ATP translocase 3
+BE0004906,Calcium-activated potassium channel
+BE0009743,60 kDa lysophospholipase
+BE0000892,DNA (cytosine-5)-methyltransferase 1
+BE0009880,DNA (cytosine-5)-methyltransferase 3A
+BE0000155,Toll-like receptor 7
+BE0003518,Toll-like receptor 8
+BE0000548,Fumarate reductase flavoprotein subunit
+BE0004915,D(2L) dopamine receptor
+BE0000577,Squalene monooxygenase
+BE0002517,tRNA (cytosine(38)-C(5))-methyltransferase
+BE0004807,Iron
+BE0004818,Aluminum
+BE0003392,Amyloid beta A4 protein
+BE0000484,"ATP synthase subunit delta, mitochondrial"
+BE0000697,Retinoic acid-induced protein 3
+BE0000653,Retinoic acid receptor responder protein 1
+BE0005828,Lipocalin-1
+BE0005829,Odorant-binding protein 2a
+BE0000314,Retinol-binding protein 4
+BE0004284,"[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 4, mitochondrial"
+BE0003480,Cytochrome P450 26A1
+BE0009044,Cytochrome P450 26B1
+BE0000114,D-lactate dehydrogenase
+BE0002252,"Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial"
+BE0004653,30S ribosomal protein S7
+BE0004651,30S ribosomal protein S3
+BE0004652,30S ribosomal protein S8
+BE0001105,Major prion protein
+BE0008391,Multidrug translocase MdfA
+BE0000047,Solute carrier family 12 member 5
+BE0000140,Solute carrier family 12 member 6
+BE0000276,Solute carrier family 12 member 7
+BE0000601,Solute carrier family 12 member 4
+BE0000971,DNA topoisomerase 1
+BE0000091,"DNA topoisomerase I, mitochondrial"
+BE0009711,Bacterial beta-lactamase enzymes
+BE0000968,Histamine H3 receptor
+BE0001090,Protein S100-A1
+BE0001206,Protein S100-A12
+BE0001177,Protein S100-B
+BE0000885,Protein S100-A13
+BE0003602,Protein S100-A2
+BE0000368,Prostaglandin E2 receptor EP2 subtype
+BE0000743,50S ribosomal protein L10
+BE0001002,Membrane primary amine oxidase
+BE0003446,G-protein coupled estrogen receptor 1
+BE0009014,ATP synthase subunit a
+BE0009015,Beclin-1
+BE0000920,Interstitial collagenase
+BE0000642,72 kDa type IV collagenase
+BE0001116,Stromelysin-1
+BE0003690,Matrilysin
+BE0001182,Neutrophil collagenase
+BE0003689,Stromelysin-2
+BE0003691,Stromelysin-3
+BE0000966,Collagenase 3
+BE0003692,Matrix metalloproteinase-14
+BE0003693,Matrix metalloproteinase-15
+BE0001637,Matrix metalloproteinase-16
+BE0003694,Matrix metalloproteinase-17
+BE0003695,Matrix metalloproteinase-19
+BE0003696,Matrix metalloproteinase-20
+BE0003697,Matrix metalloproteinase-21
+BE0003698,Matrix metalloproteinase-23
+BE0003699,Matrix metalloproteinase-24
+BE0009742,Matrix metalloproteinase-25
+BE0003701,Matrix metalloproteinase-26
+BE0003702,Matrix metalloproteinase-27
+BE0003703,Matrix metalloproteinase-28
+BE0001403,Thymidine kinase
+BE0000633,DNA polymerase catalytic subunit
+BE0004038,Peptostreptococcal albumin-binding protein
+BE0003559,"6-phosphogluconate dehydrogenase, decarboxylating"
+BE0000069,"Acetyl-CoA acetyltransferase, mitochondrial"
+BE0001893,Thromboxane-A synthase
+BE0003997,Phospholipase A2
+BE0001601,NH(3)-dependent NAD(+) synthetase
+BE0001096,5'-nucleotidase
+BE0009788,Phosphodiesterase enzymes
+BE0000681,RNA-directed RNA polymerase L
+BE0000282,RNA-directed RNA polymerase catalytic subunit
+BE0001261,Genome polyprotein
+BE0000117,Prostacyclin synthase
+BE0000799,DNA gyrase subunit B
+BE0000798,DNA topoisomerase 4 subunit A
+BE0003634,Carbonic anhydrase 14
+BE0000880,Aquaporin-1
+BE0003558,"Dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11A"
+BE0001186,Transient receptor potential cation channel subfamily M member 8
+BE0001122,Transient receptor potential cation channel subfamily A member 1
+BE0003416,Transient receptor potential cation channel subfamily V member 3
+BE0000468,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+BE0001024,"Troponin C, slow skeletal and cardiac muscles"
+BE0004350,Protein S100-A4
+BE0008983,Prostate-specific antigen
+BE0000947,Pro-opiomelanocortin
+BE0008670,"Sulfonylurea receptor 1, Kir6.2"
+BE0004952,Tumor necrosis factor-inducible gene 6 protein
+BE0001051,Interleukin-1 beta
+BE0004903,Nuclear factor NF-kappa-B
+BE0004716,Potassium voltage-gated channel subfamily A member 3
+BE0004827,Cystine
+BE0001070,Somatostatin
+BE0002419,Neuropeptide Y receptor type 2
+BE0000896,"Alkaline phosphatase, placental-like"
+BE0004925,Acetylcholine receptor subunit alpha-type unc-38
+BE0004926,Acetylcholine receptor subunit alpha-type unc-63
+BE0004927,Acetylcholine receptor subunit beta-type lev-1
+BE0004928,Acetylcholine receptor subunit beta-type unc-29
+BE0000716,DNA polymerase alpha subunit B
+BE0004878,"Nuclear factor of activated T-cells, cytoplasmic 1"
+BE0001086,Nuclear factor NF-kappa-B p105 subunit
+BE0004924,activator protein 1
+BE0001029,Interleukin-2
+BE0000050,Delta-aminolevulinic acid dehydratase
+BE0004825,Copper
+BE0000120,Dihydropteroate synthase type-1
+BE0000629,Hemoglobin subunit beta
+BE0000130,Hemoglobin subunit alpha
+BE0000399,Ferritin heavy chain
+BE0000085,Ferritin light chain
+BE0000049,High affinity immunoglobulin epsilon receptor subunit gamma
+BE0001030,G protein-activated inward rectifier potassium channel 2
+BE0001114,Vascular cell adhesion protein 1
+BE0002218,G protein-activated inward rectifier potassium channel 4
+BE0003593,Gamma-aminobutyric acid receptor subunit gamma-1
+BE0003594,Gamma-aminobutyric acid receptor subunit gamma-3
+BE0003595,Gamma-aminobutyric acid receptor subunit epsilon
+BE0003596,Gamma-aminobutyric acid receptor subunit pi
+BE0003597,Gamma-aminobutyric acid receptor subunit theta
+BE0003599,Gamma-aminobutyric acid receptor subunit delta
+BE0004706,Equilibrative nucleoside transporter 2
+BE0009586,5-hydroxytryptamine receptor 3E
+BE0009583,5-hydroxytryptamine receptor 3B
+BE0009585,5-hydroxytryptamine receptor 3D
+BE0009584,5-hydroxytryptamine receptor 3C
+BE0005108,Voltage-dependent calcium channel gamma-2 subunit
+BE0005190,G protein-activated inward rectifier potassium channel 3
+BE0008999,Neural cell adhesion molecule L1
+BE0009011,Lymphoid enhancer-binding factor 1
+BE0002375,Prostaglandin E2 receptor EP3 subtype
+BE0000249,Sodium- and chloride-dependent GABA transporter 1
+BE0000192,Sodium channel protein type 11 subunit alpha
+BE0003636,Sodium channel subunit beta-2
+BE0003637,Sodium channel subunit beta-3
+BE0003638,Sodium channel subunit beta-4
+BE0003626,"Carbonic anhydrase 5A, mitochondrial"
+BE0003627,"Carbonic anhydrase 5B, mitochondrial"
+BE0003628,Carbonic anhydrase 6
+BE0003630,Carbonic anhydrase-related protein
+BE0003631,Carbonic anhydrase-related protein 10
+BE0003632,Carbonic anhydrase-related protein 11
+BE0003633,Carbonic anhydrase 13
+BE0002441,ATP-sensitive inward rectifier potassium channel 8
+BE0004435,Oxygen-insensitive NADPH nitroreductase
+BE0009695,Anaerobic bacterial DNA
+BE0009696,Protozoal DNA
+BE0003522,Prostaglandin E2 receptor EP4 subtype
+BE0002378,Nociceptin receptor
+BE0003688,Penicillin-binding protein 2
+BE0002442,Toll-like receptor 4
+BE0003539,Aldehyde oxidase
+BE0003380,Cellular tumor antigen p53
+BE0004876,Ribosomal protein S6 kinase alpha-3
+BE0003469,NF-kappa-B inhibitor alpha
+BE0000444,Caspase-1
+BE0009668,Extracellular signal-regulated kinase (ERK)
+BE0001027,G1/S-specific cyclin-D1
+BE0004689,Myc proto-oncogene protein
+BE0009669,Cyclin A
+BE0002887,Cytochrome P450 2C8
+BE0002433,Cytochrome P450 1A2
+BE0003536,Cytochrome P450 2C19
+BE0001944,Dihydrofolate reductase
+BE0004951,DNA topoisomerase 2
+BE0000802,Niemann-Pick C1-like protein 1
+BE0000105,Sterol O-acyltransferase 1
+BE0001078,Aminopeptidase N
+BE0004812,Manganese cation
+BE0000631,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A"
+BE0009008,Calcipressin-1
+BE0000515,Melatonin receptor type 1A
+BE0000327,Melatonin receptor type 1B
+BE0000113,DNA polymerase beta
+BE0002390,Superoxide dismutase [Cu-Zn]
+BE0001109,Ras-related C3 botulinum toxin substrate 1
+BE0000907,"Peroxiredoxin-5, mitochondrial"
+BE0002400,Potassium voltage-gated channel subfamily KQT member 5
+BE0005819,Nucleolar and coiled-body phosphoprotein 1
+BE0001191,Protein S100-P
+BE0000875,Lanosterol 14-alpha demethylase
+BE0003552,C-X-C chemokine receptor type 1
+BE0001246,Camphor 5-monooxygenase
+BE0004923,Mitochondrial ATP-sensitive potassium channel
+BE0009748,Transient receptor potential cation channel subfamily M member 4
+BE0001009,Cytochrome c
+BE0009853,Mitogen-activated Protein Kinases
+BE0003566,"Troponin C, skeletal muscle"
+BE0000125,Interleukin-3
+BE0000690,Lanosterol 14-alpha demethylase
+BE0004873,Steroid 21-hydroxylase
+BE0003719,Pannexin-1
+BE0009016,Taste receptor type 2 member 16
+BE0000077,Hypoxanthine-guanine phosphoribosyltransferase
+BE0004941,Inosine-5'-monophosphate dehydrogenase
+BE0000801,3-oxoacyl-[acyl-carrier-protein] synthase 1
+BE0000800,3-oxoacyl-[acyl-carrier-protein] synthase 2
+BE0000558,3-oxoacyl-[acyl-carrier-protein] synthase 3
+BE0000959,Fatty acid synthase
+BE0009666,Glycine receptors
+BE0003724,DNA gyrase subunit A
+BE0003725,DNA gyrase subunit B
+BE0003726,DNA topoisomerase 4 subunit A
+BE0003727,DNA topoisomerase 4 subunit B
+BE0000765,Chloride channel protein 2
+BE0004659,Smoothened homolog
+BE0009142,"HLA class I histocompatibility antigen, B-57 alpha chain"
+BE0009376,Dopamine receptor
+BE0000246,Apoptosis regulator Bcl-2
+BE0003591,"Fatty acid-binding protein, intestinal"
+BE0001025,Platelet glycoprotein Ib alpha chain
+BE0003756,Protein S100-A7
+BE0002388,DNA gyrase subunit B
+BE0004654,Penicillin-binding protein 3
+BE0001047,C-C motif chemokine 2
+BE0004851,Schistosome calcium ion (Ca2+) channels
+BE0009851,Penicillin binding protein
+BE0000923,Mitogen-activated protein kinase 1
+BE0000955,Phosphatidylinositol 3-kinase regulatory subunit alpha
+BE0002383,Phosphatidylinositol 3-kinase regulatory subunit beta
+BE0002384,Phosphatidylinositol 3-kinase regulatory subunit gamma
+BE0003429,CAMP phosphodiesterase
+BE0003554,Nuclear receptor ROR-beta
+BE0003555,Eosinophil peroxidase
+BE0003553,Acetylserotonin O-methyltransferase
+BE0009827,P2 Purinoceptors
+BE0002804,Deoxycytidine kinase
+BE0000854,Dipeptidyl peptidase 4
+BE0000683,Pancreatic triacylglycerol lipase
+BE0003620,Gastric triacylglycerol lipase
+BE0002459,"Keratin, type II cytoskeletal 7"
+BE0005034,Sodium/potassium-transporting ATPase subunit alpha-2
+BE0005047,Sodium/potassium-transporting ATPase subunit alpha-3
+BE0004608,Sterol O-acyltransferase 2
+BE0000232,Microsomal triglyceride transfer protein large subunit
+BE0000382,"Dihydroorotate dehydrogenase (quinone), mitochondrial"
+BE0000871,Protein-tyrosine kinase 2-beta
+BE0000021,Thymidylate synthase
+BE0001077,85/88 kDa calcium-independent phospholipase A2
+BE0001081,Inactive phospholipase C-like protein 1
+BE0004775,Equilibrative nucleoside transporter 4
+BE0000464,Neurotensin receptor type 2
+BE0001159,P-selectin
+BE0005820,Fibroblast growth factor 19
+BE0001121,Hepatocyte growth factor
+BE0008716,Voltage-dependent T-type calcium channel
+BE0004428,Cytochrome b
+BE0000612,"Dihydroorotate dehydrogenase (quinone), mitochondrial"
+BE0009811,Thyroid hormone receptor
+BE0009812,Peroxisome proliferator-activated receptor gamma coactivator 1-beta
+BE0003959,HTH-type transcriptional regulator QacR
+BE0004319,TetR family transcriptional repressor LfrR
+BE0009940,Tyrosine-protein phosphatase non-receptor type 12
+BE0009941,Tyrosine-protein phosphatase non-receptor type 6
+BE0008669,Adenosine triphosphate (ATP)
+BE0009961,V-ATPase Subunits
+BE0000979,Natriuretic peptides B
+BE0001095,Gap junction alpha-1 protein
+BE0001074,E-selectin
+BE0002374,Hypoxia-inducible factor 1-alpha
+BE0005187,Inward rectifier potassium channel 4
+BE0009710,Inward rectifier potassium channel 2
+BE0004782,Solute carrier family 22 member 12
+BE0000142,Penicillin-binding protein 2B
+BE0004647,Penicillin-binding protein 3
+BE0002475,D-alanyl-D-alanine carboxypeptidase DacA
+BE0003395,Penicillin-binding protein 1A
+BE0002392,Penicillin-binding protein 2x
+BE0001200,Rhodopsin
+BE0001080,Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2
+BE0000948,Neuropeptide S receptor
+BE0009972,Plasma membrane calcium-transporting ATPase
+BE0001979,"Thioredoxin reductase 1, cytoplasmic"
+BE0009012,Cyclin-dependent kinase inhibitor 1
+BE0002365,Histone deacetylase 1
+BE0005808,Protein PML
+BE0000951,Estrogen sulfotransferase
+BE0000736,Translocator protein
+BE0010002,Calcium transporting ATPases
+BE0009850,50S ribosomal protein L1
+BE0005295,Ryanodine receptor 2
+BE0001100,Microtubule-associated protein 2
+BE0001169,Microtubule-associated protein 1A
+BE0001680,Leukotriene A-4 hydrolase
+BE0000186,DNA-directed RNA polymerase subunit beta'
+BE0000993,Synaptic vesicle glycoprotein 2A
+BE0004003,Stathmin-4
+BE0000759,Thromboxane A2 receptor
+BE0001004,Solute carrier organic anion transporter family member 1B1
+BE0003659,Solute carrier organic anion transporter family member 1B3
+BE0001207,Catalase
+BE0001694,Plasmepsin-2
+BE0004957,5-hydroxytryptamine receptor 2
+BE0003475,Microtubule-associated protein 4
+BE0000074,Nuclear receptor subfamily 0 group B member 1
+BE0009966,Mitochondrial potassium channel
+BE0001042,Solute carrier organic anion transporter family member 2B1
+BE0000672,Potassium voltage-gated channel subfamily KQT member 1
+BE0000987,Thiopurine S-methyltransferase
+BE0000944,Interferon gamma
+BE0000838,Proto-oncogene tyrosine-protein kinase Src
+BE0000841,Ephrin type-A receptor 2
+BE0000842,Tyrosine-protein kinase Lck
+BE0000840,Tyrosine-protein kinase Yes
+BE0000891,Signal transducer and activator of transcription 5B
+BE0000839,Tyrosine-protein kinase Fyn
+BE0001284,Tyrosine-protein kinase BTK
+BE0008998,Nuclear receptor subfamily 4 group A member 3
+BE0001356,Tyrosine-protein kinase CSK
+BE0005587,Ephrin type-A receptor 5
+BE0002453,Ephrin type-B receptor 4
+BE0005539,Tyrosine-protein kinase Fgr
+BE0004742,Tyrosine-protein kinase FRK
+BE0003775,Heat shock cognate 71 kDa protein
+BE0004315,Tyrosine-protein kinase Lyn
+BE0005595,Mitogen-activated protein kinase kinase kinase MLT
+BE0001019,Mitogen-activated protein kinase 14
+BE0000843,50S ribosomal protein L3
+BE0004819,Dermatan sulfate
+BE0004820,Heparan sulfate
+BE0000856,Perilipin-3
+BE0004494,Cation-dependent mannose-6-phosphate receptor
+BE0004831,Glycogen
+BE0003623,Cation-independent mannose-6-phosphate receptor
+BE0000859,Receptor activity-modifying protein 1
+BE0000860,Receptor activity-modifying protein 2
+BE0000861,Receptor activity-modifying protein 3
+BE0000847,T-lymphocyte activation antigen CD80
+BE0000848,Adrenocorticotropic hormone receptor
+BE0001026,Corticoliberin
+BE0002387,Nuclear factor NF-kappa-B p100 subunit
+BE0001697,Chitosanase
+BE0003720,50S ribosomal protein L4
+BE0003723,Penicillin-binding protein 1C
+BE0000930,Serum paraoxonase/arylesterase 1
+BE0003486,Interleukin-15
+BE0004430,D-alanyl-D-alanine endopeptidase
+BE0004816,Potassium
+BE0003426,Type-2 angiotensin II receptor
+BE0001065,Glycogen synthase kinase-3 beta
+BE0001152,Inositol monophosphatase 1
+BE0000983,Inositol monophosphatase 2
+BE0002464,50S ribosomal protein L22
+BE0001091,Kallikrein-1
+BE0004593,"Spectrin beta chain, non-erythrocytic 1"
+BE0000904,Calpastatin
+BE0000899,Cartilage oligomeric matrix protein
+BE0004314,"Alkaline phosphatase, placental type"
+BE0008955,Protein S100-A8
+BE0008993,Protein S100-A9
+BE0001140,Ceruloplasmin
+BE0009000,Bone morphogenetic protein 4
+BE0005813,Matrix Gla protein
+BE0005814,Protocadherin-19
+BE0005812,Programmed cell death protein 6
+BE0002468,Voltage-dependent anion-selective channel protein 1
+BE0002469,Voltage-dependent anion-selective channel protein 2
+BE0002470,Voltage-dependent anion-selective channel protein 3
+BE0004849,Hydrogen ions
+BE0004905,ATP-sensitive potassium channel
+BE0000918,Interleukin-6
+BE0001094,Beta-nerve growth factor
+BE0001208,Interleukin-5
+BE0000908,Eosinophil cationic protein
+BE0001034,Mucin-2
+BE0003676,30S ribosomal protein S10
+BE0004811,Magnesium cation
+BE0001223,"cGMP-inhibited 3',5'-cyclic phosphodiesterase B"
+BE0009963,"cAMP-specific 3',5'-cyclic phosphodiesterase 4"
+BE0004908,"cAMP-specific 3',5'-cyclic phosphodiesterase 3"
+BE0000443,"25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial"
+BE0009708,Group A nerve fibers
+BE0004841,Gamma-hydroxybutyrate (GHB) receptor
+BE0001063,E3 ubiquitin-protein ligase TRIM13
+BE0001638,6-deoxyerythronolide B hydroxylase
+BE0001607,Steroid Delta-isomerase
+BE0003598,Gamma-aminobutyric acid receptor subunit rho-2
+BE0003619,Gamma-aminobutyric acid receptor subunit rho-3
+BE0008725,Transferrin receptor protein 1
+BE0001608,Histone deacetylase 8
+BE0008990,Alpha-hemoglobin-stabilizing protein
+BE0008991,"Frataxin, mitochondrial"
+BE0009013,Flap endonuclease 1
+BE0003175,Endonuclease 8-like 1
+BE0005817,Endonuclease 8-like 2
+BE0001683,Fructose-bisphosphate aldolase A
+BE0004528,Elongation factor 1-alpha 1
+BE0005807,Alpha-enolase
+BE0003106,Nucleoside diphosphate kinase A
+BE0002467,Protein disulfide-isomerase
+BE0008980,Protein disulfide-isomerase A3
+BE0005844,Peroxiredoxin-1
+BE0004590,Phosphoserine phosphatase
+BE0003844,Triosephosphate isomerase
+BE0004542,"Elongation factor Tu, mitochondrial"
+BE0004779,Metallothionein-2
+BE0005815,Copper chaperone for superoxide dismutase
+BE0003523,Histone deacetylase 4
+BE0005833,Semenogelin-1
+BE0005834,Apoptosis regulatory protein Siva
+BE0001003,E3 ubiquitin-protein ligase Mdm2
+BE0003491,Insulin
+BE0005835,Utrophin
+BE0008994,Tumor protein p73
+BE0005770,Metallothionein-3
+BE0005538,DAN domain family member 5
+BE0009047,Alpha-1B-glycoprotein
+BE0001060,Angiotensinogen
+BE0009048,Alpha-2-HS-glycoprotein
+BE0001213,Serum amyloid P-component
+BE0003449,Apolipoprotein A-I
+BE0000922,Apolipoprotein A-II
+BE0009049,Apolipoprotein A-IV
+BE0005852,Apolipoprotein B receptor
+BE0001119,Apolipoprotein E
+BE0009069,Apolipoprotein L1
+BE0001529,Complement C1s subcomponent
+BE0009050,C4b-binding protein alpha chain
+BE0009070,C4b-binding protein beta chain
+BE0009071,Lys-63-specific deubiquitinase BRCC36
+BE0009072,Complement component C8 alpha chain
+BE0009051,Complement component C8 beta chain
+BE0003266,Complement component C8 gamma chain
+BE0001701,Complement factor B
+BE0009053,Complement factor H
+BE0009054,Complement factor I
+BE0009055,Clusterin
+BE0003503,Carboxypeptidase N catalytic chain
+BE0003504,Carboxypeptidase N subunit 2
+BE0009073,Dermcidin
+BE0009074,Desmoplakin
+BE0004672,Coagulation factor XII
+BE0009075,Coagulation factor XIII B chain
+BE0009076,Ficolin-3
+BE0001180,Fibronectin
+BE0004161,Gelsolin
+BE0009057,Haptoglobin-related protein
+BE0009077,Hornerin
+BE0009058,Insulin-like growth factor-binding protein complex acid labile subunit
+BE0005097,Ig alpha-1 chain C region
+BE0005098,Ig mu chain C region
+BE0009078,Immunoglobulin kappa variable 1-17
+BE0000616,Ig kappa chain V-III region GOL
+BE0009079,Immunoglobulin lambda variable 3-21
+BE0009080,Inter-alpha-trypsin inhibitor heavy chain H1
+BE0009060,Inter-alpha-trypsin inhibitor heavy chain H2
+BE0009081,Inter-alpha-trypsin inhibitor heavy chain H3
+BE0009082,Inter-alpha-trypsin inhibitor heavy chain H4
+BE0009083,Immunoglobulin J chain
+BE0009084,Junction plakoglobin
+BE0002440,Plasma kallikrein
+BE0001017,Kininogen-1
+BE0009061,"Keratin, type II cytoskeletal 1"
+BE0009062,"Keratin, type I cytoskeletal 10"
+BE0009085,"Keratin, type I cytoskeletal 14"
+BE0009086,"Keratin, type I cytoskeletal 16"
+BE0009063,"Keratin, type II cytoskeletal 2 epidermal"
+BE0009087,"Keratin, type II cytoskeletal 5"
+BE0009088,"Keratin, type II cytoskeletal 6A"
+BE0009064,"Keratin, type I cytoskeletal 9"
+BE0004613,N-acetylmuramoyl-L-alanine amidase
+BE0009089,Pregnancy zone protein
+BE0005533,Selenoprotein P
+BE0000952,Alpha-1-antitrypsin
+BE0009090,Alpha-1-antichymotrypsin
+BE0009067,Kallistatin
+BE0000209,Corticosteroid-binding globulin
+BE0000337,Transthyretin
+BE0009092,Amyloid-like protein 1
+BE0009093,Amyloid-like protein 2
+BE0001148,Dipeptidase 1
+BE0008485,Penicillin-binding protein 4
+BE0001568,Beta-lactamase TEM
+BE0009681,Beta-lactamase Ohio-1
+BE0002015,Beta-lactamase SHV-1
+BE0000997,Atrial natriuretic peptide receptor 2
+BE0001224,Uridine phosphorylase
+BE0001084,Neutrophil gelatinase-associated lipocalin
+BE0002815,Ig gamma-1 chain C region
+BE0002488,Hypoxanthine-guanine phosphoribosyltransferase
+BE0002489,Anthranilate phosphoribosyltransferase
+BE0001533,Orotate phosphoribosyltransferase
+BE0004582,Uridine-cytidine kinase-like 1
+BE0001219,Endoglucanase 5A
+BE0001222,Primary amine oxidase
+BE0001217,Aspartate aminotransferase
+BE0001335,Endoglucanase F
+BE0002490,"Possible cellulase CelA1 (Endoglucanase) (Endo-1,4-beta-glucanase) (FI-cmcase) (Carboxymethyl cellulase)"
+BE0001218,Thymidylate kinase
+BE0001221,Thymidylate kinase
+BE0002491,PCZA361.16
+BE0002492,DNA polymerase III subunit epsilon
+BE0002493,Glucose-1-phosphate thymidylyltransferase
+BE0001501,Thymidylate synthase
+BE0001950,DNA topoisomerase 1
+BE0003728,Nuclear receptor coactivator 1
+BE0001111,Cytochrome P450 1B1
+BE0002494,N-acylamino acid racemase
+BE0001215,m7GpppX diphosphatase
+BE0000957,Eukaryotic translation initiation factor 4E
+BE0001226,Major NAD(P)H-flavin oxidoreductase
+BE0002495,4-chlorobenzoyl CoA dehalogenase
+BE0002496,4-hydroxybenzoyl-CoA thioesterase
+BE0001250,3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+BE0001228,ATP phosphoribosyltransferase
+BE0003531,Chymotrypsinogen B
+BE0001739,Trypsin-1
+BE0002497,Myo-inositol hexaphosphate phosphohydrolase
+BE0004526,Follistatin
+BE0002498,ActVA 6 protein
+BE0001238,Streptogramin A acetyltransferase
+BE0001266,Carboxylesterase
+BE0001232,"2,3-dihydroxybenzoate-AMP ligase"
+BE0001258,UDP-N-acetylmuramoylalanine--D-glutamate ligase
+BE0001247,UDP-N-acetylmuramate--L-alanine ligase
+BE0000605,"Isobutyryl-CoA dehydrogenase, mitochondrial"
+BE0002499,Pentaerythritol tetranitrate reductase
+BE0001267,Malate dehydrogenase
+BE0002001,Fumarate reductase flavoprotein subunit
+BE0004531,Fumarylacetoacetase
+BE0004462,Phosphoglycerate mutase 2
+BE0002500,Peptide amidase
+BE0002148,Prolyl endopeptidase
+BE0001231,Dephospho-CoA kinase
+BE0002006,Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+BE0001233,Listeriolysin regulatory protein
+BE0001270,"6,7-dimethyl-8-ribityllumazine synthase"
+BE0001260,"Thymidine kinase, cytosolic"
+BE0001272,"2,3-diketo-L-gulonate reductase"
+BE0001242,Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1
+BE0001288,Triggering receptor expressed on myeloid cells 1
+BE0002501,Probable ATP-dependent RNA helicase DDX6
+BE0002502,Cytochrome P450
+BE0002503,Hypoxia-inducible factor 1-alpha inhibitor
+BE0002504,D-3-phosphoglycerate dehydrogenase
+BE0002505,Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+BE0004525,V-type proton ATPase subunit C 1
+BE0002506,"dTDP-4-dehydrorhamnose 3,5-epimerase"
+BE0002507,Putative uncharacterized protein
+BE0002508,Phosphonoacetate hydrolase
+BE0002509,Putative uncharacterized protein
+BE0003074,Carbonyl reductase [NADPH] 1
+BE0001234,Haloalkane dehalogenase
+BE0002510,"3,4-dihydroxyphenylacetate 2,3-dioxygenase"
+BE0002511,"Homoprotocatechuate 2,3-dioxygenase"
+BE0003806,Penicillin G acylase
+BE0004034,"Protocatechuate 3,4-dioxygenase alpha chain"
+BE0004035,"Protocatechuate 3,4-dioxygenase beta chain"
+BE0001263,Botulinum neurotoxin type B
+BE0001253,2-dehydro-3-deoxyphosphooctonate aldolase
+BE0001227,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase"
+BE0001256,Triosephosphate isomerase
+BE0004460,Beta-enolase
+BE0004467,Myoglobin
+BE0002000,UDP-glucose 6-dehydrogenase
+BE0001271,ATP-dependent dethiobiotin synthetase BioD 1
+BE0001237,Adenylate kinase
+BE0001254,Adenylate kinase
+BE0001255,Adenylate kinase
+BE0004477,"Adenylate kinase 2, mitochondrial"
+BE0004536,Adenylate kinase 8
+BE0001244,Adenylate kinase
+BE0001262,Adenylate kinase isoenzyme 1
+BE0002512,Cyclopropane mycolic acid synthase MmaA2
+BE0003738,Cyclopropane mycolic acid synthase 1
+BE0001243,Cyclomaltodextrin glucanotransferase
+BE0001245,Genome polyprotein
+BE0001265,Gag-Pol polyprotein
+BE0001249,Isocitrate dehydrogenase [NADP]
+BE0001239,Isocitrate dehydrogenase [NADP]
+BE0004504,"Aconitate hydratase, mitochondrial"
+BE0004527,"Isocitrate dehydrogenase [NADP], mitochondrial"
+BE0001251,Isocitrate dehydrogenase [NADP] cytoplasmic
+BE0001259,Methylisocitrate lyase
+BE0002513,Wiskott-Aldrich syndrome protein
+BE0002050,Gag-Pol polyprotein
+BE0000623,Tyrosine-protein phosphatase non-receptor type 1
+BE0001378,1-aminocyclopropane-1-carboxylate deaminase
+BE0001379,Iron(3+)-hydroxamate-binding protein FhuD
+BE0003767,S-phase kinase-associated protein 1
+BE0002051,Release factor glutamine methyltransferase
+BE0001402,Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase
+BE0001398,Cobalt-precorrin-4 C(11)-methyltransferase
+BE0001144,Protein-L-isoaspartate(D-aspartate) O-methyltransferase
+BE0000865,Phenylethanolamine N-methyltransferase
+BE0001211,Cyclopropane mycolic acid synthase 2
+BE0001456,Modification methylase RsrI
+BE0002514,Release factor glutamine methyltransferase
+BE0004446,Protein arginine N-methyltransferase 3
+BE0002515,Ribosomal RNA small subunit methyltransferase H
+BE0002516,rRNA adenine N-6-methyltransferase
+BE0002518,tRNA (cytidine(34)-2'-O)-methyltransferase
+BE0002519,Modification methylase PvuII
+BE0002520,DNA adenine methylase
+BE0002521,Cyclopropane mycolic acid synthase 3
+BE0004597,Protein arginine N-methyltransferase 1
+BE0002522,Siroheme synthase
+BE0002523,Modification methylase HhaI
+BE0002524,Histone-lysine N-methyltransferase SETD7
+BE0002525,tRNA (guanine-N(1)-)-methyltransferase
+BE0004441,Diphthine synthase
+BE0002526,RdmB
+BE0002527,tRNA (guanine-N(1)-)-methyltransferase
+BE0002528,Uroporphyrinogen-III C-methyltransferase
+BE0002529,Uncharacterized protein
+BE0002530,Chemotaxis protein methyltransferase
+BE0002531,Modification methylase TaqI
+BE0002532,Protein-L-isoaspartate O-methyltransferase
+BE0004586,Catechol O-methyltransferase domain-containing protein 1
+BE0001712,Carminomycin 4-O-methyltransferase
+BE0001382,NADPH-ferredoxin reductase FprA
+BE0001277,Serine/threonine-protein kinase pim-1
+BE0001372,Isoleucine--tRNA ligase
+BE0004438,Ribose-5-phosphate isomerase
+BE0002031,Tyrosine--tRNA ligase
+BE0004320,Epididymal-specific lipocalin-9
+BE0003739,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1
+BE0002533,Trans-sialidase
+BE0001401,Tyrosine-protein kinase transforming protein Src
+BE0001296,ADP-L-glycero-D-manno-heptose-6-epimerase
+BE0001311,Dihydroxyacetone kinase
+BE0004584,Serotonin N-acetyltransferase
+BE0001289,Dihydroneopterin aldolase
+BE0004570,14-3-3 protein epsilon
+BE0001097,Mitogen-activated protein kinase 10
+BE0003789,C-Jun-amino-terminal kinase-interacting protein 1
+BE0003791,Dual specificity protein kinase TTK
+BE0001294,Pantothenate kinase
+BE0004044,Isopentenyl-diphosphate Delta-isomerase 1
+BE0004045,4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+BE0001346,Thermolysin
+BE0001327,Thiamine-phosphate synthase
+BE0003425,cAMP-dependent protein kinase type I-alpha regulatory subunit
+BE0001370,Diphtheria toxin
+BE0001413,Cocaine esterase
+BE0001347,Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+BE0001336,Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+BE0001417,Isopentenyl-diphosphate Delta-isomerase
+BE0001352,Tyrosine-protein phosphatase YopH
+BE0003195,Arylsulfatase A
+BE0002557,NPQTN specific sortase B
+BE0004529,Trypsin-2
+BE0001377,Subtilisin BPN'
+BE0002558,RdmC
+BE0001321,Arsenate reductase
+BE0001424,Tyrosine-protein kinase HCK
+BE0001292,Cruzipain
+BE0001504,Cathepsin F
+BE0000994,Lactotransferrin
+BE0004436,Heparan sulfate glucosamine 3-O-sulfotransferase 1
+BE0001264,Sulfotransferase family cytosolic 2B member 1
+BE0001306,Non-secretory ribonuclease
+BE0000927,Sulfotransferase 1A1
+BE0001541,Heparan sulfate glucosamine 3-O-sulfotransferase 3A1
+BE0000886,Bile salt sulfotransferase
+BE0002559,Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1
+BE0002560,Holo-[acyl-carrier-protein] synthase
+BE0002561,Sulfotransferase family cytosolic 1B member 1
+BE0002016,Branched-chain-amino-acid aminotransferase
+BE0001396,Histidinol-phosphate aminotransferase
+BE0001326,Ferrichrome-iron receptor
+BE0001350,Transaldolase B
+BE0001345,"Glucan 1,3-beta-glucosidase"
+BE0001351,L-asparaginase 2
+BE0004482,Mannose-binding protein C
+BE0002004,"Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive"
+BE0001394,2-dehydro-3-deoxyphosphooctonate aldolase
+BE0002562,Capsule biosynthesis protein
+BE0000906,"Phosphoenolpyruvate carboxykinase, cytosolic [GTP]"
+BE0001721,Phospho-2-dehydro-3-deoxyheptonate aldolase
+BE0001405,Queuine tRNA-ribosyltransferase
+BE0002563,Cytochrome c'
+BE0002564,Group 1 truncated hemoglobin GlbN
+BE0001353,Galectin-3
+BE0001338,Ammonia channel
+BE0001320,Chloramphenicol acetyltransferase
+BE0002565,B12-independent glycerol dehydratase
+BE0004496,Inositol-3-phosphate synthase 1
+BE0001393,Neopullulanase 1
+BE0001371,Cyclomaltodextrin glucanotransferase
+BE0001407,"Glucan 1,4-alpha-maltohexaosidase"
+BE0001386,Alpha-amylase
+BE0002566,Aminoglycoside 2'-N-acetyltransferase
+BE0003758,Chymotrypsin-like elastase family member 1
+BE0001310,Formyl-coenzyme A transferase
+BE0001298,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+BE0001323,N-carbamoyl-D-amino acid hydrolase
+BE0001355,pH-gated potassium channel KcsA
+BE0003836,Ig kappa chain C region
+BE0004151,UDP-glucuronosyltransferase 3A1
+BE0001365,Bacteriochlorophyll a protein
+BE0001362,Bacteriochlorophyll a protein
+BE0000931,GPI-linked NAD(P)(+)--arginine ADP-ribosyltransferase 1
+BE0001297,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase"
+BE0001357,Beta-phosphoglucomutase
+BE0001282,Nitrogen regulation protein NR(I)
+BE0003417,Cathepsin K
+BE0001303,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+BE0004515,Poly(A) polymerase alpha
+BE0002630,WbpP
+BE0004498,Glycogenin-1
+BE0001334,"Alpha,alpha-trehalose-phosphate synthase [UDP-forming]"
+BE0001419,Galactose-1-phosphate uridylyltransferase
+BE0001521,UDP-glucose 4-epimerase
+BE0001910,Glucose-1-phosphate thymidylyltransferase
+BE0001901,UDP-glucose 4-epimerase
+BE0001934,DNA beta-glucosyltransferase
+BE0004501,Glycosyltransferase 6 domain-containing protein 1
+BE0001421,Beta-galactosidase
+BE0001404,Galactoside O-acetyltransferase
+BE0002567,Lactose operon repressor
+BE0001278,Pleckstrin homology domain-containing family A member 4
+BE0001300,Dual adapter for phosphotyrosine and 3-phosphotyrosine and 3-phosphoinositide
+BE0001627,Inositol-trisphosphate 3-kinase A
+BE0002654,Cytohesin-2
+BE0004433,Cytohesin-3
+BE0004242,ADP-ribosylation factor 6
+BE0001273,Protein-glutamine gamma-glutamyltransferase E
+BE0001380,Cell division protein FtsZ
+BE0004558,Ras-related protein Rab-11A
+BE0004457,Alpha-amylase 2B
+BE0002584,Chondroitinase (Chondroitin lyase)
+BE0001329,Chondroitinase-B
+BE0001416,Chondroitinase-AC
+BE0001425,Tubulin alpha-3C/D chain
+BE0001408,Tubulin beta-4A chain
+BE0001415,Tubulin beta-3 chain
+BE0001388,Tubulin alpha-1C chain
+BE0001359,Tubulin alpha-8 chain
+BE0001275,Tubulin alpha-1B chain
+BE0001313,Uric acid degradation bifunctional protein
+BE0001291,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+BE0001293,Photoactive yellow protein
+BE0004033,Histidine ammonia-lyase
+BE0001855,Macrophage migration inhibitory factor
+BE0001319,Methionine aminopeptidase
+BE0004187,Methionine aminopeptidase
+BE0001363,Lethal factor
+BE0001342,Gag-Pol polyprotein
+BE0001072,Cyclin-dependent kinase 2
+BE0003418,Insulin-like growth factor I
+BE0001400,Pol polyprotein
+BE0001325,Aspartate--tRNA ligase
+BE0001374,Phosphocarrier protein HPr
+BE0004508,Vesicle-fusing ATPase
+BE0004574,ERO1-like protein beta
+BE0001409,Thymidylate synthase ThyX
+BE0001307,Ferrochelatase
+BE0001790,Autolysin
+BE0002637,Truncated transposase
+BE0001337,Azurin
+BE0001317,"Acetyl-CoA acetyltransferase, cytosolic"
+BE0004171,Myelin P2 protein
+BE0001422,Acetyl-CoA acetyltransferase
+BE0001328,Putrescine-binding periplasmic protein
+BE0001301,Monomeric sarcosine oxidase
+BE0003761,cAMP-dependent protein kinase catalytic subunit alpha
+BE0001339,Exoglucanase/xylanase
+BE0001308,"Biphenyl-2,3-diol 1,2-dioxygenase"
+BE0001302,Dihydrofolate reductase
+BE0004001,"Dihydrofolate reductase, mitochondrial"
+BE0001387,Pantothenate synthetase
+BE0001322,Signal peptidase I
+BE0003783,Thermolysin
+BE0001997,Ribokinase
+BE0001366,Guanyl-specific ribonuclease Sa
+BE0001281,Hut operon positive regulatory protein
+BE0001525,Dihydroorotate dehydrogenase (quinone)
+BE0001613,(S)-2-haloacid dehalogenase
+BE0001778,Beta-lactamase OXA-2
+BE0001988,Catalase
+BE0001792,Signal recognition particle protein
+BE0001668,Streptavidin
+BE0001905,Methylglyoxal synthase
+BE0002624,C-terminal-binding protein 1
+BE0001966,6-phosphogluconolactonase
+BE0002640,Citrate lyase subunit beta-like protein
+BE0002641,Peripheral plasma membrane protein CASK
+BE0002642,Guanylate kinase
+BE0002643,Probable butyrate kinase 2
+BE0004623,Gamma-glutamylaminecyclotransferase
+BE0004470,Parvalbumin alpha
+BE0004569,Acylphosphatase-2
+BE0002644,Uncharacterized protein
+BE0002645,Arginine N-succinyltransferase subunit alpha
+BE0002646,Putative mannose-6-phosphate isomerase YvyI
+BE0002647,"ABC-type transporter, periplasmic subunit"
+BE0002648,Probable phosphatase YcdX
+BE0002649,Phenazine biosynthesis protein PhzD
+BE0002650,Oxalate decarboxylase OxdC
+BE0002651,Putative ketoacyl reductase
+BE0002652,Gephyrin
+BE0002653,Glyoxalase family protein
+BE0002655,Glutaconyl-CoA decarboxylase subunit alpha
+BE0002656,"Transcriptional regulator, IclR family"
+BE0002657,Catalase
+BE0002658,Putative L-rhamnose mutarotase
+BE0002660,Glutaminase 1
+BE0002661,Glutaminase 1
+BE0002662,Molybdopterin synthase catalytic subunit
+BE0002663,"Aminotransferase, putative"
+BE0002664,Iron binding protein FbpA
+BE0002665,DNA gyrase subunit B
+BE0001368,Putative hydroxypyruvate isomerase YgbM
+BE0001285,Delta-aminolevulinic acid dehydratase
+BE0001381,3-phosphoshikimate 1-carboxyvinyltransferase
+BE0001397,Subtilisin Carlsberg
+BE0001475,Peptide deformylase
+BE0000597,Para-aminobenzoate synthase component 1
+BE0003893,Myosin-14
+BE0003890,Myotonin-protein kinase
+BE0002666,Endonuclease III
+BE0001414,"Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase"
+BE0001276,Ribosomal small subunit pseudouridine synthase A
+BE0002005,Penicillin-insensitive murein endopeptidase
+BE0001384,Alpha-ketoglutarate-dependent taurine dioxygenase
+BE0001392,Choloylglycine hydrolase
+BE0001318,Deoxyuridine 5'-triphosphate nucleotidohydrolase
+BE0001364,Deoxyuridine 5'-triphosphate nucleotidohydrolase
+BE0001175,Proactivator polypeptide
+BE0001412,Cell division protein ZipA homolog
+BE0004000,Cell division protein ZipA
+BE0002667,Lantibiotic mersacidin
+BE0004459,"Citrate synthase, mitochondrial"
+BE0001420,Urocanate hydratase
+BE0002351,Guanylate kinase
+BE0001290,Response regulator PleD
+BE0001360,DNA polymerase
+BE0001376,GMP reductase 1
+BE0001634,Bifunctional protein PyrR
+BE0001375,Amidophosphoribosyltransferase
+BE0002009,Xanthine phosphoribosyltransferase
+BE0002668,Bifunctional adenosylcobalamin biosynthesis protein CobU
+BE0002042,Amidophosphoribosyltransferase
+BE0001279,Subtilisin Savinase
+BE0001299,Carboxymethylenebutenolidase
+BE0001331,Capsid scaffolding protein
+BE0001418,Alkaline protease
+BE0001348,ADP-ribose pyrophosphatase
+BE0002669,MutT/nudix family protein
+BE0001395,Bacterial leucyl aminopeptidase
+BE0002670,Iota-carrageenase
+BE0002671,AlgQ1
+BE0002672,AlgQ2
+BE0001314,Clavaminate synthase 1
+BE0002003,Pyruvate dehydrogenase E1 component
+BE0003274,Indole-3-pyruvate decarboxylase
+BE0003275,Carboxyethylarginine synthase
+BE0003276,Transketolase 1
+BE0001531,"Acetolactate synthase, catabolic"
+BE0004479,Tolloid-like protein 2
+BE0004545,Nuclear receptor ROR-alpha
+BE0001333,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+BE0001916,Acetyl-coenzyme A synthetase
+BE0004476,Acyl-CoA-binding protein
+BE0001899,Formyl-coenzyme A transferase
+BE0001666,Crotonobetainyl-CoA:carnitine CoA-transferase
+BE0001741,Formate acetyltransferase 1
+BE0001750,Malate synthase G
+BE0001856,3-hydroxy-3-methylglutaryl-coenzyme A reductase
+BE0001757,Phosphopantetheine adenylyltransferase
+BE0001823,Holo-[acyl-carrier-protein] synthase
+BE0001716,Protease synthase and sporulation negative regulatory protein PAI 1
+BE0001953,Gentamicin 3'-acetyltransferase
+BE0001383,Fatty acid metabolism regulator protein
+BE0004578,Histone acetyltransferase KAT5
+BE0002675,Acetyl transferase
+BE0002676,Uncharacterized N-acetyltransferase YvbK
+BE0002677,Aminoglycoside N(6')-acetyltransferase type 1
+BE0002678,Acyl-CoA hydrolase
+BE0002679,Uncharacterized acyl-CoA thioester hydrolase HI_0827
+BE0002680,3-oxoacyl-[acyl-carrier-protein] synthase 3
+BE0002681,Mycothiol acetyltransferase
+BE0004583,Histone acetyltransferase KAT2A
+BE0002682,Acyl-CoA hydrolase
+BE0002683,Histone acetyltransferase KAT2B
+BE0002684,"1,4-Dihydroxy-2-naphthoyl-CoA synthase"
+BE0002685,Citrate synthase
+BE0002686,Aac(6')-Ii protein
+BE0002687,4'-phosphopantetheinyl transferase sfp
+BE0002688,Uncharacterized protein
+BE0002689,Serine acetyltransferase
+BE0002690,Citrate synthase
+BE0002575,4-hydroxybenzoyl-CoA thioesterase
+BE0002025,Bifunctional protein GlmU
+BE0001344,Alanine racemase
+BE0001410,2-hydroxymuconate tautomerase
+BE0001108,Hexokinase-1
+BE0001369,Phosphomannomutase/phosphoglucomutase
+BE0001309,Maltose-6'-phosphate glucosidase
+BE0001423,Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+BE0001390,6-phospho-beta-glucosidase BglT
+BE0001199,Glucose-6-phosphate isomerase
+BE0001341,Tyrosine-protein kinase ITK/TSK
+BE0001316,Tyrosine-protein kinase SYK
+BE0001373,MAP kinase-activated protein kinase 2
+BE0001315,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform"
+BE0001385,Protein kinase C theta type
+BE0001312,Tyrosine-protein kinase ZAP-70
+BE0002691,Putative pteridine reductase 2
+BE0001466,Lanosterol synthase
+BE0001474,Tryptase beta-2
+BE0001546,Thiaminase-2
+BE0001455,Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+BE0001520,8-oxo-dGTP diphosphatase
+BE0001389,Aromatic-amino-acid aminotransferase
+BE0002692,Aminotransferase
+BE0001555,Dihydrofolate reductase
+BE0004544,Tubby protein homolog
+BE0000950,Bifunctional epoxide hydrolase 2
+BE0001433,Nitric oxide synthase oxygenase
+BE0001438,Thymidylate synthase
+BE0002693,FEZ-1 protein
+BE0002694,Carbapenem-hydrolyzing beta-lactamase BlaB-1
+BE0003355,Metallo-beta-lactamase L1
+BE0004195,Beta-lactamase
+BE0004196,"Organic hydroperoxide resistance protein, putative"
+BE0003505,Alpha-mannosidase 2
+BE0004538,Palmitoyl-protein thioesterase 1
+BE0001486,Peptide deformylase
+BE0003132,Aminodeoxychorismate lyase
+BE0001512,UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+BE0001506,"2,2-dialkylglycine decarboxylase"
+BE0002695,3-hydroxy-3-methylglutaryl CoA synthase
+BE0002696,mRNA interferase EndoA
+BE0001440,V-type sodium ATPase subunit K
+BE0003872,Disintegrin and metalloproteinase domain-containing protein 28
+BE0000890,Cyclin-dependent kinase 5
+BE0001082,Cyclin-dependent kinase 1
+BE0003819,Cyclin-dependent kinase 5 activator 1
+BE0001557,Ribose-5-phosphate isomerase A
+BE0002544,ADP-ribose pyrophosphatase
+BE0001561,"Glutamate-1-semialdehyde 2,1-aminomutase"
+BE0001707,"CDP-glucose 4,6-dehydratase"
+BE0004281,Elongation factor 2
+BE0002052,Lactaldehyde reductase
+BE0003362,"NAD-dependent protein deacylase sirtuin-5, mitochondrial"
+BE0001523,p-hydroxybenzoate hydroxylase
+BE0002697,ADP compounds hydrolase NudE
+BE0004547,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial"
+BE0001539,Endoglucanase G
+BE0001451,Endoglucanase
+BE0002699,Glycosyl transferase
+BE0002011,Purine nucleoside phosphorylase DeoD-type
+BE0001516,Hypoxanthine-guanine-xanthine phosphoribosyltransferase
+BE0001436,Thermoresistant gluconokinase
+BE0001484,Outer-membrane lipoprotein LolB
+BE0004295,Profilin-2
+BE0004296,Outer-membrane lipoprotein LolB
+BE0004297,Uncharacterized protein
+BE0004298,Serine acetyltransferase
+BE0004299,"Transcriptional regulator, GntR family"
+BE0004300,"ABC transporter, periplasmic substrate-binding protein"
+BE0004301,Transketolase
+BE0004478,Ras-related protein Rab-8B
+BE0001210,Gag-Pol polyprotein
+BE0002012,Methionine aminopeptidase
+BE0003734,Cyclin-A2
+BE0001503,Lipase 3
+BE0001480,Uridine-cytidine kinase 2
+BE0001594,Gag-Pol polyprotein
+BE0004563,Serine protease inhibitor Kazal-type 6
+BE0000939,Cathepsin B
+BE0001441,Adenylosuccinate synthetase
+BE0002231,Adenylosuccinate synthetase isozyme 1
+BE0002700,Adenylosuccinate synthetase
+BE0001448,L-lactate dehydrogenase
+BE0001450,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+BE0001443,Aliphatic amidase expression-regulating protein
+BE0001430,Beta-lactamase
+BE0001274,Beta-lactamase OXA-10
+BE0001999,7-alpha-hydroxysteroid dehydrogenase
+BE0001548,"Trans-2,3-dihydro-3-hydroxyanthranilate isomerase"
+BE0001535,Parathion hydrolase
+BE0004036,Parathion hydrolase
+BE0001452,Dihydroorotase
+BE0001507,Chorismate--pyruvate lyase
+BE0001426,Beta-lactamase 2
+BE0001556,Purine nucleoside phosphorylase 2
+BE0001458,Aldehyde oxidoreductase
+BE0001553,Squalene--hopene cyclase
+BE0003970,Pro-cathepsin H
+BE0001481,Histidinol-phosphate aminotransferase
+BE0001509,D-alanine aminotransferase
+BE0001465,Aspartate aminotransferase
+BE0001510,4-aminobutyrate aminotransferase GabT
+BE0001505,Phosphatidylinositol transfer protein alpha isoform
+BE0001472,Mono-ADP-ribosyltransferase C3
+BE0001537,Methionine--tRNA ligase
+BE0000915,Hepatocyte growth factor receptor
+BE0000870,Dual specificity mitogen-activated protein kinase kinase 1
+BE0001464,Pyridoxamine kinase
+BE0001491,Chorismate mutase AroH
+BE0001462,S-ribosylhomocysteine lyase
+BE0001485,Dimethyl sulfoxide/trimethylamine N-oxide reductase
+BE0001972,Peroxiredoxin-2
+BE0001651,Peptide deformylase
+BE0002702,Malonamidase E2
+BE0002703,HMG-CoA synthase
+BE0002704,Osmotically inducible protein C
+BE0001559,Beta-lactamase IMP-1
+BE0003881,Beta-lactamase
+BE0001524,Isocitrate dehydrogenase [NADP]
+BE0003766,Hydroxyacid oxidase 1
+BE0001447,Serine/threonine-protein phosphatase PP1-gamma catalytic subunit
+BE0001220,Xylose isomerase
+BE0001461,Glutamate racemase
+BE0001917,Sigma factor SigB regulation protein RsbQ
+BE0001513,Aspartate 1-decarboxylase
+BE0002707,Putative cytochrome P450
+BE0002708,U1 small nuclear ribonucleoprotein A
+BE0001502,Glycylpeptide N-tetradecanoyltransferase
+BE0003780,Glycylpeptide N-tetradecanoyltransferase 2
+BE0001442,Anaerobic ribonucleoside-triphosphate reductase
+BE0001998,Soluble cytochrome b562
+BE0004111,Lactase-like protein
+BE0004486,DNA nucleotidylexotransferase
+BE0004629,Exostosin-like 2
+BE0001429,UDP-N-acetylhexosamine pyrophosphorylase
+BE0001428,UDP-N-acetylglucosamine 2-epimerase
+BE0000214,Histo-blood group ABO system transferase
+BE0001454,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+BE0002709,Chorismate mutase AroH
+BE0004444,Stromal cell-derived factor 2
+BE0001536,"Glyceraldehyde-3-phosphate dehydrogenase, glycosomal"
+BE0001540,Pyridoxine 5'-phosphate synthase
+BE0002711,"Chain A, Red Copper Protein Nitrosocyanin"
+BE0001076,GTPase HRas
+BE0001514,Holliday junction ATP-dependent DNA helicase RuvB
+BE0001477,Heat-labile enterotoxin B chain
+BE0001496,Cholera enterotoxin subunit B
+BE0001449,"6,7-dimethyl-8-ribityllumazine synthase"
+BE0001515,"5'(3')-deoxyribonucleotidase, mitochondrial"
+BE0002713,Amylase
+BE0001560,Phospholipase C
+BE0001459,"Catechol 1,2-dioxygenase"
+BE0001532,L-asparaginase
+BE0001483,Nitric oxide synthase oxygenase
+BE0002714,Protease
+BE0001786,Catalase
+BE0001547,Phosphoribosylglycinamide formyltransferase 2
+BE0001476,Phosphoribosylglycinamide formyltransferase
+BE0001500,"Glucan 1,4-alpha-maltotetraohydrolase"
+BE0001427,Neopullulanase 2
+BE0001551,Trypanothione reductase
+BE0002715,o-succinylbenzoate synthase
+BE0004273,O-succinylbenzoate-CoA synthase
+BE0002716,"Apocarotenoid-15,15'-oxygenase"
+BE0004104,Aggrecan core protein
+BE0001469,Glucose-6-phosphate isomerase B
+BE0002002,Delta-aminolevulinic acid dehydratase
+BE0001432,Ganglioside GM2 activator
+BE0005561,Platelet-activating factor receptor
+BE0002008,Dihydroorotate dehydrogenase A (fumarate)
+BE0002606,Glyceraldehyde-3-phosphate dehydrogenase
+BE0002717,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+BE0002057,Glyceraldehyde-3-phosphate dehydrogenase A
+BE0001457,Complement control protein C3
+BE0001411,Tetanus toxin
+BE0001471,Argininosuccinate synthase
+BE0001468,Neuraminidase
+BE0001517,Farnesyl diphosphate synthase
+BE0004050,Adenylate dimethylallyltransferase
+BE0004051,tRNA dimethylallyltransferase
+BE0001519,Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+BE0001488,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+BE0001286,Benzoylformate decarboxylase
+BE0001498,Mandelate racemase
+BE0001530,Catabolite control protein A
+BE0001490,Arylsulfatase
+BE0001197,Steryl-sulfatase
+BE0004502,Potassium voltage-gated channel subfamily A member 4
+BE0001492,Folylpolyglutamate synthase
+BE0000960,Dihydropyrimidine dehydrogenase [NADP(+)]
+BE0000935,Phosphatidylcholine transfer protein
+BE0001528,Pseudolysin
+BE0001583,Trypsin-3
+BE0001435,6-phospho-beta-galactosidase
+BE0001494,Genome polyprotein
+BE0001538,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase"
+BE0002085,"cGMP-dependent 3',5'-cyclic phosphodiesterase"
+BE0004631,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2
+BE0001545,Alcohol dehydrogenase YqhD
+BE0001497,S-ribosylhomocysteine lyase
+BE0000975,C-C motif chemokine 5
+BE0002730,"Arabinogalactan endo-1,4-beta-galactosidase"
+BE0002731,Phosphoserine aminotransferase
+BE0001554,3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+BE0001478,Genome polyprotein
+BE0001550,Cholesterol oxidase
+BE0001527,Septum formation protein Maf
+BE0001489,Deoxycytidine triphosphate deaminase

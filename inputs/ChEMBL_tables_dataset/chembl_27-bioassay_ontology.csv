@@ -1,0 +1,312 @@
+bao_id,label
+BAO_0000006,percent cytotoxicity
+BAO_0000007,nucleosome format
+BAO_0000008,bioassay type
+BAO_0000009,ADMET
+BAO_0000010,functional
+BAO_0000015,bioassay
+BAO_0000016,protein substrate and ligand constant
+BAO_0000019,assay format
+BAO_0000033,Bmax
+BAO_0000034,Kd
+BAO_0000041,binding type
+BAO_0000042,Cue Signal Response assay
+BAO_0000074,mode of action
+BAO_0000082,percent response
+BAO_0000084,ligand function mode of action
+BAO_0000085,irreversible binding
+BAO_0000086,reversible binding
+BAO_0000087,activation
+BAO_0000090,cytotoxicity
+BAO_0000091,inhibition
+BAO_0000093,stimulation
+BAO_0000094,growth inhibition
+BAO_0000096,percent growth inhibition
+BAO_0000098,screening concentration
+BAO_0000100,small-molecule physicochemical format
+BAO_0000103,endpoint action correlation
+BAO_0000110,protein-small molecule interaction assay
+BAO_0000131,positively correlated
+BAO_0000140,inversely correlated
+BAO_0000143,percent control
+BAO_0000162,metal ion redistribution assay
+BAO_0000179,result
+BAO_0000180,concentration endpoint
+BAO_0000181,response endpoint
+BAO_0000186,AC50
+BAO_0000187,CC50
+BAO_0000188,EC50
+BAO_0000189,GI50
+BAO_0000190,IC50
+BAO_0000191,IC80
+BAO_0000192,Ki
+BAO_0000193,fold change
+BAO_0000194,TGI
+BAO_0000197,IC50 absolute
+BAO_0000198,IC50 relative
+BAO_0000199,pIC50
+BAO_0000200,percent activation
+BAO_0000201,percent inhibition
+BAO_0000202,percent cell viability
+BAO_0000217,biochemical format
+BAO_0000218,organism-based format
+BAO_0000219,cell-based format
+BAO_0000220,subcellular format
+BAO_0000221,tissue-based format
+BAO_0000223,protein complex format
+BAO_0000224,protein format
+BAO_0000225,nucleic acid format
+BAO_0000249,cell membrane format
+BAO_0000250,cytosol format
+BAO_0000251,microsome format
+BAO_0000252,mitochondrion format
+BAO_0000253,nuclear extract format
+BAO_0000254,whole cell lysate format
+BAO_0000255,rabbit reticulocyte lysate format
+BAO_0000260,signal increase corresponding to activation
+BAO_0000261,signal decrease corresponding to inhibition
+BAO_0000346,50 percent activation
+BAO_0000347,50 percent inhibition
+BAO_0000348,80 percent inhibition
+BAO_0000349,50 percent cell viability
+BAO_0000357,single protein format
+BAO_0000366,cell-free format
+BAO_0000375,fold activation
+BAO_0000376,fold inhibition
+BAO_0000378,protein redistribution assay
+BAO_0000379,second messenger redistribution assay
+BAO_0000394,protein-nucleotide interaction assay
+BAO_0000430,B-score
+BAO_0000432,Z-score
+BAO_0000434,curve fit specification
+BAO_0000435,Hill equation
+BAO_0000441,competitive binding
+BAO_0000442,non-competitive binding
+BAO_0000443,input data
+BAO_0000444,normalized data
+BAO_0000445,raw data
+BAO_0000476,ligand binding mode of action
+BAO_0000477,km
+BAO_0000479,koff
+BAO_0000480,kon
+BAO_0000481,kcat
+BAO_0000482,competitive inhibition
+BAO_0000483,uncompetitive inhibition
+BAO_0000485,non-competitive inhibition
+BAO_0000487,enzyme kinetic constant
+BAO_0000488,partial inhibition
+BAO_0000489,allosteric modulation
+BAO_0000490,tight binding inhibition
+BAO_0000491,time dependent inhibition
+BAO_0000519,signal direction
+BAO_0000579,saturation binding
+BAO_0000581,Tm
+BAO_0000583,raw activity
+BAO_0000585,temperature endpoint
+BAO_0000586,vmax
+BAO_0000587,binding constant
+BAO_0000588,50 percent cytotoxicity
+BAO_0000590,DNA-RNA interaction assay
+BAO_0000591,protein-DNA interaction assay
+BAO_0000593,protein-RNA interaction assay
+BAO_0000599,EC30
+BAO_0000610,PubChem endpoint name
+BAO_0000625,curve fit model
+BAO_0000626,3 parameter Hill equation
+BAO_0000629,4 parameter Hill equation
+BAO_0000649,calcium redistribution assay
+BAO_0000650,cAMP redistribution assay
+BAO_0000651,cGMP redistribution assay
+BAO_0000653,dye redistribution assay
+BAO_0000656,efficacy
+BAO_0000804,maximal inhibition
+BAO_0000805,maximal activation
+BAO_0000819,ion redistribution assay
+BAO_0001103,percent activity
+BAO_0001106,50 percent growth inhibition
+BAO_0001108,100 percent growth inhibition
+BAO_0002005,kinase activity assay
+BAO_0002006,percent apoptosis
+BAO_0002040,percent mitosis
+BAO_0002041,cell cycle assay
+BAO_0002042,percent interphase
+BAO_0002043,apoptosis assay
+BAO_0002044,percent proliferation
+BAO_0002046,percent dead
+BAO_0002081,percent G2-M arrested
+BAO_0002082,percent non-arrested
+BAO_0002100,cell growth assay
+BAO_0002114,time endpoint
+BAO_0002115,T1/2
+BAO_0002116,dosage endpoint
+BAO_0002117,LD50
+BAO_0002118,graphical calculation endpoint
+BAO_0002119,Cmax
+BAO_0002120,AUC
+BAO_0002121,slope
+BAO_0002122,amplification curve calculated endpoint
+BAO_0002123,Cp
+BAO_0002124,Cq
+BAO_0002125,Ct
+BAO_0002126,statistical endpoint
+BAO_0002127,MAD score
+BAO_0002128,physical property endpoint
+BAO_0002129,logD
+BAO_0002130,logP
+BAO_0002131,pKa
+BAO_0002132,percent purity
+BAO_0002133,permeability A-B
+BAO_0002134,permeability B-A
+BAO_0002135,solubility
+BAO_0002136,profile endpoint
+BAO_0002137,computational profile
+BAO_0002138,gene-expression profile
+BAO_0002139,panel-assay profile
+BAO_0002144,IC90
+BAO_0002145,LC50
+BAO_0002146,MIC
+BAO_0002147,percent bound
+BAO_0002148,percent recovery
+BAO_0002152,signal decrease corresponding to activation
+BAO_0002153,signal increase corresponding to inhibition
+BAO_0002162,concentration response endpoint
+BAO_0002167,genotoxicity assay
+BAO_0002168,oxidative stress assay
+BAO_0002182,pharmacokinetic assay
+BAO_0002183,pharmacodynamic assay
+BAO_0002184,QT interval assay
+BAO_0002188,drug interaction assay
+BAO_0002189,toxicity assay
+BAO_0002190,mitochondrial membrane potential assay
+BAO_0002194,plasma membrane potential assay
+BAO_0002195,nuclear membrane potential assay
+BAO_0002196,localization assay
+BAO_0002530,bioavailability assay
+BAO_0002531,non-specific protein binding assay
+BAO_0002532,tissue distribution assay
+BAO_0002533,safety pharmacology assay
+BAO_0002534,drug abuse assay
+BAO_0002535,metastasis assay
+BAO_0002583,pEC50
+BAO_0002584,mitotic cell cycle state assay
+BAO_0002585,meiotic cell cycle state assay
+BAO_0002661,luciferase reporter gene assay
+BAO_0002667,90 percent inhibition
+BAO_0002735,luciferase enzyme activity assay
+BAO_0002736,cytochrome P450 enzyme activity assay
+BAO_0002752,measured concentration
+BAO_0002758,volume endpoint
+BAO_0002759,CL
+BAO_0002761,chaperone activity assay
+BAO_0002762,phosphatase activity assay
+BAO_0002763,platelet activation assay
+BAO_0002764,protease activity assay
+BAO_0002765,organism behavior assay
+BAO_0002766,T1/2(in vivo)
+BAO_0002768,T1/2(in vitro)
+BAO_0002771,AUC(oral)
+BAO_0002772,AUC(iv)
+BAO_0002773,CL(renal)
+BAO_0002774,CL(hepatic)
+BAO_0002775,aqueous solubility
+BAO_0002776,radioligand binding assay
+BAO_0002777,beta galactosidase enzyme activity assay
+BAO_0002778,cell permeability assay
+BAO_0002779,protein unfolding assay
+BAO_0002780,IP1 redistribution assay
+BAO_0002785,gene expression assay
+BAO_0002786,cell cycle state assay
+BAO_0002790,hydrolase activity assay
+BAO_0002792,oxidoreductase activity assay
+BAO_0002793,lyase activity assay
+BAO_0002794,isomerase activity assay
+BAO_0002795,transferase activity assay
+BAO_0002801,fold increase
+BAO_0002802,fold decrease
+BAO_0002803,neurite outgrowth assay
+BAO_0002804,protein stability assay
+BAO_0002805,cell proliferation assay
+BAO_0002806,generic hydrolase enzyme activity assay
+BAO_0002807,percent mitotic arrested cells
+BAO_0002808,permeability
+BAO_0002809,Ka
+BAO_0002810,physicochemical
+BAO_0002862,EC 5 hour
+BAO_0002877,AC1000 absolute
+BAO_0002878,AC10 absolute
+BAO_0002879,AC26 absolute
+BAO_0002880,AC35 absolute
+BAO_0002881,AC40 absolute
+BAO_0002882,AC500 absolute
+BAO_0002883,ECMax
+BAO_0002884,ECMax_Tm
+BAO_0002885,ECMax_Agonist
+BAO_0002886,ECMax_fold increase
+BAO_0002887,ECMax_percent inhibition
+BAO_0002902,agonism
+BAO_0002903,antagonism
+BAO_0002905,allosteric inhibition
+BAO_0002906,partial activation
+BAO_0002907,allosteric activation
+BAO_0002908,KiNativ assay
+BAO_0002909,modulation
+BAO_0002910,allosteric agonsim
+BAO_0002911,partial agonism
+BAO_0002912,full agonsim
+BAO_0002913,inverse agonism
+BAO_0002914,full activation
+BAO_0002989,binding assay
+BAO_0002990,protein-protein interaction assay
+BAO_0002991,cell morphology assay
+BAO_0002992,cell motility assay
+BAO_0002993,cytotoxicity assay
+BAO_0002994,enzyme activity assay
+BAO_0002995,transcriptional response profiling assay
+BAO_0002996,membrane potential assay
+BAO_0002997,ion channel assay
+BAO_0002998,protein folding assay
+BAO_0002999,redistribution assay
+BAO_0003000,rna splicing assay
+BAO_0003001,sensitizer assay
+BAO_0003002,signal transduction assay
+BAO_0003003,cytokine secretion assay
+BAO_0003004,posttranslation modification assay
+BAO_0003005,phosphorylation assay
+BAO_0003006,reporter gene assay
+BAO_0003007,second messenger assay
+BAO_0003008,transporter assay
+BAO_0003009,cell viability assay
+BAO_0003010,protein-turnover assay
+BAO_0003011,KINOMEScan assay
+BAO_0003012,fluorescent protein reporter gene assay
+BAO_0003013,beta galactosidase reporter gene assay
+BAO_0003014,beta lactamase reporter gene assay
+BAO_0003015,chloramphenicol acetyltransferase reporter gene assay
+BAO_0003035,MIC50
+BAO_0003036,ED50
+BAO_0003037,Tmax
+BAO_0003038,pA2
+BAO_0003039,IZ
+BAO_0003040,Vd
+BAO_0003041,Vdss
+BAO_0003042,F
+BAO_0003115,assay endpoint component
+BAO_0010001,cell viability ATP quantitation assay
+BAO_0010002,2 color apoptosis assay
+BAO_0010003,3 color apoptosis assay
+BAO_0010004,mitosis/apoptosis assay
+BAO_0080001,IC20
+BAO_0080002,IC25
+BAO_0080003,IC30
+BAO_0080004,phenotypic mode of action
+BAO_0080005,neurite blebbing
+BAO_0080006,neurite branching
+BAO_0080007,neurite elongation
+BAO_0080008,neurite shortening
+BAO_0080009,axon bundle defasciculation
+BAO_0080010,axon fasciculation
+BAO_0080011,fragments per kilobase of exon per million mapped reads
+BAO_0080012,NF-KappaB p65 translocation
+BAO_0080013,percent neurite outgrowth
+BAO_0080014,percent neurite count
+BAO_0080015,percent neurite branch point

@@ -1,0 +1,77 @@
+id,name
+BE0001075,Myeloperoxidase
+BE0002433,Cytochrome P450 1A2
+BE0001198,Macrophage metalloelastase
+BE0000394,Neutrophil elastase
+BE0002363,Cytochrome P450 2D6
+BE0002793,Cytochrome P450 2C9
+BE0000048,Prothrombin
+BE0000380,Vitamin K-dependent protein C
+BE0001183,Insulin-degrading enzyme
+BE0002124,Neuroendocrine convertase 2
+BE0002125,Neuroendocrine convertase 1
+BE0000017,Prostaglandin G/H synthase 1
+BE0000262,Prostaglandin G/H synthase 2
+BE0000657,Cytosolic phospholipase A2
+BE0002638,Cytochrome P450 3A4
+BE0002204,Xanthine dehydrogenase/oxidase
+BE0003533,Cytochrome P450 2E1
+BE0000549,"Sterol 26-hydroxylase, mitochondrial"
+BE0002240,Glutamine synthetase
+BE0003611,Cytochrome P450 2C18
+BE0002180,Cholinesterase
+BE0000421,Cytochrome P450 4A11
+BE0002362,Cytochrome P450 3A5
+BE0003536,Cytochrome P450 2C19
+BE0002148,Prolyl endopeptidase
+BE0000456,"Cob(I)yrinic acid a,c-diamide adenosyltransferase, mitochondrial"
+BE0002668,Bifunctional adenosylcobalamin biosynthesis protein CobU
+BE0009637,Pancreatic proteases
+BE0000300,Spermidine synthase
+BE0001111,Cytochrome P450 1B1
+BE0002190,Choline/ethanolaminephosphotransferase 1
+BE0000237,Choline/ethanolamine kinase
+BE0000519,Choline O-acetyltransferase
+BE0000784,Choline kinase alpha
+BE0000636,"Choline dehydrogenase, mitochondrial"
+BE0001979,"Thioredoxin reductase 1, cytoplasmic"
+BE0000111,Diamine acetyltransferase 1
+BE0000275,Diamine acetyltransferase 2
+BE0002227,CAD protein
+BE0000004,Coagulation factor XIII A chain
+BE0000825,"Glutaminase kidney isoform, mitochondrial"
+BE0000003,"Glutaminase liver isoform, mitochondrial"
+BE0001035,Protein-glutamine gamma-glutamyltransferase 2
+BE0002236,Protein-glutamine gamma-glutamyltransferase 5
+BE0002239,Protein-glutamine gamma-glutamyltransferase 6
+BE0002241,Protein-glutamine gamma-glutamyltransferase K
+BE0002243,Protein-glutamine gamma-glutamyltransferase 4
+BE0001273,Protein-glutamine gamma-glutamyltransferase E
+BE0002245,Protein-glutamine gamma-glutamyltransferase Z
+BE0000321,GMP synthase [glutamine-hydrolyzing]
+BE0000219,Asparagine synthetase [glutamine-hydrolyzing]
+BE0000273,Kynurenine--oxoglutarate transaminase 1
+BE0002235,Phosphoribosylformylglycinamidine synthase
+BE0002237,"Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial"
+BE0002238,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 2
+BE0002242,Glutamine--tRNA ligase
+BE0002244,Glutamine-dependent NAD(+) synthetase
+BE0000352,AMP deaminase 1
+BE0000115,Adenine phosphoribosyltransferase
+BE0002176,Methylenetetrahydrofolate reductase
+BE0000304,S-adenosylmethionine synthase isoform type-2
+BE0000432,"Methionine-R-sulfoxide reductase B2, mitochondrial"
+BE0000407,S-adenosylmethionine synthase isoform type-1
+BE0000288,Methionine-R-sulfoxide reductase B1
+BE0000170,Mitochondrial peptide methionine sulfoxide reductase
+BE0000543,"Methionine--tRNA ligase, cytoplasmic"
+BE0002248,"Methionine--tRNA ligase, mitochondrial"
+BE0002178,Methionine adenosyltransferase 2 subunit beta
+BE0002249,S-methylmethionine--homocysteine S-methyltransferase BHMT2
+BE0002250,"1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial"
+BE0002257,"Succinate dehydrogenase cytochrome b560 subunit, mitochondrial"
+BE0000176,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial"
+BE0000355,"Succinyl-CoA ligase [GDP-forming] subunit beta, mitochondrial"
+BE0009980,Prolyl 4-hydroxylase
+BE0002195,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3"
+BE0002202,Prolyl 3-hydroxylase 1

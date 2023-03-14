@@ -1,0 +1,585 @@
+assay_class_id,l1,l2,l3,class_type,bao_id,source
+1,ALIMENTARY TRACT AND METABOLISM,Anti-Obesity Activity,Computer-Assisted Measurement of Food Consumption in Rats Anorectic Activity,In vivo efficacy,,Vogel_2008
+2,ALIMENTARY TRACT AND METABOLISM,Anti-Obesity Activity,Food Consumption in Rats Anorectic Activity,In vivo efficacy,,Vogel_2008
+3,ALIMENTARY TRACT AND METABOLISM,Anti-Obesity Activity,General Anti-Obesity activity,In vivo efficacy,,phenotype
+4,ALIMENTARY TRACT AND METABOLISM,Anti-Obesity Activity,Resting Metabolic Rate Anti-Obesity,In vivo efficacy,,Vogel_2008
+5,ALIMENTARY TRACT AND METABOLISM,Experimental Diabetes Mellitus,Alloxan Induced Diabetes,In vivo efficacy,,Vogel_2008
+6,ALIMENTARY TRACT AND METABOLISM,Experimental Diabetes Mellitus,Corticosteroid Induced Diabetes,In vivo efficacy,,Vogel_2008
+7,ALIMENTARY TRACT AND METABOLISM,Experimental Diabetes Mellitus,Streptozotocin Induced Diabetes,In vivo efficacy,,Vogel_2008
+8,ALIMENTARY TRACT AND METABOLISM,Experimental Diabetes Mellitus,Virus Induced Diabetes,In vivo efficacy,,Vogel_2008
+9,ALIMENTARY TRACT AND METABOLISM,Experimental Obesity,Diet Induced Obesity,In vivo efficacy,,Hock_2016
+10,ALIMENTARY TRACT AND METABOLISM,Experimental Obesity,Goldthioglucose Induced Obesity,In vivo efficacy,,Vogel_2008
+11,ALIMENTARY TRACT AND METABOLISM,Experimental Obesity,Hypothalamic Obesity High Fat Diet,In vivo efficacy,,Vogel_2008
+12,ALIMENTARY TRACT AND METABOLISM,Experimental Obesity,Monosodium Glutamate Induced Obesity Anti-Obesity,In vivo efficacy,,Vogel_2008
+13,ALIMENTARY TRACT AND METABOLISM,Gall Bladder Function,Cholagogic Activity Bile Secretion in Mice,In vivo efficacy,,Vogel_2008
+14,ALIMENTARY TRACT AND METABOLISM,Gall Bladder Function,Choleretic Activity Bile Secretion in Rats,In vivo efficacy,,Vogel_2008
+15,ALIMENTARY TRACT AND METABOLISM,Gall Bladder Function,Chronic Bile Fistula in Rats ,In vivo efficacy,,Vogel_2008
+16,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Acid Secretion in Perfused Rat Stomach (Gosh and Schild Rat),In vivo efficacy,,Vogel_2008
+17,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Assay of Long-Acting Thyroid-Stimulating Factor (LATS) in Mice,In vivo efficacy,,Vogel_2008
+18,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Chronic Gastric Fistula in Rats,In vivo efficacy,,Vogel_2008
+19,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Ethanol Induced Mucosal Damage in Rats Cytoprotective Activity,In vivo efficacy,,Vogel_2008
+20,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Gastric Ischemia Reperfusion Injury in Rats,In vivo efficacy,,Vogel_2008
+21,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Gastric Mucosal Blood Flow,In vivo efficacy,,Vogel_2008
+22,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Gastrin Activity,In vivo efficacy,,Vogel_2008
+23,ALIMENTARY TRACT AND METABOLISM,Gastric Function,General Gastric Secretion,In vivo efficacy,,phenotype
+24,ALIMENTARY TRACT AND METABOLISM,Gastric Function,General Models of Anti-Ulcer Activity,In vivo efficacy,,phenotype
+25,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Indomethacin Induced Ulcers in Rats,In vivo efficacy,,Hock_2016
+26,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Isolated Gastric Mucosal Preparation,In vivo efficacy,,Vogel_2008
+27,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Isolated Rat Stomach,In vivo efficacy,,Vogel_2008
+28,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Measurement of Gastric Absorption of Drugs in Rats,In vivo efficacy,,Vogel_2008
+29,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Measurement of Intragastric Pressure in Rats,In vivo efficacy,,Vogel_2008
+30,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Pylorus Ligation in Rats SHAY Rat,In vivo efficacy,,Vogel_2008
+31,ALIMENTARY TRACT AND METABOLISM,Gastric Function,Subacute Gastric Ulcer in Rats,In vivo efficacy,,Vogel_2008
+32,ALIMENTARY TRACT AND METABOLISM,Genetically Diabetic Animals,"Spontaneously Diabetic Mice: KK Mouse, KK-AY Mouse, NOD Mouse, Obese Hyperglycemic Mice, Diabetic db/db Mice, Diabetes Obesity Syndrome in CBA/Ca Mice, Wellesley Mouse",In vivo efficacy,,Vogel_2008
+33,ALIMENTARY TRACT AND METABOLISM,Genetically Diabetic Animals,"Spontaneously Diabetic Rats: BB Rat, WBN/Kob Rat, Cohen Diabetic Rat, Goto-Kakizaki Rat, Zucker-Fatty Rat, Zucker Diabetic Fatty Rat Zdf/Drt-Fa, Wdf/Ta-Fa Rat, OLETF Rat, ESS-Rat, Obese SHR Rat, SHR/N-cp Rat, BHE Rat, LEW.1AR1/Ztm-iddm RAT",In vivo efficacy,,Vogel_2008
+34,ALIMENTARY TRACT AND METABOLISM,Genetically Obese Animals,"Spontaneously Obese Mice: Yellow Obese Mouse AYA, KK-AY Mouse, Obese Hyperglycemic (ob/ob) mice, BL/6 Obese Mice, NZO Mouse, Diabetes Obesity Syndrome in CBA/CA Mice, FAT/FAT Mice, Tubby Mice",In vivo efficacy,,Vogel_2008
+35,ALIMENTARY TRACT AND METABOLISM,Genetically Obese Animals,"Spontaneously Obese Rats: WBN/KOB Rat, Zucker-Fatty Rat, WDF/TA-FA Rat, OLETF Rat, Obese SHR Rat, JCR:LA-Corpulent Rat, Growth Hormone Deficient Dwarf Rat",In vivo efficacy,,Vogel_2008
+36,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Anti-Diarrheal Effect in Cecectomized Rats,In vivo efficacy,,Vogel_2008
+37,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Castor Oil Induced Diarrhea,In vivo efficacy,,Vogel_2008
+38,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Colon Motility in Anesthetized Rats,In vivo efficacy,,Vogel_2008
+39,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Continuous Recording of Electrical and Mechanical Activity in the Gut of the Conscious Rat,In vivo efficacy,,Vogel_2008
+40,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Cysteamine Induced Duodenal Ulcers in Rats,In vivo efficacy,,Vogel_2008
+41,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Enteropooling Test,In vivo efficacy,,Vogel_2008
+42,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Evaluation of Anti-Diarrheal Effect in Cold Restrained Rats,In vivo efficacy,,Vogel_2008
+43,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Everted Sac Absorption Technique,In vivo efficacy,,Vogel_2008
+44,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Experimental Colitis Inflammatory Gut Disease,In vivo efficacy,,Vogel_2008
+45,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Experimental Ileitis Inflammatory Gut Disease,In vivo efficacy,,Vogel_2008
+46,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,General Diarrhea Models,In vivo efficacy,,phenotype
+47,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,In Vivo Evaluation of Spasmolytic Activity in Rats,In vivo efficacy,,Vogel_2008
+48,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Intestinal Drug Absorption,In vivo efficacy,,Vogel_2008
+49,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Laxative Activity in Rats,In vivo efficacy,,Vogel_2008
+50,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Propulsive Gut Motility in Mice,In vivo efficacy,,Vogel_2008
+51,ALIMENTARY TRACT AND METABOLISM,Intestinal Function,Stomach Emptying and Intestinal Absorption in Rats,In vivo efficacy,,Vogel_2008
+52,ALIMENTARY TRACT AND METABOLISM,Liver Function,Allyl Alcohol Induced Liver Necrosis in Rats,In vivo efficacy,,Vogel_2008
+53,ALIMENTARY TRACT AND METABOLISM,Liver Function,Bile Duct Ligation Induced Liver Fibrosis in Rats,In vivo efficacy,,Vogel_2008
+54,ALIMENTARY TRACT AND METABOLISM,Liver Function,Carbon tetrachloride CCl4 Induced Liver Fibrosis in Rats,In vivo efficacy,,Vogel_2008
+55,ALIMENTARY TRACT AND METABOLISM,Liver Function,Galactosamine Induced Liver Necrosis,In vivo efficacy,,Vogel_2008
+56,ALIMENTARY TRACT AND METABOLISM,Liver Function,General Models of Drug Induced Liver Injury,In vivo efficacy,,phenotype
+57,ALIMENTARY TRACT AND METABOLISM,Liver Function,General Models of Hepatotoxic and Hepatoprotective Activity,In vivo efficacy,,phenotype
+58,ALIMENTARY TRACT AND METABOLISM,Liver Function,Hepatitis in Long Evans Cinnamon Rats,In vivo efficacy,,Vogel_2008
+59,ALIMENTARY TRACT AND METABOLISM,Liver Function,Liver Fibrosis Induced by Schistosome Cercariae,In vivo efficacy,,Vogel_2008
+60,ALIMENTARY TRACT AND METABOLISM,Liver Function,Temporary Hepatic Ischemia,In vivo efficacy,,Vogel_2008
+61,ALIMENTARY TRACT AND METABOLISM,Measurement of Blood Glucose-Lowering and Antidiabetic Activity,Anti-Diabetic Effects of Liver X Receptor Agonists,In vivo efficacy,,Vogel_2008
+62,ALIMENTARY TRACT AND METABOLISM,Measurement of Blood Glucose-Lowering and Antidiabetic Activity,Blood Glucose Lowering Effect,In vivo efficacy,,Vogel_2008
+63,ALIMENTARY TRACT AND METABOLISM,Measurement of Blood Glucose-Lowering and Antidiabetic Activity,Effects of Insulin Sensitizer Drugs,In vivo efficacy,,Vogel_2008
+64,ALIMENTARY TRACT AND METABOLISM,Measurement of Blood Glucose-Lowering and Antidiabetic Activity,Euglycemic Clamp Technique,In vivo efficacy,,Vogel_2008
+65,ALIMENTARY TRACT AND METABOLISM,Measurement of Blood Glucose-Lowering and Antidiabetic Activity,General Anti-Diabetic Activity,In vivo efficacy,,phenotype
+66,ALIMENTARY TRACT AND METABOLISM,Measurement of Blood Glucose-Lowering and Antidiabetic Activity,General Anti-Hyperglycemic Activity,In vivo efficacy,,phenotype
+67,ALIMENTARY TRACT AND METABOLISM,Measurement of Blood Glucose-Lowering and Antidiabetic Activity,Hypoglycemic Seizures in Mice,In vivo efficacy,,Vogel_2008
+68,ALIMENTARY TRACT AND METABOLISM,Measurement of Glucose Absorption,Evaluation of Glucose Absorption In Vivo,In vivo efficacy,,Vogel_2008
+69,ALIMENTARY TRACT AND METABOLISM,Monitoring of Diabetic Late Complications,Electroretinogram,In vivo efficacy,,Vogel_2008
+70,ALIMENTARY TRACT AND METABOLISM,Monitoring of Diabetic Late Complications,Naphthalene Induced Cataract,In vivo efficacy,,Vogel_2008
+71,ALIMENTARY TRACT AND METABOLISM,Monitoring of Diabetic Late Complications,Nerve Blood Flow Doppler Flux,In vivo efficacy,,Vogel_2008
+72,ALIMENTARY TRACT AND METABOLISM,Monitoring of Diabetic Late Complications,Nerve Conduction Velocity Aldose Reductase Inhibitors,In vivo efficacy,,Vogel_2008
+73,ALIMENTARY TRACT AND METABOLISM,Monitoring of Diabetic Late Complications,Streptozotocin Induced Cataract,In vivo efficacy,,Vogel_2008
+74,ALIMENTARY TRACT AND METABOLISM,Pancreatic Function,Acute Experimental Pancreatitis,In vivo efficacy,,Vogel_2008
+75,ALIMENTARY TRACT AND METABOLISM,Pancreatic Function,Acute Pancreatic Fistula in Rats,In vivo efficacy,,Vogel_2008
+76,ALIMENTARY TRACT AND METABOLISM,Pancreatic Function,Chronic Pancreatic Fistula in Rats,In vivo efficacy,,Vogel_2008
+77,ALIMENTARY TRACT AND METABOLISM,Pancreatic Function,Chronic Pancreatitis,In vivo efficacy,,Vogel_2008
+78,ALIMENTARY TRACT AND METABOLISM,Pancreatic Function,Exocrine Secretion of Isolated Pancreas,In vivo efficacy,,Vogel_2008
+79,ALIMENTARY TRACT AND METABOLISM,Pancreatic Function,Somatostatin Activity,In vivo efficacy,,Vogel_2008
+80,ALIMENTARY TRACT AND METABOLISM,Pancreatic Function,Taurocholate Induced Pancreatitis in the Rat,In vivo efficacy,,Vogel_2008
+81,ALIMENTARY TRACT AND METABOLISM,Test on Salivary Glands,Measurement of Salivation,In vivo efficacy,,Hock_2016
+82,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Carcinoma Oncology Models,Carcinoma,In vivo efficacy,,phenotype
+83,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Carcinoma Oncology Models,Erhlich ascites carcinoma,In vivo efficacy,,phenotype
+84,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Carcinoma Oncology Models,Lewis Lung Carcinoma,In vivo efficacy,,phenotype
+85,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Carcinoma Oncology Models,Non Small Cell Lung Carcinoma,In vivo efficacy,,phenotype
+86,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Carcinoma Oncology Models,Walker 256 Carcinoma,In vivo efficacy,,phenotype
+87,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Leukemia Oncology Models,General Leukemia,In vivo efficacy,,phenotype
+88,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Leukemia Oncology Models,L1210 Experimental Leukemia,In vivo efficacy,,Hock_2016
+89,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Leukemia Oncology Models,P388 Experimental Leukemia,In vivo efficacy,,phenotype
+90,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Lymphoma Oncology Models,Lymphoma,In vivo efficacy,,phenotype
+91,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Melanoma Oncology Models,Experimental Melanoma,In vivo efficacy,,phenotype
+92,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Melanoma Oncology Models,General Melanoma,In vivo efficacy,,phenotype
+93,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Metastatic Oncology Models,Metastatic Activity,In vivo efficacy,,phenotype
+94,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Acute Graft Versus Host Disease GVHD in Rats,In vivo efficacy,,Vogel_2008
+95,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Acute Systemic Anaphylaxis in Rats,In vivo efficacy,,Vogel_2008
+96,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Adjuvant Arthritis in Rats,In vivo efficacy,,Hock_2016
+97,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Arthus Type Immediate Hypersensitivity,In vivo efficacy,,Vogel_2008
+98,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Collagen Type II Induced Arthritis in Rats,In vivo efficacy,,Hock_2016
+99,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Coxsackie virus B3 Induced Myocarditis,In vivo efficacy,,Vogel_2008
+100,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Delayed Type Hypersensitivity,In vivo efficacy,,Vogel_2008
+101,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Experimental Allergic Encephalomyelitis,In vivo efficacy,,Hock_2016
+102,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Experimental Autoimmune Thyroiditis,In vivo efficacy,,Vogel_2008
+103,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,General Autoimmune Activity,In vivo efficacy,,phenotype
+104,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,General Immunosuppressive Activity,In vivo efficacy,,phenotype
+105,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,General Rheumatoid Arthritis Models,In vivo efficacy,,phenotype
+106,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Glomerulonephritis Induced by Antibasement Membrane Antibody in Rats,In vivo efficacy,,Vogel_2008
+107,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Influence on Systemic Lupus Erythematosus SLE Like Disorder in MRL/lpr Mice,In vivo efficacy,,Vogel_2008
+108,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Passive Cutaneous Anaphylaxis,In vivo efficacy,,Vogel_2008
+109,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Porcine Cardiac Myosin Induced Autoimmune Myocarditis in Rats,In vivo efficacy,,Vogel_2008
+110,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Prevention of Experimentally Induced Myasthenia Gravis in Rats,In vivo efficacy,,Vogel_2008
+111,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Pristane Induced Arthritis in Mice,In vivo efficacy,,Vogel_2008
+112,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Proteoglycan Induced Progressive Polyarthritis in Mice,In vivo efficacy,,Vogel_2008
+113,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Reversed Passive Arthus Reaction,In vivo efficacy,,Hock_2016
+114,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Methods for Testing Immunological Factors,Spontaneous Autoimmune Diseases In Animals,In vivo efficacy,,Vogel_2008
+115,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Neoplasm Oncology Models,Neoplasms,In vivo efficacy,,phenotype
+116,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Sarcoma Oncology Models,Fibrosarcoma,In vivo efficacy,,phenotype
+117,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Sarcoma Oncology Models,Sarcoma,In vivo efficacy,,phenotype
+118,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Sarcoma Oncology Models,Sarcoma 180,In vivo efficacy,,phenotype
+119,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,Xenograft Oncology Models,Xenograft Models of Anti-Tumor Assays,In vivo efficacy,,phenotype
+120,"ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS",Malarial Activity,General Anti-Malarial Activity,In vivo efficacy,,phenotype
+121,"ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS",Trypanosomal Activity,General Anti-Trypanosomal Activity,In vivo efficacy,,phenotype
+122,BLOOD AND BLOOD FORMING ORGANS,Genetic Models of Hemostasis and Thrombosis,Knock-out Mouse Models of Hemostasis and Thrombosis,In vivo efficacy,,Vogel_2008
+123,BLOOD AND BLOOD FORMING ORGANS,Hemostasis Bleeding Models,Arterial Bleeding Time in Mesentery,In vivo efficacy,,Vogel_2008
+124,BLOOD AND BLOOD FORMING ORGANS,Hemostasis Bleeding Models,General Bleeding Models,In vivo efficacy,,phenotype
+125,BLOOD AND BLOOD FORMING ORGANS,Hemostasis Bleeding Models,Subaqueous Tail Bleeding Time in Rodents,In vivo efficacy,,Vogel_2008
+126,BLOOD AND BLOOD FORMING ORGANS,Models of Thrombosis,Arteriovenous Shunt Thrombosis,In vivo efficacy,,Vogel_2008
+127,BLOOD AND BLOOD FORMING ORGANS,Models of Thrombosis,Collagenase Induced Thrombocytopenia ,In vivo efficacy,,Vogel_2008
+128,BLOOD AND BLOOD FORMING ORGANS,Models of Thrombosis,Disseminated Intravascular Coagulation DIC Model,In vivo efficacy,,Vogel_2008
+129,BLOOD AND BLOOD FORMING ORGANS,Models of Thrombosis,Experimental Thrombocytopenia or Leucocytopenia,In vivo efficacy,,Vogel_2008
+130,BLOOD AND BLOOD FORMING ORGANS,Models of Thrombosis,FeCl3 Induced Thrombosis,In vivo efficacy,,Vogel_2008
+131,BLOOD AND BLOOD FORMING ORGANS,Models of Thrombosis,General Thrombosis Models,In vivo efficacy,,phenotype
+132,BLOOD AND BLOOD FORMING ORGANS,Models of Thrombosis,Laser Induced Thrombosis,In vivo efficacy,,Hock_2016
+133,BLOOD AND BLOOD FORMING ORGANS,Models of Thrombosis,Microvascular Thrombosis in Trauma Models,In vivo efficacy,,Vogel_2008
+134,BLOOD AND BLOOD FORMING ORGANS,Models of Thrombosis,Photochemical Induced Thrombosis,In vivo efficacy,,Hock_2016
+135,BLOOD AND BLOOD FORMING ORGANS,Models of Thrombosis,Reversible Intravital Aggregation of Platelets,In vivo efficacy,,Vogel_2008
+136,BLOOD AND BLOOD FORMING ORGANS,Models of Thrombosis,Wire Coil Induced Thrombosis,In vivo efficacy,,Vogel_2008
+137,CARDIOVASCULAR SYSTEM,Anti-Arrhythmic Activity,Aconitine Antagonism in Rats,In vivo efficacy,,Hock_2016
+138,CARDIOVASCULAR SYSTEM,Anti-Arrhythmic Activity,"Coronary Artery Ligation, Reperfusion Arrhythmia and Infarct Size in Rats",In vivo efficacy,,Hock_2016
+139,CARDIOVASCULAR SYSTEM,Anti-Arrhythmic Activity,Electrocardiography in Animals,In vivo efficacy,,Hock_2016
+140,CARDIOVASCULAR SYSTEM,Anti-Arrhythmic Activity,General Anti-Arrhythmic Activity,In vivo efficacy,,phenotype
+141,CARDIOVASCULAR SYSTEM,Calcium Uptake Inhibiting Activity,Evaluation of Calcium Blockers in the Pithed Rat,In vivo efficacy,,Vogel_2008
+142,CARDIOVASCULAR SYSTEM,Cardiac Hypertrophy and Insufficiency,Aortic Banding,In vivo efficacy,,Hock_2016
+143,CARDIOVASCULAR SYSTEM,Cardiac Hypertrophy and Insufficiency,Cardiac Hypertrophy,In vivo efficacy,,Hock_2016
+144,CARDIOVASCULAR SYSTEM,Cardiac Hypertrophy and Insufficiency,Chronic Heart Failure,In vivo efficacy,,Vogel_2008
+145,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Activity at beta1 and beta2 Adrenoreceptors in Rat,In vivo efficacy,,Vogel_2008
+146,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Angiotensin Converting Enzyme ACE Inhibition Measured in Vivo in Rat,In vivo efficacy,,Vogel_2008
+147,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Angiotensin II Antagonism in Vivo,In vivo efficacy,,Hock_2016
+148,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Anti-Hypertensive Vasodilator Activity in Ganglion Blocked Angiotensin II Supported Rats,In vivo efficacy,,Vogel_2008
+149,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Bezold Jarisch Reflex,In vivo efficacy,,Hock_2016
+150,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Blood Pressure in Conscious Hypertensive Rats Tail Cuff Method,In vivo efficacy,,Hock_2016
+151,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Blood Pressure in Pithed Rats,In vivo efficacy,,Vogel_2008
+152,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Cardiovascular Analysis in Anesthetized Mice,In vivo efficacy,,Vogel_2008
+153,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Cardiovascular Effects After Intracerebroventricular icv Administration,In vivo efficacy,,Vogel_2008
+154,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Direct Measurement of Blood Pressure in Conscious Rats with Indwelling Catheter,In vivo efficacy,,Vogel_2008
+155,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Endothelin Receptor Antagonism in Vivo,In vivo efficacy,,Vogel_2008
+156,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Endotoxin Induced Shock,In vivo efficacy,,Hock_2016
+157,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,General Anti-Hypertensive Activity,In vivo efficacy,,phenotype
+158,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,General Cardioprotective Activity,In vivo efficacy,,phenotype
+159,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Heart Rate Measurement,In vivo efficacy,,Hock_2016
+160,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Heat Stroke,In vivo efficacy,,Vogel_2008
+161,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Hemodynamic Screening,In vivo efficacy,,Hock_2016
+162,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Hemorrhagic Shock,In vivo efficacy,,Vogel_2008
+163,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Influence on Orthostatic Hypotension,In vivo efficacy,,Hock_2016
+164,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Measurement of Cardiac Output and Regional Blood Flow with Microspheres ,In vivo efficacy,,Vogel_2008
+165,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Telemetric Monitoring of Cardiovascular Parameters in Rats,In vivo efficacy,,Vogel_2008
+166,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,Tourniquet Shock,In vivo efficacy,,Vogel_2008
+167,CARDIOVASCULAR SYSTEM,Cardiovascular Analysis,alpha and beta Adrenoreceptors in the Mouse Iris,In vivo efficacy,,Vogel_2008
+168,CARDIOVASCULAR SYSTEM,Cardiovascular Safety Pharmacology,Cardiovascular Safety Pharmacology: Cardiac Output,In vivo efficacy,,Vogel_2013_SafetyPharmacology
+169,CARDIOVASCULAR SYSTEM,Cardiovascular Safety Pharmacology,Cardiovascular Safety Pharmacology: Diastolic Blood Pressure,In vivo efficacy,,Vogel_2013_SafetyPharmacology
+170,CARDIOVASCULAR SYSTEM,Cardiovascular Safety Pharmacology,Cardiovascular Safety Pharmacology: Ejection Fraction,In vivo efficacy,,Vogel_2013_SafetyPharmacology
+171,CARDIOVASCULAR SYSTEM,Cardiovascular Safety Pharmacology,Cardiovascular Safety Pharmacology: End Diastolic Volume,In vivo efficacy,,Vogel_2013_SafetyPharmacology
+172,CARDIOVASCULAR SYSTEM,Cardiovascular Safety Pharmacology,Cardiovascular Safety Pharmacology: Mean Blood Pressure or Mean Arteral Blood Pressure,In vivo efficacy,,Vogel_2013_SafetyPharmacology
+173,CARDIOVASCULAR SYSTEM,Cardiovascular Safety Pharmacology,Cardiovascular Safety Pharmacology: Pulse Pressure,In vivo efficacy,,Vogel_2013_SafetyPharmacology
+174,CARDIOVASCULAR SYSTEM,Cardiovascular Safety Pharmacology,Cardiovascular Safety Pharmacology: Stroke Volume,In vivo efficacy,,Vogel_2013_SafetyPharmacology
+175,CARDIOVASCULAR SYSTEM,Cardiovascular Safety Pharmacology,Cardiovascular Safety Pharmacology: Systolic Blood Pressure,In vivo efficacy,,Vogel_2013_SafetyPharmacology
+176,CARDIOVASCULAR SYSTEM,Cardiovascular Safety Pharmacology,Cardiovascular Safety Pharmacology: Total Peripheral Resistance,In vivo efficacy,,Vogel_2013_SafetyPharmacology
+177,CARDIOVASCULAR SYSTEM,Coronary Drugs,Isoproterenol Induced Myocardial Necrosis in Rats,In vivo efficacy,,Vogel_2008
+178,CARDIOVASCULAR SYSTEM,Coronary Drugs,MRI Studies After Heart and Lung Transplantation,In vivo efficacy,,Vogel_2008
+179,CARDIOVASCULAR SYSTEM,Coronary Drugs,MRI Studies of Cardiac Function,In vivo efficacy,,Vogel_2008
+180,CARDIOVASCULAR SYSTEM,Coronary Drugs,Myocardial Infarction After Coronary Ligation,In vivo efficacy,,Hock_2016
+181,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Angiotensin II Induced Aortic Aneurysm in Mice,In vivo efficacy,,Vogel_2008
+182,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Cerebral Blood Flow Measured by NMRI,In vivo efficacy,,Vogel_2008
+183,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Effect on Cerebral Blood Flow and in Ischemic Skeletal Muscle in Rats Laser Doppler Effect,In vivo efficacy,,Vogel_2008
+184,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Effect on Contractile Force of Ischemic Muscle,In vivo efficacy,,Vogel_2008
+185,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Effect on Mesenteric Blood Flow in Rats,In vivo efficacy,,Vogel_2008
+186,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Effect on Peripheral Blood Flow in Rats,In vivo efficacy,,Vogel_2008
+187,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Forebrain Ischemia in Rats,In vivo efficacy,,Vogel_2008
+188,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,General Ischemia Reperfusion,In vivo efficacy,,phenotype
+189,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Hypoxia Tolerance Test in Rats,In vivo efficacy,,Hock_2016
+190,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Measurement of Local Cerebral Blood Flow and Glucose Utilization in Rats,In vivo efficacy,,Vogel_2008
+191,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Mesenteric Window Angiogenesis Model,In vivo efficacy,,Vogel_2008
+192,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Microdialysis and Neuroprotection Experiments After Global Ischemia in Rats,In vivo efficacy,,Vogel_2008
+193,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Middle Cerebral Artery Occlusion,In vivo efficacy,,Hock_2016
+194,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Perfused Hindquarter Preparation with Sympathetic Nerve Stimulation in Rats,In vivo efficacy,,Vogel_2008
+195,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Photochemically Induced Focal Cerebral Ischemia in Rats,In vivo efficacy,,Hock_2016
+196,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Subcutaneous Air Sac Model for Angiogenesis.,In vivo efficacy,,Hock_2016
+197,CARDIOVASCULAR SYSTEM,Effects on Blood Supply and on Arterial and Venous Tonus,Traumatic Brain Injury,In vivo efficacy,,Hock_2016
+198,CARDIOVASCULAR SYSTEM,Experimental Hypertension,DOCA Salt Induced Hypertension,In vivo efficacy,,Hock_2016
+199,CARDIOVASCULAR SYSTEM,Experimental Hypertension,Fructose Induced Hypertension in Rats,In vivo efficacy,,Vogel_2008
+200,CARDIOVASCULAR SYSTEM,Experimental Hypertension,"Genetic Hypertension in Rats: Genetically hypertensive rat (GH), Spontaneously hypertensive rat (Akamoto-Aoki, SHR) or Wistar-Kyoto Rat (WKY), Salt-hypertension-sensitivity and Salt-hypertension-resistant (RD), Dahl Salt-Sensitive rat (S), Sabra strain, Milan hypertensive strain (MHS), Lyon, Stroke-prone strain (SHR=SHRSP), transgenic rat with hypertension,  TGR or TGR(mREN2)27, double transgenic rat (dTGR), genetically hypertensive mouse",In vivo efficacy,,Vogel_2008
+201,CARDIOVASCULAR SYSTEM,Experimental Hypertension,Hypertension Induced by Chronic NO Synthase Inhibition,In vivo efficacy,,Vogel_2008
+202,CARDIOVASCULAR SYSTEM,Experimental Hypertension,Portal Hypertension in Rats,In vivo efficacy,,Vogel_2008
+203,CARDIOVASCULAR SYSTEM,Experimental Hypertension,Pulmonary Hypertension Induced by Monocrotaline,In vivo efficacy,,Hock_2016
+204,CARDIOVASCULAR SYSTEM,Experimental Hypertension,Renal Hypertension,In vivo efficacy,,Hock_2016
+205,CARDIOVASCULAR SYSTEM,Induction of Experimental Atherosclerosis,Cholesterol Diet Induced Atherosclerosis,In vivo efficacy,,Vogel_2008
+206,CARDIOVASCULAR SYSTEM,Induction of Experimental Atherosclerosis,General Atherosclerosis Activity,In vivo efficacy,,phenotype
+207,CARDIOVASCULAR SYSTEM,Induction of Experimental Atherosclerosis,Intimal Reactions After Endothelial Injury,In vivo efficacy,,Vogel_2008
+208,CARDIOVASCULAR SYSTEM,Influence on Lipid Metabolism,Fructose Induced Hypertriglyceridemia in Rats,In vivo efficacy,,Vogel_2008
+209,CARDIOVASCULAR SYSTEM,Influence on Lipid Metabolism,General Hyperlipidemia Models,In vivo efficacy,,phenotype
+210,CARDIOVASCULAR SYSTEM,Influence on Lipid Metabolism,General Lipid Metabolism,In vivo efficacy,,phenotype
+211,CARDIOVASCULAR SYSTEM,Influence on Lipid Metabolism,Hypolipidemic Activity in Rats,In vivo efficacy,,Vogel_2008
+212,CARDIOVASCULAR SYSTEM,Influence on Lipid Metabolism,Influence on Lipoprotein Lipase Activity,In vivo efficacy,,Vogel_2008
+213,CARDIOVASCULAR SYSTEM,Influence on Lipid Metabolism,Intravenous Lipid Tolerance Test in Rats,In vivo efficacy,,Vogel_2008
+214,CARDIOVASCULAR SYSTEM,Influence on Lipid Metabolism,Lipid Peroxidation Assay,In vivo efficacy,,Vogel_2008
+215,CARDIOVASCULAR SYSTEM,Influence on Lipid Metabolism,Triton Induced Hyperlipidemia,In vivo efficacy,,Vogel_2008
+216,CARDIOVASCULAR SYSTEM,Inhibition of Cholesterol Absorption,General Cholesterol Activity,In vivo efficacy,,phenotype
+217,CARDIOVASCULAR SYSTEM,Inhibition of Cholesterol Absorption,In Vivo Test for ACAT (Acyl Coenzyme A: Cholesterol Acyltransferase) Inhibitory Activity,In vivo efficacy,,Vogel_2008
+218,CARDIOVASCULAR SYSTEM,Inhibition of Cholesterol Absorption,Lymph Fistula Model for Cholesterol Absorption,In vivo efficacy,,Vogel_2008
+219,CARDIOVASCULAR SYSTEM,Inhibition of Cholesterol Biosynthesis,Effect of HMG-CoA-Reductase Inhibitors in Vivo (3-Hydroxy-3-methylglutaryl-coenzyme A),In vivo efficacy,,Vogel_2008
+220,DERMATOLOGICALS,Acne Models,Acne Activity on Sebaceous Glands of Rats,In vivo efficacy,,Vogel_2008
+221,DERMATOLOGICALS,Acne Models,Acne Activity on Sebaceous Glands of the Fuzzy Rat,In vivo efficacy,,Vogel_2008
+222,DERMATOLOGICALS,Acne Models,Acne Activity on the Skin of the Rhino Mouse,In vivo efficacy,,Vogel_2008
+223,DERMATOLOGICALS,Biomechanics of Skin,Healing of Skin Wounds,In vivo efficacy,,Vogel_2008
+224,DERMATOLOGICALS,Biomechanics of Skin,In Vivo Recovery of Skin After Repeated Strain,In vivo efficacy,,Vogel_2008
+225,DERMATOLOGICALS,Biomechanics of Skin,Repeated Strain on Skin in Vivo,In vivo efficacy,,Vogel_2008
+226,DERMATOLOGICALS,Biomechanics of Skin,Stress-Strain Curves of Skin in Vivo,In vivo efficacy,,Vogel_2008
+227,DERMATOLOGICALS,Cutaneous Microcirculation,Laser Doppler Velocimetry for Cutaneous Microcirculation,In vivo efficacy,,Vogel_2008
+228,DERMATOLOGICALS,Cutaneous Microcirculation,Measurement of Skin Microcirculation by Reflectance Spectroscopy,In vivo efficacy,,Vogel_2008
+229,DERMATOLOGICALS,Erythropoietic Protoporphyria Models,Animal Models for Erythropoietic Protoporphyria,In vivo efficacy,,Vogel_2008
+230,DERMATOLOGICALS,Experimental Dermatitis,Contact Hypersensitivity,In vivo efficacy,,Vogel_2008
+231,DERMATOLOGICALS,Experimental Dermatitis,General Dermatitis Models,In vivo efficacy,,phenotype
+232,DERMATOLOGICALS,Experimental Dermatitis,Motheaten Mice for Spontaneous Dermatitis,In vivo efficacy,,Vogel_2008
+233,DERMATOLOGICALS,Experimental Dermatitis,NC/Nga Mouse as Model for Atopic Dermatitis,In vivo efficacy,,Vogel_2008
+234,DERMATOLOGICALS,Experimental Dermatitis,Non-Immunologic Contact Urticaria,In vivo efficacy,,Vogel_2008
+235,DERMATOLOGICALS,Experimental Dermatitis,Spontaneous Erythema in Hairless Rats,In vivo efficacy,,Vogel_2008
+236,DERMATOLOGICALS,Ichthyosis Models,Experimentally Induced Ichthyosis in Mice,In vivo efficacy,,Vogel_2008
+237,DERMATOLOGICALS,Influence on Hair Growth,Influence on Hair Growth,In vivo efficacy,,Vogel_2008
+238,DERMATOLOGICALS,Pemphigus Models,Experimentally Induced Pemphigus in Mice,In vivo efficacy,,Vogel_2008
+239,DERMATOLOGICALS,Protection against UV light,Protection of Skin Against UV Light,In vivo efficacy,,Vogel_2008
+240,DERMATOLOGICALS,Pruritus Models,Pruritus and Scratching Behavior,In vivo efficacy,,Hock_2016
+241,DERMATOLOGICALS,Psoriasis Models,Asebia (ab/ab) Mouse for Psoriatiform Skin Diseases in Spontaneous Mice Mutations,In vivo efficacy,,Vogel_2008
+242,DERMATOLOGICALS,Psoriasis Models,Flaky Skin (fsn) Mouse for Psoriatiform Skin Diseases in Spontaneous Mice Mutations,In vivo efficacy,,Vogel_2008
+243,DERMATOLOGICALS,Psoriasis Models,Hyperproliferative Epidermis in Hairless Mice,In vivo efficacy,,Vogel_2008
+244,DERMATOLOGICALS,Psoriasis Models,Mouse Tail Model for Psoriasis,In vivo efficacy,,Vogel_2008
+245,DERMATOLOGICALS,Psoriasis Models,Rat Ultraviolet Ray B Photodermatitis Model for Psoriasis,In vivo efficacy,,Vogel_2008
+246,DERMATOLOGICALS,Psoriasis Models,Xenotransplantation of Human Psoriatic Skin,In vivo efficacy,,Vogel_2008
+247,DERMATOLOGICALS,Scleroderma Models,"Scleroderma Models in Mice: tight-skin mouse, WBB6F1-W/WV mouse, MRL/lpr mouse",In vivo efficacy,,Vogel_2008
+248,DERMATOLOGICALS,Skin Sensitization Testing,Local Lymph Node Assay for Skin Sensitization,In vivo efficacy,,Vogel_2008
+249,DERMATOLOGICALS,Skin Sensitization Testing,Popliteal Lymph Node Hyperplasia Assay,In vivo efficacy,,Vogel_2008
+250,DERMATOLOGICALS,Transepidermal Water Loss,Transepidermal Water Loss (TEWL),In vivo efficacy,,Vogel_2008
+251,DERMATOLOGICALS,Vitiligo Models,Vitiligo in Mice,In vivo efficacy,,Vogel_2008
+252,DERMATOLOGICALS,Xeroderma Models,Experimentally Induced Xeroderma in Mice,In vivo efficacy,,Vogel_2008
+253,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,Assessment of Glomerular Filtration Rate (GFR) and Renal Blood Flow  (RBF) by Scintigraphic Imaging ,In vivo efficacy,,Vogel_2008
+254,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,Assessment of Glomerular Filtration Rate (GFR) by Plasma Chemistry,In vivo efficacy,,Hock_2016
+255,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,Assessment of Medullary Osmolarity and Blood Flow,In vivo efficacy,,Vogel_2008
+256,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,Assessment of Renal Blood Flow (RBF) by Intravascular Doppler Flow Probes ,In vivo efficacy,,Vogel_2008
+257,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,Assessment of Tubular Transport Processes using Transport Substrates and Inhibitors,In vivo efficacy,,Vogel_2008
+258,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,Clearance Methods,In vivo efficacy,,Vogel_2008
+259,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,Fractional Excretion Methods,In vivo efficacy,,Hock_2016
+260,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,General Renal Function Models,In vivo efficacy,,phenotype
+261,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,Micropuncture Techniques in Rats,In vivo efficacy,,Vogel_2008
+262,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,Quantitative Electrolyte Excretion,In vivo efficacy,,Vogel_2008
+263,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,Solute-Free Water Excretion and Reabsorption,In vivo efficacy,,Vogel_2008
+264,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,Stop Flow Technique,In vivo efficacy,,Vogel_2008
+265,GENITO URINARY SYSTEM AND SEX HORMONES,Assessment of Renal Function,Urinalysis,In vivo efficacy,,Hock_2016
+266,GENITO URINARY SYSTEM AND SEX HORMONES,Diuretic and Saluretic Activity,Diuretic Activity in Rats Lipschitz Test,In vivo efficacy,,Vogel_2008
+267,GENITO URINARY SYSTEM AND SEX HORMONES,Diuretic and Saluretic Activity,Saluretic Activity in Rats,In vivo efficacy,,Vogel_2008
+268,GENITO URINARY SYSTEM AND SEX HORMONES,Impaired Renal Function,Chronic Renal Failure in the Rat,In vivo efficacy,,Vogel_2008
+269,GENITO URINARY SYSTEM AND SEX HORMONES,Impaired Renal Function,Experimental Nephrosis,In vivo efficacy,,Vogel_2008
+270,GENITO URINARY SYSTEM AND SEX HORMONES,Impaired Renal Function,General Nephrotoxic and Nephroprotective Models,In vivo efficacy,,phenotype
+271,GENITO URINARY SYSTEM AND SEX HORMONES,Impaired Renal Function,Nephrotoxic Serum Nephritis,In vivo efficacy,,Vogel_2008
+272,GENITO URINARY SYSTEM AND SEX HORMONES,Influence on Lower Urinary Tract,Micturition Studies,In vivo efficacy,,Vogel_2008
+273,GENITO URINARY SYSTEM AND SEX HORMONES,Ovarian Hormones,Antagonism of Estrogen Effect on Uterus Weight,In vivo efficacy,,Vogel_2008
+274,GENITO URINARY SYSTEM AND SEX HORMONES,Ovarian Hormones,Aromatase Inhibition,In vivo efficacy,,Vogel_2008
+275,GENITO URINARY SYSTEM AND SEX HORMONES,Ovarian Hormones,Deciduoma Formation Progestional Activity,In vivo efficacy,,Vogel_2008
+276,GENITO URINARY SYSTEM AND SEX HORMONES,Ovarian Hormones,General Estrogen or Progestogen Activity,In vivo efficacy,,phenotype
+277,GENITO URINARY SYSTEM AND SEX HORMONES,Ovarian Hormones,Pregnancy Maintenance Assay Progestional Activity,In vivo efficacy,,Vogel_2008
+278,GENITO URINARY SYSTEM AND SEX HORMONES,Ovarian Hormones,Uterine Weight Assay,In vivo efficacy,,Vogel_2008
+279,GENITO URINARY SYSTEM AND SEX HORMONES,Ovarian Hormones,Vaginal Cornification Assay,In vivo efficacy,,Vogel_2008
+280,GENITO URINARY SYSTEM AND SEX HORMONES,Testicular Steroid Hormones,General Androgen Activity,In vivo efficacy,,phenotype
+281,GENITO URINARY SYSTEM AND SEX HORMONES,Testicular Steroid Hormones,General Hormonal Activity,In vivo efficacy,,phenotype
+282,GENITO URINARY SYSTEM AND SEX HORMONES,Testicular Steroid Hormones,Intra-Uterine Feminizing / Virilizing Effect,In vivo efficacy,,Vogel_2008
+283,GENITO URINARY SYSTEM AND SEX HORMONES,Testicular Steroid Hormones,Nitrogen Retention Anabolic Agents,In vivo efficacy,,Vogel_2008
+284,GENITO URINARY SYSTEM AND SEX HORMONES,Testicular Steroid Hormones,Weight of Androgen-Dependent Organs in Rats,In vivo efficacy,,Vogel_2008
+285,GENITO URINARY SYSTEM AND SEX HORMONES,Uricosuric and Hypo-Uricemic Activity,Diuretic and Uricosuric Activity in Mice,In vivo efficacy,,Vogel_2008
+286,GENITO URINARY SYSTEM AND SEX HORMONES,Uricosuric and Hypo-Uricemic Activity,Hypouricemic Activity After Allantoxanamide Treatment in Rats,In vivo efficacy,,Vogel_2008
+287,GENITO URINARY SYSTEM AND SEX HORMONES,Uricosuric and Hypo-Uricemic Activity,Hypouricemic and Uricosuric Activity After Potassium Oxonate Treatment in Rats,In vivo efficacy,,Vogel_2008
+288,GENITO URINARY SYSTEM AND SEX HORMONES,Uricosuric and Hypo-Uricemic Activity,Phenol Red Excretion in Rats,In vivo efficacy,,Vogel_2008
+289,MUSCULO-SKELETAL SYSTEM,Anti-Arthrotic Activity,Canine Anterior Cruciate Ligament (ACL) Transection Model,In vivo efficacy,,Vogel_2008
+290,MUSCULO-SKELETAL SYSTEM,Anti-Arthrotic Activity,Chymopapain Induced Cartilage Degeneration in the Rabbit,In vivo efficacy,,Hock_2016
+291,MUSCULO-SKELETAL SYSTEM,Anti-Arthrotic Activity,General Osteoarthritis Models,In vivo efficacy,,phenotype
+292,MUSCULO-SKELETAL SYSTEM,Anti-Arthrotic Activity,Spontaneous Osteoarthritis OA Model in STR/1N Mice,In vivo efficacy,,Hock_2016
+293,MUSCULO-SKELETAL SYSTEM,Anti-Arthrotic Activity,Transgenic Mice as Models of Osteoarthritis,In vivo efficacy,,Hock_2016
+294,MUSCULO-SKELETAL SYSTEM,Anti-Inflammatory Activity,Cotton Wool Granuloma for Anti-Inflammatory Activity,In vivo efficacy,,Vogel_2008
+295,MUSCULO-SKELETAL SYSTEM,Anti-Inflammatory Activity,Croton Oil Ear Edema,In vivo efficacy,,Vogel_2008
+296,MUSCULO-SKELETAL SYSTEM,Anti-Inflammatory Activity,General Anti-Inflammatory Models,In vivo efficacy,,phenotype
+297,MUSCULO-SKELETAL SYSTEM,Anti-Inflammatory Activity,General Granuloma Models,In vivo efficacy,,phenotype
+298,MUSCULO-SKELETAL SYSTEM,Anti-Inflammatory Activity,Glass Rod Granuloma for Anti-Inflammatory Activity,In vivo efficacy,,Vogel_2008
+299,MUSCULO-SKELETAL SYSTEM,Anti-Inflammatory Activity,Granuloma Pouch Technique,In vivo efficacy,,Hock_2016
+300,MUSCULO-SKELETAL SYSTEM,Anti-Inflammatory Activity,Oxazolone Induced Ear Edema in Mice,In vivo efficacy,,Hock_2016
+301,MUSCULO-SKELETAL SYSTEM,Anti-Inflammatory Activity,Paw Edema Test,In vivo efficacy,,Hock_2016
+302,MUSCULO-SKELETAL SYSTEM,Anti-Inflammatory Activity,Pleurisy Test for Anti-Inflammatory Activity,In vivo efficacy,,Hock_2016
+303,MUSCULO-SKELETAL SYSTEM,Anti-Inflammatory Activity,Sponge Implantation Technique for Anti-Inflammatory Activity,In vivo efficacy,,Vogel_2008
+304,MUSCULO-SKELETAL SYSTEM,Anti-Inflammatory Activity,Ultraviolet Erythema in Guinea Pigs,In vivo efficacy,,Hock_2016
+305,MUSCULO-SKELETAL SYSTEM,Anti-Inflammatory Activity,Vascular Permeability for Anti-Inflammatory Activity,In vivo efficacy,,Vogel_2008
+306,MUSCULO-SKELETAL SYSTEM,Neuromuscular Blocking Activity,Evaluation of Neuromuscular Blockade in Anesthetized Mice Neuromuscular Blocking Agent,In vivo efficacy,,Vogel_2008
+307,MUSCULO-SKELETAL SYSTEM,Neuromuscular Blocking Activity,Isolated Phrenic Nerve Diaphragm Preparation of the Rat Neuromuscular Blocking Agent,In vivo efficacy,,Vogel_2008
+308,NERVOUS SYSTEM,Analgesic Activity,General Analgesic Nociceptic and Allodynic Activity,In vivo efficacy,,phenotype
+309,NERVOUS SYSTEM,Animal Models of Neurological Diseases,3-Nitropropionic Acid Animal Model of Huntingtons Disease,In vivo efficacy,,Vogel_2008
+310,NERVOUS SYSTEM,Animal Models of Neurological Diseases,Models of Wilsons Disease Copper Metabolism,In vivo efficacy,,Vogel_2008
+311,NERVOUS SYSTEM,Animal Models of Neurological Diseases,Quinolinic Acid Rat Model of Huntingtons Disease,In vivo efficacy,,Vogel_2008
+312,NERVOUS SYSTEM,Anti-Depressant Activity,5-Hydroxytryptophan Potentiation,In vivo efficacy,,Vogel_2008
+313,NERVOUS SYSTEM,Anti-Depressant Activity,Animal Models of Bipolar Disorder,In vivo efficacy,,Vogel_2008
+314,NERVOUS SYSTEM,Anti-Depressant Activity,Animal Models of Obsessive Compulsive Disorder,In vivo efficacy,,Hock_2016
+315,NERVOUS SYSTEM,Anti-Depressant Activity,Anti-Depressant Like Activity in Differential Reinforcement of Low Rate DRL 72-Second Schedule,In vivo efficacy,,Vogel_2008
+316,NERVOUS SYSTEM,Anti-Depressant Activity,Apomorphine Induced Hypothermia in Mice,In vivo efficacy,,Vogel_2008
+317,NERVOUS SYSTEM,Anti-Depressant Activity,Behavioral Changes After Neonatal Clomipramine Treatment,In vivo efficacy,,Vogel_2008
+318,NERVOUS SYSTEM,Anti-Depressant Activity,Chronic Stress Model of Depression,In vivo efficacy,,Vogel_2008
+319,NERVOUS SYSTEM,Anti-Depressant Activity,Compulsive Gnawing in Mice,In vivo efficacy,,Vogel_2008
+320,NERVOUS SYSTEM,Anti-Depressant Activity,Despair Swim Test,In vivo efficacy,,Hock_2016
+321,NERVOUS SYSTEM,Anti-Depressant Activity,General Anti-Depressant Activity,In vivo efficacy,,phenotype
+322,NERVOUS SYSTEM,Anti-Depressant Activity,General Hypothermia,In vivo efficacy,,phenotype
+323,NERVOUS SYSTEM,Anti-Depressant Activity,Hypermotility in Olfactory Bulbectomized Rats,In vivo efficacy,,Vogel_2008
+324,NERVOUS SYSTEM,Anti-Depressant Activity,Learned Helplessness in Rats,In vivo efficacy,,Vogel_2008
+325,NERVOUS SYSTEM,Anti-Depressant Activity,Muricide Behavior in Rats,In vivo efficacy,,Hock_2016
+326,NERVOUS SYSTEM,Anti-Depressant Activity,Novelty Induced Hypophagia Test,In vivo efficacy,,Vogel_2008
+327,NERVOUS SYSTEM,Anti-Depressant Activity,Potentiation of Norepinephrine Toxicity,In vivo efficacy,,Vogel_2008
+328,NERVOUS SYSTEM,Anti-Depressant Activity,Reduction of Submissive Behavior,In vivo efficacy,,Vogel_2008
+329,NERVOUS SYSTEM,Anti-Depressant Activity,Reserpine Induced Hypothermia,In vivo efficacy,,Vogel_2008
+330,NERVOUS SYSTEM,Anti-Depressant Activity,Serotonin Syndrome in Rats,In vivo efficacy,,Vogel_2008
+331,NERVOUS SYSTEM,Anti-Depressant Activity,Sexual Behavior in Male Rats,In vivo efficacy,,Vogel_2008
+332,NERVOUS SYSTEM,Anti-Depressant Activity,Tail Suspension Test in Mice,In vivo efficacy,,Hock_2016
+333,NERVOUS SYSTEM,Anti-Depressant Activity,Tetrabenazine TBZ Antagonism in Mice,In vivo efficacy,,Vogel_2008
+334,NERVOUS SYSTEM,Anti-Depressant Activity,Tryptamine Seizure Potentiation in Rats,In vivo efficacy,,Vogel_2008
+335,NERVOUS SYSTEM,Anti-Depressant Activity,Yohimbine Toxicity Enhancement,In vivo efficacy,,Vogel_2008
+336,NERVOUS SYSTEM,Anti-Epileptic Activity,3-Nitropropionic Acid Induced Seizures in Mice,In vivo efficacy,,Vogel_2008
+337,NERVOUS SYSTEM,Anti-Epileptic Activity,4-Aminopyridine Induced Seizures in Mice,In vivo efficacy,,Vogel_2008
+338,NERVOUS SYSTEM,Anti-Epileptic Activity,Bicuculline Test in Rats,In vivo efficacy,,Vogel_2008
+339,NERVOUS SYSTEM,Anti-Epileptic Activity,Electroshock in Mice,In vivo efficacy,,Hock_2016
+340,NERVOUS SYSTEM,Anti-Epileptic Activity,Epilepsy Induced by Focal Lesions,In vivo efficacy,,Vogel_2008
+341,NERVOUS SYSTEM,Anti-Epileptic Activity,General Anti-Convulsant Activity,In vivo efficacy,,phenotype
+342,NERVOUS SYSTEM,Anti-Epileptic Activity,General Anti-Epileptic Activity,In vivo efficacy,,phenotype
+343,NERVOUS SYSTEM,Anti-Epileptic Activity,"Genetic Animal Models of Epilepsy: Tremor rat (tm/tm), NER rat strain, genetic epileptic WAG/RiJ rat, Genetic Absence Epilepsy Rat (GAERS), epileptic rat mutant, kindling-prone and kindling-resistant rat, Flathead rat (FH), Wakayama epileptic rat (WER), tottering mouse, leaner mutant mouse, quaking mouse, stargazer mutant mouse, lethargic (lh/lh) mouse, audiogenic seizure suceptible mouse, Wistar Audiogenic Rat (WAR), genetically epilepsy-prone rat (GEPR)",In vivo efficacy,,Vogel_2008
+344,NERVOUS SYSTEM,Anti-Epileptic Activity,Isoniazid Induced Convulsions,In vivo efficacy,,Hock_2016
+345,NERVOUS SYSTEM,Anti-Epileptic Activity,Kindled Rat Seizure Model,In vivo efficacy,,Vogel_2008
+346,NERVOUS SYSTEM,Anti-Epileptic Activity,Pentylenetetrazole Metrazol Induced Convulsions,In vivo efficacy,,Hock_2016
+347,NERVOUS SYSTEM,Anti-Epileptic Activity,Picrotoxin Induced Convulsions,In vivo efficacy,,Hock_2016
+348,NERVOUS SYSTEM,Anti-Epileptic Activity,Pilocarpine Model of Epilepsy,In vivo efficacy,,Hock_2016
+349,NERVOUS SYSTEM,Anti-Epileptic Activity,Posthypoxic Myoclonus in Rats,In vivo efficacy,,Vogel_2008
+350,NERVOUS SYSTEM,Anti-Epileptic Activity,Rat Kainate Model of Epilepsy,In vivo efficacy,,Vogel_2008
+351,NERVOUS SYSTEM,Anti-Epileptic Activity,Rat Model of Cortical Dysplasia,In vivo efficacy,,Hock_2016
+352,NERVOUS SYSTEM,Anti-Epileptic Activity,Self-Sustained Status Epilepticus,In vivo efficacy,,Vogel_2008
+353,NERVOUS SYSTEM,Anti-Epileptic Activity,Strychnine Induced Convulsions,In vivo efficacy,,Hock_2016
+354,NERVOUS SYSTEM,Anti-Epileptic Activity,Yohimbine Induced Convulsions,In vivo efficacy,,Vogel_2008
+355,NERVOUS SYSTEM,Anti-Parkinsonism Activity,Circling Behavior in Nigrostriatal Lesioned Rats,In vivo efficacy,,Vogel_2008
+356,NERVOUS SYSTEM,Anti-Parkinsonism Activity,Elevated Body Swing Test ,In vivo efficacy,,Vogel_2008
+357,NERVOUS SYSTEM,Anti-Parkinsonism Activity,General Anti-Parkinson Activity,In vivo efficacy,,phenotype
+358,NERVOUS SYSTEM,Anti-Parkinsonism Activity,"N-methyl4phenyl1,2,3,6tetrahydropyridine MPTP Model of Parkinsons Disease",In vivo efficacy,,Vogel_2008
+359,NERVOUS SYSTEM,Anti-Parkinsonism Activity,Reserpine Antagonism,In vivo efficacy,,Hock_2016
+360,NERVOUS SYSTEM,Anti-Parkinsonism Activity,Skilled Paw Reaching in Rats,In vivo efficacy,,Vogel_2008
+361,NERVOUS SYSTEM,Anti-Parkinsonism Activity,Stepping Test in Rats,In vivo efficacy,,Vogel_2008
+362,NERVOUS SYSTEM,Anti-Parkinsonism Activity,Tremorine and Oxotremorine Antagonism,In vivo efficacy,,Vogel_2008
+363,NERVOUS SYSTEM,Anti-Pyretic Activity,Anti-Pyretic Testing in Rats,In vivo efficacy,,Hock_2016
+364,NERVOUS SYSTEM,Central Analgesic Activity,Chemotherapy Induced Pain for Peripheral Neuropathic Pain,In vivo efficacy,,Vogel_2008
+365,NERVOUS SYSTEM,Central Analgesic Activity,Chronic Nerve Constriction Injury for Neuropathic Pain,In vivo efficacy,,Vogel_2008
+366,NERVOUS SYSTEM,Central Analgesic Activity,Electrical Stimulation of the Tail for Analgesic Activity,In vivo efficacy,,Vogel_2008
+367,NERVOUS SYSTEM,Central Analgesic Activity,Formalin Test for Chronic Pain,In vivo efficacy,,Hock_2016
+368,NERVOUS SYSTEM,Central Analgesic Activity,Grid Shock Test,In vivo efficacy,,Hock_2016
+369,NERVOUS SYSTEM,Central Analgesic Activity,Haffners Tail Clip Method,In vivo efficacy,,Hock_2016
+370,NERVOUS SYSTEM,Central Analgesic Activity,Hot Plate Method,In vivo efficacy,,Hock_2016
+371,NERVOUS SYSTEM,Central Analgesic Activity,Peripheral Nerve Injury Model for Neuropathic Pain,In vivo efficacy,,Vogel_2008
+372,NERVOUS SYSTEM,Central Analgesic Activity,Radiant Heat Method,In vivo efficacy,,Hock_2016
+373,NERVOUS SYSTEM,Central Analgesic Activity,Spared Nerve Injury Model for Persistent Peripheral Neuropathic Pain,In vivo efficacy,,Vogel_2008
+374,NERVOUS SYSTEM,Central Analgesic Activity,Spinal Cord Injury for Chronic Central Neuropathic Pain,In vivo efficacy,,Vogel_2008
+375,NERVOUS SYSTEM,Central Analgesic Activity,Tail Immersion Test,In vivo efficacy,,Hock_2016
+376,NERVOUS SYSTEM,Central Analgesic Activity,Trigeminal Neuropathic Pain Model,In vivo efficacy,,Vogel_2008
+377,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,Chimney Test,In vivo efficacy,,Hock_2016
+378,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,Combined Open Field Test,In vivo efficacy,,Vogel_2008
+379,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,EEG Electroencephalography Analysis From Rat Brain by Telemetry,In vivo efficacy,,Vogel_2008
+380,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,General Behavioural Responses,In vivo efficacy,,phenotype
+381,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,Grip Strength,In vivo efficacy,,Hock_2016
+382,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,Hole-Board Test,In vivo efficacy,,Hock_2016
+383,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,Inclined Plane,In vivo efficacy,,Vogel_2008
+384,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,Influence on Polysynaptic Reflexes,In vivo efficacy,,Vogel_2008
+385,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,Masticatory Muscle Reflexes,In vivo efficacy,,Vogel_2008
+386,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,Method of Intermittent Observations,In vivo efficacy,,Vogel_2008
+387,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,Observational Assessment,In vivo efficacy,,Hock_2016
+388,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,Open Field Test,In vivo efficacy,,Hock_2016
+389,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,Rotarod Method,In vivo efficacy,,Hock_2016
+390,NERVOUS SYSTEM,Effects on Behavior and Muscle Coordination,Treadmill Performance,In vivo efficacy,,Vogel_2008
+391,NERVOUS SYSTEM,General Anesthetics,Determination of Minimal Alveolar Anesthetic Concentration MAC,In vivo efficacy,,Vogel_2008
+392,NERVOUS SYSTEM,General Anesthetics,Efficacy and Safety of Inhalation Anesthetics,In vivo efficacy,,Vogel_2008
+393,NERVOUS SYSTEM,General Anesthetics,Electroencephalograph EEG Threshold Test in Rats,In vivo efficacy,,Vogel_2008
+394,NERVOUS SYSTEM,General Anesthetics,Screening of Intravenous Anesthetics Righting Reflex,In vivo efficacy,,Hock_2016
+395,NERVOUS SYSTEM,General Anesthetics,Screening of Volatile Anesthetics Inhalation,In vivo efficacy,,Vogel_2008
+396,NERVOUS SYSTEM,Hypnotic Activity,Experimental Insomnia in Rats,In vivo efficacy,,Hock_2016
+397,NERVOUS SYSTEM,Hypnotic Activity,General Hypnotic Activity,In vivo efficacy,,phenotype
+398,NERVOUS SYSTEM,Hypnotic Activity,Potentiation of Hexobarbital Sleeping Time,In vivo efficacy,,Hock_2016
+399,NERVOUS SYSTEM,Learning and Memory,Active Allothetic Place Avoidance Task Discrimination Learning,In vivo efficacy,,Vogel_2008
+400,NERVOUS SYSTEM,Learning and Memory,General Active Avoidance Learning,In vivo efficacy,,phenotype
+401,NERVOUS SYSTEM,Learning and Memory,General Anti-Alzheimer Activity,In vivo efficacy,,phenotype
+402,NERVOUS SYSTEM,Learning and Memory,General Conditioned Avoidance Response,In vivo efficacy,,phenotype
+403,NERVOUS SYSTEM,Learning and Memory,General Electrophysiological Methods,In vivo efficacy,,phenotype
+404,NERVOUS SYSTEM,Learning and Memory,General Inhibitory (Passive) Avoidance Learning,In vivo efficacy,,phenotype
+405,NERVOUS SYSTEM,Learning and Memory,General Learning and Memory Models,In vivo efficacy,,phenotype
+406,NERVOUS SYSTEM,Learning and Memory,Jumping Active Avoidance Learning (One-Way Shuttle Box),In vivo efficacy,,Vogel_2008
+407,NERVOUS SYSTEM,Learning and Memory,Long Latency Averaged Potentials Electrophysiological Method for Memory-Enhancing drugs,In vivo efficacy,,Vogel_2008
+408,NERVOUS SYSTEM,Learning and Memory,Memory Deficits After Cerebral Lesions ,In vivo efficacy,,Vogel_2008
+409,NERVOUS SYSTEM,Learning and Memory,Olfactory Discrimination Learning,In vivo efficacy,,Vogel_2008
+410,NERVOUS SYSTEM,Learning and Memory,Runway Active Avoidance Learning,In vivo efficacy,,Vogel_2008
+411,NERVOUS SYSTEM,Learning and Memory,Scopolamine Induced Amnesia in Mice Inhibitory-Avoidance Learning,In vivo efficacy,,Vogel_2008
+412,NERVOUS SYSTEM,Learning and Memory,Shuttle Box Active Avoidance Learning (Two-Way Shuttle Box),In vivo efficacy,,Vogel_2008
+413,NERVOUS SYSTEM,Learning and Memory,Sodium Nitrite Intoxication NaNO2 Metabolic Influence on Learning and Memory,In vivo efficacy,,Vogel_2008
+414,NERVOUS SYSTEM,Learning and Memory,Spatial Discrimination Learning Y-Maze or T-Maze,In vivo efficacy,,Vogel_2008
+415,NERVOUS SYSTEM,Learning and Memory,Spatial Discrimination Learning in the Radial Arm Maze,In vivo efficacy,,Vogel_2008
+416,NERVOUS SYSTEM,Learning and Memory,Spatial Discrimination Learning in the Water Maze,In vivo efficacy,,Vogel_2008
+417,NERVOUS SYSTEM,Learning and Memory,Spatial Habituation Discrimination Learning Open-Field,In vivo efficacy,,Vogel_2008
+418,NERVOUS SYSTEM,Learning and Memory,Step down Inhibitory Avoidance Learning,In vivo efficacy,,Vogel_2008
+419,NERVOUS SYSTEM,Learning and Memory,Step through Inhibitory Avoidance Learning,In vivo efficacy,,Vogel_2008
+420,NERVOUS SYSTEM,Learning and Memory,Two Compartment Test Inhibitory Avoidance Learning,In vivo efficacy,,Vogel_2008
+421,NERVOUS SYSTEM,Learning and Memory,Up Hill Avoidance Inhibitory-Avoidance Learning,In vivo efficacy,,Vogel_2008
+422,NERVOUS SYSTEM,Learning and Memory,Visual Discrimination Learning,In vivo efficacy,,Vogel_2008
+423,NERVOUS SYSTEM,Local Anesthetic Activity,Conduction Anesthesia in the Sciatic Nerve of the Rat,In vivo efficacy,,Vogel_2008
+424,NERVOUS SYSTEM,Local Anesthetic Activity,Conduction Anesthesia on the Mouse Tail Tail-Flick Assay,In vivo efficacy,,Hock_2016
+425,NERVOUS SYSTEM,Local Anesthetic Activity,Epidural Anesthesia Using Cannulation of the Thoracic Epidural Space,In vivo efficacy,,Vogel_2008
+426,NERVOUS SYSTEM,Local Anesthetic Activity,General Models of Local Anesthetic Activity,In vivo efficacy,,phenotype
+427,NERVOUS SYSTEM,Local Anesthetic Activity,Infiltration Anesthesia in Mouse Skin,In vivo efficacy,,Vogel_2008
+428,NERVOUS SYSTEM,Local Anesthetic Activity,Infraorbital Nerve Block in the Rat Conduction Anesthesia,In vivo efficacy,,Vogel_2008
+429,NERVOUS SYSTEM,Local Anesthetic Activity,Intrathecal it (Spinal) Anesthesia in Rat,In vivo efficacy,,Vogel_2008
+430,NERVOUS SYSTEM,NMRI Methods in Psychoneuropharmacology,NMRI Studies of Brain Activation in Rats,In vivo efficacy,,Vogel_2008
+431,NERVOUS SYSTEM,NMRI Methods in Psychoneuropharmacology,NMRI Study of 3-Nitropropionic Acid Induced Neurodegeneration in Rats,In vivo efficacy,,Vogel_2008
+432,NERVOUS SYSTEM,NMRI Methods in Psychoneuropharmacology,NMRI Study of Experimental Allergic Encephalomyelitis in Rats,In vivo efficacy,,Hock_2016
+433,NERVOUS SYSTEM,Neuroleptic Activity,Amphetamine Group Toxicity,In vivo efficacy,,Hock_2016
+434,NERVOUS SYSTEM,Neuroleptic Activity,Antagonism Against Dizocilpine (MK-801) Induced Behavior,In vivo efficacy,,Hock_2016
+435,NERVOUS SYSTEM,Neuroleptic Activity,Artificial Hibernation in Rats,In vivo efficacy,,Vogel_2008
+436,NERVOUS SYSTEM,Neuroleptic Activity,Brain Self Stimulation,In vivo efficacy,,Hock_2016
+437,NERVOUS SYSTEM,Neuroleptic Activity,Catalepsy in Rodents ,In vivo efficacy,,Hock_2016
+438,NERVOUS SYSTEM,Neuroleptic Activity,General Psychotic and Neuroleptic Activity,In vivo efficacy,,phenotype
+439,NERVOUS SYSTEM,Neuroleptic Activity,In Vivo Voltammetry,In vivo efficacy,,Vogel_2008
+440,NERVOUS SYSTEM,Neuroleptic Activity,Influence on Behavior of the Cotton Rat,In vivo efficacy,,Vogel_2008
+441,NERVOUS SYSTEM,Neuroleptic Activity,Inhibition of Amphetamine Stereotypy in Rats,In vivo efficacy,,Hock_2016
+442,NERVOUS SYSTEM,Neuroleptic Activity,Inhibition of Apomorphine Climbing in Mice,In vivo efficacy,,Hock_2016
+443,NERVOUS SYSTEM,Neuroleptic Activity,Inhibition of Apomorphine Induced Emesis in the Dog,In vivo efficacy,,Hock_2016
+444,NERVOUS SYSTEM,Neuroleptic Activity,Inhibition of Apomorphine Stereotypy in Rats,In vivo efficacy,,Hock_2016
+445,NERVOUS SYSTEM,Neuroleptic Activity,Inhibition of Mouse Jumping,In vivo efficacy,,Hock_2016
+446,NERVOUS SYSTEM,Neuroleptic Activity,Latent Inhibition,In vivo efficacy,,Vogel_2008
+447,NERVOUS SYSTEM,Neuroleptic Activity,Models of Tardive Dyskinesia,In vivo efficacy,,Vogel_2008
+448,NERVOUS SYSTEM,Neuroleptic Activity,N40 Sensory Gating,In vivo efficacy,,Vogel_2008
+449,NERVOUS SYSTEM,Neuroleptic Activity,Phencyclidine Model of Psychosis,In vivo efficacy,,Hock_2016
+450,NERVOUS SYSTEM,Neuroleptic Activity,Pole Climb Avoidance in Rats,In vivo efficacy,,Hock_2016
+451,NERVOUS SYSTEM,Neuroleptic Activity,Prepulse Inhibition of Startle Response,In vivo efficacy,,Vogel_2008
+452,NERVOUS SYSTEM,Neuroleptic Activity,Purposeless Chewing in Rats,In vivo efficacy,,Vogel_2008
+453,NERVOUS SYSTEM,Neuroleptic Activity,Single Unit Recording of A9 and A10 Midbrain Dopaminergic Neurons,In vivo efficacy,,Vogel_2008
+454,NERVOUS SYSTEM,Neuroleptic Activity,Yawning-Penile Erection Syndrome in Rats,In vivo efficacy,,Hock_2016
+455,NERVOUS SYSTEM,Peripheral Analgesic Activity,Antagonism Against Local Effects of Bradykinin for Analgesic Activity,In vivo efficacy,,Vogel_2008
+456,NERVOUS SYSTEM,Peripheral Analgesic Activity,Mechanical Visceral Pain Model,In vivo efficacy,,Hock_2016
+457,NERVOUS SYSTEM,Peripheral Analgesic Activity,Nerve Growth Factor Antagonism for Analgesic Activity,In vivo efficacy,,Vogel_2008
+458,NERVOUS SYSTEM,Peripheral Analgesic Activity,Pain in Inflamed Tissue (Randall-Selitto Test) for Analgesic Activity,In vivo efficacy,,Hock_2016
+459,NERVOUS SYSTEM,Peripheral Analgesic Activity,Writhing Test for Analgesic Activity,In vivo efficacy,,Hock_2016
+460,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Acoustic Startle Response in Rats,In vivo efficacy,,Hock_2016
+461,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Anti-Anxiety Test Light-Dark Model,In vivo efficacy,,Hock_2016
+462,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Anticipatory Anxiety in Mice,In vivo efficacy,,Vogel_2008
+463,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Anxiety Defense Test Battery in Rats,In vivo efficacy,,Vogel_2008
+464,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Aversive Brain Stimulation,In vivo efficacy,,Vogel_2008
+465,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Benzodiazepine Tolerance and Dependence in Rats,In vivo efficacy,,Vogel_2008
+466,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Conditioned Defensive Burying in Rats,In vivo efficacy,,Vogel_2008
+467,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Cork Gnawing Test in the Rat,In vivo efficacy,,Vogel_2008
+468,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Cued and Contextual Fear Conditioning,In vivo efficacy,,Vogel_2008
+469,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Distress Vocalization in Rat Pups,In vivo efficacy,,Vogel_2008
+470,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Elevated Plus Maze Test,In vivo efficacy,,Hock_2016
+471,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Experimental Anxiety in Mice,In vivo efficacy,,Vogel_2008
+472,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Foot Shock Induced Aggression,In vivo efficacy,,Hock_2016
+473,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Foot Shock Induced Freezing Behavior in Rats,In vivo efficacy,,Vogel_2008
+474,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Four Plate Test in Mice,In vivo efficacy,,Vogel_2008
+475,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Geller Conflict Paradigm,In vivo efficacy,,Vogel_2008
+476,NERVOUS SYSTEM,Tests for Anxiolytic Activity,General Anti-Aggressive Activity,In vivo efficacy,,phenotype
+477,NERVOUS SYSTEM,Tests for Anxiolytic Activity,General Anxiolytic Activity,In vivo efficacy,,phenotype
+478,NERVOUS SYSTEM,Tests for Anxiolytic Activity,General Conditioned Behavioural Response,In vivo efficacy,,phenotype
+479,NERVOUS SYSTEM,Tests for Anxiolytic Activity,General Locomotor Activity,In vivo efficacy,,phenotype
+480,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Isolation Induced Aggression,In vivo efficacy,,Hock_2016
+481,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Maternal Aggression in Rats,In vivo efficacy,,Vogel_2008
+482,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Novelty Suppressed Feeding,In vivo efficacy,,Vogel_2008
+483,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Plasma Catecholamine Levels During and After Stress,In vivo efficacy,,Vogel_2008
+484,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Plasma Corticosterone Levels Influenced by Psychotropic Drugs,In vivo efficacy,,Vogel_2008
+485,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Progressive Ratio Procedure,In vivo efficacy,,Vogel_2008
+486,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Repetitive Transcranial Magnetic Stimulation,In vivo efficacy,,Vogel_2008
+487,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Resident-Intruder Aggression Test,In vivo efficacy,,Vogel_2008
+488,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Schedule Induced Polydipsia in Rats,In vivo efficacy,,Hock_2016
+489,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Shock Probe Conflict Procedure,In vivo efficacy,,Vogel_2008
+490,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Sidman Avoidance Paradigm,In vivo efficacy,,Vogel_2008
+491,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Social Interaction in Rats,In vivo efficacy,,Vogel_2008
+492,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Staircase Test,In vivo efficacy,,Vogel_2008
+493,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Taste Aversion Paradigm,In vivo efficacy,,Vogel_2008
+494,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Ultrasound Induced Defensive Behavior in Rats,In vivo efficacy,,Vogel_2008
+495,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Unconditioned Conflict Procedure Vogel Test,In vivo efficacy,,Vogel_2008
+496,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Water Competition Test,In vivo efficacy,,Vogel_2008
+497,NERVOUS SYSTEM,Tests for Anxiolytic Activity,Water Maze Test,In vivo efficacy,,Hock_2016
+498,NERVOUS SYSTEM,Tests for Anxiolytic Activity,mCPP trazadone 1-(3-chlorophenyl)piperazine Induced Anxiety in Rats,In vivo efficacy,,Vogel_2008
+499,RESPIRATORY SYSTEM,Effects on Air Ways,Bleomycin Induced Pulmonary Fibrosis,In vivo efficacy,,Vogel_2008
+500,RESPIRATORY SYSTEM,Effects on Air Ways,Bronchospasmolytic Activity in Anesthetized Guinea Pigs (Konzett Rossler method),In vivo efficacy,,Hock_2016
+501,RESPIRATORY SYSTEM,Effects on Air Ways,Effect of Arachidonic Acid or PAF on Respiratory Function In Vivo,In vivo efficacy,,Hock_2016
+502,RESPIRATORY SYSTEM,Effects on Air Ways,Emphysema Models,In vivo efficacy,,Vogel_2008
+503,RESPIRATORY SYSTEM,Effects on Air Ways,General Airway Models,In vivo efficacy,,phenotype
+504,RESPIRATORY SYSTEM,Effects on Air Ways,Isolated Larynx In Situ,In vivo efficacy,,Vogel_2008
+505,RESPIRATORY SYSTEM,Effects on Air Ways,Models of Chronic Obstructive Pulmonary Disease COPD,In vivo efficacy,,Vogel_2008
+506,RESPIRATORY SYSTEM,Effects on Air Ways,Prevention of Allergic Asthma Reaction,In vivo efficacy,,Vogel_2008
+507,RESPIRATORY SYSTEM,Effects on Tracheal Cells and Bronchial Mucus Secretion and Transport,Acute Studies of Mucus Secretion,In vivo efficacy,,Vogel_2008
+508,SENSORY ORGANS,Intraocular Pressure,Allergic Conjunctivitis Eye Inflammation,In vivo efficacy,,Vogel_2008
+509,SENSORY ORGANS,Intraocular Pressure,Alpha-Chymotrypsin Induced Glaucoma,In vivo efficacy,,Vogel_2008
+510,SENSORY ORGANS,Intraocular Pressure,Aqueous Humor Flow Rate,In vivo efficacy,,Vogel_2008
+511,SENSORY ORGANS,Intraocular Pressure,Autoimmune Uveitis in Rats,In vivo efficacy,,Vogel_2008
+512,SENSORY ORGANS,Intraocular Pressure,Diabetic Cataract Formation in Sprague Dawley Rats by Streptozocin,In vivo efficacy,,Vogel_2008
+513,SENSORY ORGANS,Intraocular Pressure,Episcleral Venous Occlusion Induced Glaucoma in Rats,In vivo efficacy,,Vogel_2008
+514,SENSORY ORGANS,Intraocular Pressure,Measurement of Intraocular Pressure,In vivo efficacy,,Hock_2016
+515,SENSORY ORGANS,Intraocular Pressure,N-Methyl-N-Nitrosourea (MNU) Cataract Induction in Sprague-Dawley Rats,In vivo efficacy,,Vogel_2008
+516,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Adrenal and Thymus Involution,In vivo efficacy,,Vogel_2008
+517,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Adrenalectomy in Rats,In vivo efficacy,,Vogel_2008
+518,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Breaking Strength of Bones Effects by Corticosteroids,In vivo efficacy,,Vogel_2008
+519,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,"Effect of Chronic Treatment on Thymus, Spleen, Adrenal, and Body Weight by Corticoid Hormone",In vivo efficacy,,Vogel_2008
+520,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Effect on Epidermal DNA Synthesis by Topical Effects of Glucocorticosteroids on Skin,In vivo efficacy,,Vogel_2008
+521,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Electrolyte Excretion to assess Corticosteroids,In vivo efficacy,,Vogel_2008
+522,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Eosinopenia in Adrenalectomized Mice,In vivo efficacy,,Vogel_2008
+523,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Increased Blood Glucose in Rats Hyperglycemia Induced by Corticoid Hormone,In vivo efficacy,,Vogel_2008
+524,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Induction of Drug-Metabolizing Enzymes by Topical Effects of Glucocorticosteroids on Skin,In vivo efficacy,,Vogel_2008
+525,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Liver Glycogen Depostion Test in Rats,In vivo efficacy,,Vogel_2008
+526,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Skin Atrophy After Chronic Corticoid Application,In vivo efficacy,,Vogel_2008
+527,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Skin Thickness and Tensile Strength by Topical Effects of Glucocorticosteroids on Skin,In vivo efficacy,,Vogel_2008
+528,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Tensile Strength of Femoral Epiphyseal Cartilage in Rats by Corticosteroids,In vivo efficacy,,Vogel_2008
+529,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Tensile Strength of Skin Strips in Rats by Corticosteroids,In vivo efficacy,,Vogel_2008
+530,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Adrenal Steroid Hormones,Tensile Strength of Tail Tendons in Rats by Corticosteroids,In vivo efficacy,,Vogel_2008
+531,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Adrenal Ascorbic Acid Depletion by Adrenocorticotropin (ACTH),In vivo efficacy,,Vogel_2008
+532,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Ascorbic Acid Depletion of Ovaries in PMSG / hCG-Primed Rats by Luteinizing Hormone (LH) or Interstitial Cell Stimulating Hormone (ICSH),In vivo efficacy,,Vogel_2008
+533,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Biological Assay of PMSG (Pregnant Mares Serum Gonadotropin) in Immature Female Rats,In vivo efficacy,,Vogel_2008
+534,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Biological Assay of hCG (Human Chorionic Gonadotropin) in Immature Male Rats,In vivo efficacy,,Vogel_2008
+535,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Biological Assay of hMG in Immature Rats (Human Menopausal Gonadotropin),In vivo efficacy,,Vogel_2008
+536,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Corpus Luteum Formation in Immature Mice (Aschheim-Zondek Test) for Pituitary Gonadotropins,In vivo efficacy,,Vogel_2008
+537,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Corticosterone Blood Levels in Dexamethasone-Blocked Rats by Adrenocorticotropin (ACTH),In vivo efficacy,,Vogel_2008
+538,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,General Growth Hormone Activity,In vivo efficacy,,phenotype
+539,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,General Luteinizing Hormone (LH) or Interstitial Cell Stimulating Hormone (ICSH) Activity,In vivo efficacy,,phenotype
+540,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Inhibition of Fertility by Steroids that Inhibit Pituitary gonadotropin secretion or compete at the progesterone receptor ,In vivo efficacy,,Vogel_2008
+541,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Inhibition of Gonadotropin Secretion,In vivo efficacy,,Vogel_2008
+542,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Inhibition of Ovulation and Luteinization for Gonadotropin Inhibition,In vivo efficacy,,Vogel_2008
+543,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Iodine Uptake for Thyroid Activation ,In vivo efficacy,,Vogel_2008
+544,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Ovarian Weight in hCG-Primed Rats (Human Chorionic Gonadotropin) by Follicle-Stimulating Hormone (FSH),In vivo efficacy,,Vogel_2008
+545,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Ovary-Spleen Transplantation for Gonadal Steroids,In vivo efficacy,,Vogel_2008
+546,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Prostate Weight in Hypophysectomized Rats by Luteinizing Hormone (LH) or Interstitial Cell Stimulating Hormone (ICSH),In vivo efficacy,,Vogel_2008
+547,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Superovulation in Immature Rats by Luteinizing Hormone (LH) or Interstitial Cell Stimulating Hormone (ICSH),In vivo efficacy,,Vogel_2008
+548,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Thymus Involution by Corticotropin,In vivo efficacy,,Vogel_2008
+549,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Tibia Test in Hypophysectomized Rats due to Growth Hormone Deficiency,In vivo efficacy,,Vogel_2008
+550,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,Weight Gain in Female Rats (Growth Plateau Rats) by Growth Hormone (GH),In vivo efficacy,,Vogel_2008
+551,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Anterior Pituitary Hormones,[35]S Sulphate Uptake into cartilage by Growth Hormone,In vivo efficacy,,Vogel_2008
+552,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Effects on Different Peptide Hormones,Inhibition of Uterine Motility,In vivo efficacy,,Vogel_2008
+553,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Effects on Different Peptide Hormones,Melatonin Effect on Circadian Rhythm,In vivo efficacy,,Vogel_2008
+554,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Effects on Different Peptide Hormones,Melatonin Effect on Neophobia in Mice,In vivo efficacy,,Vogel_2008
+555,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Effects on Different Peptide Hormones,Relaxin Bioassay in Mice,In vivo efficacy,,Vogel_2008
+556,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Endocrine Safety Pharmacology,Endocrine Survey,In vivo efficacy,,Vogel_2008
+557,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,Anti-Ovulatory Activity in Rats by LH-RH (Luteinizing Hormone Releasing Hormone) Antagonists,In vivo efficacy,,Hock_2016
+558,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,Anti-Tumor Effect of LH-RH (Luteinizing Hormone Releasing Hormone) Antagonists,In vivo efficacy,,Vogel_2008
+559,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,Collection of Hypophyseal Portal Blood in Rats,In vivo efficacy,,Vogel_2008
+560,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,Effect of Repeated Administration of LH-RH (Luteinizing Hormone Releasing Hormone) Antagonists in Rats,In vivo efficacy,,Vogel_2008
+561,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,Growth Hormone-Releasing Hormone (GH-RH) Bioassay by Growth Hormone Release in Rats,In vivo efficacy,,Vogel_2008
+562,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,In Vivo Bioassay of CRH (Corticotropin-Releasing Hormone) Activity,In vivo efficacy,,Vogel_2008
+563,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,Induction of Superovulation in Immature Rats ,In vivo efficacy,,Vogel_2008
+564,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,Inhibition of Experimentally Induced Endometriosis,In vivo efficacy,,Vogel_2008
+565,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,LH (Luteinizing Hormone) Release in the Ovariectomized Estrogen Progesterone Blocked Rat,In vivo efficacy,,Vogel_2008
+566,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,Measurement of Ascorbic Acid Depletion in Ovaries of Pseudopregnant Rats,In vivo efficacy,,Vogel_2008
+567,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,Progesterone Production in Pseudopregnant Rats,In vivo efficacy,,Vogel_2008
+568,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,Release of [131]I from Thyroid Glands of Mice for Thyrotropin-Releasing Hormone (TRH),In vivo efficacy,,Vogel_2008
+569,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,TSH and Prolactin Release by Thyrotropin-Releasing Hormone (TRH) in Rats,In vivo efficacy,,Vogel_2008
+570,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Hypothalamic Hormones,Testosterone Suppression in Rats by LH-RH (Luteinizing Hormone Releasing Hormone) Antagonists,In vivo efficacy,,Vogel_2008
+571,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Parathyroid Hormone,"Bone Anabolic Activity in Ovariectomized, Osteopenic Rats",In vivo efficacy,,Vogel_2008
+572,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Parathyroid Hormone,Parathyroid Hormone (PTH) Assay by Serum Calcium Increase,In vivo efficacy,,Vogel_2008
+573,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Parathyroid Hormone,Serum Phosphate Decrease After PTH,In vivo efficacy,,Vogel_2008
+574,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Posterior Pituitary Hormones,Anti-Diuretic Activity in the Conscious Rat,In vivo efficacy,,Vogel_2008
+575,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Posterior Pituitary Hormones,Anti-Diuretic Activity in the Rat in Ethanol Anesthesia,In vivo efficacy,,Vogel_2008
+576,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Posterior Pituitary Hormones,Milk Ejection in the Lactating Rabbit or Rat for Oxytocin,In vivo efficacy,,Vogel_2008
+577,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Posterior Pituitary Hormones,Oxytocin Receptor Determination,In vivo efficacy,,Hock_2016
+578,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Posterior Pituitary Hormones,Vasopressor Activity,In vivo efficacy,,Vogel_2008
+579,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Thyroid Hormones,Anti-Goitrogenic Activity,In vivo efficacy,,Vogel_2008
+580,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Thyroid Hormones,Decrease of Serum Calcium in Rats by Calcitonin,In vivo efficacy,,Vogel_2008
+581,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Thyroid Hormones,Inhibition of Iodine Release for Thyroid Hormones,In vivo efficacy,,Vogel_2008
+582,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Thyroid Hormones,Inhibition of Iodine Uptake in Rats,In vivo efficacy,,Vogel_2008
+583,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Thyroid Hormones,Oxygen Consumption for Thyroid Hormones,In vivo efficacy,,Vogel_2008
+584,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",Thyroid Hormones,"Tensile Strength of Connective Tissue in Rats, Modified for Thyroid Hormones",In vivo efficacy,,Vogel_2008

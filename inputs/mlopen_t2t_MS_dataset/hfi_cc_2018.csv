@@ -1,0 +1,1459 @@
+year,ISOCode,countries,region
+2016,ALB,Albania,Eastern Europe
+2016,DZA,Algeria,Middle East & North Africa
+2016,AGO,Angola,Sub-Saharan Africa
+2016,ARG,Argentina,Latin America & the Caribbean
+2016,ARM,Armenia,Caucasus & Central Asia
+2016,AUS,Australia,Oceania
+2016,AUT,Austria,Western Europe
+2016,AZE,Azerbaijan,Caucasus & Central Asia
+2016,BHS,Bahamas,Latin America & the Caribbean
+2016,BHR,Bahrain,Middle East & North Africa
+2016,BGD,Bangladesh,South Asia
+2016,BRD,Barbados,Latin America & the Caribbean
+2016,BLR,Belarus,Eastern Europe
+2016,BEL,Belgium,Western Europe
+2016,BLZ,Belize,Latin America & the Caribbean
+2016,BEN,Benin,Sub-Saharan Africa
+2016,BTN,Bhutan,South Asia
+2016,BOL,Bolivia,Latin America & the Caribbean
+2016,BIH,Bosnia and Herzegovina,Eastern Europe
+2016,BWA,Botswana,Sub-Saharan Africa
+2016,BRA,Brazil,Latin America & the Caribbean
+2016,BRN,Brunei Darussalam,South Asia
+2016,BGR,Bulgaria,Eastern Europe
+2016,BFA,Burkina Faso,Sub-Saharan Africa
+2016,BDI,Burundi,Sub-Saharan Africa
+2016,KHM,Cambodia,South Asia
+2016,CMR,Cameroon,Sub-Saharan Africa
+2016,CAN,Canada,North America
+2016,CPV,Cape Verde,Sub-Saharan Africa
+2016,CAF,Central Afr. Rep.,Sub-Saharan Africa
+2016,TCD,Chad,Sub-Saharan Africa
+2016,CHL,Chile,Latin America & the Caribbean
+2016,CHN,China,East Asia
+2016,COL,Colombia,Latin America & the Caribbean
+2016,COD,"Congo, Dem. R.",Sub-Saharan Africa
+2016,COG,"Congo, Rep. Of",Sub-Saharan Africa
+2016,CRI,Costa Rica,Latin America & the Caribbean
+2016,CIV,Cote d'Ivoire,Sub-Saharan Africa
+2016,HRV,Croatia,Eastern Europe
+2016,CYP,Cyprus,Eastern Europe
+2016,CZE,Czech Rep.,Eastern Europe
+2016,DNK,Denmark,Western Europe
+2016,DOM,Dominican Rep.,Latin America & the Caribbean
+2016,ECU,Ecuador,Latin America & the Caribbean
+2016,EGY,Egypt,Middle East & North Africa
+2016,SLV,El Salvador,Latin America & the Caribbean
+2016,EST,Estonia,Eastern Europe
+2016,ETH,Ethiopia,Sub-Saharan Africa
+2016,FJI,Fiji,Oceania
+2016,FIN,Finland,Western Europe
+2016,FRA,France,Western Europe
+2016,GAB,Gabon,Sub-Saharan Africa
+2016,GMB,"Gambia, The",Sub-Saharan Africa
+2016,GEO,Georgia,Caucasus & Central Asia
+2016,DEU,Germany,Western Europe
+2016,GHA,Ghana,Sub-Saharan Africa
+2016,GRC,Greece,Eastern Europe
+2016,GTM,Guatemala,Latin America & the Caribbean
+2016,GIN,Guinea,Sub-Saharan Africa
+2016,GNB,Guinea-Bissau,Sub-Saharan Africa
+2016,GUY,Guyana,Latin America & the Caribbean
+2016,HTI,Haiti,Latin America & the Caribbean
+2016,HND,Honduras,Latin America & the Caribbean
+2016,HKG,Hong Kong,East Asia
+2016,HUN,Hungary,Eastern Europe
+2016,ISL,Iceland,Western Europe
+2016,IND,India,South Asia
+2016,IDN,Indonesia,South Asia
+2016,IRN,Iran,Middle East & North Africa
+2016,IRQ,Iraq,Middle East & North Africa
+2016,IRL,Ireland,Western Europe
+2016,ISR,Israel,Middle East & North Africa
+2016,ITA,Italy,Western Europe
+2016,JAM,Jamaica,Latin America & the Caribbean
+2016,JPN,Japan,East Asia
+2016,JOR,Jordan,Middle East & North Africa
+2016,KAZ,Kazakhstan,Caucasus & Central Asia
+2016,KEN,Kenya,Sub-Saharan Africa
+2016,KOR,"Korea, South",East Asia
+2016,KWT,Kuwait,Middle East & North Africa
+2016,KGZ,Kyrgyz Republic,Caucasus & Central Asia
+2016,LAO,Laos,South Asia
+2016,LVA,Latvia,Eastern Europe
+2016,LBN,Lebanon,Middle East & North Africa
+2016,LSO,Lesotho,Sub-Saharan Africa
+2016,LBR,Liberia,Sub-Saharan Africa
+2016,LBY,Libya,Middle East & North Africa
+2016,LTU,Lithuania,Eastern Europe
+2016,LUX,Luxembourg,Western Europe
+2016,MKD,Macedonia,Eastern Europe
+2016,MDG,Madagascar,Sub-Saharan Africa
+2016,MWI,Malawi,Sub-Saharan Africa
+2016,MYS,Malaysia,South Asia
+2016,MLI,Mali,Sub-Saharan Africa
+2016,MLT,Malta,Western Europe
+2016,MRT,Mauritania,Sub-Saharan Africa
+2016,MUS,Mauritius,Sub-Saharan Africa
+2016,MEX,Mexico,Latin America & the Caribbean
+2016,MDA,Moldova,Eastern Europe
+2016,MNG,Mongolia,East Asia
+2016,MNE,Montenegro,Eastern Europe
+2016,MAR,Morocco,Middle East & North Africa
+2016,MOZ,Mozambique,Sub-Saharan Africa
+2016,MMR,Myanmar,South Asia
+2016,NAM,Namibia,Sub-Saharan Africa
+2016,NPL,Nepal,South Asia
+2016,NLD,Netherlands,Western Europe
+2016,NZL,New Zealand,Oceania
+2016,NIC,Nicaragua,Latin America & the Caribbean
+2016,NER,Niger,Sub-Saharan Africa
+2016,NGA,Nigeria,Sub-Saharan Africa
+2016,NOR,Norway,Western Europe
+2016,OMN,Oman,Middle East & North Africa
+2016,PAK,Pakistan,South Asia
+2016,PAN,Panama,Latin America & the Caribbean
+2016,PNG,Pap. New Guinea,Oceania
+2016,PRY,Paraguay,Latin America & the Caribbean
+2016,PER,Peru,Latin America & the Caribbean
+2016,PHL,Philippines,South Asia
+2016,POL,Poland,Eastern Europe
+2016,PRT,Portugal,Western Europe
+2016,QAT,Qatar,Middle East & North Africa
+2016,ROU,Romania,Eastern Europe
+2016,RUS,Russia,Eastern Europe
+2016,RWA,Rwanda,Sub-Saharan Africa
+2016,SAU,Saudi Arabia,Middle East & North Africa
+2016,SEN,Senegal,Sub-Saharan Africa
+2016,SRB,Serbia,Eastern Europe
+2016,SYC,Seychelles,Sub-Saharan Africa
+2016,SLE,Sierra Leone,Sub-Saharan Africa
+2016,SGP,Singapore,South Asia
+2016,SVK,Slovak Rep.,Eastern Europe
+2016,SVN,Slovenia,Eastern Europe
+2016,ZAF,South Africa,Sub-Saharan Africa
+2016,ESP,Spain,Western Europe
+2016,LKA,Sri Lanka,South Asia
+2016,SDN,Sudan,Sub-Saharan Africa
+2016,SUR,Suriname,Latin America & the Caribbean
+2016,SWZ,Swaziland,Sub-Saharan Africa
+2016,SWE,Sweden,Western Europe
+2016,CHE,Switzerland,Western Europe
+2016,SYR,Syria,Middle East & North Africa
+2016,TWN,Taiwan,East Asia
+2016,TJK,Tajikistan,Caucasus & Central Asia
+2016,TZA,Tanzania,Sub-Saharan Africa
+2016,THA,Thailand,South Asia
+2016,TLS,Timor-Leste,South Asia
+2016,TGO,Togo,Sub-Saharan Africa
+2016,TTO,Trinidad and Tobago,Latin America & the Caribbean
+2016,TUN,Tunisia,Middle East & North Africa
+2016,TUR,Turkey,Middle East & North Africa
+2016,UGA,Uganda,Sub-Saharan Africa
+2016,UKR,Ukraine,Eastern Europe
+2016,ARE,United Arab Emirates,Middle East & North Africa
+2016,GBR,United Kingdom,Western Europe
+2016,USA,United States,North America
+2016,URY,Uruguay,Latin America & the Caribbean
+2016,VEN,Venezuela,Latin America & the Caribbean
+2016,VNM,Vietnam,South Asia
+2016,YEM,"Yemen, Rep.",Middle East & North Africa
+2016,ZMB,Zambia,Sub-Saharan Africa
+2016,ZWE,Zimbabwe,Sub-Saharan Africa
+2015,ALB,Albania,Eastern Europe
+2015,DZA,Algeria,Middle East & North Africa
+2015,AGO,Angola,Sub-Saharan Africa
+2015,ARG,Argentina,Latin America & the Caribbean
+2015,ARM,Armenia,Caucasus & Central Asia
+2015,AUS,Australia,Oceania
+2015,AUT,Austria,Western Europe
+2015,AZE,Azerbaijan,Caucasus & Central Asia
+2015,BHS,Bahamas,Latin America & the Caribbean
+2015,BHR,Bahrain,Middle East & North Africa
+2015,BGD,Bangladesh,South Asia
+2015,BRD,Barbados,Latin America & the Caribbean
+2015,BLR,Belarus,Eastern Europe
+2015,BEL,Belgium,Western Europe
+2015,BLZ,Belize,Latin America & the Caribbean
+2015,BEN,Benin,Sub-Saharan Africa
+2015,BTN,Bhutan,South Asia
+2015,BOL,Bolivia,Latin America & the Caribbean
+2015,BIH,Bosnia and Herzegovina,Eastern Europe
+2015,BWA,Botswana,Sub-Saharan Africa
+2015,BRA,Brazil,Latin America & the Caribbean
+2015,BRN,Brunei Darussalam,South Asia
+2015,BGR,Bulgaria,Eastern Europe
+2015,BFA,Burkina Faso,Sub-Saharan Africa
+2015,BDI,Burundi,Sub-Saharan Africa
+2015,KHM,Cambodia,South Asia
+2015,CMR,Cameroon,Sub-Saharan Africa
+2015,CAN,Canada,North America
+2015,CPV,Cape Verde,Sub-Saharan Africa
+2015,CAF,Central Afr. Rep.,Sub-Saharan Africa
+2015,TCD,Chad,Sub-Saharan Africa
+2015,CHL,Chile,Latin America & the Caribbean
+2015,CHN,China,East Asia
+2015,COL,Colombia,Latin America & the Caribbean
+2015,COD,"Congo, Dem. R.",Sub-Saharan Africa
+2015,COG,"Congo, Rep. Of",Sub-Saharan Africa
+2015,CRI,Costa Rica,Latin America & the Caribbean
+2015,CIV,Cote d'Ivoire,Sub-Saharan Africa
+2015,HRV,Croatia,Eastern Europe
+2015,CYP,Cyprus,Eastern Europe
+2015,CZE,Czech Rep.,Eastern Europe
+2015,DNK,Denmark,Western Europe
+2015,DOM,Dominican Rep.,Latin America & the Caribbean
+2015,ECU,Ecuador,Latin America & the Caribbean
+2015,EGY,Egypt,Middle East & North Africa
+2015,SLV,El Salvador,Latin America & the Caribbean
+2015,EST,Estonia,Eastern Europe
+2015,ETH,Ethiopia,Sub-Saharan Africa
+2015,FJI,Fiji,Oceania
+2015,FIN,Finland,Western Europe
+2015,FRA,France,Western Europe
+2015,GAB,Gabon,Sub-Saharan Africa
+2015,GMB,"Gambia, The",Sub-Saharan Africa
+2015,GEO,Georgia,Caucasus & Central Asia
+2015,DEU,Germany,Western Europe
+2015,GHA,Ghana,Sub-Saharan Africa
+2015,GRC,Greece,Eastern Europe
+2015,GTM,Guatemala,Latin America & the Caribbean
+2015,GIN,Guinea,Sub-Saharan Africa
+2015,GNB,Guinea-Bissau,Sub-Saharan Africa
+2015,GUY,Guyana,Latin America & the Caribbean
+2015,HTI,Haiti,Latin America & the Caribbean
+2015,HND,Honduras,Latin America & the Caribbean
+2015,HKG,Hong Kong,East Asia
+2015,HUN,Hungary,Eastern Europe
+2015,ISL,Iceland,Western Europe
+2015,IND,India,South Asia
+2015,IDN,Indonesia,South Asia
+2015,IRN,Iran,Middle East & North Africa
+2015,IRQ,Iraq,Middle East & North Africa
+2015,IRL,Ireland,Western Europe
+2015,ISR,Israel,Middle East & North Africa
+2015,ITA,Italy,Western Europe
+2015,JAM,Jamaica,Latin America & the Caribbean
+2015,JPN,Japan,East Asia
+2015,JOR,Jordan,Middle East & North Africa
+2015,KAZ,Kazakhstan,Caucasus & Central Asia
+2015,KEN,Kenya,Sub-Saharan Africa
+2015,KOR,"Korea, South",East Asia
+2015,KWT,Kuwait,Middle East & North Africa
+2015,KGZ,Kyrgyz Republic,Caucasus & Central Asia
+2015,LAO,Laos,South Asia
+2015,LVA,Latvia,Eastern Europe
+2015,LBN,Lebanon,Middle East & North Africa
+2015,LSO,Lesotho,Sub-Saharan Africa
+2015,LBR,Liberia,Sub-Saharan Africa
+2015,LBY,Libya,Middle East & North Africa
+2015,LTU,Lithuania,Eastern Europe
+2015,LUX,Luxembourg,Western Europe
+2015,MKD,Macedonia,Eastern Europe
+2015,MDG,Madagascar,Sub-Saharan Africa
+2015,MWI,Malawi,Sub-Saharan Africa
+2015,MYS,Malaysia,South Asia
+2015,MLI,Mali,Sub-Saharan Africa
+2015,MLT,Malta,Western Europe
+2015,MRT,Mauritania,Sub-Saharan Africa
+2015,MUS,Mauritius,Sub-Saharan Africa
+2015,MEX,Mexico,Latin America & the Caribbean
+2015,MDA,Moldova,Eastern Europe
+2015,MNG,Mongolia,East Asia
+2015,MNE,Montenegro,Eastern Europe
+2015,MAR,Morocco,Middle East & North Africa
+2015,MOZ,Mozambique,Sub-Saharan Africa
+2015,MMR,Myanmar,South Asia
+2015,NAM,Namibia,Sub-Saharan Africa
+2015,NPL,Nepal,South Asia
+2015,NLD,Netherlands,Western Europe
+2015,NZL,New Zealand,Oceania
+2015,NIC,Nicaragua,Latin America & the Caribbean
+2015,NER,Niger,Sub-Saharan Africa
+2015,NGA,Nigeria,Sub-Saharan Africa
+2015,NOR,Norway,Western Europe
+2015,OMN,Oman,Middle East & North Africa
+2015,PAK,Pakistan,South Asia
+2015,PAN,Panama,Latin America & the Caribbean
+2015,PNG,Pap. New Guinea,Oceania
+2015,PRY,Paraguay,Latin America & the Caribbean
+2015,PER,Peru,Latin America & the Caribbean
+2015,PHL,Philippines,South Asia
+2015,POL,Poland,Eastern Europe
+2015,PRT,Portugal,Western Europe
+2015,QAT,Qatar,Middle East & North Africa
+2015,ROU,Romania,Eastern Europe
+2015,RUS,Russia,Eastern Europe
+2015,RWA,Rwanda,Sub-Saharan Africa
+2015,SAU,Saudi Arabia,Middle East & North Africa
+2015,SEN,Senegal,Sub-Saharan Africa
+2015,SRB,Serbia,Eastern Europe
+2015,SYC,Seychelles,Sub-Saharan Africa
+2015,SLE,Sierra Leone,Sub-Saharan Africa
+2015,SGP,Singapore,South Asia
+2015,SVK,Slovak Rep.,Eastern Europe
+2015,SVN,Slovenia,Eastern Europe
+2015,ZAF,South Africa,Sub-Saharan Africa
+2015,ESP,Spain,Western Europe
+2015,LKA,Sri Lanka,South Asia
+2015,SDN,Sudan,Sub-Saharan Africa
+2015,SUR,Suriname,Latin America & the Caribbean
+2015,SWZ,Swaziland,Sub-Saharan Africa
+2015,SWE,Sweden,Western Europe
+2015,CHE,Switzerland,Western Europe
+2015,SYR,Syria,Middle East & North Africa
+2015,TWN,Taiwan,East Asia
+2015,TJK,Tajikistan,Caucasus & Central Asia
+2015,TZA,Tanzania,Sub-Saharan Africa
+2015,THA,Thailand,South Asia
+2015,TLS,Timor-Leste,South Asia
+2015,TGO,Togo,Sub-Saharan Africa
+2015,TTO,Trinidad and Tobago,Latin America & the Caribbean
+2015,TUN,Tunisia,Middle East & North Africa
+2015,TUR,Turkey,Middle East & North Africa
+2015,UGA,Uganda,Sub-Saharan Africa
+2015,UKR,Ukraine,Eastern Europe
+2015,ARE,United Arab Emirates,Middle East & North Africa
+2015,GBR,United Kingdom,Western Europe
+2015,USA,United States,North America
+2015,URY,Uruguay,Latin America & the Caribbean
+2015,VEN,Venezuela,Latin America & the Caribbean
+2015,VNM,Vietnam,South Asia
+2015,YEM,"Yemen, Rep.",Middle East & North Africa
+2015,ZMB,Zambia,Sub-Saharan Africa
+2015,ZWE,Zimbabwe,Sub-Saharan Africa
+2014,ALB,Albania,Eastern Europe
+2014,DZA,Algeria,Middle East & North Africa
+2014,AGO,Angola,Sub-Saharan Africa
+2014,ARG,Argentina,Latin America & the Caribbean
+2014,ARM,Armenia,Caucasus & Central Asia
+2014,AUS,Australia,Oceania
+2014,AUT,Austria,Western Europe
+2014,AZE,Azerbaijan,Caucasus & Central Asia
+2014,BHS,Bahamas,Latin America & the Caribbean
+2014,BHR,Bahrain,Middle East & North Africa
+2014,BGD,Bangladesh,South Asia
+2014,BRD,Barbados,Latin America & the Caribbean
+2014,BLR,Belarus,Eastern Europe
+2014,BEL,Belgium,Western Europe
+2014,BLZ,Belize,Latin America & the Caribbean
+2014,BEN,Benin,Sub-Saharan Africa
+2014,BTN,Bhutan,South Asia
+2014,BOL,Bolivia,Latin America & the Caribbean
+2014,BIH,Bosnia and Herzegovina,Eastern Europe
+2014,BWA,Botswana,Sub-Saharan Africa
+2014,BRA,Brazil,Latin America & the Caribbean
+2014,BRN,Brunei Darussalam,South Asia
+2014,BGR,Bulgaria,Eastern Europe
+2014,BFA,Burkina Faso,Sub-Saharan Africa
+2014,BDI,Burundi,Sub-Saharan Africa
+2014,KHM,Cambodia,South Asia
+2014,CMR,Cameroon,Sub-Saharan Africa
+2014,CAN,Canada,North America
+2014,CPV,Cape Verde,Sub-Saharan Africa
+2014,CAF,Central Afr. Rep.,Sub-Saharan Africa
+2014,TCD,Chad,Sub-Saharan Africa
+2014,CHL,Chile,Latin America & the Caribbean
+2014,CHN,China,East Asia
+2014,COL,Colombia,Latin America & the Caribbean
+2014,COD,"Congo, Dem. R.",Sub-Saharan Africa
+2014,COG,"Congo, Rep. Of",Sub-Saharan Africa
+2014,CRI,Costa Rica,Latin America & the Caribbean
+2014,CIV,Cote d'Ivoire,Sub-Saharan Africa
+2014,HRV,Croatia,Eastern Europe
+2014,CYP,Cyprus,Eastern Europe
+2014,CZE,Czech Rep.,Eastern Europe
+2014,DNK,Denmark,Western Europe
+2014,DOM,Dominican Rep.,Latin America & the Caribbean
+2014,ECU,Ecuador,Latin America & the Caribbean
+2014,EGY,Egypt,Middle East & North Africa
+2014,SLV,El Salvador,Latin America & the Caribbean
+2014,EST,Estonia,Eastern Europe
+2014,ETH,Ethiopia,Sub-Saharan Africa
+2014,FJI,Fiji,Oceania
+2014,FIN,Finland,Western Europe
+2014,FRA,France,Western Europe
+2014,GAB,Gabon,Sub-Saharan Africa
+2014,GMB,"Gambia, The",Sub-Saharan Africa
+2014,GEO,Georgia,Caucasus & Central Asia
+2014,DEU,Germany,Western Europe
+2014,GHA,Ghana,Sub-Saharan Africa
+2014,GRC,Greece,Eastern Europe
+2014,GTM,Guatemala,Latin America & the Caribbean
+2014,GIN,Guinea,Sub-Saharan Africa
+2014,GNB,Guinea-Bissau,Sub-Saharan Africa
+2014,GUY,Guyana,Latin America & the Caribbean
+2014,HTI,Haiti,Latin America & the Caribbean
+2014,HND,Honduras,Latin America & the Caribbean
+2014,HKG,Hong Kong,East Asia
+2014,HUN,Hungary,Eastern Europe
+2014,ISL,Iceland,Western Europe
+2014,IND,India,South Asia
+2014,IDN,Indonesia,South Asia
+2014,IRN,Iran,Middle East & North Africa
+2014,IRQ,Iraq,Middle East & North Africa
+2014,IRL,Ireland,Western Europe
+2014,ISR,Israel,Middle East & North Africa
+2014,ITA,Italy,Western Europe
+2014,JAM,Jamaica,Latin America & the Caribbean
+2014,JPN,Japan,East Asia
+2014,JOR,Jordan,Middle East & North Africa
+2014,KAZ,Kazakhstan,Caucasus & Central Asia
+2014,KEN,Kenya,Sub-Saharan Africa
+2014,KOR,"Korea, South",East Asia
+2014,KWT,Kuwait,Middle East & North Africa
+2014,KGZ,Kyrgyz Republic,Caucasus & Central Asia
+2014,LAO,Laos,South Asia
+2014,LVA,Latvia,Eastern Europe
+2014,LBN,Lebanon,Middle East & North Africa
+2014,LSO,Lesotho,Sub-Saharan Africa
+2014,LBR,Liberia,Sub-Saharan Africa
+2014,LBY,Libya,Middle East & North Africa
+2014,LTU,Lithuania,Eastern Europe
+2014,LUX,Luxembourg,Western Europe
+2014,MKD,Macedonia,Eastern Europe
+2014,MDG,Madagascar,Sub-Saharan Africa
+2014,MWI,Malawi,Sub-Saharan Africa
+2014,MYS,Malaysia,South Asia
+2014,MLI,Mali,Sub-Saharan Africa
+2014,MLT,Malta,Western Europe
+2014,MRT,Mauritania,Sub-Saharan Africa
+2014,MUS,Mauritius,Sub-Saharan Africa
+2014,MEX,Mexico,Latin America & the Caribbean
+2014,MDA,Moldova,Eastern Europe
+2014,MNG,Mongolia,East Asia
+2014,MNE,Montenegro,Eastern Europe
+2014,MAR,Morocco,Middle East & North Africa
+2014,MOZ,Mozambique,Sub-Saharan Africa
+2014,MMR,Myanmar,South Asia
+2014,NAM,Namibia,Sub-Saharan Africa
+2014,NPL,Nepal,South Asia
+2014,NLD,Netherlands,Western Europe
+2014,NZL,New Zealand,Oceania
+2014,NIC,Nicaragua,Latin America & the Caribbean
+2014,NER,Niger,Sub-Saharan Africa
+2014,NGA,Nigeria,Sub-Saharan Africa
+2014,NOR,Norway,Western Europe
+2014,OMN,Oman,Middle East & North Africa
+2014,PAK,Pakistan,South Asia
+2014,PAN,Panama,Latin America & the Caribbean
+2014,PNG,Pap. New Guinea,Oceania
+2014,PRY,Paraguay,Latin America & the Caribbean
+2014,PER,Peru,Latin America & the Caribbean
+2014,PHL,Philippines,South Asia
+2014,POL,Poland,Eastern Europe
+2014,PRT,Portugal,Western Europe
+2014,QAT,Qatar,Middle East & North Africa
+2014,ROU,Romania,Eastern Europe
+2014,RUS,Russia,Eastern Europe
+2014,RWA,Rwanda,Sub-Saharan Africa
+2014,SAU,Saudi Arabia,Middle East & North Africa
+2014,SEN,Senegal,Sub-Saharan Africa
+2014,SRB,Serbia,Eastern Europe
+2014,SYC,Seychelles,Sub-Saharan Africa
+2014,SLE,Sierra Leone,Sub-Saharan Africa
+2014,SGP,Singapore,South Asia
+2014,SVK,Slovak Rep.,Eastern Europe
+2014,SVN,Slovenia,Eastern Europe
+2014,ZAF,South Africa,Sub-Saharan Africa
+2014,ESP,Spain,Western Europe
+2014,LKA,Sri Lanka,South Asia
+2014,SDN,Sudan,Sub-Saharan Africa
+2014,SUR,Suriname,Latin America & the Caribbean
+2014,SWZ,Swaziland,Sub-Saharan Africa
+2014,SWE,Sweden,Western Europe
+2014,CHE,Switzerland,Western Europe
+2014,SYR,Syria,Middle East & North Africa
+2014,TWN,Taiwan,East Asia
+2014,TJK,Tajikistan,Caucasus & Central Asia
+2014,TZA,Tanzania,Sub-Saharan Africa
+2014,THA,Thailand,South Asia
+2014,TLS,Timor-Leste,South Asia
+2014,TGO,Togo,Sub-Saharan Africa
+2014,TTO,Trinidad and Tobago,Latin America & the Caribbean
+2014,TUN,Tunisia,Middle East & North Africa
+2014,TUR,Turkey,Middle East & North Africa
+2014,UGA,Uganda,Sub-Saharan Africa
+2014,UKR,Ukraine,Eastern Europe
+2014,ARE,United Arab Emirates,Middle East & North Africa
+2014,GBR,United Kingdom,Western Europe
+2014,USA,United States,North America
+2014,URY,Uruguay,Latin America & the Caribbean
+2014,VEN,Venezuela,Latin America & the Caribbean
+2014,VNM,Vietnam,South Asia
+2014,YEM,"Yemen, Rep.",Middle East & North Africa
+2014,ZMB,Zambia,Sub-Saharan Africa
+2014,ZWE,Zimbabwe,Sub-Saharan Africa
+2013,ALB,Albania,Eastern Europe
+2013,DZA,Algeria,Middle East & North Africa
+2013,AGO,Angola,Sub-Saharan Africa
+2013,ARG,Argentina,Latin America & the Caribbean
+2013,ARM,Armenia,Caucasus & Central Asia
+2013,AUS,Australia,Oceania
+2013,AUT,Austria,Western Europe
+2013,AZE,Azerbaijan,Caucasus & Central Asia
+2013,BHS,Bahamas,Latin America & the Caribbean
+2013,BHR,Bahrain,Middle East & North Africa
+2013,BGD,Bangladesh,South Asia
+2013,BRD,Barbados,Latin America & the Caribbean
+2013,BLR,Belarus,Eastern Europe
+2013,BEL,Belgium,Western Europe
+2013,BLZ,Belize,Latin America & the Caribbean
+2013,BEN,Benin,Sub-Saharan Africa
+2013,BTN,Bhutan,South Asia
+2013,BOL,Bolivia,Latin America & the Caribbean
+2013,BIH,Bosnia and Herzegovina,Eastern Europe
+2013,BWA,Botswana,Sub-Saharan Africa
+2013,BRA,Brazil,Latin America & the Caribbean
+2013,BRN,Brunei Darussalam,South Asia
+2013,BGR,Bulgaria,Eastern Europe
+2013,BFA,Burkina Faso,Sub-Saharan Africa
+2013,BDI,Burundi,Sub-Saharan Africa
+2013,KHM,Cambodia,South Asia
+2013,CMR,Cameroon,Sub-Saharan Africa
+2013,CAN,Canada,North America
+2013,CPV,Cape Verde,Sub-Saharan Africa
+2013,CAF,Central Afr. Rep.,Sub-Saharan Africa
+2013,TCD,Chad,Sub-Saharan Africa
+2013,CHL,Chile,Latin America & the Caribbean
+2013,CHN,China,East Asia
+2013,COL,Colombia,Latin America & the Caribbean
+2013,COD,"Congo, Dem. R.",Sub-Saharan Africa
+2013,COG,"Congo, Rep. Of",Sub-Saharan Africa
+2013,CRI,Costa Rica,Latin America & the Caribbean
+2013,CIV,Cote d'Ivoire,Sub-Saharan Africa
+2013,HRV,Croatia,Eastern Europe
+2013,CYP,Cyprus,Eastern Europe
+2013,CZE,Czech Rep.,Eastern Europe
+2013,DNK,Denmark,Western Europe
+2013,DOM,Dominican Rep.,Latin America & the Caribbean
+2013,ECU,Ecuador,Latin America & the Caribbean
+2013,EGY,Egypt,Middle East & North Africa
+2013,SLV,El Salvador,Latin America & the Caribbean
+2013,EST,Estonia,Eastern Europe
+2013,ETH,Ethiopia,Sub-Saharan Africa
+2013,FJI,Fiji,Oceania
+2013,FIN,Finland,Western Europe
+2013,FRA,France,Western Europe
+2013,GAB,Gabon,Sub-Saharan Africa
+2013,GMB,"Gambia, The",Sub-Saharan Africa
+2013,GEO,Georgia,Caucasus & Central Asia
+2013,DEU,Germany,Western Europe
+2013,GHA,Ghana,Sub-Saharan Africa
+2013,GRC,Greece,Eastern Europe
+2013,GTM,Guatemala,Latin America & the Caribbean
+2013,GIN,Guinea,Sub-Saharan Africa
+2013,GNB,Guinea-Bissau,Sub-Saharan Africa
+2013,GUY,Guyana,Latin America & the Caribbean
+2013,HTI,Haiti,Latin America & the Caribbean
+2013,HND,Honduras,Latin America & the Caribbean
+2013,HKG,Hong Kong,East Asia
+2013,HUN,Hungary,Eastern Europe
+2013,ISL,Iceland,Western Europe
+2013,IND,India,South Asia
+2013,IDN,Indonesia,South Asia
+2013,IRN,Iran,Middle East & North Africa
+2013,IRQ,Iraq,Middle East & North Africa
+2013,IRL,Ireland,Western Europe
+2013,ISR,Israel,Middle East & North Africa
+2013,ITA,Italy,Western Europe
+2013,JAM,Jamaica,Latin America & the Caribbean
+2013,JPN,Japan,East Asia
+2013,JOR,Jordan,Middle East & North Africa
+2013,KAZ,Kazakhstan,Caucasus & Central Asia
+2013,KEN,Kenya,Sub-Saharan Africa
+2013,KOR,"Korea, South",East Asia
+2013,KWT,Kuwait,Middle East & North Africa
+2013,KGZ,Kyrgyz Republic,Caucasus & Central Asia
+2013,LAO,Laos,South Asia
+2013,LVA,Latvia,Eastern Europe
+2013,LBN,Lebanon,Middle East & North Africa
+2013,LSO,Lesotho,Sub-Saharan Africa
+2013,LBR,Liberia,Sub-Saharan Africa
+2013,LBY,Libya,Middle East & North Africa
+2013,LTU,Lithuania,Eastern Europe
+2013,LUX,Luxembourg,Western Europe
+2013,MKD,Macedonia,Eastern Europe
+2013,MDG,Madagascar,Sub-Saharan Africa
+2013,MWI,Malawi,Sub-Saharan Africa
+2013,MYS,Malaysia,South Asia
+2013,MLI,Mali,Sub-Saharan Africa
+2013,MLT,Malta,Western Europe
+2013,MRT,Mauritania,Sub-Saharan Africa
+2013,MUS,Mauritius,Sub-Saharan Africa
+2013,MEX,Mexico,Latin America & the Caribbean
+2013,MDA,Moldova,Eastern Europe
+2013,MNG,Mongolia,East Asia
+2013,MNE,Montenegro,Eastern Europe
+2013,MAR,Morocco,Middle East & North Africa
+2013,MOZ,Mozambique,Sub-Saharan Africa
+2013,MMR,Myanmar,South Asia
+2013,NAM,Namibia,Sub-Saharan Africa
+2013,NPL,Nepal,South Asia
+2013,NLD,Netherlands,Western Europe
+2013,NZL,New Zealand,Oceania
+2013,NIC,Nicaragua,Latin America & the Caribbean
+2013,NER,Niger,Sub-Saharan Africa
+2013,NGA,Nigeria,Sub-Saharan Africa
+2013,NOR,Norway,Western Europe
+2013,OMN,Oman,Middle East & North Africa
+2013,PAK,Pakistan,South Asia
+2013,PAN,Panama,Latin America & the Caribbean
+2013,PNG,Pap. New Guinea,Oceania
+2013,PRY,Paraguay,Latin America & the Caribbean
+2013,PER,Peru,Latin America & the Caribbean
+2013,PHL,Philippines,South Asia
+2013,POL,Poland,Eastern Europe
+2013,PRT,Portugal,Western Europe
+2013,QAT,Qatar,Middle East & North Africa
+2013,ROU,Romania,Eastern Europe
+2013,RUS,Russia,Eastern Europe
+2013,RWA,Rwanda,Sub-Saharan Africa
+2013,SAU,Saudi Arabia,Middle East & North Africa
+2013,SEN,Senegal,Sub-Saharan Africa
+2013,SRB,Serbia,Eastern Europe
+2013,SYC,Seychelles,Sub-Saharan Africa
+2013,SLE,Sierra Leone,Sub-Saharan Africa
+2013,SGP,Singapore,South Asia
+2013,SVK,Slovak Rep.,Eastern Europe
+2013,SVN,Slovenia,Eastern Europe
+2013,ZAF,South Africa,Sub-Saharan Africa
+2013,ESP,Spain,Western Europe
+2013,LKA,Sri Lanka,South Asia
+2013,SDN,Sudan,Sub-Saharan Africa
+2013,SUR,Suriname,Latin America & the Caribbean
+2013,SWZ,Swaziland,Sub-Saharan Africa
+2013,SWE,Sweden,Western Europe
+2013,CHE,Switzerland,Western Europe
+2013,SYR,Syria,Middle East & North Africa
+2013,TWN,Taiwan,East Asia
+2013,TJK,Tajikistan,Caucasus & Central Asia
+2013,TZA,Tanzania,Sub-Saharan Africa
+2013,THA,Thailand,South Asia
+2013,TLS,Timor-Leste,South Asia
+2013,TGO,Togo,Sub-Saharan Africa
+2013,TTO,Trinidad and Tobago,Latin America & the Caribbean
+2013,TUN,Tunisia,Middle East & North Africa
+2013,TUR,Turkey,Middle East & North Africa
+2013,UGA,Uganda,Sub-Saharan Africa
+2013,UKR,Ukraine,Eastern Europe
+2013,ARE,United Arab Emirates,Middle East & North Africa
+2013,GBR,United Kingdom,Western Europe
+2013,USA,United States,North America
+2013,URY,Uruguay,Latin America & the Caribbean
+2013,VEN,Venezuela,Latin America & the Caribbean
+2013,VNM,Vietnam,South Asia
+2013,YEM,"Yemen, Rep.",Middle East & North Africa
+2013,ZMB,Zambia,Sub-Saharan Africa
+2013,ZWE,Zimbabwe,Sub-Saharan Africa
+2012,ALB,Albania,Eastern Europe
+2012,DZA,Algeria,Middle East & North Africa
+2012,AGO,Angola,Sub-Saharan Africa
+2012,ARG,Argentina,Latin America & the Caribbean
+2012,ARM,Armenia,Caucasus & Central Asia
+2012,AUS,Australia,Oceania
+2012,AUT,Austria,Western Europe
+2012,AZE,Azerbaijan,Caucasus & Central Asia
+2012,BHS,Bahamas,Latin America & the Caribbean
+2012,BHR,Bahrain,Middle East & North Africa
+2012,BGD,Bangladesh,South Asia
+2012,BRD,Barbados,Latin America & the Caribbean
+2012,BLR,Belarus,Eastern Europe
+2012,BEL,Belgium,Western Europe
+2012,BLZ,Belize,Latin America & the Caribbean
+2012,BEN,Benin,Sub-Saharan Africa
+2012,BTN,Bhutan,South Asia
+2012,BOL,Bolivia,Latin America & the Caribbean
+2012,BIH,Bosnia and Herzegovina,Eastern Europe
+2012,BWA,Botswana,Sub-Saharan Africa
+2012,BRA,Brazil,Latin America & the Caribbean
+2012,BRN,Brunei Darussalam,South Asia
+2012,BGR,Bulgaria,Eastern Europe
+2012,BFA,Burkina Faso,Sub-Saharan Africa
+2012,BDI,Burundi,Sub-Saharan Africa
+2012,KHM,Cambodia,South Asia
+2012,CMR,Cameroon,Sub-Saharan Africa
+2012,CAN,Canada,North America
+2012,CPV,Cape Verde,Sub-Saharan Africa
+2012,CAF,Central Afr. Rep.,Sub-Saharan Africa
+2012,TCD,Chad,Sub-Saharan Africa
+2012,CHL,Chile,Latin America & the Caribbean
+2012,CHN,China,East Asia
+2012,COL,Colombia,Latin America & the Caribbean
+2012,COD,"Congo, Dem. R.",Sub-Saharan Africa
+2012,COG,"Congo, Rep. Of",Sub-Saharan Africa
+2012,CRI,Costa Rica,Latin America & the Caribbean
+2012,CIV,Cote d'Ivoire,Sub-Saharan Africa
+2012,HRV,Croatia,Eastern Europe
+2012,CYP,Cyprus,Eastern Europe
+2012,CZE,Czech Rep.,Eastern Europe
+2012,DNK,Denmark,Western Europe
+2012,DOM,Dominican Rep.,Latin America & the Caribbean
+2012,ECU,Ecuador,Latin America & the Caribbean
+2012,EGY,Egypt,Middle East & North Africa
+2012,SLV,El Salvador,Latin America & the Caribbean
+2012,EST,Estonia,Eastern Europe
+2012,ETH,Ethiopia,Sub-Saharan Africa
+2012,FJI,Fiji,Oceania
+2012,FIN,Finland,Western Europe
+2012,FRA,France,Western Europe
+2012,GAB,Gabon,Sub-Saharan Africa
+2012,GMB,"Gambia, The",Sub-Saharan Africa
+2012,GEO,Georgia,Caucasus & Central Asia
+2012,DEU,Germany,Western Europe
+2012,GHA,Ghana,Sub-Saharan Africa
+2012,GRC,Greece,Eastern Europe
+2012,GTM,Guatemala,Latin America & the Caribbean
+2012,GIN,Guinea,Sub-Saharan Africa
+2012,GNB,Guinea-Bissau,Sub-Saharan Africa
+2012,GUY,Guyana,Latin America & the Caribbean
+2012,HTI,Haiti,Latin America & the Caribbean
+2012,HND,Honduras,Latin America & the Caribbean
+2012,HKG,Hong Kong,East Asia
+2012,HUN,Hungary,Eastern Europe
+2012,ISL,Iceland,Western Europe
+2012,IND,India,South Asia
+2012,IDN,Indonesia,South Asia
+2012,IRN,Iran,Middle East & North Africa
+2012,IRQ,Iraq,Middle East & North Africa
+2012,IRL,Ireland,Western Europe
+2012,ISR,Israel,Middle East & North Africa
+2012,ITA,Italy,Western Europe
+2012,JAM,Jamaica,Latin America & the Caribbean
+2012,JPN,Japan,East Asia
+2012,JOR,Jordan,Middle East & North Africa
+2012,KAZ,Kazakhstan,Caucasus & Central Asia
+2012,KEN,Kenya,Sub-Saharan Africa
+2012,KOR,"Korea, South",East Asia
+2012,KWT,Kuwait,Middle East & North Africa
+2012,KGZ,Kyrgyz Republic,Caucasus & Central Asia
+2012,LAO,Laos,South Asia
+2012,LVA,Latvia,Eastern Europe
+2012,LBN,Lebanon,Middle East & North Africa
+2012,LSO,Lesotho,Sub-Saharan Africa
+2012,LBR,Liberia,Sub-Saharan Africa
+2012,LBY,Libya,Middle East & North Africa
+2012,LTU,Lithuania,Eastern Europe
+2012,LUX,Luxembourg,Western Europe
+2012,MKD,Macedonia,Eastern Europe
+2012,MDG,Madagascar,Sub-Saharan Africa
+2012,MWI,Malawi,Sub-Saharan Africa
+2012,MYS,Malaysia,South Asia
+2012,MLI,Mali,Sub-Saharan Africa
+2012,MLT,Malta,Western Europe
+2012,MRT,Mauritania,Sub-Saharan Africa
+2012,MUS,Mauritius,Sub-Saharan Africa
+2012,MEX,Mexico,Latin America & the Caribbean
+2012,MDA,Moldova,Eastern Europe
+2012,MNG,Mongolia,East Asia
+2012,MNE,Montenegro,Eastern Europe
+2012,MAR,Morocco,Middle East & North Africa
+2012,MOZ,Mozambique,Sub-Saharan Africa
+2012,MMR,Myanmar,South Asia
+2012,NAM,Namibia,Sub-Saharan Africa
+2012,NPL,Nepal,South Asia
+2012,NLD,Netherlands,Western Europe
+2012,NZL,New Zealand,Oceania
+2012,NIC,Nicaragua,Latin America & the Caribbean
+2012,NER,Niger,Sub-Saharan Africa
+2012,NGA,Nigeria,Sub-Saharan Africa
+2012,NOR,Norway,Western Europe
+2012,OMN,Oman,Middle East & North Africa
+2012,PAK,Pakistan,South Asia
+2012,PAN,Panama,Latin America & the Caribbean
+2012,PNG,Pap. New Guinea,Oceania
+2012,PRY,Paraguay,Latin America & the Caribbean
+2012,PER,Peru,Latin America & the Caribbean
+2012,PHL,Philippines,South Asia
+2012,POL,Poland,Eastern Europe
+2012,PRT,Portugal,Western Europe
+2012,QAT,Qatar,Middle East & North Africa
+2012,ROU,Romania,Eastern Europe
+2012,RUS,Russia,Eastern Europe
+2012,RWA,Rwanda,Sub-Saharan Africa
+2012,SAU,Saudi Arabia,Middle East & North Africa
+2012,SEN,Senegal,Sub-Saharan Africa
+2012,SRB,Serbia,Eastern Europe
+2012,SYC,Seychelles,Sub-Saharan Africa
+2012,SLE,Sierra Leone,Sub-Saharan Africa
+2012,SGP,Singapore,South Asia
+2012,SVK,Slovak Rep.,Eastern Europe
+2012,SVN,Slovenia,Eastern Europe
+2012,ZAF,South Africa,Sub-Saharan Africa
+2012,ESP,Spain,Western Europe
+2012,LKA,Sri Lanka,South Asia
+2012,SDN,Sudan,Sub-Saharan Africa
+2012,SUR,Suriname,Latin America & the Caribbean
+2012,SWZ,Swaziland,Sub-Saharan Africa
+2012,SWE,Sweden,Western Europe
+2012,CHE,Switzerland,Western Europe
+2012,SYR,Syria,Middle East & North Africa
+2012,TWN,Taiwan,East Asia
+2012,TJK,Tajikistan,Caucasus & Central Asia
+2012,TZA,Tanzania,Sub-Saharan Africa
+2012,THA,Thailand,South Asia
+2012,TLS,Timor-Leste,South Asia
+2012,TGO,Togo,Sub-Saharan Africa
+2012,TTO,Trinidad and Tobago,Latin America & the Caribbean
+2012,TUN,Tunisia,Middle East & North Africa
+2012,TUR,Turkey,Middle East & North Africa
+2012,UGA,Uganda,Sub-Saharan Africa
+2012,UKR,Ukraine,Eastern Europe
+2012,ARE,United Arab Emirates,Middle East & North Africa
+2012,GBR,United Kingdom,Western Europe
+2012,USA,United States,North America
+2012,URY,Uruguay,Latin America & the Caribbean
+2012,VEN,Venezuela,Latin America & the Caribbean
+2012,VNM,Vietnam,South Asia
+2012,YEM,"Yemen, Rep.",Middle East & North Africa
+2012,ZMB,Zambia,Sub-Saharan Africa
+2012,ZWE,Zimbabwe,Sub-Saharan Africa
+2011,ALB,Albania,Eastern Europe
+2011,DZA,Algeria,Middle East & North Africa
+2011,AGO,Angola,Sub-Saharan Africa
+2011,ARG,Argentina,Latin America & the Caribbean
+2011,ARM,Armenia,Caucasus & Central Asia
+2011,AUS,Australia,Oceania
+2011,AUT,Austria,Western Europe
+2011,AZE,Azerbaijan,Caucasus & Central Asia
+2011,BHS,Bahamas,Latin America & the Caribbean
+2011,BHR,Bahrain,Middle East & North Africa
+2011,BGD,Bangladesh,South Asia
+2011,BRD,Barbados,Latin America & the Caribbean
+2011,BLR,Belarus,Eastern Europe
+2011,BEL,Belgium,Western Europe
+2011,BLZ,Belize,Latin America & the Caribbean
+2011,BEN,Benin,Sub-Saharan Africa
+2011,BTN,Bhutan,South Asia
+2011,BOL,Bolivia,Latin America & the Caribbean
+2011,BIH,Bosnia and Herzegovina,Eastern Europe
+2011,BWA,Botswana,Sub-Saharan Africa
+2011,BRA,Brazil,Latin America & the Caribbean
+2011,BRN,Brunei Darussalam,South Asia
+2011,BGR,Bulgaria,Eastern Europe
+2011,BFA,Burkina Faso,Sub-Saharan Africa
+2011,BDI,Burundi,Sub-Saharan Africa
+2011,KHM,Cambodia,South Asia
+2011,CMR,Cameroon,Sub-Saharan Africa
+2011,CAN,Canada,North America
+2011,CPV,Cape Verde,Sub-Saharan Africa
+2011,CAF,Central Afr. Rep.,Sub-Saharan Africa
+2011,TCD,Chad,Sub-Saharan Africa
+2011,CHL,Chile,Latin America & the Caribbean
+2011,CHN,China,East Asia
+2011,COL,Colombia,Latin America & the Caribbean
+2011,COD,"Congo, Dem. R.",Sub-Saharan Africa
+2011,COG,"Congo, Rep. Of",Sub-Saharan Africa
+2011,CRI,Costa Rica,Latin America & the Caribbean
+2011,CIV,Cote d'Ivoire,Sub-Saharan Africa
+2011,HRV,Croatia,Eastern Europe
+2011,CYP,Cyprus,Eastern Europe
+2011,CZE,Czech Rep.,Eastern Europe
+2011,DNK,Denmark,Western Europe
+2011,DOM,Dominican Rep.,Latin America & the Caribbean
+2011,ECU,Ecuador,Latin America & the Caribbean
+2011,EGY,Egypt,Middle East & North Africa
+2011,SLV,El Salvador,Latin America & the Caribbean
+2011,EST,Estonia,Eastern Europe
+2011,ETH,Ethiopia,Sub-Saharan Africa
+2011,FJI,Fiji,Oceania
+2011,FIN,Finland,Western Europe
+2011,FRA,France,Western Europe
+2011,GAB,Gabon,Sub-Saharan Africa
+2011,GMB,"Gambia, The",Sub-Saharan Africa
+2011,GEO,Georgia,Caucasus & Central Asia
+2011,DEU,Germany,Western Europe
+2011,GHA,Ghana,Sub-Saharan Africa
+2011,GRC,Greece,Eastern Europe
+2011,GTM,Guatemala,Latin America & the Caribbean
+2011,GIN,Guinea,Sub-Saharan Africa
+2011,GNB,Guinea-Bissau,Sub-Saharan Africa
+2011,GUY,Guyana,Latin America & the Caribbean
+2011,HTI,Haiti,Latin America & the Caribbean
+2011,HND,Honduras,Latin America & the Caribbean
+2011,HKG,Hong Kong,East Asia
+2011,HUN,Hungary,Eastern Europe
+2011,ISL,Iceland,Western Europe
+2011,IND,India,South Asia
+2011,IDN,Indonesia,South Asia
+2011,IRN,Iran,Middle East & North Africa
+2011,IRQ,Iraq,Middle East & North Africa
+2011,IRL,Ireland,Western Europe
+2011,ISR,Israel,Middle East & North Africa
+2011,ITA,Italy,Western Europe
+2011,JAM,Jamaica,Latin America & the Caribbean
+2011,JPN,Japan,East Asia
+2011,JOR,Jordan,Middle East & North Africa
+2011,KAZ,Kazakhstan,Caucasus & Central Asia
+2011,KEN,Kenya,Sub-Saharan Africa
+2011,KOR,"Korea, South",East Asia
+2011,KWT,Kuwait,Middle East & North Africa
+2011,KGZ,Kyrgyz Republic,Caucasus & Central Asia
+2011,LAO,Laos,South Asia
+2011,LVA,Latvia,Eastern Europe
+2011,LBN,Lebanon,Middle East & North Africa
+2011,LSO,Lesotho,Sub-Saharan Africa
+2011,LBR,Liberia,Sub-Saharan Africa
+2011,LBY,Libya,Middle East & North Africa
+2011,LTU,Lithuania,Eastern Europe
+2011,LUX,Luxembourg,Western Europe
+2011,MKD,Macedonia,Eastern Europe
+2011,MDG,Madagascar,Sub-Saharan Africa
+2011,MWI,Malawi,Sub-Saharan Africa
+2011,MYS,Malaysia,South Asia
+2011,MLI,Mali,Sub-Saharan Africa
+2011,MLT,Malta,Western Europe
+2011,MRT,Mauritania,Sub-Saharan Africa
+2011,MUS,Mauritius,Sub-Saharan Africa
+2011,MEX,Mexico,Latin America & the Caribbean
+2011,MDA,Moldova,Eastern Europe
+2011,MNG,Mongolia,East Asia
+2011,MNE,Montenegro,Eastern Europe
+2011,MAR,Morocco,Middle East & North Africa
+2011,MOZ,Mozambique,Sub-Saharan Africa
+2011,MMR,Myanmar,South Asia
+2011,NAM,Namibia,Sub-Saharan Africa
+2011,NPL,Nepal,South Asia
+2011,NLD,Netherlands,Western Europe
+2011,NZL,New Zealand,Oceania
+2011,NIC,Nicaragua,Latin America & the Caribbean
+2011,NER,Niger,Sub-Saharan Africa
+2011,NGA,Nigeria,Sub-Saharan Africa
+2011,NOR,Norway,Western Europe
+2011,OMN,Oman,Middle East & North Africa
+2011,PAK,Pakistan,South Asia
+2011,PAN,Panama,Latin America & the Caribbean
+2011,PNG,Pap. New Guinea,Oceania
+2011,PRY,Paraguay,Latin America & the Caribbean
+2011,PER,Peru,Latin America & the Caribbean
+2011,PHL,Philippines,South Asia
+2011,POL,Poland,Eastern Europe
+2011,PRT,Portugal,Western Europe
+2011,QAT,Qatar,Middle East & North Africa
+2011,ROU,Romania,Eastern Europe
+2011,RUS,Russia,Eastern Europe
+2011,RWA,Rwanda,Sub-Saharan Africa
+2011,SAU,Saudi Arabia,Middle East & North Africa
+2011,SEN,Senegal,Sub-Saharan Africa
+2011,SRB,Serbia,Eastern Europe
+2011,SYC,Seychelles,Sub-Saharan Africa
+2011,SLE,Sierra Leone,Sub-Saharan Africa
+2011,SGP,Singapore,South Asia
+2011,SVK,Slovak Rep.,Eastern Europe
+2011,SVN,Slovenia,Eastern Europe
+2011,ZAF,South Africa,Sub-Saharan Africa
+2011,ESP,Spain,Western Europe
+2011,LKA,Sri Lanka,South Asia
+2011,SDN,Sudan,Sub-Saharan Africa
+2011,SUR,Suriname,Latin America & the Caribbean
+2011,SWZ,Swaziland,Sub-Saharan Africa
+2011,SWE,Sweden,Western Europe
+2011,CHE,Switzerland,Western Europe
+2011,SYR,Syria,Middle East & North Africa
+2011,TWN,Taiwan,East Asia
+2011,TJK,Tajikistan,Caucasus & Central Asia
+2011,TZA,Tanzania,Sub-Saharan Africa
+2011,THA,Thailand,South Asia
+2011,TLS,Timor-Leste,South Asia
+2011,TGO,Togo,Sub-Saharan Africa
+2011,TTO,Trinidad and Tobago,Latin America & the Caribbean
+2011,TUN,Tunisia,Middle East & North Africa
+2011,TUR,Turkey,Middle East & North Africa
+2011,UGA,Uganda,Sub-Saharan Africa
+2011,UKR,Ukraine,Eastern Europe
+2011,ARE,United Arab Emirates,Middle East & North Africa
+2011,GBR,United Kingdom,Western Europe
+2011,USA,United States,North America
+2011,URY,Uruguay,Latin America & the Caribbean
+2011,VEN,Venezuela,Latin America & the Caribbean
+2011,VNM,Vietnam,South Asia
+2011,YEM,"Yemen, Rep.",Middle East & North Africa
+2011,ZMB,Zambia,Sub-Saharan Africa
+2011,ZWE,Zimbabwe,Sub-Saharan Africa
+2010,ALB,Albania,Eastern Europe
+2010,DZA,Algeria,Middle East & North Africa
+2010,AGO,Angola,Sub-Saharan Africa
+2010,ARG,Argentina,Latin America & the Caribbean
+2010,ARM,Armenia,Caucasus & Central Asia
+2010,AUS,Australia,Oceania
+2010,AUT,Austria,Western Europe
+2010,AZE,Azerbaijan,Caucasus & Central Asia
+2010,BHS,Bahamas,Latin America & the Caribbean
+2010,BHR,Bahrain,Middle East & North Africa
+2010,BGD,Bangladesh,South Asia
+2010,BRD,Barbados,Latin America & the Caribbean
+2010,BLR,Belarus,Eastern Europe
+2010,BEL,Belgium,Western Europe
+2010,BLZ,Belize,Latin America & the Caribbean
+2010,BEN,Benin,Sub-Saharan Africa
+2010,BTN,Bhutan,South Asia
+2010,BOL,Bolivia,Latin America & the Caribbean
+2010,BIH,Bosnia and Herzegovina,Eastern Europe
+2010,BWA,Botswana,Sub-Saharan Africa
+2010,BRA,Brazil,Latin America & the Caribbean
+2010,BRN,Brunei Darussalam,South Asia
+2010,BGR,Bulgaria,Eastern Europe
+2010,BFA,Burkina Faso,Sub-Saharan Africa
+2010,BDI,Burundi,Sub-Saharan Africa
+2010,KHM,Cambodia,South Asia
+2010,CMR,Cameroon,Sub-Saharan Africa
+2010,CAN,Canada,North America
+2010,CPV,Cape Verde,Sub-Saharan Africa
+2010,CAF,Central Afr. Rep.,Sub-Saharan Africa
+2010,TCD,Chad,Sub-Saharan Africa
+2010,CHL,Chile,Latin America & the Caribbean
+2010,CHN,China,East Asia
+2010,COL,Colombia,Latin America & the Caribbean
+2010,COD,"Congo, Dem. R.",Sub-Saharan Africa
+2010,COG,"Congo, Rep. Of",Sub-Saharan Africa
+2010,CRI,Costa Rica,Latin America & the Caribbean
+2010,CIV,Cote d'Ivoire,Sub-Saharan Africa
+2010,HRV,Croatia,Eastern Europe
+2010,CYP,Cyprus,Eastern Europe
+2010,CZE,Czech Rep.,Eastern Europe
+2010,DNK,Denmark,Western Europe
+2010,DOM,Dominican Rep.,Latin America & the Caribbean
+2010,ECU,Ecuador,Latin America & the Caribbean
+2010,EGY,Egypt,Middle East & North Africa
+2010,SLV,El Salvador,Latin America & the Caribbean
+2010,EST,Estonia,Eastern Europe
+2010,ETH,Ethiopia,Sub-Saharan Africa
+2010,FJI,Fiji,Oceania
+2010,FIN,Finland,Western Europe
+2010,FRA,France,Western Europe
+2010,GAB,Gabon,Sub-Saharan Africa
+2010,GMB,"Gambia, The",Sub-Saharan Africa
+2010,GEO,Georgia,Caucasus & Central Asia
+2010,DEU,Germany,Western Europe
+2010,GHA,Ghana,Sub-Saharan Africa
+2010,GRC,Greece,Eastern Europe
+2010,GTM,Guatemala,Latin America & the Caribbean
+2010,GIN,Guinea,Sub-Saharan Africa
+2010,GNB,Guinea-Bissau,Sub-Saharan Africa
+2010,GUY,Guyana,Latin America & the Caribbean
+2010,HTI,Haiti,Latin America & the Caribbean
+2010,HND,Honduras,Latin America & the Caribbean
+2010,HKG,Hong Kong,East Asia
+2010,HUN,Hungary,Eastern Europe
+2010,ISL,Iceland,Western Europe
+2010,IND,India,South Asia
+2010,IDN,Indonesia,South Asia
+2010,IRN,Iran,Middle East & North Africa
+2010,IRQ,Iraq,Middle East & North Africa
+2010,IRL,Ireland,Western Europe
+2010,ISR,Israel,Middle East & North Africa
+2010,ITA,Italy,Western Europe
+2010,JAM,Jamaica,Latin America & the Caribbean
+2010,JPN,Japan,East Asia
+2010,JOR,Jordan,Middle East & North Africa
+2010,KAZ,Kazakhstan,Caucasus & Central Asia
+2010,KEN,Kenya,Sub-Saharan Africa
+2010,KOR,"Korea, South",East Asia
+2010,KWT,Kuwait,Middle East & North Africa
+2010,KGZ,Kyrgyz Republic,Caucasus & Central Asia
+2010,LAO,Laos,South Asia
+2010,LVA,Latvia,Eastern Europe
+2010,LBN,Lebanon,Middle East & North Africa
+2010,LSO,Lesotho,Sub-Saharan Africa
+2010,LBR,Liberia,Sub-Saharan Africa
+2010,LBY,Libya,Middle East & North Africa
+2010,LTU,Lithuania,Eastern Europe
+2010,LUX,Luxembourg,Western Europe
+2010,MKD,Macedonia,Eastern Europe
+2010,MDG,Madagascar,Sub-Saharan Africa
+2010,MWI,Malawi,Sub-Saharan Africa
+2010,MYS,Malaysia,South Asia
+2010,MLI,Mali,Sub-Saharan Africa
+2010,MLT,Malta,Western Europe
+2010,MRT,Mauritania,Sub-Saharan Africa
+2010,MUS,Mauritius,Sub-Saharan Africa
+2010,MEX,Mexico,Latin America & the Caribbean
+2010,MDA,Moldova,Eastern Europe
+2010,MNG,Mongolia,East Asia
+2010,MNE,Montenegro,Eastern Europe
+2010,MAR,Morocco,Middle East & North Africa
+2010,MOZ,Mozambique,Sub-Saharan Africa
+2010,MMR,Myanmar,South Asia
+2010,NAM,Namibia,Sub-Saharan Africa
+2010,NPL,Nepal,South Asia
+2010,NLD,Netherlands,Western Europe
+2010,NZL,New Zealand,Oceania
+2010,NIC,Nicaragua,Latin America & the Caribbean
+2010,NER,Niger,Sub-Saharan Africa
+2010,NGA,Nigeria,Sub-Saharan Africa
+2010,NOR,Norway,Western Europe
+2010,OMN,Oman,Middle East & North Africa
+2010,PAK,Pakistan,South Asia
+2010,PAN,Panama,Latin America & the Caribbean
+2010,PNG,Pap. New Guinea,Oceania
+2010,PRY,Paraguay,Latin America & the Caribbean
+2010,PER,Peru,Latin America & the Caribbean
+2010,PHL,Philippines,South Asia
+2010,POL,Poland,Eastern Europe
+2010,PRT,Portugal,Western Europe
+2010,QAT,Qatar,Middle East & North Africa
+2010,ROU,Romania,Eastern Europe
+2010,RUS,Russia,Eastern Europe
+2010,RWA,Rwanda,Sub-Saharan Africa
+2010,SAU,Saudi Arabia,Middle East & North Africa
+2010,SEN,Senegal,Sub-Saharan Africa
+2010,SRB,Serbia,Eastern Europe
+2010,SYC,Seychelles,Sub-Saharan Africa
+2010,SLE,Sierra Leone,Sub-Saharan Africa
+2010,SGP,Singapore,South Asia
+2010,SVK,Slovak Rep.,Eastern Europe
+2010,SVN,Slovenia,Eastern Europe
+2010,ZAF,South Africa,Sub-Saharan Africa
+2010,ESP,Spain,Western Europe
+2010,LKA,Sri Lanka,South Asia
+2010,SDN,Sudan,Sub-Saharan Africa
+2010,SUR,Suriname,Latin America & the Caribbean
+2010,SWZ,Swaziland,Sub-Saharan Africa
+2010,SWE,Sweden,Western Europe
+2010,CHE,Switzerland,Western Europe
+2010,SYR,Syria,Middle East & North Africa
+2010,TWN,Taiwan,East Asia
+2010,TJK,Tajikistan,Caucasus & Central Asia
+2010,TZA,Tanzania,Sub-Saharan Africa
+2010,THA,Thailand,South Asia
+2010,TLS,Timor-Leste,South Asia
+2010,TGO,Togo,Sub-Saharan Africa
+2010,TTO,Trinidad and Tobago,Latin America & the Caribbean
+2010,TUN,Tunisia,Middle East & North Africa
+2010,TUR,Turkey,Middle East & North Africa
+2010,UGA,Uganda,Sub-Saharan Africa
+2010,UKR,Ukraine,Eastern Europe
+2010,ARE,United Arab Emirates,Middle East & North Africa
+2010,GBR,United Kingdom,Western Europe
+2010,USA,United States,North America
+2010,URY,Uruguay,Latin America & the Caribbean
+2010,VEN,Venezuela,Latin America & the Caribbean
+2010,VNM,Vietnam,South Asia
+2010,YEM,"Yemen, Rep.",Middle East & North Africa
+2010,ZMB,Zambia,Sub-Saharan Africa
+2010,ZWE,Zimbabwe,Sub-Saharan Africa
+2009,ALB,Albania,Eastern Europe
+2009,DZA,Algeria,Middle East & North Africa
+2009,AGO,Angola,Sub-Saharan Africa
+2009,ARG,Argentina,Latin America & the Caribbean
+2009,ARM,Armenia,Caucasus & Central Asia
+2009,AUS,Australia,Oceania
+2009,AUT,Austria,Western Europe
+2009,AZE,Azerbaijan,Caucasus & Central Asia
+2009,BHS,Bahamas,Latin America & the Caribbean
+2009,BHR,Bahrain,Middle East & North Africa
+2009,BGD,Bangladesh,South Asia
+2009,BRD,Barbados,Latin America & the Caribbean
+2009,BLR,Belarus,Eastern Europe
+2009,BEL,Belgium,Western Europe
+2009,BLZ,Belize,Latin America & the Caribbean
+2009,BEN,Benin,Sub-Saharan Africa
+2009,BTN,Bhutan,South Asia
+2009,BOL,Bolivia,Latin America & the Caribbean
+2009,BIH,Bosnia and Herzegovina,Eastern Europe
+2009,BWA,Botswana,Sub-Saharan Africa
+2009,BRA,Brazil,Latin America & the Caribbean
+2009,BRN,Brunei Darussalam,South Asia
+2009,BGR,Bulgaria,Eastern Europe
+2009,BFA,Burkina Faso,Sub-Saharan Africa
+2009,BDI,Burundi,Sub-Saharan Africa
+2009,KHM,Cambodia,South Asia
+2009,CMR,Cameroon,Sub-Saharan Africa
+2009,CAN,Canada,North America
+2009,CPV,Cape Verde,Sub-Saharan Africa
+2009,CAF,Central Afr. Rep.,Sub-Saharan Africa
+2009,TCD,Chad,Sub-Saharan Africa
+2009,CHL,Chile,Latin America & the Caribbean
+2009,CHN,China,East Asia
+2009,COL,Colombia,Latin America & the Caribbean
+2009,COD,"Congo, Dem. R.",Sub-Saharan Africa
+2009,COG,"Congo, Rep. Of",Sub-Saharan Africa
+2009,CRI,Costa Rica,Latin America & the Caribbean
+2009,CIV,Cote d'Ivoire,Sub-Saharan Africa
+2009,HRV,Croatia,Eastern Europe
+2009,CYP,Cyprus,Eastern Europe
+2009,CZE,Czech Rep.,Eastern Europe
+2009,DNK,Denmark,Western Europe
+2009,DOM,Dominican Rep.,Latin America & the Caribbean
+2009,ECU,Ecuador,Latin America & the Caribbean
+2009,EGY,Egypt,Middle East & North Africa
+2009,SLV,El Salvador,Latin America & the Caribbean
+2009,EST,Estonia,Eastern Europe
+2009,ETH,Ethiopia,Sub-Saharan Africa
+2009,FJI,Fiji,Oceania
+2009,FIN,Finland,Western Europe
+2009,FRA,France,Western Europe
+2009,GAB,Gabon,Sub-Saharan Africa
+2009,GMB,"Gambia, The",Sub-Saharan Africa
+2009,GEO,Georgia,Caucasus & Central Asia
+2009,DEU,Germany,Western Europe
+2009,GHA,Ghana,Sub-Saharan Africa
+2009,GRC,Greece,Eastern Europe
+2009,GTM,Guatemala,Latin America & the Caribbean
+2009,GIN,Guinea,Sub-Saharan Africa
+2009,GNB,Guinea-Bissau,Sub-Saharan Africa
+2009,GUY,Guyana,Latin America & the Caribbean
+2009,HTI,Haiti,Latin America & the Caribbean
+2009,HND,Honduras,Latin America & the Caribbean
+2009,HKG,Hong Kong,East Asia
+2009,HUN,Hungary,Eastern Europe
+2009,ISL,Iceland,Western Europe
+2009,IND,India,South Asia
+2009,IDN,Indonesia,South Asia
+2009,IRN,Iran,Middle East & North Africa
+2009,IRQ,Iraq,Middle East & North Africa
+2009,IRL,Ireland,Western Europe
+2009,ISR,Israel,Middle East & North Africa
+2009,ITA,Italy,Western Europe
+2009,JAM,Jamaica,Latin America & the Caribbean
+2009,JPN,Japan,East Asia
+2009,JOR,Jordan,Middle East & North Africa
+2009,KAZ,Kazakhstan,Caucasus & Central Asia
+2009,KEN,Kenya,Sub-Saharan Africa
+2009,KOR,"Korea, South",East Asia
+2009,KWT,Kuwait,Middle East & North Africa
+2009,KGZ,Kyrgyz Republic,Caucasus & Central Asia
+2009,LAO,Laos,South Asia
+2009,LVA,Latvia,Eastern Europe
+2009,LBN,Lebanon,Middle East & North Africa
+2009,LSO,Lesotho,Sub-Saharan Africa
+2009,LBR,Liberia,Sub-Saharan Africa
+2009,LBY,Libya,Middle East & North Africa
+2009,LTU,Lithuania,Eastern Europe
+2009,LUX,Luxembourg,Western Europe
+2009,MKD,Macedonia,Eastern Europe
+2009,MDG,Madagascar,Sub-Saharan Africa
+2009,MWI,Malawi,Sub-Saharan Africa
+2009,MYS,Malaysia,South Asia
+2009,MLI,Mali,Sub-Saharan Africa
+2009,MLT,Malta,Western Europe
+2009,MRT,Mauritania,Sub-Saharan Africa
+2009,MUS,Mauritius,Sub-Saharan Africa
+2009,MEX,Mexico,Latin America & the Caribbean
+2009,MDA,Moldova,Eastern Europe
+2009,MNG,Mongolia,East Asia
+2009,MNE,Montenegro,Eastern Europe
+2009,MAR,Morocco,Middle East & North Africa
+2009,MOZ,Mozambique,Sub-Saharan Africa
+2009,MMR,Myanmar,South Asia
+2009,NAM,Namibia,Sub-Saharan Africa
+2009,NPL,Nepal,South Asia
+2009,NLD,Netherlands,Western Europe
+2009,NZL,New Zealand,Oceania
+2009,NIC,Nicaragua,Latin America & the Caribbean
+2009,NER,Niger,Sub-Saharan Africa
+2009,NGA,Nigeria,Sub-Saharan Africa
+2009,NOR,Norway,Western Europe
+2009,OMN,Oman,Middle East & North Africa
+2009,PAK,Pakistan,South Asia
+2009,PAN,Panama,Latin America & the Caribbean
+2009,PNG,Pap. New Guinea,Oceania
+2009,PRY,Paraguay,Latin America & the Caribbean
+2009,PER,Peru,Latin America & the Caribbean
+2009,PHL,Philippines,South Asia
+2009,POL,Poland,Eastern Europe
+2009,PRT,Portugal,Western Europe
+2009,QAT,Qatar,Middle East & North Africa
+2009,ROU,Romania,Eastern Europe
+2009,RUS,Russia,Eastern Europe
+2009,RWA,Rwanda,Sub-Saharan Africa
+2009,SAU,Saudi Arabia,Middle East & North Africa
+2009,SEN,Senegal,Sub-Saharan Africa
+2009,SRB,Serbia,Eastern Europe
+2009,SYC,Seychelles,Sub-Saharan Africa
+2009,SLE,Sierra Leone,Sub-Saharan Africa
+2009,SGP,Singapore,South Asia
+2009,SVK,Slovak Rep.,Eastern Europe
+2009,SVN,Slovenia,Eastern Europe
+2009,ZAF,South Africa,Sub-Saharan Africa
+2009,ESP,Spain,Western Europe
+2009,LKA,Sri Lanka,South Asia
+2009,SDN,Sudan,Sub-Saharan Africa
+2009,SUR,Suriname,Latin America & the Caribbean
+2009,SWZ,Swaziland,Sub-Saharan Africa
+2009,SWE,Sweden,Western Europe
+2009,CHE,Switzerland,Western Europe
+2009,SYR,Syria,Middle East & North Africa
+2009,TWN,Taiwan,East Asia
+2009,TJK,Tajikistan,Caucasus & Central Asia
+2009,TZA,Tanzania,Sub-Saharan Africa
+2009,THA,Thailand,South Asia
+2009,TLS,Timor-Leste,South Asia
+2009,TGO,Togo,Sub-Saharan Africa
+2009,TTO,Trinidad and Tobago,Latin America & the Caribbean
+2009,TUN,Tunisia,Middle East & North Africa
+2009,TUR,Turkey,Middle East & North Africa
+2009,UGA,Uganda,Sub-Saharan Africa
+2009,UKR,Ukraine,Eastern Europe
+2009,ARE,United Arab Emirates,Middle East & North Africa
+2009,GBR,United Kingdom,Western Europe
+2009,USA,United States,North America
+2009,URY,Uruguay,Latin America & the Caribbean
+2009,VEN,Venezuela,Latin America & the Caribbean
+2009,VNM,Vietnam,South Asia
+2009,YEM,"Yemen, Rep.",Middle East & North Africa
+2009,ZMB,Zambia,Sub-Saharan Africa
+2009,ZWE,Zimbabwe,Sub-Saharan Africa
+2008,ALB,Albania,Eastern Europe
+2008,DZA,Algeria,Middle East & North Africa
+2008,AGO,Angola,Sub-Saharan Africa
+2008,ARG,Argentina,Latin America & the Caribbean
+2008,ARM,Armenia,Caucasus & Central Asia
+2008,AUS,Australia,Oceania
+2008,AUT,Austria,Western Europe
+2008,AZE,Azerbaijan,Caucasus & Central Asia
+2008,BHS,Bahamas,Latin America & the Caribbean
+2008,BHR,Bahrain,Middle East & North Africa
+2008,BGD,Bangladesh,South Asia
+2008,BRD,Barbados,Latin America & the Caribbean
+2008,BLR,Belarus,Eastern Europe
+2008,BEL,Belgium,Western Europe
+2008,BLZ,Belize,Latin America & the Caribbean
+2008,BEN,Benin,Sub-Saharan Africa
+2008,BTN,Bhutan,South Asia
+2008,BOL,Bolivia,Latin America & the Caribbean
+2008,BIH,Bosnia and Herzegovina,Eastern Europe
+2008,BWA,Botswana,Sub-Saharan Africa
+2008,BRA,Brazil,Latin America & the Caribbean
+2008,BRN,Brunei Darussalam,South Asia
+2008,BGR,Bulgaria,Eastern Europe
+2008,BFA,Burkina Faso,Sub-Saharan Africa
+2008,BDI,Burundi,Sub-Saharan Africa
+2008,KHM,Cambodia,South Asia
+2008,CMR,Cameroon,Sub-Saharan Africa
+2008,CAN,Canada,North America
+2008,CPV,Cape Verde,Sub-Saharan Africa
+2008,CAF,Central Afr. Rep.,Sub-Saharan Africa
+2008,TCD,Chad,Sub-Saharan Africa
+2008,CHL,Chile,Latin America & the Caribbean
+2008,CHN,China,East Asia
+2008,COL,Colombia,Latin America & the Caribbean
+2008,COD,"Congo, Dem. R.",Sub-Saharan Africa
+2008,COG,"Congo, Rep. Of",Sub-Saharan Africa
+2008,CRI,Costa Rica,Latin America & the Caribbean
+2008,CIV,Cote d'Ivoire,Sub-Saharan Africa
+2008,HRV,Croatia,Eastern Europe
+2008,CYP,Cyprus,Eastern Europe
+2008,CZE,Czech Rep.,Eastern Europe
+2008,DNK,Denmark,Western Europe
+2008,DOM,Dominican Rep.,Latin America & the Caribbean
+2008,ECU,Ecuador,Latin America & the Caribbean
+2008,EGY,Egypt,Middle East & North Africa
+2008,SLV,El Salvador,Latin America & the Caribbean
+2008,EST,Estonia,Eastern Europe
+2008,ETH,Ethiopia,Sub-Saharan Africa
+2008,FJI,Fiji,Oceania
+2008,FIN,Finland,Western Europe
+2008,FRA,France,Western Europe
+2008,GAB,Gabon,Sub-Saharan Africa
+2008,GMB,"Gambia, The",Sub-Saharan Africa
+2008,GEO,Georgia,Caucasus & Central Asia
+2008,DEU,Germany,Western Europe
+2008,GHA,Ghana,Sub-Saharan Africa
+2008,GRC,Greece,Eastern Europe
+2008,GTM,Guatemala,Latin America & the Caribbean
+2008,GIN,Guinea,Sub-Saharan Africa
+2008,GNB,Guinea-Bissau,Sub-Saharan Africa
+2008,GUY,Guyana,Latin America & the Caribbean
+2008,HTI,Haiti,Latin America & the Caribbean
+2008,HND,Honduras,Latin America & the Caribbean
+2008,HKG,Hong Kong,East Asia
+2008,HUN,Hungary,Eastern Europe
+2008,ISL,Iceland,Western Europe
+2008,IND,India,South Asia
+2008,IDN,Indonesia,South Asia
+2008,IRN,Iran,Middle East & North Africa
+2008,IRQ,Iraq,Middle East & North Africa
+2008,IRL,Ireland,Western Europe
+2008,ISR,Israel,Middle East & North Africa
+2008,ITA,Italy,Western Europe
+2008,JAM,Jamaica,Latin America & the Caribbean
+2008,JPN,Japan,East Asia
+2008,JOR,Jordan,Middle East & North Africa
+2008,KAZ,Kazakhstan,Caucasus & Central Asia
+2008,KEN,Kenya,Sub-Saharan Africa
+2008,KOR,"Korea, South",East Asia
+2008,KWT,Kuwait,Middle East & North Africa
+2008,KGZ,Kyrgyz Republic,Caucasus & Central Asia
+2008,LAO,Laos,South Asia
+2008,LVA,Latvia,Eastern Europe
+2008,LBN,Lebanon,Middle East & North Africa
+2008,LSO,Lesotho,Sub-Saharan Africa
+2008,LBR,Liberia,Sub-Saharan Africa
+2008,LBY,Libya,Middle East & North Africa
+2008,LTU,Lithuania,Eastern Europe
+2008,LUX,Luxembourg,Western Europe
+2008,MKD,Macedonia,Eastern Europe
+2008,MDG,Madagascar,Sub-Saharan Africa
+2008,MWI,Malawi,Sub-Saharan Africa
+2008,MYS,Malaysia,South Asia
+2008,MLI,Mali,Sub-Saharan Africa
+2008,MLT,Malta,Western Europe
+2008,MRT,Mauritania,Sub-Saharan Africa
+2008,MUS,Mauritius,Sub-Saharan Africa
+2008,MEX,Mexico,Latin America & the Caribbean
+2008,MDA,Moldova,Eastern Europe
+2008,MNG,Mongolia,East Asia
+2008,MNE,Montenegro,Eastern Europe
+2008,MAR,Morocco,Middle East & North Africa
+2008,MOZ,Mozambique,Sub-Saharan Africa
+2008,MMR,Myanmar,South Asia
+2008,NAM,Namibia,Sub-Saharan Africa
+2008,NPL,Nepal,South Asia
+2008,NLD,Netherlands,Western Europe
+2008,NZL,New Zealand,Oceania
+2008,NIC,Nicaragua,Latin America & the Caribbean
+2008,NER,Niger,Sub-Saharan Africa
+2008,NGA,Nigeria,Sub-Saharan Africa
+2008,NOR,Norway,Western Europe
+2008,OMN,Oman,Middle East & North Africa
+2008,PAK,Pakistan,South Asia
+2008,PAN,Panama,Latin America & the Caribbean
+2008,PNG,Pap. New Guinea,Oceania
+2008,PRY,Paraguay,Latin America & the Caribbean
+2008,PER,Peru,Latin America & the Caribbean
+2008,PHL,Philippines,South Asia
+2008,POL,Poland,Eastern Europe
+2008,PRT,Portugal,Western Europe
+2008,QAT,Qatar,Middle East & North Africa
+2008,ROU,Romania,Eastern Europe
+2008,RUS,Russia,Eastern Europe
+2008,RWA,Rwanda,Sub-Saharan Africa
+2008,SAU,Saudi Arabia,Middle East & North Africa
+2008,SEN,Senegal,Sub-Saharan Africa
+2008,SRB,Serbia,Eastern Europe
+2008,SYC,Seychelles,Sub-Saharan Africa
+2008,SLE,Sierra Leone,Sub-Saharan Africa
+2008,SGP,Singapore,South Asia
+2008,SVK,Slovak Rep.,Eastern Europe
+2008,SVN,Slovenia,Eastern Europe
+2008,ZAF,South Africa,Sub-Saharan Africa
+2008,ESP,Spain,Western Europe
+2008,LKA,Sri Lanka,South Asia
+2008,SDN,Sudan,Sub-Saharan Africa
+2008,SUR,Suriname,Latin America & the Caribbean
+2008,SWZ,Swaziland,Sub-Saharan Africa
+2008,SWE,Sweden,Western Europe
+2008,CHE,Switzerland,Western Europe
+2008,SYR,Syria,Middle East & North Africa
+2008,TWN,Taiwan,East Asia
+2008,TJK,Tajikistan,Caucasus & Central Asia
+2008,TZA,Tanzania,Sub-Saharan Africa
+2008,THA,Thailand,South Asia
+2008,TLS,Timor-Leste,South Asia
+2008,TGO,Togo,Sub-Saharan Africa
+2008,TTO,Trinidad and Tobago,Latin America & the Caribbean
+2008,TUN,Tunisia,Middle East & North Africa
+2008,TUR,Turkey,Middle East & North Africa
+2008,UGA,Uganda,Sub-Saharan Africa
+2008,UKR,Ukraine,Eastern Europe
+2008,ARE,United Arab Emirates,Middle East & North Africa
+2008,GBR,United Kingdom,Western Europe
+2008,USA,United States,North America
+2008,URY,Uruguay,Latin America & the Caribbean
+2008,VEN,Venezuela,Latin America & the Caribbean
+2008,VNM,Vietnam,South Asia
+2008,YEM,"Yemen, Rep.",Middle East & North Africa
+2008,ZMB,Zambia,Sub-Saharan Africa
+2008,ZWE,Zimbabwe,Sub-Saharan Africa

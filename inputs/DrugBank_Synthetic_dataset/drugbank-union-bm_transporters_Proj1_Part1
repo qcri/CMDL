@@ -1,0 +1,46 @@
+id,name
+BE0001032,P-glycoprotein 1
+BE0001069,Canalicular multispecific organic anion transporter 1
+BE0000703,Bile salt export pump
+BE0003643,Ileal sodium/bile acid cotransporter
+BE0003644,Sodium/bile acid cotransporter
+BE0001066,Solute carrier family 22 member 6
+BE0003651,Multidrug resistance-associated protein 7
+BE0001067,ATP-binding cassette sub-family G member 2
+BE0001004,Solute carrier organic anion transporter family member 1B1
+BE0003659,Solute carrier organic anion transporter family member 1B3
+BE0000340,Protein amnionless
+BE0000238,Transcobalamin-1
+BE0000362,Transcobalamin-2
+BE0004690,Gastric intrinsic factor
+BE0000936,Cubilin
+BE0000942,Low-density lipoprotein receptor-related protein 2
+BE0000785,Multidrug resistance-associated protein 1
+BE0003654,Monocarboxylate transporter 10
+BE0000440,Monocarboxylate transporter 2
+BE0000669,Monocarboxylate transporter 1
+BE0003655,Solute carrier organic anion transporter family member 2A1
+BE0000449,Monocarboxylate transporter 4
+BE0000094,Sodium-dependent multivitamin transporter
+BE0004708,Sodium-coupled monocarboxylate transporter 1
+BE0003647,Solute carrier family 22 member 2
+BE0003648,Solute carrier family 22 member 1
+BE0003650,Solute carrier family 22 member 3
+BE0000106,Solute carrier family 22 member 5
+BE0000757,Solute carrier family 22 member 4
+BE0001059,Choline transporter-like protein 1
+BE0002182,Choline transporter-like protein 4
+BE0002183,Choline transporter-like protein 2
+BE0002184,Choline transporter-like protein 3
+BE0000696,High affinity choline transporter 1
+BE0000168,Solute carrier family 23 member 1
+BE0009869,Solute carrier family 23 member 2
+BE0001057,"Solute carrier family 2, facilitated glucose transporter member 1"
+BE0004707,"Solute carrier family 2, facilitated glucose transporter member 3"
+BE0000893,"Solute carrier family 2, facilitated glucose transporter member 4"
+BE0009870,Sodium-coupled neutral amino acid transporter 1
+BE0009871,Sodium-coupled neutral amino acid transporter 2
+BE0000285,Sodium-coupled neutral amino acid transporter 3
+BE0000236,Neutral amino acid transporter B(0)
+BE0000423,Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+)
+BE0004769,Y+L amino acid transporter 1

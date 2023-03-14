@@ -1,0 +1,860 @@
+name,parent_key
+Myeloperoxidase,DB00006
+Cytochrome P450 1A2,DB00008
+Cytochrome P450 1A2,DB00011
+Macrophage metalloelastase,DB00013
+Cytochrome P450 1A2,DB00018
+Neutrophil elastase,DB00019
+Cytochrome P450 1A2,DB00022
+Cytochrome P450 2D6,DB00022
+Cytochrome P450 2C9,DB00022
+Prothrombin,DB00025
+Vitamin K-dependent protein C,DB00025
+Insulin-degrading enzyme,DB00030
+Neuroendocrine convertase 2,DB00030
+Neuroendocrine convertase 1,DB00030
+Cytochrome P450 1A2,DB00030
+Cytochrome P450 1A2,DB00033
+Cytochrome P450 1A2,DB00034
+Prostaglandin G/H synthase 1,DB00035
+Prostaglandin G/H synthase 2,DB00035
+Prostaglandin G/H synthase 2,DB00041
+Cytosolic phospholipase A2,DB00041
+Cytochrome P450 3A4,DB00041
+Xanthine dehydrogenase/oxidase,DB00041
+Cytochrome P450 2E1,DB00041
+Cytochrome P450 1A2,DB00046
+Cytochrome P450 1A2,DB00047
+Cytochrome P450 1A2,DB00060
+Cytochrome P450 1A2,DB00068
+Cytochrome P450 1A2,DB00069
+Cytochrome P450 1A2,DB00071
+"Sterol 26-hydroxylase, mitochondrial",DB00082
+Glutamine synthetase,DB00082
+Cytochrome P450 2C18,DB00082
+Cytochrome P450 3A4,DB00082
+Cholinesterase,DB00082
+Cytochrome P450 4A11,DB00082
+Cytosolic phospholipase A2,DB00086
+Cytochrome P450 3A5,DB00091
+Cytochrome P450 3A4,DB00091
+Cytochrome P450 2C19,DB00091
+Cytochrome P450 2D6,DB00091
+Myeloperoxidase,DB00104
+Cytochrome P450 3A4,DB00104
+Cytochrome P450 1A2,DB00105
+Prolyl endopeptidase,DB00107
+Cytochrome P450 2C19,DB00109
+Cytochrome P450 2E1,DB00109
+"Cob(I)yrinic acid a,c-diamide adenosyltransferase, mitochondrial",DB00115
+Bifunctional adenosylcobalamin biosynthesis protein CobU,DB00115
+Pancreatic proteases,DB00115
+Cytochrome P450 2E1,DB00118
+Spermidine synthase,DB00118
+Cytochrome P450 1B1,DB00121
+Choline/ethanolaminephosphotransferase 1,DB00122
+Choline/ethanolamine kinase,DB00122
+Choline O-acetyltransferase,DB00122
+Choline kinase alpha,DB00122
+"Choline dehydrogenase, mitochondrial",DB00122
+"Thioredoxin reductase 1, cytoplasmic",DB00126
+Xanthine dehydrogenase/oxidase,DB00127
+Diamine acetyltransferase 1,DB00127
+Diamine acetyltransferase 2,DB00127
+CAD protein,DB00128
+Coagulation factor XIII A chain,DB00130
+"Glutaminase kidney isoform, mitochondrial",DB00130
+"Glutaminase liver isoform, mitochondrial",DB00130
+Protein-glutamine gamma-glutamyltransferase 2,DB00130
+Protein-glutamine gamma-glutamyltransferase 5,DB00130
+Protein-glutamine gamma-glutamyltransferase 6,DB00130
+Protein-glutamine gamma-glutamyltransferase K,DB00130
+Protein-glutamine gamma-glutamyltransferase 4,DB00130
+Protein-glutamine gamma-glutamyltransferase E,DB00130
+Protein-glutamine gamma-glutamyltransferase Z,DB00130
+GMP synthase [glutamine-hydrolyzing],DB00130
+Asparagine synthetase [glutamine-hydrolyzing],DB00130
+Kynurenine--oxoglutarate transaminase 1,DB00130
+Phosphoribosylformylglycinamidine synthase,DB00130
+"Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial",DB00130
+Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 2,DB00130
+CAD protein,DB00130
+Glutamine--tRNA ligase,DB00130
+Glutamine-dependent NAD(+) synthetase,DB00130
+AMP deaminase 1,DB00131
+Adenine phosphoribosyltransferase,DB00131
+Glutamine synthetase,DB00134
+Methylenetetrahydrofolate reductase,DB00134
+S-adenosylmethionine synthase isoform type-2,DB00134
+"Methionine-R-sulfoxide reductase B2, mitochondrial",DB00134
+S-adenosylmethionine synthase isoform type-1,DB00134
+Methionine-R-sulfoxide reductase B1,DB00134
+Mitochondrial peptide methionine sulfoxide reductase,DB00134
+"Methionine--tRNA ligase, cytoplasmic",DB00134
+"Methionine--tRNA ligase, mitochondrial",DB00134
+Methionine adenosyltransferase 2 subunit beta,DB00134
+S-methylmethionine--homocysteine S-methyltransferase BHMT2,DB00134
+"1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial",DB00136
+Cytochrome P450 3A4,DB00136
+"Succinate dehydrogenase cytochrome b560 subunit, mitochondrial",DB00139
+"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",DB00139
+"Succinyl-CoA ligase [GDP-forming] subunit beta, mitochondrial",DB00139
+Prolyl 4-hydroxylase,DB00139
+"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",DB00139
+Prolyl 3-hydroxylase 1,DB00139
+Prolyl 3-hydroxylase 2,DB00139
+Prolyl 3-hydroxylase 3,DB00139
+"Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial",DB00139
+Aspartyl/asparaginyl beta-hydroxylase,DB00139
+Amine oxidase [flavin-containing] A,DB00140
+Methylenetetrahydrofolate reductase,DB00140
+Glutathione S-transferase A2,DB00143
+Glutathione S-transferase A1,DB00143
+"Aminomethyltransferase, mitochondrial",DB00145
+"Glycine dehydrogenase [decarboxylating], mitochondrial",DB00145
+"Dihydrolipoyl dehydrogenase, mitochondrial",DB00145
+"Glycine cleavage system H protein, mitochondrial",DB00145
+"25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial",DB00146
+"1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial",DB00146
+"Tryptophan 2,3-dioxygenase",DB00150
+Aromatic-L-amino-acid decarboxylase,DB00150
+Tryptophan--tRNA ligase,DB00150
+"Tryptophan--tRNA ligase, mitochondrial",DB00150
+Tryptophan 5-hydroxylase 1,DB00150
+Tryptophan 5-hydroxylase 2,DB00150
+"Tryptophan--tRNA ligase, cytoplasmic",DB00150
+"Indoleamine 2,3-dioxygenase 1",DB00150
+Cytochrome P450 4B1,DB00152
+Thiamin pyrophosphokinase 1,DB00152
+Ectonucleoside triphosphate diphosphohydrolase 5,DB00152
+Thiamine-triphosphatase,DB00152
+"1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial",DB00153
+"25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial",DB00153
+"Sterol 26-hydroxylase, mitochondrial",DB00153
+Vitamin D 25-hydroxylase,DB00153
+Ribulose-phosphate 3-epimerase,DB00153
+"Cholesterol side-chain cleavage enzyme, mitochondrial",DB00153
+Xanthine dehydrogenase/oxidase,DB00157
+Aldehyde oxidase,DB00157
+Alcohol dehydrogenase 6,DB00157
+Alcohol dehydrogenase [NADP(+)],DB00157
+Alcohol dehydrogenase 1A,DB00157
+Alcohol dehydrogenase 1B,DB00157
+Alcohol dehydrogenase 4,DB00157
+Alcohol dehydrogenase class-3,DB00157
+Alcohol dehydrogenase class 4 mu/sigma chain,DB00157
+Gamma-glutamyl hydrolase,DB00158
+Methylenetetrahydrofolate reductase,DB00158
+Dihydrofolate reductase,DB00158
+Valine--tRNA ligase,DB00161
+"Propionyl-CoA carboxylase beta chain, mitochondrial",DB00161
+"Branched-chain-amino-acid aminotransferase, cytosolic",DB00161
+Cytochrome P450 26A1,DB00162
+Glutathione S-transferase A2,DB00163
+Glutathione S-transferase P,DB00163
+Glutathione S-transferase omega-1,DB00163
+Glutathione S-transferase Mu 3,DB00163
+Glutamate--cysteine ligase catalytic subunit,DB00163
+NAD(P)H dehydrogenase [quinone] 1,DB00163
+Heme oxygenase 1,DB00163
+Superoxide dismutase [Cu-Zn],DB00163
+Cytochrome P450 3A4,DB00163
+Cytochrome P450 1A1,DB00165
+Pyridoxal kinase,DB00165
+Pyridoxal phosphate phosphatase,DB00165
+"Alkaline phosphatase, tissue-nonspecific isozyme",DB00165
+NADPH--cytochrome P450 reductase,DB00166
+Vitamin D 25-hydroxylase,DB00169
+"Sterol 26-hydroxylase, mitochondrial",DB00169
+Cytochrome P450 2J2,DB00169
+Cytochrome P450 3A4,DB00169
+"Cholesterol side-chain cleavage enzyme, mitochondrial",DB00169
+Cytochrome P450 1A1,DB00169
+Cytochrome P450 2C8,DB00169
+Xanthine dehydrogenase/oxidase,DB00170
+Aldehyde oxidase,DB00170
+Methylenetetrahydrofolate reductase,DB00170
+Cytochrome P450 1A1,DB00170
+Cytochrome P450 1A2,DB00170
+Cytochrome P450 2A6,DB00170
+Adenosine kinase,DB00171
+"Proline dehydrogenase 1, mitochondrial",DB00172
+UDP-glucuronosyltransferase 1-1,DB00173
+Cytochrome P450 2D6,DB00176
+Cytochrome P450 1A2,DB00176
+Cytochrome P450 1A1,DB00176
+Cytochrome P450 3A4,DB00176
+Cytochrome P450 3A Subfamily,DB00176
+Cytochrome P450 2C9,DB00176
+Cytochrome P450 2C19,DB00176
+Cytochrome P450 2B6,DB00176
+Cytochrome P450 2C9,DB00177
+Cholinesterase,DB00178
+Arachidonate 5-lipoxygenase,DB00179
+Cytochrome P450 3A4,DB00180
+Cytochrome P450 2D6,DB00182
+Cytochrome P450 2A6,DB00182
+Cholinesterase,DB00183
+Cytochrome P450 2A6,DB00184
+Cytochrome P450 2E1,DB00184
+Cytochrome P450 2A13,DB00184
+Cytochrome P450 2B6,DB00184
+Cytochrome P450 1A1,DB00184
+Cytochrome P450 1A2,DB00184
+Cytochrome P450 2C19,DB00184
+Cytochrome P450 2C8,DB00184
+Cytochrome P450 2C9,DB00184
+Cytochrome P450 2D6,DB00184
+Cytochrome P450 3A4,DB00184
+Amine oxidase [flavin-containing] A,DB00184
+Amine oxidase [flavin-containing] B,DB00184
+Cytochrome P450 2D6,DB00185
+Cytochrome P450 3A4,DB00185
+Dimethylaniline monooxygenase [N-oxide-forming] 1,DB00185
+UDP-glucuronosyltransferase 2B15,DB00186
+Cytochrome P450 3A4,DB00186
+Cytochrome P450 2D6,DB00187
+Cytochrome P450 3A4,DB00188
+Cytochrome P450 2C19,DB00188
+Cytochrome P450 2D6,DB00188
+Cytochrome P450 1A2,DB00188
+Cytochrome P450 2C9,DB00188
+Cytochrome P450 3A4,DB00191
+Cytochrome P450 2D6,DB00193
+Cytochrome P450 3A4,DB00193
+Cytochrome P450 2B6,DB00193
+UDP-glucuronosyltransferase 1-1,DB00193
+Adenosine deaminase,DB00194
+Cytochrome P450 1A2,DB00195
+Cytochrome P450 2D6,DB00195
+Cytochrome P450 3A4,DB00196
+Cytochrome P450 2C9,DB00196
+Cytochrome P450 2C19,DB00196
+Cytochrome P450 3A5,DB00196
+Cytochrome P450 3A4,DB00197
+Cytochrome P450 2C8,DB00197
+UDP-glucuronosyltransferase 1-1,DB00197
+Cytochrome P450 2C19,DB00197
+Cytochrome P450 19A1,DB00197
+Cytochrome P450 1A1,DB00197
+Cytochrome P450 2B6,DB00197
+Cytochrome P450 2C9,DB00197
+Cytochrome P450 3A5,DB00197
+Cytochrome P450 3A7,DB00197
+UDP-glucuronosyltransferase 1-3,DB00197
+UDP-glucuronosyltransferase 1-4,DB00197
+UDP-glucuronosyltransferase 1-6,DB00197
+UDP-glucuronosyltransferase 1-7,DB00197
+UDP-glucuronosyltransferase 1-8,DB00197
+UDP-glucuronosyltransferase 1-9,DB00197
+UDP-glucuronosyltransferase 1-10,DB00197
+UDP-glucuronosyltransferase 2B7,DB00197
+UDP-glucuronosyltransferase 2B15,DB00197
+Liver carboxylesterase 1,DB00198
+Cytochrome P450 3A4,DB00199
+Cytochrome P450 3A7,DB00199
+Cytochrome P450 3A5,DB00199
+Cytochrome P450 1A2,DB00201
+Cytochrome P450 3A4,DB00201
+Cytochrome P450 2E1,DB00201
+Cytochrome P450 2C8,DB00201
+Cytochrome P450 2C9,DB00201
+Cytochrome P450 1A1,DB00201
+Cytochrome P450 1B1,DB00201
+Cytochrome P450 2D6,DB00201
+Cholinesterase,DB00202
+Cytochrome P450 3A4,DB00203
+Cytochrome P450 3A5,DB00203
+Cytochrome P450 3A7,DB00203
+Cytochrome P450 2C9,DB00203
+Cytochrome P450 2C19,DB00203
+Cytochrome P450 2D6,DB00203
+Cytochrome P450 2E1,DB00203
+Cytochrome P450 3A4,DB00204
+Cytochrome P450 2C8,DB00205
+Cytochrome P450 3A5,DB00206
+Cytochrome P450 3A4,DB00207
+Cytochrome P450 2C19,DB00208
+Cytochrome P450 2D6,DB00208
+Myeloperoxidase,DB00208
+Cytochrome P450 2C9,DB00208
+Cytochrome P450 2C8,DB00208
+Cytochrome P450 1A2,DB00208
+Cytochrome P450 2B6,DB00208
+Cytochrome P450 2E1,DB00208
+Cytochrome P450 2D6,DB00209
+Cytochrome P450 2D6,DB00211
+Cytochrome P450 2C19,DB00213
+Cytochrome P450 3A4,DB00213
+Cytochrome P450 2C8,DB00214
+Cytochrome P450 2C9,DB00214
+Cytochrome P450 3A4,DB00215
+Cytochrome P450 2C19,DB00215
+Cytochrome P450 2D6,DB00215
+Cytochrome P450 1A2,DB00215
+Cytochrome P450 3A4,DB00216
+Cytochrome P450 2D6,DB00216
+Cytochrome P450 2C9,DB00216
+Cytochrome P450 2C19,DB00216
+Cytochrome P450 2A6,DB00216
+Prostaglandin G/H synthase 1,DB00216
+Cytochrome P450 1A2,DB00218
+Cytochrome P450 3A4,DB00220
+Cytochrome P450 3A7,DB00220
+Cytochrome P450 3A5,DB00220
+Cytochrome P450 2B6,DB00220
+Cytochrome P450 2C19,DB00220
+UDP-glucuronosyltransferase 1-1,DB00220
+Cytochrome P450 2C9,DB00220
+Cytochrome P450 2D6,DB00220
+Cytochrome P450 2C9,DB00222
+Cytochrome P450 3A4,DB00224
+Cytochrome P450 3A7,DB00224
+Cytochrome P450 3A5,DB00224
+Cytochrome P450 2D6,DB00224
+UDP-glucuronosyltransferase 1-1,DB00224
+Cytochrome P450 3A4,DB00227
+Serum paraoxonase/lactonase 3,DB00227
+Cytochrome P450 2C8,DB00227
+UDP-glucuronosyltransferase 1-1,DB00227
+UDP-glucuronosyltransferase 1-3,DB00227
+UDP-glucuronosyltransferase 2B7,DB00227
+Cytochrome P450 2C19,DB00227
+Cytochrome P450 2E1,DB00228
+Cytochrome P450 3A4,DB00231
+Cytochrome P450 2B6,DB00231
+Cytochrome P450 2C9,DB00231
+Myeloperoxidase,DB00233
+Cytochrome P450 3A4,DB00234
+Cytochrome P450 2D6,DB00234
+Cytochrome P450 2B6,DB00238
+Cytochrome P450 3A4,DB00238
+Cytochrome P450 3A5,DB00238
+Cytochrome P450 2C9,DB00238
+Cytochrome P450 2A6,DB00238
+Cytochrome P450 2D6,DB00238
+Cytochrome P450 1A2,DB00238
+Cytochrome P450 3A7,DB00238
+Cytochrome P450 3A4,DB00239
+Cytochrome P450 2C19,DB00239
+Cytochrome P450 3A4,DB00240
+Deoxycytidine kinase,DB00242
+Cytochrome P450 3A4,DB00243
+Cytochrome P450 2D6,DB00243
+Arylamine N-acetyltransferase 1,DB00244
+Cytochrome P450 3A4,DB00246
+Aldehyde oxidase,DB00246
+Cytochrome P450 3A4,DB00247
+Cytochrome P450 3A4,DB00248
+Cytochrome P450 3A5,DB00250
+Cytochrome P450 3A4,DB00250
+Dimethylaniline monooxygenase [N-oxide-forming] 3,DB00250
+Prostaglandin G/H synthase 1,DB00250
+Prostaglandin G/H synthase 2,DB00250
+Cytochrome P450 2C8,DB00250
+Cytochrome P450 2C19,DB00250
+Arylamine N-acetyltransferase 2,DB00250
+Cytochrome P450 2C9,DB00250
+Cytochrome P450 3A7,DB00250
+Cytochrome P450 2E1,DB00250
+Myeloperoxidase,DB00250
+Cytochrome P450 2C18,DB00250
+Cytochrome P450 2C9,DB00252
+Cytochrome P450 2C19,DB00252
+Cytochrome P450 2C8,DB00252
+Cytochrome P450 2B6,DB00252
+Cytochrome P450 3A4,DB00252
+Cytochrome P450 3A5,DB00252
+Cytochrome P450 3A7,DB00252
+"Cytochrome P450 11B1, mitochondrial",DB00252
+UDP-glucuronosyltransferase 1-1,DB00252
+UDP-glucuronosyltransferase 1-6,DB00252
+UDP-glucuronosyltransferase 1-9,DB00252
+Cytochrome P450 1A2,DB00252
+Cytochrome P450 2A6,DB00252
+Cytochrome P450 2D6,DB00252
+Cytochrome P450 2E1,DB00252
+Epoxide hydrolase 1,DB00252
+UDP-glucuronosyltransferase 1-4,DB00252
+Catechol O-methyltransferase,DB00252
+NAD(P)H dehydrogenase [quinone] 1,DB00252
+Cytochrome P450 2C18,DB00252
+Cytochrome P450 3A4,DB00253
+Cytochrome P450 3A5,DB00253
+Cytochrome P450 3A4,DB00254
+Catechol O-methyltransferase,DB00255
+Cytochrome P450 19A1,DB00255
+Cytochrome P450 3A4,DB00255
+Cytochrome P450 2C8,DB00255
+Cytochrome P450 2C9,DB00255
+Cytochrome P450 2E1,DB00255
+Cytochrome P450 2C8,DB00257
+Cytochrome P450 3A4,DB00257
+Cytochrome P450 2B6,DB00257
+Cytochrome P450 2D6,DB00257
+Cytochrome P450 2A6,DB00257
+Cytochrome P450 2C9,DB00257
+Cytochrome P450 2E1,DB00257
+Cytochrome P450 3A7,DB00257
+Cytochrome P450 2C19,DB00259
+Cytochrome P450 2D6,DB00259
+Cytochrome P450 2E1,DB00259
+Cytochrome P450 3A4,DB00259
+Aromatic-L-amino-acid decarboxylase,DB00260
+Cytochrome P450 1A2,DB00261
+Cytochrome P450 2C9,DB00263
+Cytochrome P450 2D6,DB00264
+Cytochrome P450 3A4,DB00264
+Cytochrome P450 2C9,DB00266
+Cytochrome P450 2C6,DB00266
+Cytochrome P450 2C11,DB00266
+Cytochrome P450 1A2,DB00268
+Cytochrome P450 19A1,DB00269
+Cytochrome P450 3A4,DB00270
+Cytochrome P450 2C19,DB00273
+Cytochrome P450 3A4,DB00273
+Cytochrome P450 3A4,DB00277
+Cytochrome P450 1A2,DB00277
+Adenosine deaminase,DB00277
+Cytochrome P450 2E1,DB00277
+Cytochrome P450 1A1,DB00277
+Cytochrome P450 1B1,DB00277
+Cytochrome P450 2D6,DB00277
+Cytochrome P450 3A4,DB00278
+Cytochrome P450 3A5,DB00278
+UDP-glucuronosyltransferase 1-1,DB00279
+Cytochrome P450 3A4,DB00280
+Cytochrome P450 1A2,DB00280
+Cytochrome P450 3A4,DB00281
+Cytochrome P450 2D6,DB00281
+Cytochrome P450 3A5,DB00281
+Cytochrome P450 3A7,DB00281
+Cytochrome P450 1A2,DB00281
+Cytochrome P450 2C9,DB00281
+Cytochrome P450 2C8,DB00281
+Cytochrome P450 2A6,DB00281
+Cytochrome P450 2B6,DB00281
+Cytochrome P450 2D6,DB00283
+Cytochrome P450 2D6,DB00285
+Cytochrome P450 3A4,DB00285
+Cytochrome P450 3A4,DB00286
+Cytochrome P450 1A2,DB00286
+Catechol O-methyltransferase,DB00286
+Cytochrome P450 3A4,DB00288
+Cytochrome P450 3A5,DB00288
+Cytochrome P450 2D6,DB00289
+Cytochrome P450 2C19,DB00289
+Bleomycin hydrolase,DB00290
+Glutathione S-transferase P,DB00291
+"Cytochrome P450 11B1, mitochondrial",DB00292
+"Cytochrome P450 11B2, mitochondrial",DB00292
+Cytochrome P450 3A4,DB00294
+Cytochrome P450 2C8,DB00295
+Cytochrome P450 3A4,DB00295
+UDP-glucuronosyltransferase 2B7,DB00295
+UDP-glucuronosyltransferase 1-1,DB00295
+UDP-glucuronosyltransferase 1-8,DB00295
+UDP-glucuronosyltransferase 2B15,DB00295
+UDP-glucuronosyltransferase 2B4,DB00295
+UDP-glucuronosyltransferase 1-3,DB00295
+Cytochrome P450 1A2,DB00296
+Cytochrome P450 2B6,DB00296
+Cytochrome P450 3A4,DB00296
+Cytochrome P450 3A4,DB00297
+Cytochrome P450 2C19,DB00297
+Cytochrome P450 2D6,DB00297
+"Adenylate kinase 2, mitochondrial",DB00300
+"Adenylate kinase 4, mitochondrial",DB00300
+Nucleoside diphosphokinase,DB00300
+Creatine Kinases,DB00300
+Cytochrome P450 3A4,DB00301
+Cytochrome P450 3A4,DB00304
+Cytochrome P450 2C9,DB00304
+UDP-glucuronosyltransferase 1-1,DB00304
+NADPH--cytochrome P450 reductase,DB00305
+Cytochrome P450 3A4,DB00307
+Cytochrome P450 2C8,DB00307
+Cytochrome P450 3A4,DB00309
+Cytochrome P450 3A4,DB00312
+Cytochrome P450 2C19,DB00312
+Cytochrome P450 2A6,DB00312
+Cytochrome P450 2A6,DB00313
+Cytochrome P450 2B6,DB00313
+Cytochrome P450 2C9,DB00313
+Cytochrome P450 3A5,DB00313
+Prostaglandin G/H synthase 1,DB00313
+Cytochrome P450 1A2,DB00313
+Cytochrome P450 2C19,DB00313
+Cytochrome P450 3A4,DB00313
+UDP-glucuronosyltransferase 1-4,DB00313
+UDP-glucuronosyltransferase 1-8,DB00313
+UDP-glucuronosyltransferase 1-10,DB00313
+UDP-glucuronosyltransferase 1-6,DB00313
+UDP-glucuronosyltransferase 1-3,DB00313
+UDP-glucuronosyltransferase 2B7,DB00313
+UDP-glucuronosyltransferase 2B15,DB00313
+UDP-glucuronosyltransferase 1-9,DB00313
+UDP-glucuronosyltransferase 1-1,DB00313
+Cytochrome P450 1A2,DB00315
+Amine oxidase [flavin-containing] A,DB00315
+Cytochrome P450 2E1,DB00316
+Cytochrome P450 1A2,DB00316
+Cytochrome P450 3A4,DB00316
+Cytochrome P450 2D6,DB00316
+Cytochrome P450 2A6,DB00316
+UDP-glucuronosyltransferase 1-6,DB00316
+UDP-glucuronosyltransferase 1-1,DB00316
+UDP-glucuronosyltransferase 1-9,DB00316
+UDP-glucuronosyltransferase 2B15,DB00316
+Sulfotransferase 1A1,DB00316
+Sulfotransferase 1A3/1A4,DB00316
+Arylamine N-acetyltransferase 2,DB00316
+Fatty-acid amide hydrolase 1,DB00316
+Glutathione S-transferase P,DB00316
+Glutathione S-transferase Mu 1,DB00316
+Cytochrome P450 3A4,DB00317
+Cytochrome P450 2D6,DB00317
+Cytochrome P450 3A5,DB00317
+Cytochrome P450 1A1,DB00317
+Cytochrome P450 2C9,DB00317
+Cytochrome P450 2C19,DB00317
+Cytochrome P450 2D6,DB00318
+Cytochrome P450 3A4,DB00318
+UDP-glucuronosyltransferase 2B7,DB00318
+UDP-glucuronosyltransferase 2B4,DB00318
+Cytochrome P450 3A4,DB00320
+Cytochrome P450 2D6,DB00321
+Cytochrome P450 1A2,DB00321
+Cytochrome P450 2C19,DB00321
+Cytochrome P450 2C9,DB00321
+Cytochrome P450 3A4,DB00321
+Cytochrome P450 3A5,DB00321
+Cytochrome P450 2B6,DB00321
+Cytochrome P450 2C8,DB00321
+UDP-glucuronosyltransferase 2B10,DB00321
+UDP-glucuronosyltransferase 1-4,DB00321
+Thymidine phosphorylase,DB00322
+Cytochrome P450 2C9,DB00322
+Cytochrome P450 2C9,DB00323
+Cytochrome P450 3A4,DB00324
+Cytochrome P450 3A5,DB00324
+Cytochrome P450 1A1,DB00325
+Cytochrome P450 2C9,DB00327
+UDP-glucuronosyltransferase 1-3,DB00327
+UDP-glucuronosyltransferase 2B7,DB00327
+Cytochrome P450 2C19,DB00328
+Cytochrome P450 2C9,DB00328
+Liver carboxylesterase 1,DB00328
+UDP-glucuronosyltransferase 1-9,DB00328
+UDP-glucuronosyltransferase 1-1,DB00328
+UDP-glucuronosyltransferase 2B7,DB00328
+Cytochrome P450 3A4,DB00333
+Cytochrome P450 2C19,DB00333
+Cytochrome P450 3A7,DB00333
+Cytochrome P450 2D6,DB00333
+Cytochrome P450 2B6,DB00333
+Cytochrome P450 2C8,DB00333
+Cytochrome P450 19A1,DB00333
+Cytochrome P450 1A2,DB00333
+Cytochrome P450 2C18,DB00333
+Cytochrome P450 2C9,DB00333
+Cytochrome P450 1A2,DB00334
+Cytochrome P450 2D6,DB00334
+Dimethylaniline monooxygenase [N-oxide-forming] 3,DB00334
+Cytochrome P450 2C19,DB00334
+Cytochrome P450 2C9,DB00334
+UDP-glucuronosyltransferase 1-4,DB00334
+Cytochrome P450 3A4,DB00334
+Cytochrome P450 3A Subfamily,DB00334
+Cytochrome P450 2D6,DB00335
+Xanthine dehydrogenase/oxidase,DB00336
+Cytochrome P450 3A4,DB00337
+Cytochrome P450 1A1,DB00338
+Cytochrome P450 1A2,DB00338
+Cytochrome P450 1B1,DB00338
+Cytochrome P450 2C8,DB00338
+Cytochrome P450 2C9,DB00338
+Cytochrome P450 2C18,DB00338
+Cytochrome P450 2D6,DB00338
+Cytochrome P450 3A4,DB00338
+Cytochrome P450 2C19,DB00338
+Xanthine dehydrogenase/oxidase,DB00339
+Aldehyde oxidase,DB00339
+Cytochrome P450 3A4,DB00342
+Cytochrome P450 3A7,DB00342
+Cytochrome P450 2D6,DB00342
+Cytochrome P450 3A5,DB00342
+Cytochrome P450 2C8,DB00342
+Cytochrome P450 2J2,DB00342
+Cytochrome P450 3A4,DB00343
+Cytochrome P450 3A5,DB00343
+Cytochrome P450 3A7,DB00343
+Cytochrome P450 2C19,DB00343
+Cytochrome P450 2D6,DB00343
+Cytochrome P450 2C8,DB00343
+Cytochrome P450 3A4,DB00346
+Cytochrome P450 2E1,DB00347
+Cytochrome P450 3A4,DB00347
+Cytochrome P450 2C8,DB00347
+Cytochrome P450 2C9,DB00347
+Cytochrome P450 2C19,DB00347
+Cytochrome P450 3A4,DB00349
+Cytochrome P450 2C19,DB00349
+Cytochrome P450 2B6,DB00349
+Cytochrome P450 2C18,DB00349
+Cytochrome P450 2D6,DB00349
+UDP-glucuronosyltransferase 1-1,DB00350
+Cytochrome P450 3A4,DB00351
+Hypoxanthine-guanine phosphoribosyltransferase,DB00352
+Cytochrome P450 3A4,DB00353
+Cytochrome P450 2E1,DB00356
+Cytochrome P450 1A1,DB00356
+Cytochrome P450 1A2,DB00356
+Cytochrome P450 2A6,DB00356
+Cytochrome P450 3A4,DB00356
+Cytochrome P450 2D6,DB00356
+Cytochrome P450 3A4,DB00357
+Cytochrome P450 2C19,DB00357
+Cytochrome P450 3A4,DB00358
+Cholinesterase,DB00358
+Cytochrome P450 19A1,DB00358
+Acetylcholinesterase,DB00358
+Cytochrome P450 2C9,DB00359
+Cytochrome P450 2C8,DB00359
+Cytochrome P450 3A4,DB00359
+Prostaglandin G/H synthase 2,DB00360
+Cytochrome P450 3A4,DB00361
+Cytochrome P450 2D6,DB00361
+Cytochrome P450 1A2,DB00363
+Cytochrome P450 2D6,DB00363
+Cytochrome P450 2C9,DB00363
+Cytochrome P450 3A4,DB00363
+Cytochrome P450 2C19,DB00363
+Cytochrome P450 2A6,DB00363
+Cytochrome P450 2C8,DB00363
+Dimethylaniline monooxygenase [N-oxide-forming] 3,DB00363
+UDP-glucuronosyltransferase 1-4,DB00363
+Cytochrome P450 1A1,DB00363
+Cytochrome P450 1A2,DB00365
+Cytochrome P450 3A4,DB00365
+CYP2B protein,DB00366
+Cytochrome P450 3A4,DB00367
+Cytochrome P450 3A5,DB00367
+Thymidine phosphorylase,DB00369
+Cytochrome P450 3A4,DB00370
+Cytochrome P450 2D6,DB00370
+Cytochrome P450 1A2,DB00370
+Cytochrome P450 2D6,DB00373
+Cytochrome P450 2C19,DB00373
+Cytochrome P450 2C9,DB00374
+Cytochrome P450 2D6,DB00377
+Cytochrome P450 3A4,DB00377
+Cytochrome P450 1A2,DB00377
+Cytochrome P450 3A4,DB00378
+Cytochrome P450 1A2,DB00379
+Cytochrome P450 2D6,DB00379
+Cytochrome P450 2B6,DB00379
+Cytochrome P450 2E1,DB00379
+Cytochrome P450 3A4,DB00379
+Cytochrome P450 3A4,DB00381
+Cytochrome P450 1A1,DB00381
+Cytochrome P450 2B6,DB00381
+Cytochrome P450 3A5,DB00381
+Cytochrome P450 2C8,DB00381
+Cytochrome P450 2D6,DB00381
+Cytochrome P450 1A2,DB00382
+Cytochrome P450 1A2,DB00384
+Amine oxidase [flavin-containing] A,DB00388
+Amine oxidase [flavin-containing] B,DB00388
+Sulfotransferase 1A3/1A4,DB00388
+Cytochrome P450 1A2,DB00388
+Cytochrome P450 19A1,DB00389
+"Cholesterol side-chain cleavage enzyme, mitochondrial",DB00390
+Cholinesterase,DB00391
+Cholinesterase,DB00392
+Cytochrome P450 3A4,DB00393
+Cytochrome P450 3A5,DB00394
+Cytochrome P450 3A4,DB00394
+Cytochrome P450 2C19,DB00395
+Cytochrome P450 3A5,DB00396
+Cytochrome P450 2C9,DB00396
+Cytochrome P450 3A7,DB00396
+Cytochrome P450 2C19,DB00396
+Cytochrome P450 3A4,DB00396
+"Steroid 17-alpha-hydroxylase/17,20 lyase",DB00396
+Cytochrome P450 1A1,DB00396
+Cytochrome P450 1B1,DB00396
+Cytochrome P450 2A6,DB00396
+Cytochrome P450 2D6,DB00396
+Amine oxidase [flavin-containing] A,DB00397
+Cytochrome P450 2C9,DB00398
+Cytochrome P450 3A5,DB00398
+Cytochrome P450 3A7,DB00398
+Cytochrome P450 3A4,DB00398
+Cytochrome P450 2B6,DB00398
+Cytochrome P450 2C8,DB00398
+Cytochrome P450 1A2,DB00398
+Cytochrome P450 2C19,DB00398
+Cytochrome P450 2D6,DB00398
+UDP-glucuronosyltransferase 1-9,DB00398
+UDP-glucuronosyltransferase 1-1,DB00398
+Cytochrome P450 1A2,DB00400
+Cytochrome P450 3A4,DB00400
+Cytochrome P450 3A4,DB00401
+Cytochrome P450 3A5,DB00401
+Cytochrome P450 3A7,DB00401
+Cytochrome P450 3A4,DB00402
+Cytochrome P450 2C8,DB00402
+Cytochrome P450 2C9,DB00404
+Cytochrome P450 3A7,DB00404
+Cytochrome P450 3A4,DB00404
+Cytochrome P450 3A5,DB00404
+Cytochrome P450 2D6,DB00409
+Cytosolic phospholipase A2,DB00411
+Cytochrome P450 2C8,DB00412
+Cytochrome P450 2C9,DB00412
+Prostaglandin G/H synthase 1,DB00412
+Cytochrome P450 1A2,DB00412
+Cytochrome P450 2A6,DB00412
+Cytochrome P450 2D6,DB00412
+Cytochrome P450 3A4,DB00412
+Carbonyl reductase [NADPH] 1,DB00414
+Cytochrome P450 2C9,DB00414
+Cytochrome P450 2C9,DB00418
+Cytochrome P450 2C8,DB00418
+Cytochrome P450 1A2,DB00418
+Cytochrome P450 2C19,DB00418
+Cytochrome P450 2C19,DB00420
+Cytochrome P450 1A2,DB00420
+Cytochrome P450 3A4,DB00420
+Cytochrome P450 2C9,DB00420
+Cytochrome P450 2D6,DB00420
+Cytochrome P450 2C8,DB00421
+"Cytochrome P450 11B1, mitochondrial",DB00421
+Carboxylesterase,DB00422
+Cytochrome P450 3A4,DB00425
+Cytochrome P450 1A2,DB00425
+Cytochrome P450 2C9,DB00425
+Cytochrome P450 2C19,DB00425
+Cytochrome P450 2D6,DB00425
+Aldehyde oxidase,DB00426
+Cytochrome P450 1A1,DB00428
+Cytochrome P450 1A2,DB00428
+Cytochrome P450 2E1,DB00428
+"Thymidine kinase, cytosolic",DB00432
+Thymidine phosphorylase,DB00432
+Cytochrome P450 2D6,DB00433
+UDP-glucuronosyltransferase 1-3,DB00434
+"Aldehyde dehydrogenase, mitochondrial",DB00435
+Cytochrome P450 1A2,DB00435
+Cytochrome P450 2B6,DB00435
+Cytochrome P450 3A4,DB00435
+Thiopurine S-methyltransferase,DB00436
+Aldehyde oxidase,DB00437
+Xanthine dehydrogenase/oxidase,DB00437
+Cytochrome P450 3A4,DB00439
+Cytochrome P450 3A5,DB00439
+Cytochrome P450 3A7,DB00439
+Cytochrome P450 2C8,DB00439
+Cytochrome P450 2D6,DB00439
+Cytochrome P450 2C9,DB00439
+Cytochrome P450 2B6,DB00439
+UDP-glucuronosyltransferase 1-1,DB00439
+Cytochrome P450 2C9,DB00440
+Cytochrome P450 3A4,DB00440
+Cytochrome P450 1A2,DB00440
+Cytochrome P450 2C8,DB00440
+Cytidine deaminase,DB00441
+Deoxycytidine kinase,DB00441
+Cytochrome P450 3A4,DB00443
+Cytochrome P450 19A1,DB00443
+Cytochrome P450 3A5,DB00443
+Cytochrome P450 3A7,DB00443
+Cytochrome P450 2A6,DB00443
+Cytochrome P450 1B1,DB00443
+Cytochrome P450 2B6,DB00443
+Cytochrome P450 2C8,DB00443
+Cytochrome P450 2C9,DB00443
+Cytochrome P450 2C19,DB00443
+Cytochrome P450 3A4,DB00444
+Cytochrome P450 2C9,DB00444
+Cytochrome P450 2C19,DB00444
+Cytochrome P450 3A5,DB00444
+UDP-glucuronosyltransferase 2B7,DB00445
+Cytosolic phospholipase A2,DB00445
+Cytochrome P450 3A4,DB00446
+Cytochrome P450 3A5,DB00446
+Cytochrome P450 3A7,DB00446
+Cytochrome P450 2C19,DB00446
+Chloramphenicol acetyltransferase 3,DB00446
+Chloramphenicol acetyltransferase,DB00446
+Chloramphenicol 3-O phosphotransferase,DB00446
+Cytochrome P450 1A1,DB00448
+Cytochrome P450 1B1,DB00448
+Cytochrome P450 2C8,DB00448
+Cytochrome P450 2C9,DB00448
+Cytochrome P450 2C18,DB00448
+Cytochrome P450 2D6,DB00448
+Cytochrome P450 3A4,DB00448
+Cytochrome P450 2C19,DB00448
+Cytochrome P450 2C8,DB00451
+UDP-glucuronosyltransferase 1-1,DB00451
+P-glycoprotein 1,DB00451
+Cytochrome P450 3A4,DB00454
+Cytochrome P450 2C19,DB00454
+Cytochrome P450 2B6,DB00454
+Cytochrome P450 2D6,DB00454
+Cytochrome P450 1A2,DB00454
+Cytochrome P450 3A4,DB00455
+Cytochrome P450 2D6,DB00455
+Cytochrome P450 1A1,DB00455
+Cytochrome P450 2C19,DB00455
+Cytochrome P450 2C8,DB00455
+Cytochrome P450 1A2,DB00455
+Cytochrome P450 2B6,DB00455
+Cytochrome P450 2C9,DB00455
+Cytochrome P450 3A5,DB00455
+UDP-glucuronosyltransferase 2B10,DB00455
+UDP-glucuronosyltransferase 1-1,DB00455
+UDP-glucuronosyltransferase 1-3,DB00455
+UDP-glucuronosyltransferase 2B15,DB00455
+Cytochrome P450 2C19,DB00458
+Cytochrome P450 2D6,DB00458
+Cytochrome P450 1A2,DB00458
+Cytochrome P450 3A4,DB00458
+Cytochrome P450 3A7,DB00458
+Cytochrome P450 2B6,DB00458
+Cytochrome P450 2C18,DB00458
+Cytochrome P450 2E1,DB00458
+Myeloperoxidase,DB00461
+Cytochrome P450 1A2,DB00461
+Cytochrome P450 2C9,DB00461
+Corticosteroid 11-beta-dehydrogenase isozyme 1,DB00461
+Aldo-keto reductase family 1 member C1,DB00461
+Aldo-keto reductase family 1 member C2,DB00461
+Aldo-keto reductase family 1 member C4,DB00461
+UDP-glucuronosyltransferase 2B7,DB00465
+Cytochrome P450 2C8,DB00465
+Cytochrome P450 2C9,DB00465
+Cytochrome P450 1A1,DB00466
+Glutamine synthetase,DB00466
+Cytochrome P450 1A2,DB00467
+Cytochrome P450 3A5,DB00468
+Cytochrome P450 1A2,DB00468
+Cytochrome P450 2C8,DB00468
+Cytochrome P450 2C9,DB00468
+Cytochrome P450 2C19,DB00468
+Cytochrome P450 2E1,DB00468
+Cytochrome P450 3A7,DB00468
+Cytochrome P450 1A1,DB00468
+Cytochrome P450 3A4,DB00468
+Cytochrome P450 2D6,DB00468
+Cytochrome P450 2C9,DB00469
+Cytochrome P450 3A4,DB00470
+Cytochrome P450 2C9,DB00470
+Prostaglandin G/H synthase 1,DB00470
+Cytochrome P450 2C8,DB00471
+Cytochrome P450 3A4,DB00471
+Cytochrome P450 2C9,DB00471
+Prostaglandin G/H synthase 1,DB00471
+Cytochrome P450 2A6,DB00471

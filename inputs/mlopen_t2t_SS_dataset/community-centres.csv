@@ -1,0 +1,28 @@
+NAME;ADDRESS;URLLINK;Geom;Geo Local Area
+Dunbar;4747 Dunbar St;http://vancouver.ca/parks/cc/dunbar/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.1883, 49.2428]}";Dunbar-Southlands
+Hastings;3096 E Hastings St;http://vancouver.ca/parks/cc/hastings/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.0393, 49.2809]}";Hastings-Sunrise
+Gathering Place Community Centre;609 Helmcken St;http://vancouver.ca/parks-recreation-culture/gathering-place-community-centre.aspx;"{""type"": ""Point"", ""coordinates"": [-123.1235, 49.278]}";Downtown
+Thunderbird;2311 Cassiar St;http://vancouver.ca/parks/cc/thunderbird/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.0321, 49.2636]}";Hastings-Sunrise
+Douglas Park;801 W 22nd Av;http://vancouver.ca/parks/cc/douglas/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.1213, 49.2529]}";South Cambie
+Kensington;5175 Dumfries St;http://vancouver.ca/parks/cc/kensington/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.0755, 49.2385]}";Kensington-Cedar Cottage
+Kitsilano War Memorial;2690 Larch St;http://vancouver.ca/parks/cc/kitsilano/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.1601, 49.2621]}";Kitsilano
+Evelyne Saller Centre;320 Alexander St;http://vancouver.ca/parks-recreation-culture/evelyne-saller-centre.aspx;"{""type"": ""Point"", ""coordinates"": [-123.0971, 49.2839]}";Strathcona
+Mount Pleasant;1 Kingsway;http://vancouver.ca/parks/cc/mtpleasant/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.1002, 49.2643]}";Mount Pleasant
+Renfrew Park;2929 E 22nd Av;http://vancouver.ca/parks/cc/renfrew/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.043, 49.2524]}";Renfrew-Collingwood
+Strathcona;601 Keefer St;http://vancouver.ca/parks/cc/strathcona/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.0915, 49.2798]}";Strathcona
+West End;870 Denman St;http://vancouver.ca/parks/cc/westend/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.1361, 49.2899]}";West End
+West Point Grey;4397 W 2nd Av;http://vancouver.ca/parks/cc/westptgrey/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.2045, 49.2718]}";West Point Grey
+False Creek;1318 Cartwright St;http://vancouver.ca/parks/cc/falsecreek/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.134, 49.2694]}";Fairview
+Roundhouse;181 Roundhouse Mews;http://vancouver.ca/parks/cc/roundhouse/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.1217, 49.2733]}";Downtown
+Coal Harbour;480 Broughton St;http://vancouver.ca/parks/cc/westend/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.1259, 49.2902]}";Downtown
+Kerrisdale;5851 West Boulevard;http://vancouver.ca/parks/cc/kerrisdale/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.1571, 49.2332]}";Kerrisdale
+Killarney;6260 Killarney St;http://vancouver.ca/parks/cc/killarney/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.0444, 49.2274]}";Killarney
+Creekside;1 Athletes Way;http://vancouver.ca/parks/cc/creekside/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.1056, 49.2718]}";Mount Pleasant
+Britannia;1661 Napier St;http://vancouver.ca/parks/cc/britannia/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.0738, 49.2756]}";Grandview-Woodland
+Marpole-Oakridge;990 W 59th Av;http://vancouver.ca/parks/cc/marpole/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.1275, 49.2145]}";Marpole
+Carnegie Centre;401 Main St;http://vancouver.ca/commsvcs/CARNEGIECENTRE/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.1001, 49.2811]}";Downtown
+Hillcrest;4575 Clancy Loranger Way;http://vancouver.ca/parks-recreation-culture/hillcrest-centre.aspx;"{""type"": ""Point"", ""coordinates"": [-123.1079, 49.2438]}";Riley Park
+Sunset;6810 Main St;http://vancouver.ca/parks/cc/sunset/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.1006, 49.2229]}";Sunset
+Trout Lake;3360 Victoria Drive;http://vancouver.ca/parks/cc/troutlake/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.0655, 49.2553]}";Kensington-Cedar Cottage
+Champlain Heights;3350 Maquinna Drive;http://vancouver.ca/parks/cc/champla/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.0321, 49.2144]}";Killarney
+Ray-Cam Co-Operative Center;920 E Hastings St;http://vancouver.ca/parks/cc/raycam/index.htm;"{""type"": ""Point"", ""coordinates"": [-123.0841, 49.2807]}";Strathcona

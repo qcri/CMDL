@@ -1,0 +1,17 @@
+SpecialOfferID,Description,DiscountPct,Type,Category,rowguid
+1,No Discount,0,No Discount,No Discount,0290C4F5-191F-4337-AB6B-0A2DDE03CBF9
+2,Volume Discount 11 to 14,0.02,Volume Discount,Reseller,D7542EE7-15DB-4541-985C-5CC27AEF26D6
+3,Volume Discount 15 to 24,0.05,Volume Discount,Reseller,4BDBCC01-8CF7-40A9-B643-40EC5B717491
+4,Volume Discount 25 to 40,0.1,Volume Discount,Reseller,504B5E85-8F3F-4EBC-9E1D-C1BC5DEA9AA8
+5,Volume Discount 41 to 60,0.15,Volume Discount,Reseller,677E1D9D-944F-4E81-90E8-47EB0A82D48C
+6,Volume Discount over 60,0.2,Volume Discount,Reseller,8157F569-4E8D-46B6-9347-5D0F726A9439
+7,Mountain-100 Clearance Sale,0.35,Discontinued Product,Reseller,7DF15BF5-6C05-47E7-80A4-22BD1CE59A72
+8,Sport Helmet Discount-2002,0.1,Seasonal Discount,Reseller,20C5D2CC-A38F-48F8-AC9A-8F15943E52AE
+9,Road-650 Overstock,0.3,Excess Inventory,Reseller,0CF8472B-F9E6-4945-9E09-549D7DDE2198
+10,Mountain Tire Sale,0.5,Excess Inventory,Customer,220444AD-2EF3-4E4C-87E9-3AA6EE39A877
+11,Sport Helmet Discount-2003,0.15,Seasonal Discount,Reseller,E72DAB1D-F44D-448B-9FE2-F259A2F0210D
+12,LL Road Frame Sale,0.35,Excess Inventory,Reseller,C0AF1C89-9722-4235-9248-3FBA4D9E5841
+13,Touring-3000 Promotion,0.15,New Product,Reseller,5061CCE4-E021-45A8-9A75-DFB36CBBCE85
+14,Touring-1000 Promotion,0.2,New Product,Reseller,1AF84A9E-A98C-4BD9-B48F-DC2B8B6B010B
+15,Half-Price Pedal Sale,0.5,Seasonal Discount,Customer,03E3594D-6EBB-46A6-B8EE-A9289C0C2E47
+16,Mountain-500 Silver Clearance Sale,0.4,Discontinued Product,Reseller,EB7CB484-BCCF-4D2D-BF73-521B20014174

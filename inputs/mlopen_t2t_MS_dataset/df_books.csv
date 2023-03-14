@@ -1,0 +1,1301 @@
+id,titleBook,titleSeriesBook,authorName,hasSeries,seriesNumber,avgRating,totalRating,voters,score
+0,The Hunger Games ,The Hunger Games,Suzanne Collins,TRUE,1,4.33,6086305,196,9286
+1,Catching Fire ,The Hunger Games,Suzanne Collins,TRUE,2,4.29,2360261,138,3376
+2,Mockingjay ,The Hunger Games,Suzanne Collins,TRUE,3,4.04,2217517,99,9442
+3,Divergent ,Divergent,Veronica Roth,TRUE,1,4.2,2767407,97,9119
+4,Vampire Academy ,Vampire Academy,Richelle Mead,TRUE,1,4.13,7029,86,8292
+5,Harry Potter and the Deathly Hallows ,Harry Potter,J.K. Rowling,TRUE,7,4.62,2656673,86,8066
+6,Clockwork Angel ,The Infernal Devices,Cassandra Clare,TRUE,1,4.33,4635,77,7374
+7,Harry Potter and the Goblet of Fire ,Harry Potter,J.K. Rowling,TRUE,4,4.56,2423434,72,6674
+8,"Hush, Hush ",Hush Hush,Becca Fitzpatrick,TRUE,1,3.98,5976,66,6382
+9,Harry Potter and the Half-Blood Prince ,Harry Potter,J.K. Rowling,TRUE,6,4.57,2295705,69,6343
+10,Harry Potter and the Order of the Phoenix ,Harry Potter,J.K. Rowling,TRUE,5,4.5,2355804,59,5336
+11,Twilight ,Twilight,Stephenie Meyer,TRUE,1,3.59,4728031,57,5320
+12,City of Bones ,The Mortal Instruments,Cassandra Clare,TRUE,1,4.1,1541880,53,4653
+13,The Host ,The Host,Stephenie Meyer,TRUE,1,3.84,4101,49,4607
+14,Breaking Dawn ,Twilight,Stephenie Meyer,TRUE,4,3.69,1260753,47,4398
+15,City of Fallen Angels ,The Mortal Instruments,Cassandra Clare,TRUE,4,4.14,4032,47,4179
+16,Fallen ,Fallen,Lauren Kate,TRUE,1,3.73,1960,43,4102
+17,The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of Glass ,The Mortal Instruments-3,Cassandra Clare,TRUE,1,4.56,3884,42,3916
+18,Pride and Prejudice,NA,Jane Austen,FALSE,0,4.26,2818060,38,3472
+19,Frostbite ,Vampire Academy,Richelle Mead,TRUE,2,4.28,8631,38,3442
+20,Shadow Kiss ,Vampire Academy,Richelle Mead,TRUE,3,4.36,5523,37,3404
+21,Crescendo ,Hush Hush,Becca Fitzpatrick,TRUE,2,4.05,5124,36,3369
+22,Last Sacrifice ,Vampire Academy,Richelle Mead,TRUE,6,4.4,8670,37,3339
+23,Graceling ,Graceling Realm,Kristin Cashore,TRUE,1,4.08,6288,37,3316
+24,Clockwork Prince ,The Infernal Devices,Cassandra Clare,TRUE,2,4.45,6261,37,3160
+25,The Book Thief,NA,Markus Zusak,FALSE,0,4.37,1724715,36,3152
+26,The Diary of a Young Girl,NA,Anne Frank,FALSE,0,4.14,2587663,34,3079
+27,The Outsiders,NA,S.E. Hinton,FALSE,0,4.09,2815,34,2965
+28,Eclipse ,Twilight,Stephenie Meyer,TRUE,3,3.69,1355985,34,2954
+29,Spirit Bound ,Vampire Academy,Richelle Mead,TRUE,5,4.36,3644,33,2887
+30,New Moon ,Twilight,Stephenie Meyer,TRUE,2,3.53,1389727,32,2883
+31,The Summoning ,Darkest Powers,Kelley Armstrong,TRUE,1,4.03,70,30,2821
+32,Harry Potter Series Box Set ,Harry Potter-7,J.K. Rowling,TRUE,1,4.74,953,32,2753
+33,The Iron King ,The Iron Fey,Julie Kagawa,TRUE,1,3.9,1873,30,2713
+34,Insurgent ,Divergent,Veronica Roth,TRUE,2,4.04,1110878,30,2698
+35,Harry Potter and the Sorcerer's Stone ,Harry Potter,J.K. Rowling,TRUE,1,4.47,6583756,30,2642
+36,Uglies ,Uglies,Scott Westerfeld,TRUE,1,3.86,9806,29,2585
+37,To Kill a Mockingbird,NA,Harper Lee,FALSE,0,4.27,4264244,28,2536
+38,Unearthly ,Unearthly,Cynthia Hand,TRUE,1,4.03,8194,28,2443
+39,Torment ,Fallen,Lauren Kate,TRUE,2,3.88,1676,26,2348
+40,Across the Universe ,Across the Universe,Beth Revis,TRUE,1,3.77,9780,25,2247
+41,Evermore ,The Immortals,Alyson Noel,TRUE,1,3.59,5482,25,2159
+42,Silence ,Hush Hush,Becca Fitzpatrick,TRUE,3,4.13,5913,26,2124
+43,Under the Never Sky ,Under the Never Sky,Veronica Rossi,TRUE,1,4,5680,23,2044
+44,Perfect Chemistry ,Perfect Chemistry,Simone Elkeles,TRUE,1,4.06,3281,24,2033
+45,Halo ,Halo,Alexandra Adornetto,TRUE,1,3.66,2600,23,1983
+46,Firelight ,Firelight,Sophie Jordan,TRUE,1,3.87,9435,24,1979
+47,The Passage ,Beyond Two Worlds,Nabille De La Luz,TRUE,1,3.88,0,19,1900
+48,Paranormalcy ,Paranormalcy,Kiersten White,TRUE,1,3.9,9285,21,1858
+49,Harry Potter and the Prisoner of Azkaban ,Harry Potter,J.K. Rowling,TRUE,3,4.56,2606631,21,1781
+50,Blue Bloods ,Blue Bloods,Melissa de la Cruz,TRUE,1,3.69,9014,21,1728
+51,Eragon ,The Inheritance Cycle,Christopher Paolini,TRUE,1,3.9,1374311,19,1719
+52,The Twilight Saga ,Twilight-4,Stephenie Meyer,TRUE,1,3.89,6420,19,1717
+53,The V Girl: A Coming Of Age Story,NA,Mya Robarts,FALSE,0,4.02,9581,18,1703
+54,Wings ,Wings,Aprilynne Pike,TRUE,1,3.75,1354,18,1609
+55,Nightshade ,Nightshade; Nightshade World,Andrea Cremer,TRUE,1,4.03,7221,19,1606
+56,Thirteen Reasons Why,NA,Jay Asher,FALSE,0,3.94,6860,18,1578
+57,Throne of Glass ,Throne of Glass,Sarah J. Maas,TRUE,1,4.22,4144,17,1532
+58,The Sisterhood of the Traveling Pants ,Sisterhood,Ann Brashares,TRUE,1,3.79,4142,18,1458
+59,Harry Potter and the Chamber of Secrets ,Harry Potter,J.K. Rowling,TRUE,2,4.42,2557641,17,1433
+60,The Body Finder ,The Body Finder,Kimberly Derting,TRUE,1,3.96,8236,17,1418
+61,Cinder ,The Lunar Chronicles,Marissa Meyer,TRUE,1,4.15,4751,16,1416
+62,Something I Am Not,NA,Cher Gatto,FALSE,0,4.85,0,14,1393
+63,Starcrossed ,Starcrossed,Josephine Angelini,TRUE,1,4.07,1125,19,1371
+64,Born at Midnight ,Shadow Falls,C.C. Hunter,TRUE,1,4.12,9097,17,1278
+65,The Iron Queen ,The Iron Fey,Julie Kagawa,TRUE,3,4.23,3602,16,1276
+66,Die for Me ,Revenants,Amy Plum,TRUE,1,3.99,1797,16,1257
+67,Evil In Disguise,NA,Deborah McClatchey,FALSE,0,4.87,0,13,1257
+68,Midnight Sun ,Twilight.5,Stephenie Meyer,TRUE,1,4.02,3633,15,1228
+69,Wicked Lovely ,Wicked Lovely,Melissa Marr,TRUE,1,3.69,6619,15,1205
+70,The Boogeyman,NA,Lillie J. Roberts,FALSE,0,4.38,0,12,1197
+71,Lock and Key,NA,Sarah Dessen,FALSE,0,4.01,7695,14,1195
+72,The Girl with Ghost Eyes ,The Daoshi Chronicles,M.H. Boroson,TRUE,1,3.89,3182,12,1193
+73,The Fault in Our Stars,NA,John Green,FALSE,0,4.22,3331634,14,1189
+74,The Forsaken,NA,R.J. Craddock,FALSE,0,4.54,0,12,1165
+75,Little Women,NA,Louisa May Alcott,FALSE,0,4.07,1594168,15,1164
+76,The Short Second Life of Bree Tanner ,Twilight.5,Stephenie Meyer,TRUE,3,3.5,3746,15,1143
+77,A Million Suns ,Across the Universe,Beth Revis,TRUE,2,4.02,814,15,1135
+78,Strange Angels ,Strange Angels,Lili St. Crow,TRUE,1,3.79,8210,14,1126
+79,Go Ask Alice,NA,Beatrice Sparks,FALSE,0,3.76,8236,14,1115
+80,Matched ,Matched,Ally Condie,TRUE,1,3.66,5981,13,1108
+81,Revelations ,Blue Bloods,Melissa de la Cruz,TRUE,3,3.9,3520,14,1038
+82,The Iron Daughter ,The Iron Fey,Julie Kagawa,TRUE,2,4.11,552,14,1026
+83,Passion ,Fallen,Lauren Kate,TRUE,3,3.89,1661,14,1025
+84,Angelfire ,Angelfire,Courtney Allison Moulton,TRUE,1,3.93,9531,13,1013
+85,Vanish ,Firelight,Sophie Jordan,TRUE,2,3.94,61,14,0
+86,Masquerade ,Blue Bloods,Melissa de la Cruz,TRUE,2,3.91,3880,14,0
+87,Artemis Fowl ,Artemis Fowl,Eoin Colfer,TRUE,1,3.84,439,13,0
+88,Supernaturally ,Paranormalcy,Kiersten White,TRUE,2,3.91,7884,13,0
+89,Shadowland ,The Immortals,Alyson Noel,TRUE,3,3.66,5685,13,0
+90,Daughter of Smoke & Bone ,Daughter of Smoke & Bone,Laini Taylor,TRUE,1,4.02,2654,11,0
+91,Blue Moon ,The Immortals,Alyson Noel,TRUE,2,3.61,4210,13,0
+92,Forever in Blue: The Fourth Summer of the Sisterhood ,Sisterhood,Ann Brashares,TRUE,4,3.81,7434,11,0
+93,The Lost Saint ,The Dark Divine,Bree Despain,TRUE,2,4.03,6529,12,0
+94,The Second Summer of the Sisterhood ,Sisterhood,Ann Brashares,TRUE,2,3.79,6410,11,0
+95,The Catcher in the Rye,NA,J.D. Salinger,FALSE,0,3.8,2608209,10,0
+96,The Gathering ,Darkness Rising,Kelley Armstrong,TRUE,1,4.03,6252,13,0
+97,Obsidian ,Lux,Jennifer L. Armentrout,TRUE,1,4.2,3272,11,0
+98,Girls in Pants: The Third Summer of the Sisterhood ,Sisterhood,Ann Brashares,TRUE,3,3.83,47,10,0
+99,Hades ,Halo,Alexandra Adornetto,TRUE,2,3.97,842,12,0
+100,The Hunger Games ,The Hunger Games,Suzanne Collins,TRUE,1,4.33,6086305,196,9286
+101,Catching Fire ,The Hunger Games,Suzanne Collins,TRUE,2,4.29,2360261,138,3376
+102,Mockingjay ,The Hunger Games,Suzanne Collins,TRUE,3,4.04,2217517,99,9442
+103,Divergent ,Divergent,Veronica Roth,TRUE,1,4.2,2767407,97,9119
+104,Vampire Academy ,Vampire Academy,Richelle Mead,TRUE,1,4.13,7029,86,8292
+105,Harry Potter and the Deathly Hallows ,Harry Potter,J.K. Rowling,TRUE,7,4.62,2656673,86,8066
+106,Clockwork Angel ,The Infernal Devices,Cassandra Clare,TRUE,1,4.33,4635,77,7374
+107,Harry Potter and the Goblet of Fire ,Harry Potter,J.K. Rowling,TRUE,4,4.56,2423434,72,6674
+108,"Hush, Hush ",Hush Hush,Becca Fitzpatrick,TRUE,1,3.98,5976,66,6382
+109,Harry Potter and the Half-Blood Prince ,Harry Potter,J.K. Rowling,TRUE,6,4.57,2295705,69,6343
+110,Harry Potter and the Order of the Phoenix ,Harry Potter,J.K. Rowling,TRUE,5,4.5,2355804,59,5336
+111,Twilight ,Twilight,Stephenie Meyer,TRUE,1,3.59,4728031,57,5320
+112,City of Bones ,The Mortal Instruments,Cassandra Clare,TRUE,1,4.1,1541880,53,4653
+113,The Host ,The Host,Stephenie Meyer,TRUE,1,3.84,4101,49,4607
+114,Breaking Dawn ,Twilight,Stephenie Meyer,TRUE,4,3.69,1260753,47,4398
+115,City of Fallen Angels ,The Mortal Instruments,Cassandra Clare,TRUE,4,4.14,4032,47,4179
+116,Fallen ,Fallen,Lauren Kate,TRUE,1,3.73,1960,43,4102
+117,The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of Glass ,The Mortal Instruments-3,Cassandra Clare,TRUE,1,4.56,3884,42,3916
+118,Pride and Prejudice,NA,Jane Austen,FALSE,0,4.26,2818060,38,3472
+119,Frostbite ,Vampire Academy,Richelle Mead,TRUE,2,4.28,8631,38,3442
+120,Shadow Kiss ,Vampire Academy,Richelle Mead,TRUE,3,4.36,5523,37,3404
+121,Crescendo ,Hush Hush,Becca Fitzpatrick,TRUE,2,4.05,5124,36,3369
+122,Last Sacrifice ,Vampire Academy,Richelle Mead,TRUE,6,4.4,8670,37,3339
+123,Graceling ,Graceling Realm,Kristin Cashore,TRUE,1,4.08,6288,37,3316
+124,Clockwork Prince ,The Infernal Devices,Cassandra Clare,TRUE,2,4.45,6261,37,3160
+125,The Book Thief,NA,Markus Zusak,FALSE,0,4.37,1724715,36,3152
+126,The Diary of a Young Girl,NA,Anne Frank,FALSE,0,4.14,2587663,34,3079
+127,The Outsiders,NA,S.E. Hinton,FALSE,0,4.09,2815,34,2965
+128,Eclipse ,Twilight,Stephenie Meyer,TRUE,3,3.69,1355985,34,2954
+129,Spirit Bound ,Vampire Academy,Richelle Mead,TRUE,5,4.36,3644,33,2887
+130,New Moon ,Twilight,Stephenie Meyer,TRUE,2,3.53,1389727,32,2883
+131,The Summoning ,Darkest Powers,Kelley Armstrong,TRUE,1,4.03,70,30,2821
+132,Harry Potter Series Box Set ,Harry Potter-7,J.K. Rowling,TRUE,1,4.74,953,32,2753
+133,The Iron King ,The Iron Fey,Julie Kagawa,TRUE,1,3.9,1873,30,2713
+134,Insurgent ,Divergent,Veronica Roth,TRUE,2,4.04,1110878,30,2698
+135,Harry Potter and the Sorcerer's Stone ,Harry Potter,J.K. Rowling,TRUE,1,4.47,6583756,30,2642
+136,Uglies ,Uglies,Scott Westerfeld,TRUE,1,3.86,9806,29,2585
+137,To Kill a Mockingbird,NA,Harper Lee,FALSE,0,4.27,4264244,28,2536
+138,Unearthly ,Unearthly,Cynthia Hand,TRUE,1,4.03,8194,28,2443
+139,Torment ,Fallen,Lauren Kate,TRUE,2,3.88,1676,26,2348
+140,Across the Universe ,Across the Universe,Beth Revis,TRUE,1,3.77,9780,25,2247
+141,Evermore ,The Immortals,Alyson Noel,TRUE,1,3.59,5482,25,2159
+142,Silence ,Hush Hush,Becca Fitzpatrick,TRUE,3,4.13,5913,26,2124
+143,Under the Never Sky ,Under the Never Sky,Veronica Rossi,TRUE,1,4,5680,23,2044
+144,Perfect Chemistry ,Perfect Chemistry,Simone Elkeles,TRUE,1,4.06,3281,24,2033
+145,Halo ,Halo,Alexandra Adornetto,TRUE,1,3.66,2600,23,1983
+146,Firelight ,Firelight,Sophie Jordan,TRUE,1,3.87,9435,24,1979
+147,The Passage ,Beyond Two Worlds,Nabille De La Luz,TRUE,1,3.88,0,19,1900
+148,Paranormalcy ,Paranormalcy,Kiersten White,TRUE,1,3.9,9285,21,1858
+149,Harry Potter and the Prisoner of Azkaban ,Harry Potter,J.K. Rowling,TRUE,3,4.56,2606631,21,1781
+150,Blue Bloods ,Blue Bloods,Melissa de la Cruz,TRUE,1,3.69,9014,21,1728
+151,Eragon ,The Inheritance Cycle,Christopher Paolini,TRUE,1,3.9,1374311,19,1719
+152,The Twilight Saga ,Twilight-4,Stephenie Meyer,TRUE,1,3.89,6420,19,1717
+153,The V Girl: A Coming Of Age Story,NA,Mya Robarts,FALSE,0,4.02,9581,18,1703
+154,Wings ,Wings,Aprilynne Pike,TRUE,1,3.75,1354,18,1609
+155,Nightshade ,Nightshade; Nightshade World,Andrea Cremer,TRUE,1,4.03,7221,19,1606
+156,Thirteen Reasons Why,NA,Jay Asher,FALSE,0,3.94,6860,18,1578
+157,Throne of Glass ,Throne of Glass,Sarah J. Maas,TRUE,1,4.22,4144,17,1532
+158,The Sisterhood of the Traveling Pants ,Sisterhood,Ann Brashares,TRUE,1,3.79,4142,18,1458
+159,Harry Potter and the Chamber of Secrets ,Harry Potter,J.K. Rowling,TRUE,2,4.42,2557641,17,1433
+160,The Body Finder ,The Body Finder,Kimberly Derting,TRUE,1,3.96,8236,17,1418
+161,Cinder ,The Lunar Chronicles,Marissa Meyer,TRUE,1,4.15,4751,16,1416
+162,Something I Am Not,NA,Cher Gatto,FALSE,0,4.85,0,14,1393
+163,Starcrossed ,Starcrossed,Josephine Angelini,TRUE,1,4.07,1125,19,1371
+164,Born at Midnight ,Shadow Falls,C.C. Hunter,TRUE,1,4.12,9097,17,1278
+165,The Iron Queen ,The Iron Fey,Julie Kagawa,TRUE,3,4.23,3602,16,1276
+166,Die for Me ,Revenants,Amy Plum,TRUE,1,3.99,1797,16,1257
+167,Evil In Disguise,NA,Deborah McClatchey,FALSE,0,4.87,0,13,1257
+168,Midnight Sun ,Twilight.5,Stephenie Meyer,TRUE,1,4.02,3633,15,1228
+169,Wicked Lovely ,Wicked Lovely,Melissa Marr,TRUE,1,3.69,6619,15,1205
+170,The Boogeyman,NA,Lillie J. Roberts,FALSE,0,4.38,0,12,1197
+171,Lock and Key,NA,Sarah Dessen,FALSE,0,4.01,7695,14,1195
+172,The Girl with Ghost Eyes ,The Daoshi Chronicles,M.H. Boroson,TRUE,1,3.89,3182,12,1193
+173,The Fault in Our Stars,NA,John Green,FALSE,0,4.22,3331634,14,1189
+174,The Forsaken,NA,R.J. Craddock,FALSE,0,4.54,0,12,1165
+175,Little Women,NA,Louisa May Alcott,FALSE,0,4.07,1594168,15,1164
+176,The Short Second Life of Bree Tanner ,Twilight.5,Stephenie Meyer,TRUE,3,3.5,3746,15,1143
+177,A Million Suns ,Across the Universe,Beth Revis,TRUE,2,4.02,814,15,1135
+178,Strange Angels ,Strange Angels,Lili St. Crow,TRUE,1,3.79,8210,14,1126
+179,Go Ask Alice,NA,Beatrice Sparks,FALSE,0,3.76,8236,14,1115
+180,Matched ,Matched,Ally Condie,TRUE,1,3.66,5981,13,1108
+181,Revelations ,Blue Bloods,Melissa de la Cruz,TRUE,3,3.9,3520,14,1038
+182,The Iron Daughter ,The Iron Fey,Julie Kagawa,TRUE,2,4.11,552,14,1026
+183,Passion ,Fallen,Lauren Kate,TRUE,3,3.89,1661,14,1025
+184,Angelfire ,Angelfire,Courtney Allison Moulton,TRUE,1,3.93,9531,13,1013
+185,Vanish ,Firelight,Sophie Jordan,TRUE,2,3.94,61,14,0
+186,Masquerade ,Blue Bloods,Melissa de la Cruz,TRUE,2,3.91,3880,14,0
+187,Artemis Fowl ,Artemis Fowl,Eoin Colfer,TRUE,1,3.84,439,13,0
+188,Supernaturally ,Paranormalcy,Kiersten White,TRUE,2,3.91,7884,13,0
+189,Shadowland ,The Immortals,Alyson Noel,TRUE,3,3.66,5685,13,0
+190,Daughter of Smoke & Bone ,Daughter of Smoke & Bone,Laini Taylor,TRUE,1,4.02,2654,11,0
+191,Blue Moon ,The Immortals,Alyson Noel,TRUE,2,3.61,4210,13,0
+192,Forever in Blue: The Fourth Summer of the Sisterhood ,Sisterhood,Ann Brashares,TRUE,4,3.81,7434,11,0
+193,The Lost Saint ,The Dark Divine,Bree Despain,TRUE,2,4.03,6529,12,0
+194,The Second Summer of the Sisterhood ,Sisterhood,Ann Brashares,TRUE,2,3.79,6410,11,0
+195,The Catcher in the Rye,NA,J.D. Salinger,FALSE,0,3.8,2608209,10,0
+196,The Gathering ,Darkness Rising,Kelley Armstrong,TRUE,1,4.03,6252,13,0
+197,Obsidian ,Lux,Jennifer L. Armentrout,TRUE,1,4.2,3272,11,0
+198,Girls in Pants: The Third Summer of the Sisterhood ,Sisterhood,Ann Brashares,TRUE,3,3.83,47,10,0
+199,Hades ,Halo,Alexandra Adornetto,TRUE,2,3.97,842,12,0
+200,Need ,Need,Carrie Jones,TRUE,1,3.71,9134,12,0
+201,City of Lost Souls ,The Mortal Instruments,Cassandra Clare,TRUE,5,4.28,9494,10,0
+202,Anne of Green Gables ,Anne of Green Gables,L.M. Montgomery,TRUE,1,4.26,3594,10,0
+203,Dark Flame ,The Immortals,Alyson Noel,TRUE,4,3.73,7953,12,0
+204,Tiger Lily of Bangkok,NA,Owen  Jones,FALSE,0,4.17,0,8,0
+205,"Are You There God? It's Me, Margaret",NA,Judy Blume,FALSE,0,3.9,650,9,0
+206,Night Star ,The Immortals,Alyson Noel,TRUE,5,3.82,8903,11,0
+207,Evernight ,Evernight,Claudia Gray,TRUE,1,3.64,2385,11,0
+208,The Lovely Bones,NA,Alice Sebold,FALSE,0,3.81,1941035,9,0
+209,Where She Went ,If I Stay,Gayle Forman,TRUE,2,4.03,146,9,0
+210,Pretties ,Uglies,Scott Westerfeld,TRUE,2,3.85,4794,9,0
+211,The Dark Divine ,The Dark Divine,Bree Despain,TRUE,1,3.8,5970,12,0
+212,New England Witch Chronicles ,New England Witch Chronicles,Chelsea Luna,TRUE,1,3.98,1263,8,0
+213,When The Circus Came To Town,NA,Deborah McClatchey,FALSE,0,4.65,0,7,0
+214,For the Sake of a Child,NA,Stevie Turner,FALSE,0,4.12,0,7,0
+215,Illusions ,Wings,Aprilynne Pike,TRUE,3,4.11,9929,10,0
+216,"The Lion, the Witch and the Wardrobe ",Chronicles of Narnia,C.S. Lewis,TRUE,1,4.22,2027763,8,0
+217,Legend ,Legend,Marie Lu,TRUE,1,4.18,1542,8,0
+218,The Haunted ,The Hollow,Jessica Verday,TRUE,2,4.14,4546,9,0
+219,Specials ,Uglies,Scott Westerfeld,TRUE,3,3.77,4002,8,0
+220,Brave New World,NA,Aldous Huxley,FALSE,0,3.99,1362342,7,0
+221,Half-Blood ,Covenant,Jennifer L. Armentrout,TRUE,1,4.15,6395,8,0
+222,Conjured ,New England Witch Chronicles,Chelsea Luna,TRUE,2,4.24,0,7,0
+223,The Angel Experiment ,Maximum Ride,James Patterson,TRUE,1,4.08,878,8,0
+224,Angelfall ,Penryn & the End of Days,Susan Ee,TRUE,1,4.15,5152,7,0
+225,The First Pillar ,Everville,Roy Huff,TRUE,1,3.57,0,6,0
+226,Trueman Bradley - Aspie Detective,NA,Alexei Maxim Russell,FALSE,0,4.38,0,6,0
+227,Broken Point ,The Wayward Gifted,Donna K. Childree,TRUE,1,3.87,0,6,0
+228,When Stars Die ,Stars,Amber Forbes,TRUE,1,4.12,0,6,0
+229,Gray Street,NA,Annie Wood,FALSE,0,4.35,0,6,0
+230,Dickensen Academy,NA,Christine Grabowski,FALSE,0,4.38,0,6,0
+231,If it Weren't for You,NA,Dorothea Neamonitos,FALSE,0,4.77,0,6,0
+232,Jerkbait,NA,Mia Siegert,FALSE,0,3.58,1077,6,0
+233,Alanna: The First Adventure ,Song of the Lioness,Tamora Pierce,TRUE,1,4.26,244,8,0
+234,How We Fall,NA,Kate Brauning,FALSE,0,3.65,0,6,0
+235,The Gift,NA,Jonathan     Lynch,FALSE,0,4.23,0,6,0
+236,Shillingstone Witch ,Fiona Frost,Bon Blossman,TRUE,4,4.5,0,6,0
+237,Wicked Betrayal ,New England Witch Chronicles,Chelsea Luna,TRUE,3,4.29,0,6,0
+238,Deadly Little Secret ,Touch,Laurie Faria Stolarz,TRUE,1,3.87,1968,8,0
+239,Deadly Little Lies ,Touch,Laurie Faria Stolarz,TRUE,2,4.02,1898,8,0
+240,Along for the Ride,NA,Sarah Dessen,FALSE,0,4.06,2277,7,0
+241,Gunfight at the Old Leake Canal,NA,G.B. Hope,FALSE,0,4.62,0,6,0
+242,Crazy For Alice,NA,Alex Dunn,FALSE,0,4.13,0,6,0
+243,The Raven Boys ,The Raven Cycle,Maggie Stiefvater,TRUE,1,4.06,3958,7,0
+244,Heir of Fire ,Throne of Glass,Sarah J. Maas,TRUE,3,4.49,5359,6,0
+245,Looking for Alaska,NA,John Green,FALSE,0,4.04,1055596,7,0
+246,Unwind ,Unwind,Neal Shusterman,TRUE,1,4.18,4221,6,0
+247,Entwined,NA,Heather Dixon Wallwork,FALSE,0,3.87,3048,9,0
+248,All-American Girl ,All-American Girl,Meg Cabot,TRUE,1,3.74,3197,6,0
+249,Easy ,Contours of the Heart,Tammara Webber,TRUE,1,4.09,830,6,0
+250,Onyx ,Lux,Jennifer L. Armentrout,TRUE,2,4.3,9791,7,0
+251,Anna and the French Kiss ,Anna and the French Kiss,Stephanie Perkins,TRUE,1,4.02,561,6,0
+252,The Selection ,The Selection,Kiera Cass,TRUE,1,4.14,4395,7,0
+253,Once Upon a Road Trip ,Once Upon a Road Trip,Angela N. Blount,TRUE,1,3.69,0,5,0
+254,Beautiful Disaster ,Beautiful,Jamie McGuire,TRUE,1,4.11,4357,7,0
+255,The Change ,Blue River Chronicles,C.M. Meridian,TRUE,2,4.3,0,5,0
+256,The Last Battle ,Chronicles of Narnia,C.S. Lewis,TRUE,7,4.03,9726,7,0
+257,Skull Creek Stakeout ,The Caden Chronicles,Eddie       Jones,TRUE,2,4.29,0,5,0
+258,Spells ,Wings,Aprilynne Pike,TRUE,2,3.98,8776,8,0
+259,Hex Hall ,Hex Hall,Rachel Hawkins,TRUE,1,3.95,6428,7,0
+260,Shades of Earth ,Across the Universe,Beth Revis,TRUE,3,4.09,255,7,0
+261,School Monitor,NA,Alex Dunn,FALSE,0,3.59,0,5,0
+262,Dating Down,NA,Alex Dunn,FALSE,0,3.89,0,5,0
+263,Flowers for Algernon,NA,Daniel Keyes,FALSE,0,4.13,3563,6,0
+264,The Iron Witch ,The Iron Witch,Karen Mahoney,TRUE,1,3.46,9630,7,0
+265,Hopeless ,Hopeless,Colleen Hoover,TRUE,1,4.3,3568,5,0
+266,Fangirl,NA,Rainbow Rowell,FALSE,0,4.07,4771,5,0
+267,The Secret Garden,NA,Frances Hodgson Burnett,FALSE,0,4.13,3999,6,0
+268,The Lightning Thief ,Percy Jackson and the Olympians,Rick Riordan,TRUE,1,4.25,1862341,6,0
+269,The Immortal Rules ,Blood of Eden,Julie Kagawa,TRUE,1,4.09,2787,6,0
+270,Dreamland,NA,Sarah Dessen,FALSE,0,3.91,2335,6,0
+271,Fateful,NA,Claudia Gray,FALSE,0,3.89,431,7,0
+272,Lord of the Flies,NA,William Golding,FALSE,0,3.68,2160849,5,0
+273,Stargirl ,Stargirl,Jerry Spinelli,TRUE,1,3.76,3658,5,0
+274,The Van Alen Legacy ,Blue Bloods,Melissa de la Cruz,TRUE,4,3.95,3762,7,0
+275,The Silver Chair ,Chronicles of Narnia,C.S. Lewis,TRUE,4,3.96,5002,5,0
+276,Forever . . .,NA,Judy Blume,FALSE,0,3.62,1738,5,0
+277,Sky Ghosts: All for One ,Sky Ghosts,Alexandra Engellmann,TRUE,1,3.74,0,4,0
+278,Weird Girl and What's His Name,NA,Meagan Brothers,FALSE,0,3.58,0,4,0
+279,Gray Hawk of Terrapin,NA,Moss Whelan,FALSE,0,4.41,0,4,0
+280,The Adventures of Sarah Ann Lewis and the Memory Thieves ,The Sentinels Book,Joshua C. Carroll,TRUE,1,4.46,0,4,0
+281,Angel ,Angel,L.A. Weatherly,TRUE,1,3.87,1307,6,0
+282,The Scriptlings,NA,Sorin Suciu,FALSE,0,3.99,0,4,0
+283,The Legend of the Blue Eyes ,Blue Eyes Trilogy,B. Kristin McMichael,TRUE,1,3.84,3366,4,0
+284,Deep World Fire  ,Deep World Saga,C.M. Meridian,TRUE,1,4.16,0,4,0
+285,Djinn,NA,Sang Kromah,FALSE,0,4.17,0,4,0
+286,Sky Ghosts: Marco ,Sky Ghosts.5,Alexandra Engellmann,TRUE,1,4.35,0,4,0
+287,Demon Kissed ,Demon Kissed,H.M. Ward,TRUE,1,3.82,4630,5,0
+288,Carnelian ,Chalcedony Chronicles,B. Kristin McMichael,TRUE,1,3.87,0,4,0
+289,The Circle: Taken,NA,Sage Sask,FALSE,0,4.16,0,4,0
+290,The Girl with No Face ,The Daoshi Chronicles,M.H. Boroson,TRUE,2,4.4,0,4,0
+291,Fairytales for Wilde Girls,NA,Allyse Near,FALSE,0,4.16,0,4,0
+292,Doctors in Hell ,Heroes in Hell,Janet E. Morris,TRUE,1,4.75,0,4,0
+293,Alice in Wonderland,NA,Jane Carruth,FALSE,0,4.03,7151,5,0
+294,The False Princess,NA,Eilis O'Neal,FALSE,0,3.8,4377,7,0
+295,Hourglass,NA,Claudia Gray,FALSE,0,3.79,3164,6,0
+296,The Devil's Liege,NA,Danielle DeVor,FALSE,0,4.4,0,4,0
+297,Steelheart ,Reckoners,Brandon Sanderson,TRUE,1,4.15,9468,4,0
+298,Tithe ,Modern Faerie Tales,Holly Black,TRUE,1,3.72,1589,6,0
+299,The Avery Shaw Experiment ,Science Squad,Kelly Oram,TRUE,1,4.03,1812,4,0
+300,Stargazer,NA,Claudia Gray,FALSE,0,3.8,4671,6,0
+301,Fire,NA,Kristin Cashore,FALSE,0,4.11,4377,4,0
+302,Red Queen ,Red Queen,Victoria Aveyard,TRUE,1,4.06,3711,4,0
+303,Lola and the Boy Next Door ,Anna and the French Kiss,Stephanie Perkins,TRUE,2,3.96,3504,5,0
+304,Crown of Midnight ,Throne of Glass,Sarah J. Maas,TRUE,2,4.45,9787,4,0
+305,That Summer,NA,Sarah Dessen,FALSE,0,3.48,820,5,0
+306,Keeping the Moon,NA,Sarah Dessen,FALSE,0,3.86,9899,5,0
+307,Scarlet ,The Lunar Chronicles,Marissa Meyer,TRUE,2,4.28,3,4,0
+308,My Life Next Door,NA,Huntley Fitzpatrick,FALSE,0,4,8279,4,0
+309,Watership Down ,Watership Down,Richard  Adams,TRUE,1,4.06,7358,4,0
+310,Wings of the Wicked ,Angelfire,Courtney Allison Moulton,TRUE,2,4.23,4580,5,0
+311,The Named,NA,Marianne Curley,FALSE,0,4.06,7692,5,0
+312,Holes ,Holes,Louis Sachar,TRUE,1,3.96,4136,4,0
+313,Glimmerglass ,Faeriewalker,Jenna Black,TRUE,1,3.75,9997,6,0
+314,Charlie and the Chocolate Factory ,Charlie Bucket,Roald Dahl,TRUE,1,4.13,2511,4,0
+315,The Chronicles of Narnia ,Chronicles of Narnia-7,C.S. Lewis,TRUE,1,4.26,9559,4,0
+316,The Giver ,The Giver,Lois Lowry,TRUE,1,4.13,1679657,4,0
+317,Reason to Breathe ,Breathing,Rebecca    Donovan,TRUE,1,4.22,5110,4,0
+318,Fablehaven ,Fablehaven,Brandon Mull,TRUE,1,4.1,5519,4,0
+319,"I'd Tell You I Love You, But Then I'd Have to Kill You ",Gallagher Girls,Ally Carter,TRUE,1,3.83,9866,4,0
+320,The Maze Runner ,The Maze Runner,James Dashner,TRUE,1,4.02,9810,4,0
+321,Fateful ,Fateful,Cheri Schmidt,TRUE,1,3.61,2382,6,0
+322,Just Listen,NA,Sarah Dessen,FALSE,0,4.06,7207,4,0
+323,Everlasting ,The Immortals,Alyson Noel,TRUE,6,3.91,3725,5,0
+324,Beauty Queens,NA,Libba Bray,FALSE,0,3.62,8348,4,0
+325,Birthmarked ,Birthmarked,Caragh M. O'Brien,TRUE,1,3.89,4514,6,0
+326,Brightly Woven,NA,Alexandra Bracken,FALSE,0,3.8,8818,5,0
+327,Inside Out ,Insider,Maria V. Snyder,TRUE,1,3.82,3486,4,0
+328,The Sphinx Project ,The Chimaera Chronicles,Kate Hawkings,TRUE,1,3.7,0,3,0
+329,Fables of the Flag,NA,Ethan Coffee,FALSE,0,4,0,3,0
+330,Control ,Control,Lydia Kang,TRUE,1,3.86,4380,3,0
+331,The Founder's Curse ,New Zigon,Danelle O'Donnell,TRUE,1,4.17,0,3,0
+332,Kirin Rise: The Cast of Shadows,NA,Ed Cruz,FALSE,0,4.68,0,3,0
+333,Realm of the Goddess,NA,Sabina Khan,FALSE,0,3.65,0,3,0
+334,Haunted Tree ,The Magus Family Chronicles,Scott Robert Scheller,TRUE,1,3.78,0,3,0
+335,Splintered Courage,NA,J.E. Sawyer,FALSE,0,3.82,0,3,0
+336,Stratagem,NA,Christina Hagmann,FALSE,0,4.72,0,3,0
+337,I Thirst ,The Veritas Chronicles,Gina Marinello-Sweeney,TRUE,1,3.84,0,3,0
+338,In the Eyes of Madness ,Declan Peters Chronicles,Michael Pang,TRUE,1,3.76,0,3,0
+339,The Holders ,Holders,Julianna Scott,TRUE,1,3.8,1019,3,0
+340,First Contact ,Aoleon The Martian Girl,Brent LeVasseur,TRUE,1,3.99,0,3,0
+341,The Power of Six ,Lorien Legacies,Pittacus Lore,TRUE,2,4.16,8905,4,0
+342,Dead Low Tide ,The Caden Chronicles,Eddie       Jones,TRUE,3,4.85,0,3,0
+343,Bitterblue ,Graceling Realm,Kristin Cashore,TRUE,3,4,5556,5,0
+344,NA,13 to Life,Shannon Delany,TRUE,1,3.8,2558,7,0
+345,Arielle Immortal Awakening ,Immortal Rapture,Lilian Roberts,TRUE,1,3.71,0,3,0
+346,The End of Calico Jack ,Caribbean Chronicles Book,Eddie       Jones,TRUE,3,4.8,0,3,0
+347,The Rise of Nine ,Lorien Legacies,Pittacus Lore,TRUE,3,4.18,4024,4,0
+348,Dead Man's Hand ,The Caden Chronicles,Eddie       Jones,TRUE,1,4.02,0,3,0
+349,Bentwhistle The Dragon in A Chilling Revelation ,Book,Paul Cude,TRUE,2,4.65,0,3,0
+350,"Dead Calm, Bone Dry ",Caribbean Chronicles,Eddie       Jones,TRUE,2,4.54,0,3,0
+351,"Will Grayson, Will Grayson",NA,John Green,FALSE,0,3.78,8664,4,0
+352,Dreams Come True,NA,Bridgitte Lesley,FALSE,0,4.15,0,3,0
+353,"Curse of the Black Avenger: Blood Sails, Dark Hearts",NA,Eddie       Jones,FALSE,0,4.02,0,3,0
+354,The Thief ,The Queen's Thief,Megan Whalen Turner,TRUE,1,3.88,1453,3,0
+355,A Wizard of Earthsea,NA,Ursula K. Le Guin,FALSE,0,4,2594,3,0
+356,UnWholly ,Unwind,Neal Shusterman,TRUE,2,4.25,7184,3,0
+357,Queen of Shadows ,Throne of Glass,Sarah J. Maas,TRUE,4,4.57,9884,3,0
+358,The King of Attolia ,The Queen's Thief,Megan Whalen Turner,TRUE,3,4.37,1651,3,0
+359,Stewie,NA,Linda De Quincey,FALSE,0,4.11,0,3,0
+360,Deadly Little Games ,Touch,Laurie Faria Stolarz,TRUE,3,4.04,8564,4,0
+361,The Truth About Forever,NA,Sarah Dessen,FALSE,0,4.13,4732,3,0
+362,The DUFF: Designated Ugly Fat Friend,NA,Kody Keplinger,FALSE,0,3.83,4050,3,0
+363,Storm Glass ,Glass,Maria V. Snyder,TRUE,1,3.95,2957,5,0
+364,Foundation ,Foundation,Isaac Asimov,TRUE,1,4.17,5615,3,0
+365,Linger ,The Wolves of Mercy Falls,Maggie Stiefvater,TRUE,2,3.91,6769,5,0
+366,The Fallen Star ,Fallen Star,Jessica Sorensen,TRUE,1,3.91,7762,3,0
+367,It's Not Summer Without You ,Summer,Jenny Han,TRUE,2,4.1,5038,3,0
+368,Blood and Chocolate,NA,Annette Curtis Klause,FALSE,0,3.78,7408,3,0
+369,The Princess Diaries ,The Princess Diaries,Meg Cabot,TRUE,1,3.79,7591,3,0
+370,Ink Exchange ,Wicked Lovely,Melissa Marr,TRUE,2,3.69,5172,5,0
+371,Someone Like You,NA,Sarah Dessen,FALSE,0,3.93,3771,3,0
+372,The Golden Compass ,His Dark Materials,Philip Pullman,TRUE,1,3.98,1228754,3,0
+373,Eleanor & Park,NA,Rainbow Rowell,FALSE,0,4.07,6343,3,0
+374,My Boyfriend Merlin ,My Merlin,Priya Ardis,TRUE,1,3.55,2141,3,0
+375,So Yesterday,NA,Scott Westerfeld,FALSE,0,3.58,890,3,0
+376,The Arctic Incident  ,Artemis Fowl,Eoin Colfer,TRUE,2,3.95,1016,3,0
+377,Virals ,Virals,Kathy Reichs,TRUE,1,3.94,5458,3,0
+378,Daimon ,Covenant.5,Jennifer L. Armentrout,FALSE,0,4.1,9993,4,0
+379,Going Too Far,NA,Jennifer Echols,FALSE,0,3.93,8306,3,0
+380,The Assassin's Blade ,Throne of Glass.1-0.5,Sarah J. Maas,FALSE,0,4.43,5206,3,0
+381,Significance ,Significance,Shelly Crane,TRUE,1,4.11,1273,3,0
+382,Touch ,Denazen,Jus Accardo,TRUE,1,3.81,4431,3,0
+383,Prince of Wolves ,The Grey Wolves,Quinn Loftis,TRUE,1,4.04,3683,3,0
+384,School's Out—Forever ,Maximum Ride,James Patterson,TRUE,2,4.15,802,3,0
+385,If I Should Die ,Revenants,Amy Plum,TRUE,3,4.2,7190,3,0
+386,Until I Die ,Revenants,Amy Plum,TRUE,2,4.17,7701,3,0
+387,Saving the World and Other Extreme Sports ,Maximum Ride,James Patterson,TRUE,3,4.15,6181,3,0
+388,Princess of the Midnight Ball ,The Princesses of Westfalin Trilogy,Jessica Day George,TRUE,1,3.93,1347,4,0
+389,Her Dark Destiny ,Hunters of the Dark,Dave Ferraro,TRUE,1,3.41,0,2,0
+390,Scent of a White Rose ,The Rose Trilogy,Tish Thawer,TRUE,1,3.67,0,2,0
+391,Sonora and the Eye of the Titans ,Sonora,T.S. Hall,TRUE,1,3.76,0,2,0
+392,Demons at Deadnight ,Divinicus Nex Chronicles,A.  Kirk,TRUE,1,4.13,8349,2,0
+393,The Complex ,Linx ,C. Zaragoza,TRUE,1,3.8,0,2,0
+394,The Shen Counter,NA,Nicole Jakubowski,FALSE,0,4.38,0,2,0
+395,Witch Born ,Witch Song,Amber Argyle,TRUE,2,4.17,1208,2,0
+396,The Case of the Wayward Fae ,The Chronicles of Mister Marmee,H.L.  Stephens,TRUE,2,4.08,0,2,0
+397,Pitch Green ,Dimensions in Death,The Brothers Washburn,TRUE,1,4.1,0,2,0
+398,Reborn ,The Fate Challenges,Cherie Reich,TRUE,1,4.21,0,2,0
+399,Regular People of The Weak: A Rebel's Experience With The Spiritual Chief of Poets,NA,Shareef Mabrouk,FALSE,0,4.78,0,2,0
+400,The Prophecy of Arcadia ,Arcadian Wars,M.H. Soars,TRUE,1,3.82,0,2,0
+401,The Tree House ,The Tree House,Shay Lynam,TRUE,1,4.06,0,2,0
+402,Before Life Happened ,Before,Isabel Curtis,TRUE,1,3.67,0,2,0
+403,The Weaver of Odds ,Vivian Amberville,Louise Blackwick,TRUE,1,4.34,0,2,0
+404,Mine Forever: A Young Adult Romance,NA,Skylar Nightingale,FALSE,0,4.45,0,2,0
+405,Revealing Eden ,Save the Pearls,Victoria Foyt,TRUE,1,2,0,2,0
+406,Atonement,NA,Ian McEwan,FALSE,0,3.9,3845,2,0
+407,Broken ,Assumption,Izzibella Beau,TRUE,1,4.16,0,2,0
+408,Deadline,NA,Chris Crutcher,FALSE,0,3.93,2762,2,0
+409,Maya's Magical Adventures,NA,Malcolm McCoard,FALSE,0,4.77,0,2,0
+410,Rumor of a Werewolf ,Monster Mysteries,Eddie       Jones,TRUE,4,4.75,0,2,0
+411,Airborne ,Airborne Saga,Constance Sharper,TRUE,1,3.53,1239,4,0
+412,The Case of Jack the Nipper ,The Chronicles of Mister Marmee,H.L.  Stephens,TRUE,1,3.91,0,2,0
+413,The Trial ,The Tree House,Shay Lynam,TRUE,2,4,0,2,0
+414,Unmaking Hunter Kennedy,NA,Anne    Eliot,FALSE,0,3.81,9197,2,0
+415,Alice ,The Wanderland Chronicles,J.M.  Sullivan,TRUE,1,3.82,0,2,0
+416,Chasing Eveline,NA,Leslie Hauser,FALSE,0,4.18,0,2,0
+417,"Stop! Don't Read This, It's Impossible!",NA,Malcolm McCoard,FALSE,0,4.74,0,2,0
+418,The House of the Scorpion ,Matteo Alacran,Nancy Farmer,TRUE,1,4.1,5674,2,0
+419,Minutes Before Sunset ,Timely Death,Shannon A. Thompson,TRUE,1,4.03,0,2,0
+420,The Amber Spyglass  ,His Dark Materials,Philip Pullman,TRUE,3,4.09,9550,2,0
+421,Trial by Fire ,Raised by Wolves,Jennifer Lynn Barnes,TRUE,2,4.13,3760,3,0
+422,Places I Never Meant To Go,NA,Shay Lynam,FALSE,0,3.9,0,2,0
+423,Death & the Zombie Apocalypse ,Zombie Apocalypse,Chelsea Luna,TRUE,2,4.16,0,2,0
+424,Clockwork Princess ,The Infernal Devices,Cassandra Clare,TRUE,3,4.58,1400,3,0
+425,Case of the Ivy Hollow Werewolf ,Monster Club,Chelsea Luna,TRUE,1,4.21,0,2,0
+426,Terrier ,Beka Cooper,Tamora Pierce,TRUE,1,4.15,9776,3,0
+427,Demonglass ,Hex Hall,Rachel Hawkins,TRUE,2,4.11,5509,4,0
+428,Super Indy: The Great Action,NA,Alex Letner,FALSE,0,4.88,0,2,0
+429,Love & the Zombie Apocalypse ,Zombie Apocalypse,Chelsea Luna,TRUE,1,3.95,0,2,0
+430,The Pigman ,The Pigman,Paul Zindel,TRUE,1,3.59,5626,2,0
+431,Is Everyone Hanging Out Without Me?,NA,Mindy Kaling,FALSE,0,3.85,960,2,0
+432,The Statistical Probability of Love at First Sight,NA,Jennifer E. Smith,FALSE,0,3.78,5800,2,0
+433,The Seren Trilogy,NA,Darren Lewis,FALSE,0,4.52,0,2,0
+434,Through the Ever Night ,Under the Never Sky,Veronica Rossi,TRUE,2,4.15,7369,3,0
+435,Reboot ,Reboot,Amy Tintera,TRUE,1,3.9,9785,2,0
+436,Pushing the Limits ,Pushing the Limits,Katie McGarry,TRUE,1,4.07,1095,3,0
+437,The Prince of Mist ,Niebla,Carlos Ruiz Zafón,TRUE,1,3.71,1206,2,0
+438,All Hallows Eve ,New England Witch Chronicles,Chelsea Luna,TRUE,4,4.31,0,2,0
+439,Ash,NA,Malinda Lo,FALSE,0,3.62,597,3,0
+440,The Westing Game,NA,Ellen Raskin,FALSE,0,4.02,3861,2,0
+441,Pure ,Covenant,Jennifer L. Armentrout,TRUE,2,4.33,4893,3,0
+442,"Wood, Talc and Mr. J",NA,Chris   Rose,FALSE,0,4.35,0,2,0
+443,Whale Talk,NA,Chris Crutcher,FALSE,0,3.96,633,2,0
+444,The Subtle Knife ,His Dark Materials,Philip Pullman,TRUE,2,4.13,5441,2,0
+445,Chasing the Red Queen,NA,Karen Glista,FALSE,0,4.27,2020,2,0
+446,Wake ,Wake,Lisa McMann,TRUE,1,3.75,6081,4,0
+447,Slammed ,Slammed,Colleen Hoover,TRUE,1,4.27,2282,3,0
+448,Queen of Babble ,Queen of Babble,Meg Cabot,TRUE,1,3.69,3588,2,0
+449,Rules of Attraction ,Perfect Chemistry,Simone Elkeles,TRUE,2,4.2,9119,3,0
+450,Memoirs of a Geisha,NA,Arthur Golden,FALSE,0,4.11,1656863,3,0
+451,Monstrous Beauty,NA,Elizabeth Fama,FALSE,0,3.63,4712,2,0
+452,Partials ,Partials Sequence,Dan Wells,TRUE,1,3.94,1470,2,0
+453,Magic's Pawn ,Valdemar: Last Herald-Mage,Mercedes Lackey,TRUE,1,4.21,3491,2,0
+454,Into the Still Blue ,Under the Never Sky,Veronica Rossi,TRUE,3,4.15,3140,3,0
+455,Abandon ,Abandon,Meg Cabot,TRUE,1,3.69,5611,2,0
+456,His Kiss,NA,Melanie Marks,FALSE,0,3.59,4340,2,0
+457,Afterlife,NA,Claudia Gray,FALSE,0,3.79,6774,4,0
+458,Almost,NA,Anne    Eliot,FALSE,0,3.8,5232,2,0
+459,The Hollow ,The Hollow,Jessica Verday,TRUE,1,3.75,9529,2,0
+460,Crush ,Crush,Lacey Weatherford,TRUE,1,3.96,3321,2,0
+461,The Blue Sword ,Damar,Robin McKinley,TRUE,1,4.22,4366,2,0
+462,Fallen Too Far ,Rosemary Beach; Too Far,Abbi Glines,TRUE,1,4.19,6688,2,0
+463,Boy Meets Boy,NA,David Levithan,FALSE,0,3.84,3019,2,0
+464,Bloodlines ,Bloodlines,Richelle Mead,TRUE,1,4.21,2386,2,0
+465,How I Live Now,NA,Meg Rosoff,FALSE,0,3.58,7800,2,0
+466,Rapture ,Fallen,Lauren Kate,TRUE,4,4.02,9241,2,0
+467,We Were Liars,NA,E. Lockhart,FALSE,0,3.84,1681,2,0
+468,Boot Camp,NA,Todd Strasser,FALSE,0,3.94,4851,2,0
+469,Wild Magic ,Immortals,Tamora Pierce,TRUE,1,4.32,7927,2,0
+470,Paper Towns,NA,John Green,FALSE,0,3.82,4644,2,0
+471,Thoughtless ,Thoughtless,S.C. Stephens,TRUE,1,4.1,1852,2,0
+472,The Fellowship of the Ring ,The Lord of the Rings,J.R.R. Tolkien,TRUE,1,4.36,2253897,2,0
+473,The Tail of Emily Windsnap ,Emily Windsnap,Liz Kessler,TRUE,1,3.91,779,2,0
+474,Gone ,Gone,Michael  Grant,TRUE,1,3.86,4145,2,0
+475,Aurelia ,Aurelia,Anne Osterlund,TRUE,1,3.63,6813,3,0
+476,Branded ,Sinners,Abi Ketner,TRUE,1,3.81,7717,2,0
+477,Falling Under ,Falling Under,Gwen Hayes,TRUE,1,3.78,6396,2,0
+478,Jasper Jones,NA,Craig Silvey,FALSE,0,4.08,4672,2,0
+479,Redwall ,Redwall,Brian Jacques,TRUE,1,4.12,9154,2,0
+480,Sabriel ,Abhorsen,Garth Nix,TRUE,1,4.17,4038,2,0
+481,Prized ,Birthmarked,Caragh M. O'Brien,TRUE,2,3.98,2819,4,0
+482,Blubber,NA,Judy Blume,FALSE,0,3.79,604,2,0
+483,The Secret Hour ,Midnighters,Scott Westerfeld,TRUE,1,3.81,8022,2,0
+484,The Secret Life of Bees,NA,Sue Monk Kidd,FALSE,0,4.05,1082489,2,0
+485,Life As We Knew It ,Last Survivors,Susan Beth Pfeffer,TRUE,1,3.89,157,2,0
+486,Peeps ,Peeps,Scott Westerfeld,TRUE,1,3.77,3810,2,0
+487,Charlotte's Web,NA,E.B. White,FALSE,0,4.17,1344992,2,0
+488,Shatter Me ,Shatter Me,Tahereh Mafi,TRUE,1,3.97,7882,2,0
+489,The Coldest Girl in Coldtown,NA,Holly Black,FALSE,0,3.85,3211,2,0
+490,The Book of Three ,The Chronicles of Prydain,Lloyd Alexander,TRUE,1,3.99,8384,2,0
+491,Weetzie Bat ,Weetzie Bat,Francesca Lia Block,TRUE,1,3.74,3713,2,0
+492,Blackbringer ,Faeries of Dreamdark,Laini Taylor,TRUE,1,4.06,5135,2,0
+493,The Warrior Heir ,The Heir Chronicles,Cinda Williams Chima,TRUE,1,3.94,7473,4,0
+494,Opposition ,Lux,Jennifer L. Armentrout,TRUE,5,4.4,44,2,0
+495,Unlovable ,Port Fare,Sherry Gammon,TRUE,1,4.04,6366,3,0
+496,Providence ,Providence,Jamie McGuire,TRUE,1,3.99,6437,2,0
+497,XVI ,XVI,Julia Karr,TRUE,1,3.45,7654,2,0
+498,Oblivion ,Lux.5,Jennifer L. Armentrout,TRUE,1,4.38,3467,2,0
+499,I Am Number Four ,Lorien Legacies,Pittacus Lore,TRUE,1,3.94,4578,2,0
+500,Don't Judge a Girl by Her Cover ,Gallagher Girls,Ally Carter,TRUE,3,4.2,3550,2,0
+501,Shadows ,Lux.5,Jennifer L. Armentrout,FALSE,0,4.15,2442,2,0
+502,Incendiary ,The Premonition,Amy A. Bartol,TRUE,4,4.41,7214,2,0
+503,Only the Good Spy Young ,Gallagher Girls,Ally Carter,TRUE,4,4.29,9341,2,0
+504,Cross My Heart and Hope to Spy ,Gallagher Girls,Ally Carter,TRUE,2,4.13,9815,2,0
+505,Wayward Son,NA,Tom Pollack,FALSE,0,3.86,0,3,0
+506,Intuition ,The Premonition,Amy A. Bartol,TRUE,2,4.27,4142,2,0
+507,Tuesdays with Morrie,NA,Mitch Albom,FALSE,0,4.11,1603,2,0
+508,Night of the Soul Stealer ,The Last Apprentice / Wardstone Chronicles,Joseph Delaney,TRUE,3,4.14,5998,3,0
+509,Inescapable ,The Premonition,Amy A. Bartol,TRUE,1,4.04,3315,2,0
+510,Attack of the Fiend ,The Last Apprentice / Wardstone Chronicles,Joseph Delaney,TRUE,4,4.2,50,3,0
+511,Indebted ,The Premonition,Amy A. Bartol,TRUE,3,4.35,908,2,0
+512,Angel Fire ,Angel,L.A. Weatherly,TRUE,2,4.04,6512,2,0
+513,Forever ,The Wolves of Mercy Falls,Maggie Stiefvater,TRUE,3,3.91,4031,3,0
+514,Flat-Out Love ,Flat-Out Love,Jessica Park,TRUE,1,4,5852,2,0
+515,Perfect You,NA,Elizabeth Scott,FALSE,0,3.7,1813,2,0
+516,Smoke and Shadows ,Tony Foster,Tanya Huff,TRUE,1,3.78,2999,2,0
+517,All the Bright Places,NA,Jennifer Niven,FALSE,0,4.17,238,2,0
+518,The Scorpio Races,NA,Maggie Stiefvater,FALSE,0,4.09,2030,2,0
+519,The Enchantment Emporium ,Gale Women,Tanya Huff,TRUE,1,3.8,5697,2,0
+520,Entice ,Need,Carrie Jones,TRUE,3,4.03,1081,3,0
+521,Burn ,Celestra,Addison Moore,TRUE,3,4.09,7807,2,0
+522,Forbidden,NA,Tabitha Suzuma,FALSE,0,4.04,1393,2,0
+523,Tremble ,Celestra,Addison Moore,TRUE,2,4.03,8367,2,0
+524,Running Out of Time,NA,Margaret Peterson Haddix,FALSE,0,3.99,2783,2,0
+525,Ethereal ,Celestra,Addison Moore,TRUE,1,3.75,3612,2,0
+526,Toxic ,Denazen,Jus Accardo,TRUE,2,4.04,3760,2,0
+527,The Horse and His Boy ,Chronicles of Narnia,C.S. Lewis,TRUE,5,3.92,7920,2,0
+528,Misguided Angel ,Blue Bloods,Melissa de la Cruz,TRUE,5,3.93,7367,3,0
+529,The Voyage of the Dawn Treader ,Chronicles of Narnia,C.S. Lewis,TRUE,3,4.09,9149,2,0
+530,A Wrinkle in Time ,Time Quintet,Madeleine L'Engle,TRUE,1,4,1016646,2,0
+531,Lost in Time ,Blue Bloods,Melissa de la Cruz,TRUE,6,4.04,5828,3,0
+532,Spark ,Elemental,Brigid Kemmerer,TRUE,2,4.15,6262,2,0
+533,Lost Voices ,Lost Voices,Sarah  Porter,TRUE,1,3.6,6493,2,0
+534,Betrayals ,Strange Angels,Lili St. Crow,TRUE,2,4.08,6030,2,0
+535,Jealousy ,Strange Angels,Lili St. Crow,TRUE,3,4.15,2703,2,0
+536,Defiance ,Strange Angels,Lili St. Crow,TRUE,4,4.19,9830,2,0
+537,Hippocampus ,The Atlantis Revolution,Tom Tancin,TRUE,1,3.38,0,1,0
+538,A Matter of Honor ,Knife of Truth,Ruth Willerth,TRUE,1,4.14,0,2,0
+539,Darkness ,The Brookehaven Vampires,Joann I. Martin-Sowles,TRUE,2,4.23,1020,1,0
+540,The Wiccan Diaries ,The Wiccan Diaries,T.D. McMichael,TRUE,1,3.63,0,1,0
+541,La risa de tu madre,NA,Gustavo Rodríguez,FALSE,0,3.68,0,1,0
+542,Bitter Frost ,Frost,Kailin Gow,TRUE,1,3.51,3412,1,0
+543,Offbeat Love Stories and More,NA,Jennifer K. Lafferty,FALSE,0,3.58,0,1,0
+544,The Bird with the Broken Wing,NA,D.L. Richardson,FALSE,0,3.85,0,1,0
+545,From the Rafters,NA,Lynne Tommy,FALSE,0,4.6,0,1,0
+546,Zero Sight ,Zero Sight,B. Justin Shier,TRUE,1,4.03,5553,1,0
+547,Leticia  ,Leticia,Lindsay Anne Kendal,TRUE,1,3.96,0,1,0
+548,Neophyte ,The Wiccan Diaries,T.D. McMichael,TRUE,2,3.95,0,1,0
+549,Shadows Gray ,Shadows,Melyssa Williams,TRUE,1,3.99,0,1,0
+550,The Citizens ,Jazz Nemesis,L.M.    Smith,TRUE,1,4.28,0,1,0
+551,Haunted Richmond II,NA,Pamela K. Kinney,FALSE,0,4.18,0,1,0
+552,The Burning Star ,Star,Jessie Lane,TRUE,1,3.92,0,1,0
+553,The Rise,NA,Joshuah Buckle,FALSE,0,3.6,0,1,0
+554,Control Switch On: The Untold Story Of The Most Powerful Man In The World-Ryan Moran-Who Shaped The Planet For Peace,NA,Ira Teller,FALSE,0,3.88,0,1,0
+555,The Zombie Chronicles ,Apocalypse Infection Unleashed,Chrissy Peebles,TRUE,1,3.52,1731,1,0
+556,What's Sebastian Up to Now?,NA,Leah Huntsman,FALSE,0,5,0,1,0
+557,Rispin Quill ,The Dragon Tongue,Andrew Thornway,TRUE,1,3.73,0,1,0
+558,Fingerless Gloves,NA,Nick Orsini,FALSE,0,3.65,0,1,0
+559,The Blemished ,Blemished,Sarah Dalton,TRUE,1,3.62,2178,1,0
+560,A Lament of Moonlight ,Harbingers of Light,Travis Simmons,TRUE,3,4.35,0,1,0
+561,Falling to Ash ,Moth,Karen Mahoney,TRUE,1,3.62,0,1,0
+562,My Soul to Keep,NA,Anthony Paolucci,FALSE,0,3.2,0,1,0
+563,Elfblood ,Elfblood,Kyra Dune,TRUE,1,3.63,0,1,0
+564,Mists of Darkness ,The Mist Trilogy,M.J. Evans,TRUE,2,4.55,0,1,0
+565,The Undesirable ,Undesirable,Sara Celi,TRUE,1,3.68,0,1,0
+566,The Saddest Song,NA,Susie Kaye Lopez,FALSE,0,3.76,0,1,0
+567,The Fallout From Finding Emily ,Kelsey O'Brien,Ryleigh Berkenpas,TRUE,1,3.62,0,1,0
+568,Leader of the Tribe,NA,Nicholas W. Fuller,FALSE,0,4.75,0,1,0
+569,Invisible,NA,Jeanne Bannon,FALSE,0,3.81,0,1,0
+570,The Academie ,Academie,Amy Joy,TRUE,1,3.61,0,1,0
+571,Just Like Heaven,NA,Clarissa Carlyle,FALSE,0,3.3,0,1,0
+572,"Nocturne, Opus 1: Sea Foam",NA,Norene Moskalski,TRUE,1,3.84,0,1,0
+573,Phase One: Identify ,Territory of the Dead,Rose Wynters,TRUE,1,3.83,0,1,0
+574,Face of Death ,Touch of Death,Kelly Hashway,TRUE,3,3.68,0,1,0
+575,"Tall, Dark Streak of Lightning ",Dark Lightning Trilogy,J.M.  Richards,TRUE,1,3.76,0,1,0
+576,Drug War The Smell of Duty,NA,Elias Rodriguez,FALSE,0,4.8,0,1,0
+577,There are Reasons Noah Packed No Clothes,NA,Robert  Jacoby,FALSE,0,3.55,0,1,0
+578,The Emissary,NA,Kristal Shaff,FALSE,0,3.9,0,1,0
+579,Kris,NA,Patrick O'Scheen,FALSE,0,4.29,0,1,0
+580,A Warrior's Redemption ,The Warrior Kind,Guy S. Stanton III,TRUE,1,3.93,0,1,0
+581,Ann Marie's Asylum ,Master and Apprentice,Christopher Rankin,TRUE,1,3.38,0,1,0
+582,Keoni and the Return of the Li'i ,The Adventures of Keoni,Kupuna Kane,TRUE,3,5,0,1,0
+583,Parley After Life - DIY Guide to Death and other Taxes,NA,Robby Miller,FALSE,0,3.25,0,1,0
+584,Four Parts of the Universe,NA,Polina Traore,FALSE,0,3.83,0,1,0
+585,The Art of Lainey ,The Art of Lainey,Paula Stokes,TRUE,1,3.68,4685,1,0
+586,Timespell ,Timespell,Diana Paz,TRUE,1,3.95,0,1,0
+587,The Ghost of Colby Drive ,The Mis-adventures of Alyson Bell,Kristin Groulx,TRUE,1,4.69,0,1,0
+588,Sticks n' Stones and the Garden of Phea,NA,Angela Burkhead,FALSE,0,4.35,0,1,0
+589,Bernie and the Putty ,The Universe Builders,Steve LeBel,TRUE,1,4.31,0,1,0
+590,Red Rising ,Red Rising Saga,Pierce Brown,TRUE,1,4.27,904,1,0
+591,The Tyrant's Daughter,NA,J.C. Carleson,FALSE,0,3.7,3304,1,0
+592,The Romeo Club,NA,Rebekah L. Purdy,FALSE,0,3.62,0,1,0
+593,Serenade,NA,Emily Kiebel,FALSE,0,3.68,0,1,0
+594,Trigger,NA,Susan Vaught,FALSE,0,3.82,1168,1,0
+595,Ephraim's Curious Device ,Clockpunk Wizard,Lita Burke,TRUE,2,4.45,0,1,0
+596,Grim Hearts,NA,J.D. Fitzegerald,FALSE,0,3.5,0,1,0
+597,The Inheritance: Chain Letter of the Arts,NA,Michael Devaney,FALSE,0,3,0,1,0
+598,Aizai the Forgotten,NA,Mary-Jean Harris,FALSE,0,4.18,0,1,0
+599,Little Cuts,NA,H.M.C.,FALSE,0,4.47,0,1,0
+600,The Hungry Wolves of Van Diemen's Land,NA,Paul  Christensen,FALSE,0,3.85,0,1,0
+601,Flinging Dirt ,Dirt,AnonymousOne,TRUE,2,4.14,0,1,0
+602,The Healer ,The Healer,C.J. Anaya,TRUE,1,4.12,1094,1,0
+603,Caucasia,NA,Danzy Senna,FALSE,0,4.03,6650,1,0
+604,Something in the Woods is Taking People,NA,Stephen Young,FALSE,0,3.54,0,1,0
+605,Solan,NA,Jonathon Jones,FALSE,0,4.38,0,1,0
+606,"Night, Rain and the City",NA,Viktor Nochkin,FALSE,0,3.38,0,1,0
+607,TITAN: From Earth's Past A Hero Rises  Book 1,Adventures Of An Olympian,Jeff Fuell,TRUE,1,4.8,0,1,0
+608,Silverwood  ,Silverwood,Betsy Streeter,TRUE,1,3.52,0,1,0
+609,Kruistocht in spijkerbroek,NA,Thea Beckman,FALSE,0,4.03,9286,1,0
+610,The London Eye Mystery ,London Eye Mystery,Siobhan Dowd,TRUE,1,3.84,1072,1,0
+611,Liliana ,Liliana,Neva Squires-Rodriguez,TRUE,1,3.72,0,1,0
+612,Entertaining Angels,NA,Monica Millard,FALSE,0,4,0,1,0
+613,Venomoid ,Night Code Saga,J.A. Kossler,TRUE,1,3.36,0,1,0
+614,Cody: Clicking Beat on the Brink of Nada,NA,Keith Hale,FALSE,0,3.92,0,1,0
+615,Paradox Love,NA,Dorothy Gravelle,FALSE,0,3.95,0,1,0
+616,Please Don't Tell My Parents I'm a Supervillain ,Please Don't Tell My Parents,Richard  Roberts,TRUE,1,4.2,3173,1,0
+617,South on Pacific Coast Highway,NA,Gary Paul Corcoran,FALSE,0,4.5,0,1,0
+618,Will the Real Prince Charming Please Stand Up?,NA,Ella Martin,FALSE,0,3.75,0,1,0
+619,Hailstorm ,Winter Fire,Laurie Dubay,TRUE,2,4.35,0,1,0
+620,Silent Alarm,NA,Jennifer Banash,FALSE,0,3.82,0,1,0
+621,Kaya Abaniah and the Father of the Forest,NA,Wayne Gerard Trotman,FALSE,0,4.54,0,1,0
+622,Nexis ,Tricksters,A.L. Davroe,TRUE,1,4.04,0,1,0
+623,Average Joe and the Extraordinaires ,Average Joe,Belart Wright,TRUE,1,3.32,0,1,0
+624,Alive,NA,Chandler Baker,FALSE,0,3.41,1040,1,0
+625,Cuts Run Deep,NA,Amber Garza,FALSE,0,3.87,0,1,0
+626,Second Hand Stops,NA,Katie St. Claire,FALSE,0,3.79,0,1,0
+627,F#@! Bomb: A Story About Coming Out ... and Coming Out of One's Shell,NA,Naomi Rabinowitz,FALSE,0,4.67,0,1,0
+628,The Audition ,Gem Models,Tanya Chance,TRUE,1,0,0,1,0
+629,Gifted ,The Hayven,J.A. George,TRUE,1,3.99,0,1,0
+630,Roses Are Red ,Blood Sweat and Tears,J.B. Kantt,TRUE,1,4.15,0,1,0
+631,Princess Ben,NA,Catherine Gilbert Murdock,FALSE,0,3.75,7545,1,0
+632,Virtual Life,NA,J. Cafesin,FALSE,0,4.43,0,1,0
+633,Young Love Part 1: A School Yard Love Story,NA,Dean Amory,TRUE,1,5,0,1,0
+634,A Few Quiet Beers with God,NA,John Perrier,FALSE,0,3.32,0,1,0
+635,The Inconvenient Process of Falling,NA,Katie Neipris,FALSE,0,4.21,0,1,0
+636,The Flight of the Seagull,NA,Greet Beukenkamp,FALSE,0,4.75,0,1,0
+637,Family Pieces,NA,Misa Rush,FALSE,0,3.68,0,1,0
+638,"XO, Blake ",The Undergrad Years,Avery Aster,TRUE,3,3.57,0,1,0
+639,Jane Unwrapped,NA,Leah Rooper,FALSE,0,4.08,0,1,0
+640,Fragile Line,NA,Brooklyn Skye,FALSE,0,3.69,0,1,0
+641,The Faith in Peril Trilogy Box Collection,NA,Holly Newcastle,FALSE,0,4.52,0,1,0
+642,Backstage ,Boy Band,Jacqueline E. Smith,TRUE,2,4.14,0,1,0
+643,Etherwalker,NA,Cameron Dayton,FALSE,0,3.96,0,1,0
+644,David ,The Unseen,Johnny Worthen,TRUE,3,4.4,0,1,0
+645,Agonal Breath ,The Deadseer Chronicles,Richard Estep,TRUE,1,4.71,0,1,0
+646,Atlantis On the Shores of Forever ,Atlantis: The Antediluvian Chronicles,Jennifer McKeithen,TRUE,1,4,0,1,0
+647,Paradox - Elemental ,Paradox,Patti Roberts,TRUE,5,4.35,0,1,0
+648,Stop The World,NA,Sherry Mayes,FALSE,0,4.24,0,1,0
+649,Brian Boru - Freedom Within The Heart,NA,Mark Mahon,FALSE,0,4.1,0,1,0
+650,Seasons of Love and War,NA,Brenda Ashworth Barry,FALSE,0,4.58,0,1,0
+651,Waterwight ,The Waterwight Series,Laurel McHargue,TRUE,1,4.12,0,1,0
+652,Bittersweet ,The Kaveesh,Tyffani Clark Kemp,TRUE,1,4.12,0,1,0
+653,Hart's Desire ,The Hart Trilogy,Chloe Flowers,TRUE,1,4.01,0,1,0
+654,To the Survivors: One Man's Journey as a Rape Crisis Counselor with True Stories of Sexual Violence,NA,Robert Uttaro,FALSE,0,4.1,0,1,0
+655,Veritas The Pharmacological Endgame,NA,Alessandro Boccaletti,FALSE,0,4.67,0,1,0
+656,"Mara, Daughter of the Nile",NA,Eloise Jarvis McGraw,FALSE,0,4.24,9593,1,0
+657,The Life of Q,NA,Fox Emerson,FALSE,0,4.42,0,1,0
+658,Space Vacation,NA,Christina Engela,FALSE,0,3.61,0,1,0
+659,Ouija: The Devil's Doorway,NA,Stephen E. Crockett,FALSE,0,3,0,1,0
+660,Before You Break,NA,Kyla Stone,FALSE,0,4.05,0,1,0
+661,The Pretender,NA,E. Barnes,FALSE,0,0,0,1,0
+662,The Book of Houdini,NA,Harry Houdini,FALSE,0,4.67,0,1,0
+663,Después de mi voz,NA,Julieta Mora,FALSE,0,4.6,0,1,0
+664,Clan of the Wolf ,The Dawn of Man: Peta's Story Book,Avery Kloss,TRUE,1,4.11,0,1,0
+665,TW: Flatline,NA,K. Kingsman,FALSE,0,4.54,0,1,0
+666,The Changeling,NA,Zilpha Keatley Snyder,FALSE,0,4.17,1365,1,0
+667,Dragon Prow Shadow,NA,Paul  Hodson,FALSE,0,5,0,1,0
+668,The Incredible Secrets of Hadley Hill,NA,Tai Stith,FALSE,0,4.04,0,1,0
+669,My Wolf's Bane ,Shapes of Autumn,Veronica Blade,TRUE,1,3.77,1117,1,0
+670,Jennie Wade: A Girl from Gettysburg,NA,Tecla Emerson,FALSE,0,4.54,0,1,0
+671,My Dearest Diary: Five Years in the Life of Cathy Cornellia,NA,Cathy Cornellia,FALSE,0,5,0,1,0
+672,Blackstone ,The Ammolite Adventures,C.E.  Johnson,TRUE,4,4.94,0,1,0
+673,Embracing The Falls ,The Falls Trilogy,Heather  Renee,TRUE,3,4.71,0,1,0
+674,Scythe ,Arc of a Scythe,Neal Shusterman,TRUE,1,4.36,9527,1,0
+675,Breathing In Autumn,NA,Ava Deniz,FALSE,0,4.07,0,1,0
+676,Grassin ,Creators of Six,Jacob L. White,TRUE,2,4.83,0,1,0
+677,The Solterian Keeper and the Enchanted Talisman,NA,R.K. Appling,FALSE,0,5,0,1,0
+678,A Lot of Fuss About a Duck,NA,Elise Lowe,FALSE,0,3.51,0,1,0
+679,The Rose and the Sword ,The Veritas Chronicles,Gina Marinello-Sweeney,TRUE,2,4.31,0,1,0
+680,Are Men the Weaker Sex?,NA,Josette Sona,FALSE,0,4.33,0,1,0
+681,Step into Magic ,Portals to Whyland Book,Day Leitao,TRUE,1,4.11,0,1,0
+682,The Web Paige Chronicles,NA,Emilio Iasiello,FALSE,0,4.12,0,1,0
+683,Book of the Anointed,NA,J. Moon,FALSE,0,3.45,0,1,0
+684,In the Dark,NA,Sasha Lynn,FALSE,0,5,0,1,0
+685,Horn-Horn ,The Horn-Horn Series,A.D.T. McLellan,FALSE,0,4.58,0,1,0
+686,Incite Insight,NA,Robert New,FALSE,0,4.13,0,1,0
+687,"My Friend, My Hero  ",The Hero Book Series,Jerald L. Hoover,TRUE,1,5,0,1,0
+688,Quantum Roots II: Worm Holes,NA,Kyle Keyes,FALSE,0,4.38,5817,1,0
+689,Beneath a Sinister Moon ,The Demon Hunters Series Book,D.A. Roach,TRUE,3,4.73,0,1,0
+690,Gravity,NA,Morpheus,FALSE,0,5,0,1,0
+691,A Hero at Heart ,Hero at Heart Series,Theresa Stinnett,TRUE,1,5,0,1,0
+692,"THE BRIDE LOTTERY, BOOK 1: SEVEN SISTERS",NA,Caty Callahan,TRUE,1,5,0,1,0
+693,Beyond Infinity: A MatheMATTical Adventure,NA,Charles Ames Fischer,FALSE,0,3.12,0,1,0
+694,Briskwood Blood Rain,NA,Christopher Joubert,FALSE,0,4.53,0,1,0
+695,When My Soul Bleeds Words,NA,Leah Kathryn Oxendine,FALSE,0,4.78,0,1,0
+696,Nine,NA,Sweta Samota,FALSE,0,3.73,0,1,0
+697,A Twisted Fate,NA,Kaylyn Marie Dunn,FALSE,0,4,0,1,0
+698,Oasis,NA,Jim       Harrison,FALSE,0,4.08,0,1,0
+699,Soundless: Tobey Tyson Book 1 ,Superhero Series,Abdulrahman Ahmed Altheeb,TRUE,1,4.5,0,1,0
+700,Burden's Edge ,Fury of a Rising Dragon,Sever Bronny,TRUE,1,4.36,1186,1,0
+701,The Chronicles of the Virago:: Book II The Apprentus,NA,Michael Bialys,FALSE,0,4.75,0,1,0
+702,Hicks Road: Jacob's Story,NA,Julian P. Flores,FALSE,0,3.8,0,1,0
+703,Spell Me the Truth,NA,Cat Francis,FALSE,0,4.75,0,1,0
+704,Dorothy in the Land of Monsters ,Oz ReVamped,Garten Gevedon,TRUE,1,3.49,0,1,0
+705,The First Principle ,Emancipation Warriors,Marissa Shrock,TRUE,1,4.18,0,1,0
+706,Believe in You: Big Sister Stories and Advice on Living Your Best Life,NA,Christina Cimorelli,FALSE,0,4.44,0,1,0
+707,The Saga of Roland Inness ,6 Book Series,Wayne Grant,TRUE,6,5,0,1,0
+708,The Unadjusteds,NA,Marisa Noelle,FALSE,0,4.29,0,1,0
+709,The Lost Princess of Aevilen ,Kingdom of Aevilen,D.C. Payson,TRUE,1,5,0,1,0
+710,Crave,NA,Tracy Wolff,FALSE,0,3.99,0,1,0
+711,"Jules, the Truth Finder",NA,Cindy Marabito,FALSE,0,5,0,1,0
+712,Making Turquoise,NA,Claire McFall,FALSE,0,4.8,0,1,0
+713,Rumor of a Werewolf ,Monster Mysteries Book,Eddie       Jones,TRUE,4,4.75,0,1,0
+714,Anything Else But Love,NA,Ankita Chadha,FALSE,0,3.79,0,3,0
+715,Road to Megara ,Knife of Truth,Cynthia Willerth,TRUE,2,3.58,0,2,0
+716,Blood of a Red Rose ,The Rose Trilogy,Tish Thawer,TRUE,2,4.03,0,1,0
+717,Laney ,The Brookehaven Vampires,Joann I. Martin-Sowles,TRUE,1,4.02,1890,1,0
+718,Pulse ,Pulse,Kailin Gow,TRUE,1,3.65,2022,1,0
+719,Bane ,Vampire Apocalypse,H.M. Ward,TRUE,1,3.96,0,1,0
+720,I Am Not a Serial Killer ,John Cleaver,Dan Wells,TRUE,1,3.77,9546,1,0
+721,Zero Sum ,Zero Sight,B. Justin Shier,TRUE,2,4.14,4763,1,0
+722,Bloodlines ,Bloodlines,Lindsay Anne Kendal,TRUE,1,3.7,0,1,0
+723,Dhampiri,NA,L.M.    Smith,FALSE,0,4.09,0,1,0
+724,The Vanished ,Blemished,Sarah Dalton,TRUE,2,3.79,0,1,0
+725,A Rose in the Devil's Garden,NA,Anthony Paolucci,FALSE,0,4.2,0,1,0
+726,Point of Retreat ,Slammed,Colleen Hoover,TRUE,2,4.28,8522,2,0
+727,Shadow of the Dragon,NA,Kyra Dune,FALSE,0,3.53,0,1,0
+728,Behind the Mist ,The Mist Trilogy,M.J. Evans,TRUE,1,4.14,0,1,0
+729,Hannah ,Daughters of the Sea,Kathryn Lasky,TRUE,1,3.68,3390,1,0
+730,Into the Fire ,Birth of the Phoenix,Ashelyn Drake,TRUE,1,3.67,0,1,0
+731,The Rebel Within ,Rebel,Lance Erlick,TRUE,1,3.98,0,1,0
+732,Seraphina ,Seraphina,Rachel Hartman,TRUE,1,3.96,4906,1,0
+733,Rain Kaudenne | Four Parts of the Universe: Prequel,NA,Darren H. Pryce,FALSE,0,3,0,1,0
+734,The Curse of the Moonless Knight ,The mis-adventures of Alyson Bell,Kristin Groulx,TRUE,2,4.54,0,1,0
+735,The Silver Strand ,Mastermind Academy,L.J. Clarkson,TRUE,1,3.85,0,1,0
+736,Queen of Hearts: The Crown ,Queen of Hearts Saga,Colleen Oakes,TRUE,1,3.66,7460,1,0
+737,The Vigilante Poets of Selwyn Academy,NA,Kate Hattemer,FALSE,0,3.7,2761,1,0
+738,Stuck in Neutral,NA,Terry Trueman,FALSE,0,3.84,519,1,0
+739,Vampire Chimeras,NA,L.A. Kragie,FALSE,0,4.27,0,1,0
+740,Teenage Dirtbag ,Dirt,AnonymousOne,TRUE,1,3.92,0,1,0
+741,Fears of Darkness,NA,J.M. Northup,FALSE,0,4.34,0,1,0
+742,Mysterious Things in the Woods,NA,Stephen Young,FALSE,0,3.52,0,1,0
+743,Once Upon an Ever After ,Once Upon a Road Trip,Angela N. Blount,TRUE,2,4.32,0,1,0
+744,The Goatman,NA,Jeff Fuell,FALSE,0,4.33,0,1,0
+745,Show Jumping Team,NA,Clare O'Beara,FALSE,0,4.5,0,1,0
+746,"Wij, twee jongens",NA,Aline Sax,FALSE,0,4.18,0,1,0
+747,Anne Hawksmoor: The Time Traveller,NA,K.C. Harry,FALSE,0,4,0,1,0
+748,The Trouble with Playing Cupid ,Cupid,Tamara Philip,TRUE,1,3.98,0,1,0
+749,The Final Offering,NA,Monica Millard,FALSE,0,4.33,0,1,0
+750,The Genetic Lottery ,Egalia,Allison Goh,TRUE,1,3.72,0,1,0
+751,Letters to a Shooting Star,NA,Keith Hale,FALSE,0,3.89,0,1,0
+752,How I Fall ,How I Fall,Anne    Eliot,TRUE,1,3.94,0,1,0
+753,The Love Story That Shouldn't Have Been,NA,Melissa Grijalva,FALSE,0,3.87,0,1,0
+754,Please Don't Tell My Parents I Blew Up The Moon ,Please Don't Tell My Parents,Richard  Roberts,TRUE,2,3.88,1789,1,0
+755,The Ghost of You ,The Ghost of You,Amanda Burckhard,TRUE,1,4.19,0,1,0
+756,Winter Fire ,Winter Fire,Laurie Dubay,TRUE,1,3.76,0,1,0
+757,Funny Fruit ,Vellian Heroes,Grant T. Reed,TRUE,1,3.9,0,1,0
+758,The Well's End ,The Well's End,Seth Fishman,TRUE,1,3.55,0,1,0
+759,Rewind ,The Van Buren Series,Katie St. Claire,TRUE,2,4.55,0,1,0
+760,Fractured Fairy Tales of the Twilight Zone,NA,J. Cafesin,FALSE,0,4.1,0,1,0
+761,Young Love Part 1: A School Yard Love Story,NA,Dean Amory,TRUE,1,5,0,1,0
+762,Sanguine Mountain ,Camazotz Trilogy Book,Jennifer Foxcroft,TRUE,1,4.55,0,1,0
+763,STRIPPED Without You ,Stripped-1.5,Brooklyn Skye,TRUE,1,3.85,0,1,0
+764,Boy Band ,Boy Band,Jacqueline E. Smith,TRUE,1,3.74,0,1,0
+765,Hounded ,The Iron Druid Chronicles,Kevin Hearne,TRUE,1,4.11,2149,1,0
+766,I Hope You Find Me ,Find Me,Trish Marie Dawson,TRUE,1,3.82,1270,1,0
+767,Debbie Harry Sings in French,NA,Meagan Brothers,FALSE,0,3.7,0,1,0
+768,December Road,NA,Brenda Ashworth Barry,FALSE,0,4.57,0,1,0
+769,Kids We Were,NA,Bernie Morris,FALSE,0,4.19,0,1,0
+770,"Big, Fat American Lion Book: An Active Guide for How to Live a Better Life Being Fat",NA,Alessandro Boccaletti,FALSE,0,4.43,0,1,0
+771,Jennie,NA,Paul Gallico,FALSE,0,4.31,1430,1,0
+772,A Boy Called Q,NA,Fox Emerson,FALSE,0,3.81,0,1,0
+773,Puddle Jumping ,Puddle Jumping,Amber L.  Johnson,TRUE,1,4.3,482,1,0
+774,Glow ,Sky Chasers,Amy Kathleen Ryan,TRUE,1,3.52,3016,1,0
+775,Space Sucks!,NA,Christina Engela,FALSE,0,3.57,0,1,0
+776,Hawksong ,The Kiesha'ra,Amelia Atwater-Rhodes,TRUE,1,4.15,504,1,0
+777,Strange the Dreamer ,Strange the Dreamer,Laini Taylor,TRUE,1,4.32,906,1,0
+778,Your Bloods Eve,NA,Linda Jawish,FALSE,0,4.64,0,1,0
+779,Greenstone ,The Ammolite Adventures,C.E.  Johnson,TRUE,3,4.9,0,1,0
+780,The Velvet Room,NA,Zilpha Keatley Snyder,FALSE,0,4.25,2146,1,0
+781,Something Witchy This Way Comes ,Something Witchy,Veronica Blade,TRUE,1,3.83,0,1,0
+782,Andersonville: The Long Journey Home,NA,Tecla Emerson,FALSE,0,5,0,1,0
+783,Warfare ,Life After,Julie  Hall,TRUE,2,4.43,0,1,0
+784,Thunderhead ,Arc of a Scythe,Neal Shusterman,TRUE,2,4.5,7445,1,0
+785,Island on Fire,NA,Sophie Schiller,FALSE,0,4.09,0,1,0
+786,A Quiet Genocide. The Untold Holocaust of Disabled Children in WW2 Germany,NA,Glenn Bryant,TRUE,2,4.35,0,1,0
+787,Quiver,NA,Julia Watts,FALSE,0,4.18,0,1,0
+788,The Beginning Place,NA,Ursula K. Le Guin,FALSE,0,3.53,2182,1,0
+789,The Kite Runner,NA,Khaled Hosseini,FALSE,0,4.3,2310493,1,0
+790,Children of Blood and Bone ,Legacy of Orïsha,Tomi Adeyemi,TRUE,1,4.14,2329,1,0
+791,Mission: Subhero,NA,Linda    Armstrong,FALSE,0,4.34,1626,1,0
+792,Between the Bleeding Willows ,The Demon Hunters Series Book,D.A. Roach,TRUE,1,4.17,0,1,0
+793,The Richest Heart ,A Hero at Heart,Theresa Stinnett,TRUE,2,5,0,1,0
+794,The Rebels of Florida,NA,Leah Kathryn Oxendine,FALSE,0,4,0,1,0
+795,The Book of Chaos ,Vivian Amberville,Louise Blackwick,TRUE,2,5,0,1,0
+796,The Chronicles of the Virago: The Novus Book I,NA,Michael Bialys,FALSE,0,5,0,1,0
+797,Fangirl,NA,Rainbow Rowell,FALSE,0,4.07,4771,1,0
+798,Deep World Blood ,Deep World Saga,C.M. Meridian,TRUE,2,4.6,0,1,0
+799,Becoming Miss Izzy,NA,Sue Zook,FALSE,0,5,0,1,0
+800,A Question of Honour,NA,Wayne Grant,FALSE,0,4.61,0,1,0
+801,The Shadow Keepers,NA,Marisa Noelle,FALSE,0,4.5,0,1,0
+802,A Fire in the West: Stonegate Book 3,NA,Harry James Fox,TRUE,3,4.5,0,1,0
+803,Vicious Vows,NA,Nicole Conway,FALSE,0,0,0,1,0
+804,The Fire Wars ,Fire Wars,Kailin Gow,TRUE,1,3.64,0,1,0
+805,Valefar Vol. 1,NA,H.M. Ward,TRUE,1,4.18,0,1,0
+806,Betrayal  ,Leticia,Lindsay Anne Kendal,TRUE,2,4.62,0,1,0
+807,After Dark ,Theth Year,Emi Gayle,TRUE,1,3.68,0,1,0
+808,Creatureton Elementary ,Creatureton Trilogy Book,Anthony Paolucci,TRUE,1,4.6,0,1,0
+809,May ,Daughters of the Sea,Kathryn Lasky,TRUE,2,3.92,1485,1,0
+810,The Robinsons' Dark Matter ,The Robinsons,Michael  Raymond,TRUE,1,3.71,0,1,0
+811,Touch of Death ,Touch of Death,Kelly Hashway,TRUE,1,3.65,1142,1,0
+812,Rebels Divided ,Rebel,Lance Erlick,TRUE,3,4.45,0,1,0
+813,The False Prince ,The Ascendance Series,Jennifer A. Nielsen,TRUE,1,4.22,9080,1,0
+814,Matt Leutte | Four Parts of the Universe: Prequel,NA,Darren H. Pryce,FALSE,0,2.5,0,1,0
+815,Shadow and Bone ,The Shadow and Bone Trilogy,Leigh Bardugo,TRUE,1,4.02,4142,1,0
+816,The Oracle of the Missing Dryad ,The mis-adventures of Alyson Bell,Kristin Groulx,TRUE,3,4.78,0,1,0
+817,Now That You're Here ,Duplexity,Amy K. Nichols,TRUE,1,3.6,0,1,0
+818,The Legacy of Secrets,NA,Rebecca Montemurro,FALSE,0,4.57,0,1,0
+819,Vampire Princess Rising ,The Winters Family Saga,Jami Brumfield,TRUE,2,4.31,0,1,0
+820,A Prisoner Within,NA,J.M. Northup,FALSE,0,3.85,0,1,0
+821,Across Time,NA,Jeff Fuell,FALSE,0,4.08,0,1,0
+822,Stad in de storm,NA,Thea Beckman,FALSE,0,3.69,1001,1,0
+823,Dolphin in the Deep ,Animal Ark,Lucy Daniels,TRUE,2,3.77,0,1,0
+824,Anne Hawksmoor: Time in the Tower,NA,K.C. Harry,FALSE,0,4.29,0,1,0
+825,The Scarlet Letter,NA,Nathaniel Hawthorne,FALSE,0,3.4,7858,1,0
+826,Pixelated,NA,L.S. Murphy,FALSE,0,3.9,0,1,0
+827,Evil Genius ,Genius,Catherine Jinks,TRUE,1,3.8,7998,1,0
+828,Still Waters,NA,Ash Parsons,FALSE,0,3.92,0,1,0
+829,Fast Forward ,The Van Buren Series,Katie St. Claire,TRUE,3,3.92,0,1,0
+830,Beware The Riptide,NA,Deborah McClatchey,FALSE,0,4.63,0,1,0
+831,The Offspring ,Children of Cain book,R.J. Craddock,TRUE,2,4.92,0,1,0
+832,Marleen: Dagboek van mijn Apenjaren in de Handelsschool te Aalst,NA,Eddy Adriaens,FALSE,0,5,0,1,0
+833,Stolen Memories,NA,Darrell Standing,FALSE,0,3.71,0,1,0
+834,Arkadia ,Halfway House,Dzintra Sullivan,TRUE,1,4.27,0,1,0
+835,Supergirl Mixtapes,NA,Meagan Brothers,FALSE,0,3.47,0,1,0
+836,The Journey of Elizabeth Ann Rose ,Seasons of Love and War Saga Book,Brenda Ashworth Barry,TRUE,3,4.53,0,1,0
+837,The Oaken Throne ,The Deptford Histories,Robin Jarvis,TRUE,2,4.24,0,1,0
+838,Darken the Stars ,Kricket,Amy A. Bartol,TRUE,3,4.11,381,1,0
+839,Fragments ,Partials Sequence,Dan Wells,TRUE,2,4.11,3994,1,0
+840,Beneath the Skin,NA,Kyla Stone,FALSE,0,4.19,0,1,0
+841,Demon in My View,NA,Amelia Atwater-Rhodes,FALSE,0,4.04,1744,1,0
+842,Cruel Beauty,NA,Rosamund Hodge,FALSE,0,3.71,7534,1,0
+843,Redstone ,The Ammolite Adventures,C.E.  Johnson,TRUE,2,4.64,0,1,0
+844,Daughters of Eve,NA,Lois Duncan,FALSE,0,3.61,3535,1,0
+845,Antietam - Waking the Fury,NA,Tecla Emerson,FALSE,0,4.43,0,1,0
+846,Huntress ,Life After,Julie  Hall,TRUE,1,4.1,0,1,0
+847,The Hidden Village ,book,Imogen Matthews,TRUE,1,4.04,3855,1,0
+848,The Tombs of Atuan ,Earthsea Cycle,Ursula K. Le Guin,TRUE,2,4.09,4183,1,0
+849,Dread Nation ,Dread Nation,Justina Ireland,TRUE,1,4.14,6729,1,0
+850,The Scopas Factor,NA,Vincent Panettiere,FALSE,0,4.3,1070,1,0
+851,A Courageous Heart ,Hero at Heart Book,Theresa Stinnett,TRUE,3,5,0,1,0
+852,Declan O'Duinne,NA,Wayne Grant,FALSE,0,4.52,0,1,0
+853,Father and I Were Ranchers ,Little Britches,Ralph Moody,TRUE,1,4.3,834,1,0
+854,The Lady Alchemist,NA,Samantha Vitale,FALSE,0,4,0,1,0
+855,Prep,NA,Curtis Sittenfeld,FALSE,0,3.39,9032,1,0
+856,Beautiful Beings ,Beautiful Beings,Kailin Gow,TRUE,1,3.57,0,1,0
+857,Valefar Vol. 2,NA,H.M. Ward,TRUE,2,4.22,0,1,0
+858,Torment ,Bloodlines,Lindsay Anne Kendal,TRUE,2,3.96,0,1,0
+859,Crux,NA,Julie Reece,FALSE,0,3.62,1097,1,0
+860,Dreamless ,Starcrossed,Josephine Angelini,TRUE,2,4.19,8309,2,0
+861,The Boys Next Door ,The Boys Next Door,Jennifer Echols,TRUE,1,3.9,3901,1,0
+862,Deathly Pale,NA,Anthony Paolucci,FALSE,0,4.67,0,1,0
+863,Lucy ,Daughters of the Sea,Kathryn Lasky,TRUE,3,3.86,1025,1,0
+864,Stalked by Death ,Touch of Death,Kelly Hashway,TRUE,2,3.77,0,1,0
+865,The Rithmatist ,Rithmatist,Brandon Sanderson,TRUE,1,4.24,9723,1,0
+866,Charlie Chester | Four Parts of the Universe: Prequel,NA,Darren H. Pryce,FALSE,0,2.5,0,1,0
+867,The Door of the Thousand Keys ,mis-adventures of Alyson Bell,Kristin Groulx,TRUE,4,4.71,0,1,0
+868,Leviathan ,Leviathan,Scott Westerfeld,TRUE,1,3.92,2700,1,0
+869,Family of Strangers,NA,Barbara   Willis,FALSE,0,3.72,0,1,0
+870,The Dragon Turn ,The Boy Sherlock Holmes,Shane Peacock,TRUE,5,3.83,0,1,0
+871,Anne Hawksmoor: Lost in Time ,Book,K.C. Harry,TRUE,2,4.12,0,1,0
+872,Nightpeople ,Darklands,Anthony Eaton,TRUE,1,3.81,0,1,0
+873,Balance ,The Divine,M.R. Forbes,TRUE,1,3.77,2288,1,0
+874,Thomas ,The Deptford Histories,Robin Jarvis,TRUE,3,4.08,0,1,0
+875,Iniquity ,The Premonition,Amy A. Bartol,TRUE,5,4.36,7381,1,0
+876,I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban,NA,Malala Yousafzai,FALSE,0,4.11,210,1,0
+877,A Living Nightmare ,Cirque Du Freak,Darren Shan,TRUE,1,4.07,9263,1,0
+878,Bluestone ,The Ammolite Adventures,C.E.  Johnson,TRUE,1,4.44,0,1,0
+879,Honey ,Wishing Star,Helen Cavanagh,TRUE,1,4.35,0,1,0
+880,Logan ,Life After.5,Julie  Hall,TRUE,2,4.32,0,1,0
+881,Lolita,NA,Vladimir Nabokov,FALSE,0,3.89,3563,1,0
+882,Shadow's Secret,NA,Theresa Stinnett,FALSE,0,5,0,1,0
+883,One of the Girls ,Friendzone Book,Robin Daniels,TRUE,1,4.2,0,1,0
+884,A Prince of Wales,NA,Wayne Grant,FALSE,0,4.49,0,1,0
+885,The Best Week that Never Happened,NA,Dallas Woodburn,FALSE,0,3.91,0,1,0
+886,Switched ,Trylle,Amanda Hocking,TRUE,1,3.88,7813,3,0
+887,How I Became Stupid,NA,Martin Page,FALSE,0,3.39,8943,1,0
+888,Satan's Stone ,Demon Kissed,H.M. Ward,TRUE,4,4.17,1146,1,0
+889,Revelations ,Bloodlines,Lindsay Anne Kendal,TRUE,3,4.03,0,1,0
+890,The Trouble with Nightingale,NA,Amaleen Ison,FALSE,0,4.19,0,1,0
+891,Gone ,Wake,Lisa McMann,TRUE,3,3.72,7712,3,0
+892,Shift,NA,Jennifer Bradbury,FALSE,0,3.76,2724,1,0
+893,The One That I Want,NA,Jennifer Echols,FALSE,0,3.73,8889,1,0
+894,Distant Waves,NA,Suzanne Weyn,FALSE,0,3.73,5446,1,0
+895,Twisted,NA,Amity Hope,FALSE,0,3.98,2470,1,0
+896,Ed Jameson | Four Parts of the Universe: Prequel,NA,Darren H. Pryce,FALSE,0,2.4,0,1,0
+897,Siege and Storm ,The Shadow and Bone Trilogy,Leigh Bardugo,TRUE,2,4.02,3816,1,0
+898,The Secret Promise: Return of the Wishing Star ,mis-adventures of Alyson Bell,Kristin Groulx,TRUE,6,5,0,1,0
+899,Tender Morsels,NA,Margo Lanagan,FALSE,0,3.57,5502,1,0
+900,The Medium ,Emily Chambers Spirit Medium Trilogy,C.J. Archer,TRUE,1,3.73,4537,1,0
+901,The Perfect Horse,NA,Gillian Baxter,FALSE,0,4.62,0,1,0
+902,Anne Hawksmoor: The Time Thief ,Book,K.C. Harry,TRUE,3,4.33,0,1,0
+903,Skyfall ,Darklands,Anthony Eaton,TRUE,2,3.92,0,1,0
+904,Imaginary Girls,NA,Nova Ren Suma,FALSE,0,3.44,7069,1,0
+905,The Dark Portal ,The Deptford Mice,Robin Jarvis,TRUE,1,3.81,2219,1,0
+906,Incarnate ,Newsoul,Jodi Meadows,TRUE,1,3.73,1453,1,0
+907,The Bear and the Nightingale ,Winternight Trilogy,Katherine Arden,TRUE,1,4.12,8870,1,0
+908,Dominion ,Life After,Julie  Hall,TRUE,3,4.49,0,1,0
+909,Coraline,NA,Neil Gaiman,FALSE,0,4.06,1087,1,0
+910,The Awakening: Fate in Motion,NA,Suzanne Boisvert,FALSE,0,4.31,2496,1,0
+911,A Court of Mist and Fury ,A Court of Thorns and Roses,Sarah J. Maas,TRUE,2,4.65,4900,1,0
+912,The Ransomed Crown ,The Saga of Roland Inness,Wayne Grant,TRUE,4,4.44,0,1,0
+913,Metl 2: The Last Wish ,Metl,Scott  Wilson,TRUE,2,4.5,0,1,0
+914,Wicked Woods ,Wicked Woods,Kailin Gow,TRUE,1,3.63,0,1,0
+915,The Monster Within ,The Monster Within,Kelly Hashway,TRUE,1,3.77,0,1,0
+916,Sea Hearts,NA,Margo Lanagan,FALSE,0,3.68,4069,1,0
+917,Foolish Games ,Foolish Games,Leah Spiegel,TRUE,1,3.89,3040,1,0
+918,The Crystal Goddess and the Wish Keeper ,mis-adventures of Alyson Bell,Kristin Groulx,TRUE,5,4.75,0,1,0
+919,Blood Debt ,Touched,Nancy Straight,TRUE,1,3.89,2430,1,0
+920,The Realm of Possibility,NA,David Levithan,FALSE,0,3.93,5110,1,0
+921,Dangerous Designs ,Design,Dale Mayer,TRUE,1,3.86,0,1,0
+922,Daywards ,Darklands,Anthony Eaton,TRUE,3,3.72,0,1,0
+923,The Crystal Prison ,The Deptford Mice,Robin Jarvis,TRUE,2,3.99,1135,1,0
+924,Destroy Me ,Shatter Me.5,Tahereh Mafi,TRUE,1,4.24,4521,1,0
+925,Jackaby ,Jackaby,William Ritter,TRUE,1,3.83,1860,1,0
+926,A Bite's Tale,NA,Veronica Blade,FALSE,0,3.75,0,1,0
+927,Dawning Ascent ,The Pearson Prophecy,Jen L. Grey,TRUE,1,4.28,0,1,0
+928,Six of Crows ,Six of Crows,Leigh Bardugo,TRUE,1,4.46,3830,1,0
+929,Broken Promises ,Past Imperfect Mystery Book,Anne  Willow,TRUE,1,4.3,1082,1,0
+930,The Broken Realm ,The Saga of Roland Inness,Wayne Grant,TRUE,3,4.44,0,1,0
+931,Tragedy of Me ,Legend of Me,Rebekah L. Purdy,TRUE,2,4.56,0,1,0
+932,Found ,The Missing,Margaret Peterson Haddix,TRUE,1,3.98,6593,1,0
+933,Elemental Explosions ,The Alchemists Academy,Kailin Gow,TRUE,2,4.12,0,1,0
+934,Ashes of Twilight ,Ashes Trilogy,Kassy Tayler,TRUE,1,3.65,1249,1,0
+935,Fade ,Wake,Lisa McMann,TRUE,2,3.95,7091,3,0
+936,Hunger ,Gone,Michael  Grant,TRUE,2,4.03,4698,1,0
+937,The Watcher in the Shadows ,Niebla,Carlos Ruiz Zafón,TRUE,3,3.78,3739,1,0
+938,So Over You,NA,Gwen Hayes,FALSE,0,3.84,7820,1,0
+939,This Blood ,Grace Allen,Alisha Basso,TRUE,1,3.69,0,1,0
+940,Timespell: Perilous Waters ,Timespell,Diana Paz,TRUE,2,4.45,0,1,0
+941,Thaw,NA,Monica M. Roe,FALSE,0,3.72,0,1,0
+942,Lone Wolf Rising ,The Winters Family Saga,Jami Brumfield,TRUE,1,3.7,0,1,0
+943,Gem Stone,NA,Dale Mayer,FALSE,0,4.44,0,1,0
+944,Lamplighter ,Monster Blood Tattoo,D.M. Cornish,TRUE,2,4.21,4159,1,0
+945,The Final Reckoning ,Deptford Mice,Robin Jarvis,TRUE,3,4.09,1041,1,0
+946,If I Was Your Girl,NA,Meredith Russo,FALSE,0,4,7698,1,0
+947,The Way to Game the Walk of Shame,NA,Jenn P. Nguyen,FALSE,0,3.79,3657,1,0
+948,Enlightened Ascent ,The Pearson Prophecy,Jen L. Grey,TRUE,2,4.36,0,1,0
+949,Crooked Kingdom ,Six of Crows,Leigh Bardugo,TRUE,2,4.6,7849,1,0
+950,Reversione: Reset the Future,NA,Chris A. Jones,FALSE,0,4.19,0,1,0
+951,Longbow ,The Saga of Roland Inness,Wayne Grant,TRUE,1,4.34,1365,1,0
+952,The Quantum Games ,The Alchemists Academy,Kailin Gow,TRUE,3,4.16,0,1,0
+953,Outside In ,Insider,Maria V. Snyder,TRUE,2,3.83,3539,1,0
+954,Lies ,Gone,Michael  Grant,TRUE,3,4.09,8670,1,0
+955,Crossing the Line ,Pushing the Limits.1,Katie McGarry,TRUE,1,3.77,840,1,0
+956,Martin Rides the Moor,NA,Vian Smith,FALSE,0,4.25,0,1,0
+957,Foundling ,Monster Blood Tattoo,D.M. Cornish,TRUE,1,3.89,7445,1,0
+958,Single-Handed ,Single Girls,Veronica Blade,TRUE,1,3.52,0,1,0
+959,Reigning Ascent ,The Pearson Prophecy,Jen L. Grey,TRUE,3,4.19,0,1,0
+960,Mistress Suffragette,NA,Diana   Forbes,FALSE,0,4.34,6590,1,0
+961,A Court of Thorns and Roses ,A Court of Thorns and Roses,Sarah J. Maas,TRUE,1,4.25,4143,1,0
+962,Warbow ,The Saga of Roland Inness,Wayne Grant,TRUE,2,4.36,1059,1,0
+963,Winter's Passage ,Iron Fey.5,Julie Kagawa,TRUE,1,3.96,3472,2,0
+964,Forgotten ,Fade,Kailin Gow,TRUE,3,3.88,0,1,0
+965,Destiny's Fire ,Kythan Guardians,Trisha Wolfe,TRUE,1,3.88,1546,1,0
+966,Plague ,Gone,Michael  Grant,TRUE,4,4.18,7773,1,0
+967,Where You Are ,Between the Lines,Tammara Webber,TRUE,2,3.94,9190,1,0
+968,Flight ,The Crescent Chronicles,Alyssa Rose Ivy,TRUE,1,3.87,1297,2,0
+969,Horse Thief,NA,Hugh Galt,FALSE,0,4,0,1,0
+970,Days of Blood & Starlight ,Daughter of Smoke & Bone,Laini Taylor,TRUE,2,4.17,474,1,0
+971,Factotum ,Monster Blood Tattoo,D.M. Cornish,TRUE,3,4.24,2550,1,0
+972,This Other Eden,NA,Ben Elton,FALSE,0,3.73,2687,1,0
+973,Croak ,Croak,Gina Damico,TRUE,1,3.92,655,1,0
+974,The Third Witch,NA,Rebecca Reisert,FALSE,0,3.74,0,1,0
+975,A Monster Calls,NA,Patrick Ness,FALSE,0,4.37,905,1,0
+976,The Lie Tree,NA,Frances Hardinge,FALSE,0,3.86,8733,1,0
+977,Areion ,Lunar Medallion Series,Lela Grayce,TRUE,1,4.47,0,1,0
+978,A Court of Wings and Ruin ,A Court of Thorns and Roses,Sarah J. Maas,TRUE,3,4.47,4001,1,0
+979,We Need to Talk About Kevin,NA,Lionel Shriver,FALSE,0,4.08,9072,1,0
+980,Killing November ,Killing November,Adriana Mather,TRUE,1,4.14,2506,1,0
+981,The Baker's Daughter,NA,D.P. Cornelius,FALSE,0,3.9,0,1,0
+982,Academy 7,NA,Anne Osterlund,TRUE,7,3.81,6504,3,0
+983,Passion ,Desire,Kailin Gow,TRUE,3,3.75,0,1,0
+984,The Last Days ,Peeps,Scott Westerfeld,TRUE,2,3.53,9366,1,0
+985,Redeeming Love,NA,Francine Rivers,FALSE,0,4.5,1093,1,0
+986,Soulbound ,Legacy of Tril,Heather Brewer,TRUE,1,4.06,4076,1,0
+987,Fear ,Gone,Michael  Grant,TRUE,5,4.24,3290,1,0
+988,Good For You ,Between the Lines,Tammara Webber,TRUE,3,4.04,4753,1,0
+989,Lost & Found ,Lost & Found,Nicole  Williams,TRUE,1,4.11,5135,1,0
+990,The Queen of Attolia ,The Queen's Thief,Megan Whalen Turner,TRUE,2,4.19,4587,1,0
+991,The Luthier's Apprentice ,Violinist Detective Series,Mayra Calvani,TRUE,1,3.85,0,1,0
+992,Dreams of Gods and Monsters ,Daughter of Smoke and Bone,Laini Taylor,TRUE,3,4.19,337,1,0
+993,The First Casualty,NA,Ben Elton,FALSE,0,3.91,4550,1,0
+994,Bite Me ,A Love Story,Christopher Moore,TRUE,3,3.86,5085,1,0
+995,The Vanishing Girl ,The Vanishing Girl,Laura Thalassa,TRUE,1,3.89,4698,1,0
+996,From The Falls ,The Falls Trilogy,Heather  Renee,TRUE,2,4.62,0,1,0
+997,A Court of Mist and Fury ,A Court of Thorns and Roses,Sarah J. Maas,TRUE,2,4.65,4900,1,0
+998,Maisie Dobbs ,Maisie Dobbs,Jacqueline Winspear,TRUE,1,3.92,6809,1,0
+999,Salt to the Sea,NA,Ruta Sepetys,FALSE,0,4.36,9550,1,0
+1000,The Zenia Wood,NA,Carrie Looper Stephens,FALSE,0,4.5,0,1,0
+1001,NA,NA,Caroline Pitcher,TRUE,1,3.15,0,1,0
+1002,Moon Spell ,The Tale of Lunarmorte,Samantha Young,TRUE,1,4,2119,1,0
+1003,Spring Frost ,Frost,Kailin Gow,TRUE,7,4.15,0,1,0
+1004,Never the Bride,NA,Rene Gutteridge,FALSE,0,3.84,0,1,0
+1005,Here Without You ,Between the Lines,Tammara Webber,TRUE,4,4.17,5267,1,0
+1006,Send,NA,Patty Blount,FALSE,0,3.84,2085,1,0
+1007,Goliath ,Leviathan,Scott Westerfeld,TRUE,3,4.25,8904,1,0
+1008,Geography Club ,Russel Middlebrook,Brent Hartinger,TRUE,1,3.74,4245,1,0
+1009,Star Ka'at,NA,Andre Norton,FALSE,0,3.73,0,1,0
+1010,Gridlock,NA,Ben Elton,FALSE,0,3.56,4155,1,0
+1011,Champion ,Legend,Marie Lu,TRUE,3,4.35,9479,1,0
+1012,A Face Like Glass,NA,Frances Hardinge,FALSE,0,4.18,5571,1,0
+1013,To The Falls ,The Falls Trilogy,Heather  Renee,TRUE,1,4.08,0,1,0
+1014,Illuminae ,The Illuminae Files,Amie Kaufman,TRUE,1,4.3,1885,1,0
+1015,Brainwalker,NA,Robyn Mundell,FALSE,0,4.36,7888,1,0
+1016,Angels & Demons ,Robert Langdon,Dan Brown,TRUE,1,3.9,2556852,1,0
+1017,Fallen Leaves,NA,Tessa Emily Hall,FALSE,0,4.51,0,1,0
+1018,The Spook's Mistake ,The Last Apprentice / Wardstone Chronicles,Joseph Delaney,TRUE,5,4.2,4256,1,0
+1019,Shadow Light ,Beautiful Beings,Kailin Gow,TRUE,3,4.06,0,1,0
+1020,Masque of the Red Death ,Masque of the Red Death,Bethany Griffin,TRUE,1,3.7,3804,1,0
+1021,Of Poseidon ,The Syrena Legacy,Anna Banks,TRUE,1,4.02,4741,1,0
+1022,The Stillburrow Crush,NA,Linda Kage,FALSE,0,3.64,7632,1,0
+1023,Appaloosa Summer ,Island Series,Tudor Robins,TRUE,1,4.24,0,1,0
+1024,Blind Faith,NA,Ben Elton,FALSE,0,3.71,5380,1,0
+1025,Cuckoo Song,NA,Frances Hardinge,FALSE,0,3.95,5939,1,0
+1026,Illusionary,NA,LeAnn Mason,FALSE,0,4.42,0,1,0
+1027,Empire of Storms ,Throne of Glass,Sarah J. Maas,TRUE,5,4.56,5145,1,0
+1028,Everything and a Happy Ending,NA,Tia Shurina,FALSE,0,4.27,0,1,0
+1029,Dear John,NA,Nicholas Sparks,FALSE,0,4.03,3487,1,0
+1030,Purple Moon,NA,Tessa Emily Hall,FALSE,0,4.28,0,1,0
+1031,Keys to the Repository ,Blue Bloods.5,Melissa de la Cruz,TRUE,4,3.71,2692,2,0
+1032,The Hidden City ,The House War,Michelle West,TRUE,1,4.09,1631,1,0
+1033,Blood Rights ,Pulse,Kailin Gow,TRUE,7,4.2,0,1,0
+1034,Behemoth ,Leviathan,Scott Westerfeld,TRUE,2,4.18,6166,1,0
+1035,Ender’s Game ,Ender’s Saga,Orson Scott Card,TRUE,1,4.3,1079419,1,0
+1036,The Order of the Poison Oak ,Russel Middlebrook,Brent Hartinger,TRUE,2,3.94,3255,1,0
+1037,Turning on a Dime,NA,Maggie Dana,FALSE,0,4.44,0,1,0
+1038,Two Brothers,NA,Ben Elton,FALSE,0,4.34,9105,1,0
+1039,The Prince in Waiting,NA,John Christopher,FALSE,0,3.85,0,1,0
+1040,The 5th Wave ,Theth Wave,Rick Yancey,TRUE,5,4.06,9477,1,0
+1041,Uncaged ,The Singular Menace,John Sandford,TRUE,1,3.86,4289,1,0
+1042,Bone Music ,Burning Girl,Christopher  Rice,TRUE,1,3.87,2345,1,0
+1043,Everything We Keep ,Everything,Kerry Lonsdale,TRUE,1,3.86,8007,1,0
+1044,Tell Me Three Things,NA,Julie Buxbaum,FALSE,0,4.08,3834,1,0
+1045,Mind of Mine,NA,C.F.E. Black,FALSE,0,4.19,0,1,0
+1046,Fire Stones ,Fire Wars,Kailin Gow,TRUE,2,4.2,0,1,0
+1047,"Love, Stargirl ",Stargirl,Jerry Spinelli,TRUE,2,3.82,8116,1,0
+1048,Merrow,NA,Ananda Braxton-Smith,FALSE,0,3.29,0,1,0
+1049,Listed ,Listed-6,Noelle  Adams,TRUE,1,4.07,1816,1,0
+1050,Stotan!,NA,Chris Crutcher,FALSE,0,4.02,1611,1,0
+1051,Biggles Learns to Fly,NA,W.E. Johns,FALSE,0,3.99,0,1,0
+1052,UnStrung ,Unwind.5,Neal Shusterman,TRUE,1,3.92,6614,1,0
+1053,NA,NA,Mike A. Lancaster,FALSE,0,3.59,5748,1,0
+1054,Skylark ,Skylark,Meagan Spooner,TRUE,1,3.7,4812,1,0
+1055,Fifth Grave Past the Light ,Charley Davidson,Darynda Jones,TRUE,5,4.47,67,1,0
+1056,Suzanne's Diary for Nicholas,NA,James Patterson,FALSE,0,4.17,6879,1,0
+1057,"Forgive Me, Leonard Peacock",NA,Matthew Quick,FALSE,0,3.9,9327,1,0
+1058,Return To The Tower ,The Scepter and Tower,Mark E. Fisher,TRUE,3,5,0,1,0
+1059,Curse of the Bane ,The Last Apprentice / Wardstone Chronicles,Joseph Delaney,TRUE,2,4.11,5853,1,0
+1060,Circus Summer ,Circus of Curiosities,Kailin Gow,TRUE,1,3.92,0,1,0
+1061,The Natural,NA,Bernard Malamud,FALSE,0,3.63,9766,1,0
+1062,Predestined ,Existence,Abbi Glines,TRUE,2,4.08,6093,2,0
+1063,After Tuesday ,These Days,Renee Ericson,TRUE,1,3.77,2064,1,0
+1064,Into That Forest,NA,Louis Nowra,FALSE,0,3.81,1367,1,0
+1065,This Song Will Save Your Life,NA,Leila Sales,FALSE,0,3.92,5369,1,0
+1066,Devour ,Devoured,Shelly Crane,TRUE,1,3.76,7588,1,0
+1067,The Riddle-Master of Hed ,Riddle-Master,Patricia A. McKillip,TRUE,1,4.01,1363,1,0
+1068,UnDivided ,Unwind,Neal Shusterman,TRUE,4,4.47,8696,1,0
+1069,The Adoration of Jenna Fox ,Jenna Fox Chronicles,Mary E. Pearson,TRUE,1,3.69,5667,1,0
+1070,Get Even ,Don't Get Mad,Gretchen McNeil,TRUE,1,3.79,1899,1,0
+1071,The Girl With All the Gifts ,The Girl With All the Gifts,M.R. Carey,TRUE,1,3.94,40,1,0
+1072,The Vanishing Year,NA,Kate Moretti,FALSE,0,3.64,2907,1,0
+1073,Radio Silence,NA,Alice Oseman,FALSE,0,4.2,4541,1,0
+1074,Into The Druid's Lair ,The Scepter and Tower,Mark E. Fisher,TRUE,2,5,0,1,0
+1075,Revenge of the Witch ,The Last Apprentice / Wardstone Chronicles,Joseph Delaney,TRUE,1,3.99,902,1,0
+1076,Immortal Devices ,Steampunk Scarlett,Kailin Gow,TRUE,2,3.73,0,1,0
+1077,Breaking Beautiful,NA,Jennifer Shaw Wolf,FALSE,0,3.97,5614,1,0
+1078,Sometimes Never ,Sometimes Never,Cheryl McIntyre,TRUE,1,3.93,7224,1,0
+1079,Mermaid,NA,Carolyn Turgeon,FALSE,0,3.63,5636,1,0
+1080,Travels with Gannon and Wyatt: Greenland,NA,Patti Wheeler,FALSE,0,4.5,0,1,0
+1081,Consume ,Devoured,Shelly Crane,TRUE,2,4.04,3806,1,0
+1082,Popcorn,NA,Ben Elton,FALSE,0,3.5,6021,1,0
+1083,Cloud Warrior ,Amtrak Wars,Patrick Tilley,TRUE,1,3.89,1217,1,0
+1084,All Our Yesterdays,NA,Cristin Terrill,FALSE,0,4.03,758,1,0
+1085,Breathe ,Breathe,Sarah Crossan,TRUE,1,3.69,6638,1,0
+1086,The Handmaid's Tale,NA,Margaret Atwood,FALSE,0,4.11,1340321,1,0
+1087,The Sun Is Also a Star,NA,Nicola Yoon,FALSE,0,4.08,8053,1,0
+1088,Quest For The Scepter ,The Scepter and Tower,Mark E. Fisher,TRUE,1,4.62,0,1,0
+1089,Blood Legacy ,Pulse,Kailin Gow,TRUE,6,4.2,0,1,0
+1090,You Wish,NA,Mandy Hubbard,FALSE,0,3.79,4433,1,0
+1091,The Vincent Brothers ,The Vincent Boys,Abbi Glines,TRUE,2,4.12,7095,2,0
+1092,Vacant,NA,Evelyn R. Baldwin,FALSE,0,3.4,0,1,0
+1093,"That Was Then, This Is Now",NA,S.E. Hinton,FALSE,0,3.91,8404,1,0
+1094,So Far From Skye,NA,Judith O'Neill,FALSE,0,3.8,0,1,0
+1095,Guitar Notes,NA,Mary Amato,FALSE,0,4.05,5414,1,0
+1096,High Society,NA,Ben Elton,FALSE,0,3.78,6642,1,0
+1097,Black Unicorn,NA,Tanith Lee,FALSE,0,3.88,3928,1,0
+1098,I Was a Teenage Popsicle,NA,Bev Katz Rosenbaum,FALSE,0,3.55,0,1,0
+1099,Slaughterhouse-Five,NA,Kurt Vonnegut Jr.,FALSE,0,4.08,1081287,1,0
+1100,They Both Die at the End,NA,Adam Silvera,FALSE,0,4.13,5129,1,0
+1101,The Medallion,NA,Mark E. Fisher,FALSE,0,4.73,0,1,0
+1102,Stupid and Contagious,NA,Caprice Crane,FALSE,0,3.84,6146,1,0
+1103,Supernatural Devices ,Steampunk Scarlett,Kailin Gow,TRUE,1,3.58,0,1,0
+1104,Forgive My Fins ,Fins,Tera Lynn Childs,TRUE,1,3.85,6866,1,0
+1105,Forever Changed,NA,Tiffany King,FALSE,0,3.92,2075,1,0
+1106,Windlord ,The De Danann Tales,Michael Scott,TRUE,1,4.37,0,1,0
+1107,The Naturals ,The Naturals,Jennifer Lynn Barnes,TRUE,1,4.17,5135,1,0
+1108,Dead Famous,NA,Ben Elton,FALSE,0,3.65,9558,1,0
+1109,Broken Symmetry,NA,Dan Rix,FALSE,0,3.85,1099,1,0
+1110,Deadly Design,NA,Debra Dockter,FALSE,0,3.88,0,1,0
+1111,Snow Crash,NA,Neal Stephenson,FALSE,0,4.03,5547,1,0
+1112,The Bonfires of Beltane,NA,Mark E. Fisher,FALSE,0,4.18,0,1,0
+1113,Captivate ,Need,Carrie Jones,TRUE,2,3.94,8984,1,0
+1114,Blood Bond ,Pulse,Kailin Gow,TRUE,5,4.15,0,1,0
+1115,Fly on the Wall: How One Girl Saw Everything,NA,E. Lockhart,FALSE,0,3.38,6527,1,0
+1116,Existence ,Existence,Abbi Glines,TRUE,1,3.94,6088,2,0
+1117,Shattered,NA,Elizabeth   Lee,FALSE,0,3.87,3240,1,0
+1118,"The Secret Diary of Adrian Mole, Aged 13 3/4  ",Adrian Mole,Sue Townsend,TRUE,1,3.88,9954,1,0
+1119,October Moon,NA,Michael Scott,FALSE,0,3.7,0,1,0
+1120,Stark,NA,Ben Elton,FALSE,0,3.68,6905,1,0
+1121,Fair Coin ,Coin,E.C. Myers,TRUE,1,3.47,1255,1,0
+1122,The Princess & The Pauper,NA,Kate Brian,FALSE,0,3.5,5215,1,0
+1123,NA,Space Odyssey,Arthur C. Clarke,TRUE,2,4.15,5071,1,0
+1124,The Pros of Cons,NA,Alison Cherry,FALSE,0,4.14,0,1,0
+1125,Blaze,NA,Hope Bolinger,FALSE,0,4.37,0,1,0
+1126,Frost Fire ,Frost,Kailin Gow,TRUE,6,4.05,0,1,0
+1127,Through the Looking-Glass and What Alice Found There ,Alice's Adventures in Wonderland,Lewis Carroll,TRUE,2,4.07,3652,1,0
+1128,Captivate ,Submerged Sun,Vanessa Garden,TRUE,1,3.81,1538,1,0
+1129,The Last Ride of Caleb O'Toole,NA,Eric Pierpoint,FALSE,0,3.98,0,1,0
+1130,Cress ,The Lunar Chronicles,Marissa Meyer,TRUE,3,4.44,4941,1,0
+1131,Last Human ,Red Dwarf,Doug Naylor,TRUE,3,3.86,7597,1,0
+1132,Quantum Coin ,Coin,E.C. Myers,TRUE,2,3.75,0,1,0
+1133,Dead City ,Dead City,James Ponti,TRUE,1,4.26,2726,1,0
+1134,A Game of Thrones ,A Song of Ice and Fire,George R.R. Martin,TRUE,1,4.45,1908858,1,0
+1135,The Wolf Fey ,The Wolf Fey,Kailin Gow,TRUE,1,3.88,0,1,0
+1136,The Looking Glass Wars,NA,Frank Beddor,FALSE,0,3.93,1259,1,0
+1137,The Dead I Know,NA,Scot Gardner,FALSE,0,3.82,1252,1,0
+1138,The Elephant of Surprise ,Russel Middlebrook,Brent Hartinger,TRUE,4,3.87,0,2,0
+1139,Banned Books ,Calling Anthony Parker,R.J. Astruc,TRUE,1,3.54,0,1,0
+1140,Collide ,Collide,Shelly Crane,TRUE,1,3.86,5258,1,0
+1141,Infinity Welcomes Careful Drivers ,Red Dwarf,Grant Naylor,TRUE,1,4.06,5320,1,0
+1142,The Farm ,The Farm,Emily McKay,TRUE,1,3.67,4523,1,0
+1143,Heaven and Hell ,Beautiful Beings,Kailin Gow,TRUE,2,4.03,0,1,0
+1144,Teenage Mermaid,NA,Ellen Schreiber,FALSE,0,3.66,1218,1,0
+1145,Finnglas and the Stones of Choosing,NA,Fay Sampson,FALSE,0,3.88,0,1,0
+1146,Love Letters to the Dead,NA,Ava Dellaira,FALSE,0,3.81,697,1,0
+1147,Uprising ,Collide,Shelly Crane,TRUE,2,4.23,2320,1,0
+1148,The Hitchhiker's Guide to the Galaxy ,Hitchhiker's Guide to the Galaxy,Douglas Adams,TRUE,1,4.22,1348768,1,0
+1149,Rot & Ruin ,Rot & Ruin,Jonathan Maberry,TRUE,1,4.1,2010,1,0
+1150,The Book of Tomorrow,NA,Cecelia Ahern,FALSE,0,3.67,3084,1,0
+1151,Wicked ,Celestra,Addison Moore,TRUE,4,4.1,7011,1,0
+1152,Tiger Eyes,NA,Judy Blume,FALSE,0,3.88,4962,1,0
+1153,Finnglas of the Horses,NA,Fay Sampson,FALSE,0,3.72,0,1,0
+1154,That Stranger Next Door,NA,Goldie Alexander,FALSE,0,3.38,0,1,0
+1155,Catalyst ,Collide,Shelly Crane,TRUE,3,4.32,1907,1,0
+1156,Backwards ,Red Dwarf,Rob Grant,TRUE,4,3.97,9284,1,0
+1157,So You Want to Be a Wizard,NA,Diane Duane,FALSE,0,3.83,5369,1,0
+1158,Everlost ,Skinjacker,Neal Shusterman,TRUE,1,3.95,9600,1,0
+1159,Angel Star ,Angel Star,Jennifer Murgia,TRUE,1,3.29,1763,2,0
+1160,"Love, Rosie",NA,Cecelia Ahern,FALSE,0,3.94,8688,1,0
+1161,Shattered ,Desire,Kailin Gow,TRUE,2,3.65,0,1,0
+1162,Hexbound ,Dark Elite,Chloe Neill,TRUE,2,3.8,6112,1,0
+1163,North of Beautiful,NA,Justina Chen,FALSE,0,3.92,4989,1,0
+1164,Vex ,Celestra,Addison Moore,TRUE,5,4.09,6302,1,0
+1165,Starring Sally J. Freedman as Herself,NA,Judy Blume,FALSE,0,3.93,3704,1,0
+1166,The Magic in the Pool of Making,NA,Beth Webb,FALSE,0,4.21,0,1,0
+1167,Revolution ,Collide,Shelly Crane,TRUE,4,4.38,1501,1,0
+1168,Amanda/Miranda,NA,Richard Peck,FALSE,0,3.48,0,1,0
+1169,High Wizardry ,Young Wizards,Diane Duane,TRUE,3,4.04,601,1,0
+1170,Mothership ,Ever-Expanding Universe,Martin Leicht,TRUE,1,3.83,1265,1,0
+1171,The Anomalies,NA,Joey Goebel,FALSE,0,3.65,1005,1,0
+1172,Fade ,Fade,Kailin Gow,TRUE,1,3.55,0,1,0
+1173,Expel ,Celestra,Addison Moore,TRUE,6,4.12,5317,1,0
+1174,I Woke Up in Love This Morning,NA,Jennifer Kathleen Gibbons,FALSE,0,3.59,0,1,0
+1175,Sophie & Carter,NA,Chelsea Fine,FALSE,0,3.82,3766,1,0
+1176,Fleabag and the Fire Cat ,The Fleabag Trilogy,Beth Webb,TRUE,2,4.06,0,1,0
+1177,Impulse ,Submerged Sun,Vanessa Garden,TRUE,2,3.99,0,1,0
+1178,House of Stairs,NA,William Sleator,FALSE,0,3.85,4061,1,0
+1179,They All Fall Down,NA,Roxanne St. Claire,FALSE,0,3.59,4222,1,0
+1180,Falling ,Fade,Kailin Gow,TRUE,2,3.88,0,1,0
+1181,Ella Bella,NA,Jennifer Kathleen Gibbons,FALSE,0,3.76,0,1,0
+1182,Between ,Crossroads Saga,Mary Ting,TRUE,2,4.31,0,2,0
+1183,Ironman,NA,Chris Crutcher,FALSE,0,3.94,2680,1,0
+1184,The Wolves of Willoughby Chase ,The Wolves Chronicles,Joan Aiken,TRUE,1,4.08,7598,1,0
+1185,Accordance ,Significance,Shelly Crane,TRUE,2,4.27,7426,1,0
+1186,Lorali,NA,Laura Dockrill,FALSE,0,3.45,0,1,0
+1187,How Do You Lose Those Ninth Grade Blues?,NA,Barthe DeClements,FALSE,0,3.74,0,1,0
+1188,Hide and Seek,NA,Jane McFann,FALSE,0,3.7,0,1,0
+1189,The Thirteenth Chime ,Sense of Truth,Emma  Michaels,TRUE,1,3.62,0,2,0
+1190,"Drums, Girls & Dangerous Pie",NA,Jordan Sonnenblick,FALSE,0,4.25,5160,1,0
+1191,The Red Wolf ,The Wolf Fey,Kailin Gow,TRUE,2,4.24,0,1,0
+1192,Fins Are Forever ,Fins,Tera Lynn Childs,TRUE,2,3.92,7485,1,0
+1193,Big Time,NA,Cynthia D. Grant,FALSE,0,5,0,1,0
+1194,Athletic Shorts: Six Short Stories,NA,Chris Crutcher,FALSE,0,3.8,2236,1,0
+1195,Under the Hawthorn Tree ,Children of the Famine,Marita Conlon-McKenna,TRUE,1,4.2,2453,1,0
+1196,Defiance ,Significance,Shelly Crane,TRUE,3,4.3,4738,1,0
+1197,The Foreshadowing,NA,Marcus Sedgwick,FALSE,0,3.8,1940,1,0
+1198,Seventeen and In-Between,NA,Barthe DeClements,FALSE,0,3.82,0,1,0
+1199,Final Exam,NA,A. Bates,FALSE,0,3.54,0,1,0
+1200,Sight ,Wicked Woods,Kailin Gow,TRUE,5,4.18,0,1,0
+1201,Hold Still,NA,Nina LaCour,FALSE,0,3.99,753,1,0
+1202,The Sledding Hill,NA,Chris Crutcher,FALSE,0,3.7,1789,1,0
+1203,The Summer I Became a Nerd ,Nerd,Leah Rae Miller,TRUE,1,3.86,351,1,0
+1204,Independence ,Significance,Shelly Crane,TRUE,4,4.31,6969,1,0
+1205,A Rose for the ANZAC Boys,NA,Jackie French,FALSE,0,4.01,1866,1,0
+1206,Mirror X ,The Van Winkle Project,Karri Thompson,TRUE,1,3.48,0,1,0
+1207,Squashed,NA,Joan Bauer,FALSE,0,3.8,2195,1,0
+1208,Shimmer ,Wicked Woods,Kailin Gow,TRUE,2,3.93,0,1,0
+1209,The Day Before,NA,Lisa Schroeder,FALSE,0,4,6766,1,0
+1210,Pink Smog ,Weetzie Bat,Francesca Lia Block,FALSE,0,3.73,1309,1,0
+1211,Chinese Handcuffs,NA,Chris Crutcher,FALSE,0,3.96,1637,1,0
+1212,Timesnatch,NA,Robert Swindells,FALSE,0,3.14,0,1,0
+1213,Words in Deep Blue,NA,Cath Crowley,FALSE,0,4.09,595,1,0
+1214,Mrs. Frisby and the Rats of NIMH ,Rats of NIMH,Robert C. O'Brien,TRUE,1,4.14,712,1,0
+1215,In the Blood ,Outlands Trilogy,Jackie French,TRUE,1,3.86,0,1,0
+1216,Immortal Darkness ,The Phantom Diaries,Kailin Gow,TRUE,3,4.34,0,1,0
+1217,Airel: The Awakening ,The Airel Saga: Book Part,Aaron M. Patterson,TRUE,1,3.45,4321,1,0
+1218,"I Heart You, You Haunt Me",NA,Lisa Schroeder,FALSE,0,3.85,3032,1,0
+1219,The Cat Ate My Gymsuit,NA,Paula Danziger,FALSE,0,3.83,8446,1,0
+1220,Death and the Girl Next Door ,Darklight,Darynda Jones,TRUE,1,3.61,6534,2,0
+1221,Magic's Price ,Valdemar: Last Herald-Mage,Mercedes Lackey,TRUE,3,4.27,9491,1,0
+1222,Phantom Patrol,NA,A.R. Channel,FALSE,0,4.25,0,1,0
+1223,Seizure ,Virals,Kathy Reichs,TRUE,2,4.15,3784,1,0
+1224,Flora's War,NA,Pamela Rushby,FALSE,0,3.75,0,1,0
+1225,Only Ever Yours,NA,Louise O'Neill,FALSE,0,3.77,2367,1,0
+1226,Frost Kisses ,Frost,Kailin Gow,TRUE,4,3.99,1019,1,0
+1227,Love and Leftovers,NA,Sarah Tregay,FALSE,0,3.76,6101,1,0
+1228,Take a Thief ,Valdemar,Mercedes Lackey,TRUE,2,4.12,2599,1,0
+1229,The Time-Travelling Cat,NA,Julia Jarman,FALSE,0,3.56,0,1,0
+1230,Valentine Joe ,Rose,Rebecca  Stevens,TRUE,1,3.83,0,1,0
+1231,"Peach Girl, Vol. 1 ",Peach Girl,Miwa Ueda,TRUE,1,3.84,5266,1,0
+1232,Silence ,Wicked Woods,Kailin Gow,TRUE,4,4.02,0,1,0
+1233,Firespell ,Dark Elite,Chloe Neill,TRUE,1,3.7,1159,1,0
+1234,"Sweet, Hereafter ",Heaven,Angela Johnson,TRUE,3,3.57,0,1,0
+1235,Arrows of the Queen ,Heralds of Valdemar,Mercedes Lackey,TRUE,1,4.14,2452,1,0
+1236,A Creature of Moonlight,NA,Rebecca   Hahn,FALSE,0,3.61,2246,1,0
+1237,Eventual Poppy Day,NA,Libby Hathorn,FALSE,0,3.66,0,1,0
+1238,Peach Girl: Volume 2,NA,Miwa Ueda,TRUE,2,4.07,1685,1,0
+1239,Midnight Frost ,Frost,Kailin Gow,TRUE,5,4.05,0,1,0
+1240,Two-Way Street,NA,Lauren Barnholdt,FALSE,0,3.8,4861,1,0
+1241,Rodeo Rocky ,The Horses of Half Moon Ranch,Jenny Oldfield,TRUE,2,3.66,0,1,0
+1242,The One ,The Selection,Kiera Cass,TRUE,3,4.2,7712,1,0
+1243,The Horses Didn't Come Home,NA,Pamela Rushby,FALSE,0,4.35,0,1,0
+1244,"Peach Girl, Vol. 3 ",Peach Girl,Miwa Ueda,TRUE,3,4.01,1006,1,0
+1245,The Naming ,The Books of Pellinor,Alison Croggon,TRUE,1,4.01,3803,1,0
+1246,Blood Burned ,Pulse,Kailin Gow,TRUE,3,3.97,0,1,0
+1247,Witch Baby ,Weetzie Bat,Francesca Lia Block,TRUE,2,4.18,3667,1,0
+1248,Wild Horses ,The Horses of Half Moon Ranch,Jenny Oldfield,TRUE,1,3.76,0,1,0
+1249,The Elite ,The Selection,Kiera Cass,TRUE,2,4.02,7232,1,0
+1250,The Lost Crown,NA,Sarah  Miller,FALSE,0,3.81,1798,1,0
+1251,The Program ,The Program,Suzanne Young,TRUE,1,4.06,2133,1,0
+1252,Silver Frost ,Frost,Kailin Gow,TRUE,3,3.97,1313,1,0
+1253,Deep Wizardry,NA,Diane Duane,FALSE,0,4.03,5980,1,0
+1254,Crossed ,Matched,Ally Condie,TRUE,2,3.52,3629,1,0
+1255,The Watch That Ends the Night: Voices from the Titanic,NA,Allan Wolf,FALSE,0,4.13,3078,1,0
+1256,The Registry,NA,Shannon Stoker,FALSE,0,3.24,2067,1,0
+1257,Blue Blood ,Pulse,Kailin Gow,TRUE,4,4.02,0,1,0
+1258,Lioness Rampant ,Song of the Lioness,Tamora Pierce,TRUE,4,4.28,7588,1,0
+1259,Swallows and Amazons ,Swallows and Amazons,Arthur Ransome,TRUE,1,4,6936,1,0
+1260,Heist Society ,Heist Society,Ally Carter,TRUE,1,3.91,5729,1,0
+1261,My Lady Jane: The Not Entirely True Story,NA,Cynthia Hand,FALSE,0,4.09,5227,1,0
+1262,"Revolutionary Girl Utena, Vol. 1: To Till",NA,Chiho Saito,TRUE,1,3.83,3550,1,0
+1263,Stones to Ashes ,The Alchemists Academy,Kailin Gow,TRUE,1,3.65,0,1,0
+1264,Hooked ,Hooked,Liz Fichera,TRUE,1,3.61,2966,1,0
+1265,Hexenhaus,NA,Nikki McWatters,FALSE,0,3.98,0,1,0
+1266,The Ruins of Gorlan ,Ranger's Apprentice,John Flanagan,TRUE,1,4.22,6416,1,0
+1267,Desire ,Desire,Kailin Gow,TRUE,1,3.61,0,1,0
+1268,"A Child Called ""It"" ",Dave Pelzer,Dave Pelzer,TRUE,1,4.11,7575,1,0
+1269,The Woman Who Rides Like a Man ,Song of the Lioness,Tamora Pierce,TRUE,3,4.19,7236,1,0
+1270,An Older Kind of Magic,NA,Patricia Wrightson,FALSE,0,3.9,0,1,0
+1271,Shade's Children,NA,Garth Nix,FALSE,0,3.9,1669,1,0
+1272,Dark Beginnings  ,Phantom Diaries Beginnings,Kailin Gow,TRUE,1,4.32,0,1,0
+1273,The Bar Code Rebellion ,Bar Code,Suzanne Weyn,TRUE,2,3.77,4314,1,0
+1274,The Nargun and the Stars,NA,Patricia Wrightson,FALSE,0,3.99,0,1,0
+1275,Uncommon Criminals ,Heist Society,Ally Carter,TRUE,2,4.13,325,1,0
+1276,Everything is Changed,NA,Nova Weetman,FALSE,0,3.65,0,1,0
+1277,Daughters of Dracula ,The Stoker Sisters,Kailin Gow,TRUE,1,3.74,0,1,0
+1278,Squire ,Protector of the Small,Tamora Pierce,TRUE,3,4.28,6362,1,0
+1279,Scouting for Boys,NA,Robert Baden-Powell,FALSE,0,4.27,0,1,0
+1280,Moon at Nine,NA,Deborah Ellis,FALSE,0,3.85,0,1,0
+1281,The Starlight Crystal,NA,Christopher Pike,FALSE,0,3.85,2011,1,0
+1282,Life's Blood ,Pulse,Kailin Gow,TRUE,2,3.95,0,1,0
+1283,Beauty: A Retelling of the Story of Beauty and the Beast,NA,Robin McKinley,FALSE,0,4.05,2502,1,0
+1284,Wilderness,NA,Roddy Doyle,FALSE,0,3.36,0,1,0
+1285,Perfect Scoundrels ,Heist Society,Ally Carter,TRUE,3,4.28,3426,1,0
+1286,Promising Azra,NA,Helen Thurloe,FALSE,0,4.1,0,1,0
+1287,Strange Attractors,NA,William Sleator,FALSE,0,3.72,0,1,0
+1288,Forever Frost ,Frost,Kailin Gow,TRUE,2,3.91,1615,1,0
+1289,The Hero and the Crown ,Damar,Robin McKinley,TRUE,2,4.21,9216,1,0
+1290,Travels with Gannon and Wyatt: Botswana,NA,Patti Wheeler,FALSE,0,4.03,0,1,0
+1291,"Out of Sight, Out of Time ",Gallagher Girls,Ally Carter,TRUE,5,4.32,9346,1,0
+1292,Doglands,NA,Tim Willocks,FALSE,0,4.13,0,1,0
+1293,A Summer to Die,NA,Lois Lowry,FALSE,0,4.02,6390,1,0
+1294,Dark Memories ,The Phantom Diaries,Kailin Gow,TRUE,2,4.18,0,1,0
+1295,Lament: The Faerie Queen's Deception ,Books of Faerie,Maggie Stiefvater,TRUE,1,3.67,1207,2,0
+1296,Parrotfish,NA,Ellen Wittlinger,FALSE,0,3.71,5671,1,0
+1297,Travels with Gannon and Wyatt: Great Bear Rainforest,NA,Patti Wheeler,FALSE,0,4.19,0,1,0
+1298,United We Spy ,Gallagher Girls,Ally Carter,TRUE,6,4.44,9093,1,0
+1299,Speak,NA,Laurie Halse Anderson,FALSE,0,4.02,2193,1,0
