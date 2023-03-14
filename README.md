@@ -22,11 +22,11 @@ All files and directories are inside the `inputs` directory
     - **DrugBank_Synthetic_dataset**: synthetic drugbank tables as csv files
 
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ChEBI
-    - **ChEBI_tables_dataset**: ChEMBL tables as csv files 
+    - **ChEBI_tables_dataset**: ChEMBL tables as csv files         
     Note: _chebi-reference.csv.zip_ & _chebi-structures.csv.zip_ are compressed due to GitHub limits
 
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ChEMBL
-    - **ChEMBL_tables_dataset**: ChEMBL tables as csv files
+    - **ChEMBL_tables_dataset**: ChEMBL tables as csv files   
     Note: _chembl_27-activity_supp.csv.zip_ , _chembl_27-chembl_id_lookup.csv.zip_ , _chembl_27-compound_records.csv.zip_ , _chembl_27-molecule_dictionary.csv.zip_ are compressed due to GitHub limits
 
 - ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) MLOpen
