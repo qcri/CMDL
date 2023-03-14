@@ -31,7 +31,7 @@ All files and directories are inside the `inputs` directory
 
 - ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) MLOpen
     - [MLOpen Data Source](https://upcommons.upc.edu/bitstream/handle/2117/343152/p184.pdf?sequence=1&isAllowed=y) 
-    - For our experiment we use certain subsets of the data which can be found in the subdirectories:
+    - For our experiments we use certain subsets of the data which can be found in the subdirectories:
         -   mlopen_t2t_SS_dataset
         -   mlopen_t2t_MS_dataset
         -   mlopen_t2t_LS_dataset
