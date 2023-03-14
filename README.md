@@ -36,7 +36,7 @@ All files and directories are inside the `inputs` directory
         -   mlopen_t2t_MS_dataset
         -   mlopen_t2t_LS_dataset
    
-- ![#c4f514](https://placehold.co/15x15/c4f514/c4f514.png) UKOpen
+- ![#eeeeee](https://placehold.co/15x15/eeeeee/eeeeee.png) UKOpen
     - [UKOpen Data Source](https://nkons.github.io/papers/290300a709.pdf)
 
 **The ground truth files for each dataset are present in the `inputs` directory**
