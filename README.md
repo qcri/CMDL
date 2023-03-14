@@ -1,10 +1,10 @@
 # CMDL
 Cross-Modal Data Discovery over Structured and Unstructured Data Lakes
 
-Set up:
+### Set up:
 - environment.yml will set up a conda environment
 
-Entry points:
+### Entry points:
 - trainer/pretrain-text.ipynb: Fine tuning a language model on text corpus to learn text embeddings
 
 - trainer/pretrain-tables.ipynb: Fine tuning a language model on table collection to learn tuple embeddings
@@ -13,7 +13,7 @@ Entry points:
 
 - compare_gt.py: accuracy measurement of search based baselines and similarity sketches on text->table relation discovery using the ground truth provided
 
-Data Sets & Ground Truths:
+### Data Sets & Ground Truths:
 All files and directories are inside the `inputs` directory
 
 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Phamra
@@ -41,10 +41,10 @@ All files and directories are inside the `inputs` directory
 
 **The ground truth files for each dataset are present in the `inputs` directory**
 
-Resources:
+### Resources:
 - Paper manuscripts provided under the folder 'docs'
 
-Prior baselines:
+### Prior baselines:
 - snorkel labeler.ipynb needs to be run in its separate environment by following instructions at: https://github.com/snorkel-team/snorkel
 
 - build_label_files.py: profiles data, indexes tables, creates labels by probing indexes using each text
