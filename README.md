@@ -16,14 +16,30 @@ Entry points:
 Data Sets & Ground Truths:
 All files and directories are inside the `inputs` directory
 
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015` Phamra
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Phamra
     - **drugbank-tables**: drugbank tables as csv files
     - **pubmed-targets**: pubmed article abstracts as txt files
     - **DrugBank_Synthetic_dataset**: synthetic drugbank tables as csv files
 
-- The [MLOpen](https://upcommons.upc.edu/bitstream/handle/2117/343152/p184.pdf?sequence=1&isAllowed=y) & [UKOpen](https://nkons.github.io/papers/290300a709.pdf) datasets referred in the paper can be found here. 
+- ![#c5f011](https://placehold.co/15x15/c5f015/c5f015.png) ChEBI
+    - **ChEBI_tables_dataset**: ChEMBL tables as csv files 
+    Note: _chebi-reference.csv.zip_ & _chebi-structures.csv.zip_ are compressed due to GitHub limits
 
-- The ground truth files for each dataset are present in the `inputs` directory
+- ![#c5f013](https://placehold.co/15x15/c5f015/c5f015.png) ChEMBL
+    - **ChEMBL_tables_dataset**: ChEMBL tables as csv files
+    Note: _chembl_27-activity_supp.csv.zip_ , _chembl_27-chembl_id_lookup.csv.zip_ , _chembl_27-compound_records.csv.zip_ , _chembl_27-molecule_dictionary.csv.zip_ are compressed due to GitHub limits
+
+- ![#c5f314](https://placehold.co/15x15/c5f015/c5f015.png) MLOpen
+    - [MLOpen Data Source](https://upcommons.upc.edu/bitstream/handle/2117/343152/p184.pdf?sequence=1&isAllowed=y) 
+    - For our experiment we use certain subsets of the data which can be found in the subdirectories:
+        -   mlopen_t2t_SS_dataset
+        -   mlopen_t2t_MS_dataset
+        -   mlopen_t2t_LS_dataset
+   
+- ![#c4f514](https://placehold.co/15x15/c5f015/c5f015.png) UKOpen
+    - [UKOpen Data Source](https://nkons.github.io/papers/290300a709.pdf)
+
+**The ground truth files for each dataset are present in the `inputs` directory**
 
 Resources:
 - Paper manuscripts provided under the folder 'docs'
