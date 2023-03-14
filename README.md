@@ -21,22 +21,22 @@ All files and directories are inside the `inputs` directory
     - **pubmed-targets**: pubmed article abstracts as txt files
     - **DrugBank_Synthetic_dataset**: synthetic drugbank tables as csv files
 
-- ![#c5f011](https://placehold.co/15x15/c5f015/c5f015.png) ChEBI
+- ![#c5f011](https://placehold.co/15x15/c5f011/c5f011.png) ChEBI
     - **ChEBI_tables_dataset**: ChEMBL tables as csv files 
     Note: _chebi-reference.csv.zip_ & _chebi-structures.csv.zip_ are compressed due to GitHub limits
 
-- ![#c5f013](https://placehold.co/15x15/c5f015/c5f015.png) ChEMBL
+- ![#c5f013](https://placehold.co/15x15/c5f013/c5f013.png) ChEMBL
     - **ChEMBL_tables_dataset**: ChEMBL tables as csv files
     Note: _chembl_27-activity_supp.csv.zip_ , _chembl_27-chembl_id_lookup.csv.zip_ , _chembl_27-compound_records.csv.zip_ , _chembl_27-molecule_dictionary.csv.zip_ are compressed due to GitHub limits
 
-- ![#c5f314](https://placehold.co/15x15/c5f015/c5f015.png) MLOpen
+- ![#c5f314](https://placehold.co/15x15/c5f314/c5f314.png) MLOpen
     - [MLOpen Data Source](https://upcommons.upc.edu/bitstream/handle/2117/343152/p184.pdf?sequence=1&isAllowed=y) 
     - For our experiment we use certain subsets of the data which can be found in the subdirectories:
         -   mlopen_t2t_SS_dataset
         -   mlopen_t2t_MS_dataset
         -   mlopen_t2t_LS_dataset
    
-- ![#c4f514](https://placehold.co/15x15/c5f015/c5f015.png) UKOpen
+- ![#c4f514](https://placehold.co/15x15/c4f514/c4f514.png) UKOpen
     - [UKOpen Data Source](https://nkons.github.io/papers/290300a709.pdf)
 
 **The ground truth files for each dataset are present in the `inputs` directory**
