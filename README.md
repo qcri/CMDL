@@ -16,7 +16,7 @@ Entry points:
 Data Sets & Ground Truths:
 - The `Pharma` dataset referred to in the paper is in the `inputs` directory with the tables in drugbank-tables and text documents in the pubmed-targets subdirectories respectively.
 
-- The (`MLOpen`)[] & (`UKOpen`)[] datasets referred in the paper can be found here. 
+- The [MLOpen](https://upcommons.upc.edu/bitstream/handle/2117/343152/p184.pdf?sequence=1&isAllowed=y) & [UKOpen](https://nkons.github.io/papers/290300a709.pdf) datasets referred in the paper can be found here. 
 
 - The ground truth files for each dataset are present in the `inputs` directory
 
