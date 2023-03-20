@@ -1,9 +1,13 @@
 import os
 import csv
 from profiler.text_profiler import text_profiler
+from profiler.table_profiler import table_profiler
 from indexer.table_indexer import table_indexer
 from indexer.trained_embeddings import TrainedEmbeddings, TrainedEmbeddingsIndexer
 from tqdm import tqdm
+
+### Evaluation for Tasks 1A, 1B, 1C from the paper are covered in evaluate_trained.py
+### This evaluate_table_to_table() function covers evaluation for experiments 2A 2B 2C 2D 3A 3B
 
 def text2table(gt_file, sep=','):
   gt_map = {}
@@ -61,7 +65,6 @@ if __name__ == "__main__":
   lshe_threshold = 0.5
   wem_model_path = 'resources/fasttext/cc/cc.en.300.bin'
   wem_dim = 300 
-  gt_path = 'inputs/mlopen-text-tables.gt' 
   mode = 'table' # column/table
   result_file = datalake + '.results'
 
@@ -76,7 +79,9 @@ if __name__ == "__main__":
   table_i = table_indexer(datalake, lshe_threshold, wem_model_path, wem_dim, mode=mode)
   table_i.load_indexes()
   
+  
   ## read gt
+  gt_path = 'inputs/mlopen-text-tables.gt' 
   gt_map = text2table(gt_path)
 
   ## query eval results
@@ -87,6 +92,7 @@ if __name__ == "__main__":
   ## parameters
   n = [1, 2, 4, 6, 8, 10, 12, 15, 18]
 
+  
   algo_names = ['schema-s', 'content-s', 'contain', 'semantic']
   query_fns = [table_i.search_elastic_colname, table_i.search_elastic_content, table_i.search_lshe_content, table_i.search_wem_content]
   input_fn = text_p.get_profiled
@@ -101,36 +107,49 @@ if __name__ == "__main__":
       P, R, F1 = evaluate(gt_map, input_fn, query_fn, topn, card_map)
       csvf.writerow([algo, topn, P, R, F1])
 
-  '''
-  ## trained embeddings eval
-  feature_dir = 'features'
-  def read_ids(file_path):
-    with open(file_path, 'r') as f:
-        return f.read().split('\n')
-
-  text_ids = read_ids(os.path.join(feature_dir, datalake + '-textids.list'))
-  col_ids = read_ids(os.path.join(feature_dir, datalake + '-colids.list'))
-  text_emb_file = os.path.join(feature_dir, datalake + '-trainedtext.npy')
-  col_emb_file = os.path.join(feature_dir, datalake + '-trainedcolumns.npy')
-
-  text_emb = TrainedEmbeddings(text_ids, text_emb_file)
-  col_emb = TrainedEmbeddings(col_ids, col_emb_file)
-
-  # build ann index on column vectors
-  col_emb_ind = TrainedEmbeddingsIndexer(datalake + '-trained', col_emb, mode)
-  col_emb_ind.create_index()
-  [col_emb_ind.index_doc(id) for id in col_ids]
-  col_emb_ind.commit_index()
-
-  # search preparations
-  input_fn = text_emb
-  trained_query_fn = col_emb_ind.search
-
-  ## evaluations
-  for topn in n:
-    for algo, query_fn in [('trained', trained_query_fn)]:
-      tqdm.write(f'Querying {algo} for {topn} matches')
-      P, R, F1 = evaluate(gt_map, input_fn, query_fn, topn, None)
-      csvf.writerow([algo, topn, P, R, F1])
-  '''
   f.close()
+
+def evaluate_table_to_table(table_dir, topn, gt_path):
+
+  gt_map = text2table(gt_path)
+  mode = "column"
+  profiler = table_profiler()
+  sep=','
+
+  ## Make Features
+  table_indexed = table_indexer(datalake, lshe_threshold, wem_model_path, wem_dim, mode=mode)
+  ## Make Indexes for the features
+  table_indexed.index_tables(profiler, table_dir, sep)
+  ## Load indexes of features
+  table_i.load_indexes()
+
+  ## Base Indexes for Searching
+  base_fns = table_i.search_elastic_colname # Other Options: [table_i.search_elastic_colname, table_i.search_elastic_content, table_i.search_lshe_content, table_i.search_wem_content]
+
+  final_results = []
+  ## Loop over Probe Tables
+  for (id, tblname, colname, is_string, colvalues, cardinality) in profiler.process_dir(table_dir, sep):
+      
+      ## For Table2Table PKFK Join - Experiment 2D: uncomment the following code and put all the following lines inside that if condition
+      # if cardinality/len(colvalues) >= 0.95:
+    
+      ## input/probe for each table
+      input_fn = colname # ' '.join(colvalues)
+
+      ## returned matches (topn)
+      results = base_fns.search(input_fn, topn*5) # 5 is arbitrary factor for filtering out same table name matches
+      # For lsh: base_fns.search(input_fn, len(input_fn.split()) , topn)
+      
+      count = 0
+      ## Filtering Function
+      for result in results:
+        if result["table_name"] != tblname:
+          final_results.append("{},{},{},{}".format(tblname,colname,result["table_name"],result["column_name"]))
+          count+=1
+        if count == topn:
+          break
+        
+  ## Final Metrics Calculation
+  P, R, F1 = eval_matches(gt_map, final_results)
+  return P, R, F1
+  ################################################################################################################################################################
