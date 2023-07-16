@@ -1,0 +1,893 @@
+Organisation Name (A),Dept (B),Service Cat Label (C),Purpose of Spend (D),Expenditure CIPFA (E),Supplier (F),Supplier Reference (G),Pay Date (H),Transaction Number (I),Net Amount (J),Grant to VCSE? (K),Charity Number (L),Card Transaction (M),Irrecoverable VAT (N)
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,FST CONSUMABLES LIMITED,A0000004, 25/02/2016,PCO0269115,68.17,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,ARCO,A0000176, 11/02/2016,PCO0268694,25.58,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,ARCO,A0000176, 18/02/2016,PCO0268862,33.97,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,ARCO,A0000176, 25/02/2016,PCO0269031,62.35,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,ARCO,A0000176, 25/02/2016,PCO0269031,169.56,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,ARCO,A0000176, 04/02/2016,PCO0268515,225.63,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,ARCO,A0000176, 25/02/2016,PCO0269031,325.9,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BALMERS GM LIMITED,A0000198, 11/02/2016,PCO0268671,5.72,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BALMERS GM LIMITED,A0000198, 11/02/2016,PCO0268671,11.76,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BALMERS GM LIMITED,A0000198, 11/02/2016,PCO0268671,14.32,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BALMERS GM LIMITED,A0000198, 11/02/2016,PCO0268671,25.1,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BALMERS GM LIMITED,A0000198, 25/02/2016,PCO0269028,80.62,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BALMERS GM LIMITED,A0000198, 11/02/2016,PCO0268671,148.4,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Capital Costs,Capital : Payments,CD,BALMERS GM LIMITED,A0000198, 11/02/2016,PCO0268670,28,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Capital Costs,Capital : Payments,CD,BALMERS GM LIMITED,A0000198, 11/02/2016,PCO0268670,175,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Capital Costs,Capital : Payments,CD,BALMERS GM LIMITED,A0000198, 11/02/2016,PCO0268670,318,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Capital Costs,Capital : Payments,CD,BALMERS GM LIMITED,A0000198, 11/02/2016,PCO0268670,425,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Capital Costs,Capital : Payments,CD,BALMERS GM LIMITED,A0000198, 11/02/2016,PCO0268670,610,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Capital Costs,Capital : Payments,CD,BALMERS GM LIMITED,A0000198, 11/02/2016,PCO0268670,1790,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Agency Staff,Emp : Agency Wages,10,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268519,10.92,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,BARNES JB LIMITED,A0000202, 25/02/2016,PCO0269024,18.38,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268675,5,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BARNES JB LIMITED,A0000202, 18/02/2016,PCO0268867,0.69,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BARNES JB LIMITED,A0000202, 18/02/2016,PCO0268867,8.95,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BARNES JB LIMITED,A0000202, 18/02/2016,PCO0268868,18.17,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BARNES JB LIMITED,A0000202, 18/02/2016,PCO0268867,36.73,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 25/02/2016,PCO0269025,0.92,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268674,2.24,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268519,2.59,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 25/02/2016,PCO0269025,3.54,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268519,3.76,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268519,3.8,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268674,5.74,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 25/02/2016,PCO0269025,6.22,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268674,16.14,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 25/02/2016,PCO0269025,16.34,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268673,23.84,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268672,29.56,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268669,29.95,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268673,31.59,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268673,77.4,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,EFM Materials,40,BARNES JB LIMITED,A0000202, 25/02/2016,OPS0269015,56.46,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,EFM Materials,40,BARNES JB LIMITED,A0000202, 25/02/2016,OPS0269042,103.23,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,EFM Materials,40,BARNES JB LIMITED,A0000202, 25/02/2016,OPS0269015,114.24,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,BARNES JB LIMITED,A0000202, 25/02/2016,PCO0269026,5.92,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268672,7.44,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,BARNES JB LIMITED,A0000202, 11/02/2016,PCO0268672,10.56,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,BARNES JB LIMITED,A0000202, 25/02/2016,OPS0269016,16.5,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BEARING FACTORS,A0000205, 25/02/2016,PCO0269020,60.42,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Other Expenses,47,J H BLAKEY & SONS (SECURITY) LTD,A0000211, 18/02/2016,HED0268918,418.08,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Other Expenses,47,BARROWFORD PARISH COUNCIL,A0000239, 18/02/2016,HED0268963,316,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,BOC GASES LTD,A0000386, 11/02/2016,PCO0268690,77.65,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,,Paid in the Year,PD,CB EXCAVATORS LTD,A0000396, 25/02/2016,HED0269100,22326.42,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,BARROWFORD SAFE & LOCK SERV LT,A0000458, 25/02/2016,EST0269081,35,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,BARROWFORD SAFE & LOCK SERV LT,A0000458, 11/02/2016,EST0268737,35,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,BARROWFORD SAFE & LOCK & BB LOCKSMITHS,A0000510, 25/02/2016,EST0269082,160,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,BARROWFORD SAFE & LOCK & BB LOCKSMITHS,A0000510, 25/02/2016,EST0269076,84.17,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Bldgs : Vandalism Repairs,20,BARROWFORD SAFE & LOCK & BB LOCKSMITHS,A0000510, 11/02/2016,PCO0268676,8.63,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BARROWFORD SAFE & LOCK & BB LOCKSMITHS,A0000510, 11/02/2016,PCO0268676,5.84,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Subscriptions & Donations,47,WOLTERS KLUWER (UK) LTD,A0000595, 25/02/2016,AAS0269068,173.5,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Premises Related Expense,Bldgs : R & M : Abnormal,20,MARTIN COLLINS JOINERY & GLAZING,A0000623, 25/02/2016,ENV0269109,54,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Indirect Employee Expenses,Training,12,CRAVEN COLLEGE,A0000735, 04/02/2016,PCO0268495,525,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 25/02/2016,REG0268757,80.42,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 04/02/2016,PCO0268517,6.5,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 11/02/2016,PCO0268678,57.6,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 04/02/2016,PCO0268517,76,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Protective Clothing,42,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 25/02/2016,REG0268757,44.79,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 04/02/2016,PCO0268517,12.5,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Protective Clothing,42,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 25/02/2016,PCO0269017,46.9,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 18/02/2016,OPS0268856,14.4,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 18/02/2016,OPS0268856,15.25,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 18/02/2016,OPS0268856,24,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 18/02/2016,OPS0268856,36.57,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 25/02/2016,OPS0268984,38,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 25/02/2016,OPS0268984,38,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 25/02/2016,OPS0268984,38,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 18/02/2016,OPS0268856,48.76,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 25/02/2016,OPS0268984,75,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 11/02/2016,OPS0268652,76,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 11/02/2016,OPS0268652,76,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 11/02/2016,OPS0268652,76,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 11/02/2016,OPS0268652,93.2,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 18/02/2016,OPS0268856,106.5,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 18/02/2016,OPS0268856,106.5,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 11/02/2016,OPS0268652,150,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,ENGINEERING & FOUNDRY SUPPLIES,A0001002, 11/02/2016,OPS0268652,184.8,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,FREIGHT TRANSPORT ASSOCIATION,A0001124, 04/02/2016,OPS0268565,44.6,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,G B SIGNS SOLUTIONS LIMITED,A0001202, 11/02/2016,HED0268778,75.02,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,G B SIGNS SOLUTIONS LIMITED,A0001202, 11/02/2016,HED0268778,21.44,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Mayoral Expenses,46,GOING DUTCH FLORIST,A0001216, 11/02/2016,DAL0268738,25,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Other Expenses,47,JEWSON LIMITED,A0001323, 18/02/2016,OPS0268849,35.88,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Capital Costs,Capital : Payments,CD,JEWSON LIMITED,A0001323, 11/02/2016,OPS0268658,143.52,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Capital Costs,Capital : Payments,CD,JEWSON LIMITED,A0001323, 11/02/2016,OPS0268658,420,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,J HARGREAVES,A0001359, 18/02/2016,AAS0268973,25,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,J HARGREAVES,A0001359, 25/02/2016,PCO0269056,25,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,EFM Materials,40,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268763,8,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,EFM Materials,40,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268764,15.44,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,EFM Materials,40,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268764,18.4,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,EFM Materials,40,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268764,19.7,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,EFM Materials,40,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268764,23.76,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,EFM Materials,40,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268764,27.2,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,EFM Materials,40,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268764,27.2,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,EFM Materials,40,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268764,48.5,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,EFM Materials,40,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268763,79.7,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,EFM Materials,40,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268764,140.4,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,EFM Materials,40,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268764,152.34,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,Protective Clothing,42,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268764,28.32,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,Protective Clothing,42,KILLGERM CHEMICALS LTD,A0001624, 11/02/2016,ENV0268764,47.2,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,LANLEE SUPPLIES LIMITED,A0001672, 04/02/2016,HED0268520,33.56,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,LANLEE SUPPLIES LIMITED,A0001672, 25/02/2016,PCO0269027,30,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,LANLEE SUPPLIES LIMITED,A0001672, 25/02/2016,REG0268756,1.46,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,LANLEE SUPPLIES LIMITED,A0001672, 25/02/2016,REG0268755,25.26,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,LANLEE SUPPLIES LIMITED,A0001672, 11/02/2016,REG0268491,43.02,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,LANLEE SUPPLIES LIMITED,A0001672, 25/02/2016,REG0268759,62.26,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Expenditure : Materials,0,LBS WORLDWIDE LIMITED,A0001673, 04/02/2016,PCO0268496,16.35,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,DICK LEIGH,A0001675, 25/02/2016,PCO0269113,6.55,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,DICK LEIGH,A0001675, 25/02/2016,PCO0269113,22.5,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,DICK LEIGH,A0001675, 25/02/2016,PCO0269113,23.12,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,DICK LEIGH,A0001675, 25/02/2016,PCO0269113,30.86,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,DICK LEIGH,A0001675, 18/02/2016,PCO0268866,52.48,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,DICK LEIGH,A0001675, 25/02/2016,PCO0269113,62.48,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Bldgs : R & M : Day To Day,20,LANCASHIRE COUNTY COUNCIL,A0001690, 25/02/2016,HED0269112,250,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Capital Costs,Capital : Payments,CD,LANCASHIRE COUNTY COUNCIL,A0001690, 25/02/2016,HED0269114,2000,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Capital Costs,Capital : Payments,CD,LANCASHIRE COUNTY COUNCIL,A0001690, 04/02/2016,HED0268621,5000,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Ren Grant : 1996 Act,CH,LANCASHIRE COUNTY COUNCIL,A0001690, 11/02/2016,HMR0268772,1814.22,N,N/A,N,302.37
+Pendle Borough Council,Engineering & Special Projects,Capital Costs,Ren Grant : 1996 Act,CH,LANCASHIRE COUNTY COUNCIL,A0001690, 18/02/2016,HED0268960,2760,N,N/A,N,460
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Ren Grant : 1996 Act,CH,LANCASHIRE COUNTY COUNCIL,A0001690, 04/02/2016,HMR0268608,3133,N,N/A,N,522.17
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,R & K LATHAM & SON,A0001718, 11/02/2016,PCO0268668,225,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,MONK OF COLNE LTD,A0001828, 18/02/2016,EST0268939,8733.75,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,JOHN MACADAM & SON (GARAGES) LTD,A0001846, 11/02/2016,OPS0268659,45,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,JOHN MACADAM & SON (GARAGES) LTD,A0001846, 04/02/2016,OPS0268566,45,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,JOHN MACADAM & SON (GARAGES) LTD,A0001846, 11/02/2016,OPS0268661,45,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,JOHN MACADAM & SON (GARAGES) LTD,A0001846, 04/02/2016,OPS0268568,45,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,JOHN MACADAM & SON (GARAGES) LTD,A0001846, 11/02/2016,OPS0268657,45,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,NELSON JOINERY LTD,A0001969, 18/02/2016,EST0268938,130,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Water & Sewerage,25,UNITED UTILITIES,A0001986, 18/02/2016,EST0268954,10.29,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Water & Sewerage,25,UNITED UTILITIES,A0001986, 11/02/2016,EST0268749,10.26,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Water & Sewerage,25,UNITED UTILITIES,A0001986, 11/02/2016,EST0268750,65.32,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Water & Sewerage,25,UNITED UTILITIES,A0001986, 11/02/2016,EST0268751,-51.67,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Water & Sewerage,25,UNITED UTILITIES,A0001986, 11/02/2016,EST0268751,53.44,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Water & Sewerage,25,UNITED UTILITIES,A0001986, 11/02/2016,EST0268753,21.64,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Water & Sewerage,25,UNITED UTILITIES,A0001986, 11/02/2016,EST0268752,70.59,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,F NUTTER & SONS,A0002037, 18/02/2016,EST0268940,600,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,F NUTTER & SONS,A0002037, 18/02/2016,EST0268940,1914,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,F NUTTER & SONS,A0002037, 18/02/2016,EST0268940,7.6,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,F NUTTER & SONS,A0002037, 18/02/2016,EST0268940,45.5,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,F NUTTER & SONS,A0002037, 18/02/2016,EST0268940,600,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,F NUTTER & SONS,A0002037, 18/02/2016,EST0268940,2460,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,F NUTTER & SONS,A0002037, 18/02/2016,EST0268940,4.72,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,F NUTTER & SONS,A0002037, 18/02/2016,EST0268940,325,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,OPTION HYGIENE LIMITED,A0002063, 11/02/2016,OPS0268663,6.75,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,OPTION HYGIENE LIMITED,A0002063, 11/02/2016,OPS0268663,14.98,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,OPTION HYGIENE LIMITED,A0002063, 25/02/2016,EST0269074,10.21,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,OPTION HYGIENE LIMITED,A0002063, 25/02/2016,OPS0268989,38.4,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,OPTION HYGIENE LIMITED,A0002063, 25/02/2016,OPS0268987,59,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,OPTION HYGIENE LIMITED,A0002063, 11/02/2016,OPS0268660,92,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,OPTION HYGIENE LIMITED,A0002063, 25/02/2016,OPS0268986,1871.8,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,OPTION HYGIENE LIMITED,A0002063, 25/02/2016,OPS0268986,2805,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,POWER PIPES (PENDLE) LIMITED,A0002089, 25/02/2016,OPS0268985,109.97,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Ren Grant : 1996 Act,CH,PENBURN CONSTRUCTION LTD,A0002191, 11/02/2016,HMR0268774,6160,N,N/A,N,1026.67
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,PENDLE PERSONNEL LTD,A0002198, 25/02/2016,OPS0269045,361.12,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,PENDLE PERSONNEL LTD,A0002198, 11/02/2016,OPS0268664,361.12,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,PENDLE PERSONNEL LTD,A0002198, 18/02/2016,OPS0268806,361.12,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,PENDLE PERSONNEL LTD,A0002198, 18/02/2016,OPS0268904,361.12,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,PENDLE PERSONNEL LTD,A0002198, 11/02/2016,OPS0268662,367.59,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Agency Staff,Emp : Salaries & Wages,10,PENDLE PERSONNEL LTD,A0002198, 04/02/2016,PCO0268573,42.7,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Agency Staff,Emp : Salaries & Wages,10,PENDLE PERSONNEL LTD,A0002198, 25/02/2016,PCO0269037,47.45,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Agency Staff,Emp : Salaries & Wages,10,PENDLE PERSONNEL LTD,A0002198, 04/02/2016,PCO0268574,75.92,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Agency Staff,Emp : Salaries & Wages,10,PENDLE PERSONNEL LTD,A0002198, 25/02/2016,PCO0269035,125.75,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Agency Staff,Emp : Salaries & Wages,10,PENDLE PERSONNEL LTD,A0002198, 25/02/2016,PCO0269038,360.63,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Agency Staff,Emp : Salaries & Wages,10,PENDLE PERSONNEL LTD,A0002198, 11/02/2016,PCO0268687,396.21,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,ROYAL MAIL GROUP LIMITED,A0002281, 25/02/2016,DAL0269098,22.62,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,ROYAL MAIL GROUP LIMITED,A0002281, 25/02/2016,DAL0269098,24.9,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,ROYAL MAIL GROUP LIMITED,A0002281, 25/02/2016,DAL0269098,1276.78,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,ROYAL MAIL GROUP LIMITED,A0002281, 18/02/2016,DAL0268937,298.25,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Telephones : Direct,45,REMGUARD LIMITED,A0002338, 04/02/2016,OPS0268508,112,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Annual Hire Charge,36,STANLEY BROTHERS (TIPPERS) LTD,A0002422, 25/02/2016,OPS0269039,2000,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,STANLEY BROTHERS (TIPPERS) LTD,A0002422, 25/02/2016,OPS0268990,256,N,N/A,N,N/A
+Pendle Borough Council,Planning & Building Control,Supplies and Services,EFM : Other Equipment,40,STANLEY HOUSE VETERINARY GROUP,A0002423, 11/02/2016,PBC0268743,206,N,N/A,N,N/A
+Pendle Borough Council,Planning & Building Control,Supplies and Services,EFM : Other Equipment,40,STANLEY HOUSE VETERINARY GROUP,A0002423, 11/02/2016,PBC0268743,206,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BRENT STEVENSON MEMORIALS,A0002426, 18/02/2016,PCO0268802,250,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,ROBERTSON MEMORIALS,A0002590, 11/02/2016,PCO0268686,207.53,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Support Services,Bank Charges,72,G4S CASH SOLUTIONS (UK) LIMITED,A0002616, 18/02/2016,AAS0268931,180.56,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,T & F STEEL DESIGNS LTD,A0002627, 11/02/2016,HED0268781,65,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,T & F STEEL DESIGNS LTD,A0002627, 11/02/2016,HED0268781,200,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,T & F STEEL DESIGNS LTD,A0002627, 25/02/2016,HED0269110,920,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,T & F STEEL DESIGNS LTD,A0002627, 25/02/2016,HED0269110,3060,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,T & F STEEL DESIGNS LTD,A0002627, 11/02/2016,HED0268697,30,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Other Expenses,47,T & F STEEL DESIGNS LTD,A0002627, 11/02/2016,HED0268783,194,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Other Expenses,47,T & F STEEL DESIGNS LTD,A0002627, 11/02/2016,HED0268783,540,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,THE HELPING HAND CO LTD,A0002655, 25/02/2016,PCO4005017,-1053.83,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,THE HELPING HAND CO LTD,A0002655, 04/02/2016,PCO0268497,34.95,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,THE HELPING HAND CO LTD,A0002655, 04/02/2016,PCO0268497,50,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,THE HELPING HAND CO LTD,A0002655, 04/02/2016,PCO0268497,219,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,THE HELPING HAND CO LTD,A0002655, 25/02/2016,PCO0269036,1170.92,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,THE HELPING HAND CO LTD,A0002655, 18/02/2016,OPS0268795,85.2,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,Other Expenses,47,JOHNSONS TEXICARE LTD,A0002665, 04/02/2016,ENV0268619,76.14,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,TRAVIS PERKINS TRADING CO LTD,A0002709, 11/02/2016,PCO0268677,6.92,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,TRAVIS PERKINS TRADING CO LTD,A0002709, 18/02/2016,HED0268861,5.83,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,TRAVIS PERKINS TRADING CO LTD,A0002709, 04/02/2016,HED0268578,73.1,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,TRAVIS PERKINS TRADING CO LTD,A0002709, 25/02/2016,REG0269005,6.22,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,TRAVIS PERKINS TRADING CO LTD,A0002709, 25/02/2016,REG0268760,23.4,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,TRAVIS PERKINS TRADING CO LTD,A0002709, 11/02/2016,REG0268499,28.5,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,TRAVIS PERKINS TRADING CO LTD,A0002709, 25/02/2016,REG0269004,37,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,TRAVIS PERKINS TRADING CO LTD,A0002709, 11/02/2016,REG0268500,38,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,TRAVIS PERKINS TRADING CO LTD,A0002709, 11/02/2016,REG0268501,38,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,TRAVIS PERKINS TRADING CO LTD,A0002709, 11/02/2016,REG0268498,45.4,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,TRAVIS PERKINS TRADING CO LTD,A0002709, 25/02/2016,REG0268761,47.4,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,TRAVIS PERKINS TRADING CO LTD,A0002709, 11/02/2016,REG0268503,52.5,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,TRAVIS PERKINS TRADING CO LTD,A0002709, 11/02/2016,REG0268504,95.87,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Seminars etc All Costs,46,TRISTAR PRINTERS LTD,A0002731, 11/02/2016,REG0268775,299,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,YORKSHIRE WATER,A0002808, 25/02/2016,HED0269118,30.15,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Water & Sewerage,25,YORKSHIRE WATER,A0002808, 25/02/2016,EST0269094,5.6,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Indirect Employee Expenses,Long Service Awards,12,REDACTED - PERSONAL DATA,A0004669, 04/02/2016,PER0268586,415,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,WICKSTEED LEISURE LTD,A0004748, 25/02/2016,PCO0269000,47.5,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,FAST GLASS GLAZING LIMITED,A0005903, 18/02/2016,EST0268936,48,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,FAST GLASS GLAZING LIMITED,A0005903, 04/02/2016,EST0268599,138.73,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,FAST GLASS GLAZING LIMITED,A0005903, 04/02/2016,EST0268599,165.15,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,FAST GLASS GLAZING LIMITED,A0005903, 25/02/2016,EST0269078,210.6,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,FAST GLASS GLAZING LIMITED,A0005903, 25/02/2016,EST0269078,215.44,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,FAST GLASS GLAZING LIMITED,A0005903, 11/02/2016,HED0268782,98,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,FAST GLASS GLAZING LIMITED,A0005903, 25/02/2016,EST0269077,148,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,FAST GLASS GLAZING LIMITED,A0005903, 25/02/2016,EST0269077,384.56,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BARCHAM TREES PLC,A0007884, 25/02/2016,PCO0268996,76,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BARCHAM TREES PLC,A0007884, 25/02/2016,PCO0268997,129,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Indirect Employee Expenses,Staff Refreshments,12,VENDA VALET (MACHINES) LTD,A0009649, 11/02/2016,EST0268740,216.67,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,VENDA VALET (MACHINES) LTD,A0009649, 18/02/2016,OPS0268805,17,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Bldgs : R & M : Day To Day,20,CPC PROP & GARDENING SERV LTD,A0011770, 04/02/2016,HED0268596,260,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Premises Related Expense,Bldgs : R & M : Abnormal,20,CPC PROP & GARDENING SERV LTD,A0011770, 25/02/2016,ENV0269108,680,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,CPC PROP & GARDENING SERV LTD,A0011770, 11/02/2016,HMR0268693,280,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Capital Grants,B4,HODGE HOUSE RESIDENTS ASSOC,A0011843, 24/02/2016,AAS0269143,14624,Y,N/A,N,N/A
+Pendle Borough Council,Human Resources,Supplies and Services,Seminars etc All Costs,46,PENDLE LEISURE LTD,A0012961, 11/02/2016,PER0268705,475,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Mayoral Expenses,46,PENDLE LEISURE LTD,A0012961, 25/02/2016,DAL0269105,60,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,LANDSCAPE ENGINEERING LTD,A0013135, 11/02/2016,PCO0268680,960,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,ROYAL MAIL RETAIL,A0015318, 04/02/2016,REG0268613,176.4,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Ren Grant : 1996 Act,CH,SPAIN BUILDING & MAINTENANCE,A0015325, 11/02/2016,HMR0268771,912.4,N,N/A,N,152.07
+Pendle Borough Council,Operational Services,Supplies and Services,EFM : Office and computer equipment,40,ORCHARD RECYCLING SERVICE,A0015803, 04/02/2016,OPS0268556,1423.8,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,EFM : Office and computer equipment,40,ORCHARD RECYCLING SERVICE,A0015803, 11/02/2016,OPS0268649,1675.8,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,ORCHARD RECYCLING SERVICE,A0015803, 18/02/2016,OPS0268891,1360.8,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,ORCHARD RECYCLING SERVICE,A0015803, 25/02/2016,OPS0269007,1726.2,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,LCC Levy (Admins Costs),44,JACOBS,A0016294, 11/02/2016,HED0268724,-83.03,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,LCC Levy (Admins Costs),44,JACOBS,A0016294, 11/02/2016,HED0268721,-29.65,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,LCC Levy (Admins Costs),44,JACOBS,A0016294, 11/02/2016,HED0268721,29.65,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,LCC Levy (Admins Costs),44,JACOBS,A0016294, 11/02/2016,HED0268724,83.03,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,Other Expenses,47,REDACTED - PERSONAL DATA,A0020031, 04/02/2016,ENV0268617,155,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,WALTON SUMMIT TRUCK  CENTRE LTD,A0020983, 25/02/2016,PCO0269032,20.56,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,WALTON SUMMIT TRUCK  CENTRE LTD,A0020983, 25/02/2016,PCO0269033,29.61,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,WALTON SUMMIT TRUCK  CENTRE LTD,A0020983, 25/02/2016,PCO0269034,89.4,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,KEEP BRITAIN TIDY,A0021088, 25/02/2016,PCO0269018,510,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,EFM Materials,40,KEEP BRITAIN TIDY,A0021088, 25/02/2016,PCO0269018,1500,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Other Expenses,47,ASPEN VALLEY KENNELS & CATTERY,A0022106, 18/02/2016,OPS0268790,846.78,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,E.ON,A0023073, 11/02/2016,HED0268776,90.17,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,E.ON,A0023073, 11/02/2016,HED0268777,257.84,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,E.ON,A0023073, 04/02/2016,AAS0268592,17.16,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Electricity,22,E.ON,A0023073, 18/02/2016,AAS0268927,11.94,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Electricity,22,E.ON,A0023073, 18/02/2016,AAS0268929,17.27,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Electricity,22,E.ON,A0023073, 18/02/2016,AAS0268930,8.92,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Electricity,22,E.ON,A0023073, 25/02/2016,EST0269091,49.21,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Electricity,22,E.ON,A0023073, 25/02/2016,EST0269093,0.18,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Electricity,22,E.ON,A0023073, 11/02/2016,EST0268744,26.67,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Tprt : Annual Hire Charge,36,ALD AUTOMOTIVES,A0025555, 24/02/2016,AAS0269204,244.87,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,Other Expenses,47,GRADKO INTERNATIONAL LTD,A0025806, 25/02/2016,ENV0269120,221.2,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,WOODSTOCK SIGNS,A0040045, 18/02/2016,PCO0268801,525,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Telephones : Central,45,BRITISH TELECOMMUNICATIONS PLC,A0040210, 04/02/2016,AAS0268589,2309.23,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Indirect Employee Expenses,Emp : Medical Expenses,12,REDACTED - PERSONAL DATA,A0040626, 25/02/2016,PER0269066,415,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,CHOYCE CONTRACTORS LTD,A0040924, 04/02/2016,HED0268522,450,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,CHOYCE CONTRACTORS LTD,A0040924, 04/02/2016,HED0268521,250,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,PENNINE FIRE & SAFETY LTD,A0040931, 18/02/2016,EST0268948,195.5,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,PENNINE FIRE & SAFETY LTD,A0040931, 18/02/2016,EST0268948,55,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,PENNINE FIRE & SAFETY LTD,A0040931, 18/02/2016,EST0268948,55,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,PENNINE FIRE & SAFETY LTD,A0040931, 18/02/2016,EST0268948,87,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,PENNINE FIRE & SAFETY LTD,A0040931, 18/02/2016,EST0268948,80,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,PENNINE FIRE & SAFETY LTD,A0040931, 18/02/2016,EST0268948,223.6,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,PENNINE FIRE & SAFETY LTD,A0040931, 18/02/2016,EST0268948,285,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,PENNINE FIRE & SAFETY LTD,A0040931, 04/02/2016,EST0268600,1258.85,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Transport Related Expense,Tprt : Repairs : General,31,REDACTED - PERSONAL DATA,A0041674, 11/02/2016,REG0268490,4.99,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,C & R WALNE ENGRAVERS,A0042734, 11/02/2016,PCO0268683,32,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,C & R WALNE ENGRAVERS,A0042734, 11/02/2016,PCO0268682,42,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Stock : Purchases,PJ,PMC POLYTHENE LTD,A0043215, 11/02/2016,OPS0268654,600,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM : Other Equipment,40,ROBERTSHAWS GARDEN MACHINERY LTD,A0043296, 25/02/2016,REG0268758,70.4,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Other Expenses,47,OFFICE OF COMMUNICATIONS,A0043419, 18/02/2016,HED0268926,100,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.22,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.22,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.22,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.22,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.22,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.21,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.21,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.21,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.21,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.21,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.21,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.21,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.21,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,TERBERG MATEC UK LTD,A0043970, 11/02/2016,OPS0268665,698.22,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : Vandalism Repairs,21,RUSSELL LEISURE LTD,A0044034, 11/02/2016,PCO0268679,99.16,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,S M SHEPHERD BUILDING CONTRACTORS,A0044037, 18/02/2016,OPS0268903,150,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,S M SHEPHERD BUILDING CONTRACTORS,A0044037, 18/02/2016,OPS0268903,150,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Paid in the Year,PD,S M SHEPHERD BUILDING CONTRACTORS,A0044037, 11/02/2016,OPS0268651,160,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,,Paid in the Year,PD,S M SHEPHERD BUILDING CONTRACTORS,A0044037, 11/02/2016,OPS0268651,200,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Electricity,22,E.ON UK PLC,A0044040, 11/02/2016,EST0268754,253.69,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Electricity,22,NPOWER LTD,A0044051, 25/02/2016,EST0269083,1077.93,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268889,20.62,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268851,53.4,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268870,71.78,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268812,87,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268887,111.15,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268890,197.93,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268876,212,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268816,604.93,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268869,365.82,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 04/02/2016,OPS0268559,414.78,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268845,92.84,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268882,275.51,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268880,280.68,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268848,599.03,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 04/02/2016,OPS0268560,122.2,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268885,95.85,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 04/02/2016,OPS0268507,303.31,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268857,67.55,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268873,104.53,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268858,39.75,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268842,67.68,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268850,486.82,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268817,44.21,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268886,115.8,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 04/02/2016,OPS0268564,27.51,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268883,41.83,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268859,81.26,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268841,141.03,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268855,198.2,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268872,447.05,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268840,344.3,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268881,67.96,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,GO PLANT LIMITED,A0045105, 04/02/2016,OPS0268514,29.71,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268846,31.13,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 25/02/2016,OPS0268988,48.45,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268824,312.45,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268843,91.35,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268888,40.75,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268875,113.35,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268815,102.35,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268813,91.33,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268814,96.83,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 04/02/2016,OPS0268506,85.83,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268847,85.83,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268880,45.13,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268838,51.75,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268854,107.85,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 04/02/2016,OPS0268507,85.83,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268874,85.83,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268853,90.25,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268884,193.7,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 04/02/2016,OPS0268563,41.83,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268844,84.75,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268877,61.7,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268860,41.83,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268839,105.7,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268871,77.03,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268852,154.06,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268818,58.33,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tyres,32,GO PLANT LIMITED,A0045105, 04/02/2016,OPS0268514,22,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Annual Hire Charge,36,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268878,20,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Annual Hire Charge,36,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268819,100,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Annual Hire Charge,36,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268822,100,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Annual Hire Charge,36,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268879,100,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Annual Hire Charge,36,GO PLANT LIMITED,A0045105, 04/02/2016,OPS0268561,200,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Annual Hire Charge,36,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268821,200,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Annual Hire Charge,36,GO PLANT LIMITED,A0045105, 18/02/2016,OPS0268823,9380.85,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Annual Hire Charge,36,GO PLANT LIMITED,A0045105, 04/02/2016,OPS0268562,80,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Annual Hire Charge,36,GO PLANT LIMITED,A0045105, 18/02/2016,PCO0268804,4373.6,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Meeting Expenses,46,APPETITE,A0046890, 25/02/2016,DAL0269097,149.5,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,EFM : Office and computer equipment,40,TWOFOLD LIMITED,A0047099, 11/02/2016,DAL0268734,211,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,LOOP PUBLISHING LTD,A0047429, 04/02/2016,PCO0268572,225,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,EFM Materials,40,LOOP PUBLISHING LTD,A0047429, 18/02/2016,HED0268914,38.61,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BRUSHWOOD DESIGN LTD,A0048828, 25/02/2016,HED0269116,301.23,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Subscriptions & Donations,47,NATIONAL ASSOC OF MEMORIAL MASONS,A0050779, 11/02/2016,PCO0268692,205,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tyres,32,ROSSENDALE VULCANISING (SALES LTD),A0051239, 11/02/2016,PCO0268684,20,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Premises Related Expense,Premises Cleaning,26,ROACH CLEANING & MAINTENANCE SERVICES LTD,A0051553, 11/02/2016,HMR0268689,40,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Premises Related Expense,Premises Cleaning,26,ROACH CLEANING & MAINTENANCE SERVICES LTD,A0051553, 11/02/2016,HMR0268691,40,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Indirect Employee Expenses,Recruitment,12,LIBERATA UK LTD,A0051618, 25/02/2016,PER0269063,30,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Rents,23,LIBERATA UK LTD,A0051618, 11/02/2016,AAS0268726,1726.04,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Agency Costs,Liberata,53,LIBERATA UK LTD,A0051618, 11/02/2016,AAS0268729,2158,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Agency Costs,Liberata,53,LIBERATA UK LTD,A0051618, 11/02/2016,AAS0268728,10672.5,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Agency Costs,Liberata,53,LIBERATA UK LTD,A0051618, 11/02/2016,AAS0268728,33026.8,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Agency Costs,Liberata,53,LIBERATA UK LTD,A0051618, 11/02/2016,AAS0268728,24663.28,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Agency Costs,Liberata,53,LIBERATA UK LTD,A0051618, 11/02/2016,AAS0268728,86909.83,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Agency Costs,Liberata,53,LIBERATA UK LTD,A0051618, 11/02/2016,AAS0268728,50913.92,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Agency Costs,Liberata,53,LIBERATA UK LTD,A0051618, 25/02/2016,AAS0269072,478.26,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Agency Costs,Liberata,53,LIBERATA UK LTD,A0051618, 25/02/2016,AAS0269070,2155.26,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Agency Costs,Liberata,53,LIBERATA UK LTD,A0051618, 11/02/2016,AAS0268728,83004.65,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Agency Costs,Liberata,53,LIBERATA UK LTD,A0051618, 11/02/2016,AAS0268728,120132.8,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Capital Costs,Capital : Salaries,CD,LIBERATA UK LTD,A0051618, 25/02/2016,AAS0269071,2636.25,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Capital Costs,Capital : Payments,CD,LIBERATA UK LTD,A0051618, 11/02/2016,AAS0268725,4925,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Electricity,22,SOUTHERN ELECTRIC,A0051726, 11/02/2016,EST0268748,115.09,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Supplies and Services,Other Expenses,47,FIDELITI LIMITED,A0052058, 11/02/2016,PER0268704,84.01,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,ALERT FIRE AND SECURITY LIMITED,A0052065, 04/02/2016,PCO0268571,53.2,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,C B PRICE & SONS BUILDERS,A0052117, 25/02/2016,PCO0268999,550,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,C B PRICE & SONS BUILDERS,A0052117, 18/02/2016,PCO0268803,650,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,MANDALEIGH PLANTS LTD,A0052982, 18/02/2016,PCO0268863,188.75,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,NEIL WILLSON,A0053659, 11/02/2016,PCO0268685,185,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,NEIL WILLSON,A0053659, 18/02/2016,PCO0268865,48,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Daywork,21,NEIL WILLSON,A0053659, 18/02/2016,PCO0268864,225,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,9,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,9,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,10,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,13.35,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,11.55,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,13.5,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,9.35,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,11.5,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,21.03,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,9.41,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,9,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,9.18,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,9,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Mobile Phones,45,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,10.69,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Capital Financing Costs,Lease costs:Computer (Orchard),82,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,7,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Capital Financing Costs,Lease costs:Computer (Orchard),82,O2 (UK) LIMITED,A0053660, 18/02/2016,AAS0268933,7,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268900,-207.06,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268892,-100,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268893,-100,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268894,-100,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268897,-100,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268899,-100,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268897,-95.64,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268899,-79.3,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268892,-39.81,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268894,-38.53,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268900,16.12,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268892,84.85,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268892,213.99,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268897,263.06,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 11/02/2016,HMR0268695,297.37,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268893,304.62,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268894,374.31,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268897,577.92,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268899,869.25,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,NPOWER,A0054545, 18/02/2016,HMR0268900,1130.63,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,"Monitoring, Console etc",45,HOUSING PENDLE LIMITED,A0055008, 18/02/2016,HED0268922,24.37,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Indirect Employee Expenses,Training,12,BEN SHAW TRAINING LIMITED,A0055722, 18/02/2016,PCO0268800,115,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Indirect Employee Expenses,Training,12,BEN SHAW TRAINING LIMITED,A0055722, 18/02/2016,PCO0268800,275,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,ARTHUR PADGETT LTD,A0056366, 25/02/2016,HMR0269013,4560,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Electricity,22,BRITISH GAS BUSINESS,A0057202, 11/02/2016,AAS0268709,29.83,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Other Expenses,47,FITZPATRICK WOOLMER DESIGN & PUBLISHING LTD,A0057577, 04/02/2016,HED0268594,445,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Other Expenses,47,P LEE WASTE OIL LIMTED,A0058412, 04/02/2016,OPS0268505,820,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Agency Costs,Lancashire C C,51,NSL LIMITED,A0059256, 04/02/2016,HED0268622,1406.25,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Seminars etc All Costs,46,JOHNSTON PUBLISHING LIMITED,A0059640, 25/02/2016,REG0269102,20,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Seminars etc All Costs,46,JOHNSTON PUBLISHING LIMITED,A0059640, 25/02/2016,REG0269103,305,N,N/A,N,N/A
+Pendle Borough Council,Directorate,Supplies and Services,Adverts : Statutory Notice,47,JOHNSTON PUBLISHING LIMITED,A0059640, 11/02/2016,MAN0268702,235.98,N,N/A,N,N/A
+Pendle Borough Council,Directorate,Supplies and Services,Adverts : Statutory Notice,47,JOHNSTON PUBLISHING LIMITED,A0059640, 18/02/2016,MAN0268837,314.64,N,N/A,N,N/A
+Pendle Borough Council,Directorate,Supplies and Services,Other Expenses,47,JOHNSTON PUBLISHING LIMITED,A0059640, 11/02/2016,MAN0268700,78.66,N,N/A,N,N/A
+Pendle Borough Council,Directorate,Supplies and Services,Other Expenses,47,JOHNSTON PUBLISHING LIMITED,A0059640, 11/02/2016,MAN0268701,78.66,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,DEANFIELD TEST CENTRE LIMITED,A0059749, 25/02/2016,PCO0268994,40,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,DEANFIELD TEST CENTRE LIMITED,A0059749, 25/02/2016,PCO0268994,262.82,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,DEANFIELD TEST CENTRE LIMITED,A0059749, 25/02/2016,PCO0268995,40,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tprt : Repairs : General,31,DEANFIELD TEST CENTRE LIMITED,A0059749, 25/02/2016,PCO0268995,262.82,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Transport Related Expense,Tyres,32,DEANFIELD TEST CENTRE LIMITED,A0059749, 25/02/2016,PCO0268995,360,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Capital Costs,Capital : Payments,CD,EXCELSIOR ROTO MOULDING LIMITED,A0059849, 11/02/2016,HED0268698,110,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,MAXIGIENE ENVIRONMENTAL SERVICES LTD,A0060911, 18/02/2016,EST0268951,105,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,MAXIGIENE ENVIRONMENTAL SERVICES LTD,A0060911, 18/02/2016,EST0268942,325,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,MAXIGIENE ENVIRONMENTAL SERVICES LTD,A0060911, 18/02/2016,EST0268946,480,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,MAXIGIENE ENVIRONMENTAL SERVICES LTD,A0060911, 18/02/2016,EST0268945,560,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,MAXIGIENE ENVIRONMENTAL SERVICES LTD,A0060911, 18/02/2016,EST0268943,760,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,MAXIGIENE ENVIRONMENTAL SERVICES LTD,A0060911, 18/02/2016,EST0268953,2452.5,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,EFM Materials,40,PENDLE HIPPODROME THEATRE LTD,A0060913, 18/02/2016,HED0268941,308,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,C CHAPMAN,A0061688, 11/02/2016,HED0268628,35,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,C CHAPMAN,A0061688, 11/02/2016,HED0268696,180,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,C CHAPMAN,A0061688, 04/02/2016,HED0268583,65,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,C CHAPMAN,A0061688, 11/02/2016,HED0268650,150,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,C CHAPMAN,A0061688, 04/02/2016,HED0268583,45,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Other Expenses,47,LIBRA TEXTILES LTD,A0062627, 18/02/2016,HED0268928,4544.98,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Vehicle Licences,32,ARVAL LTD (ALLSTAR FUEL SERVICES),A0062668, 08/02/2016,AAS0268977,15,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Vehicle Licences,32,ARVAL LTD (ALLSTAR FUEL SERVICES),A0062668, 08/02/2016,AAS0268977,15,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Tprt : Annual Hire Charge,36,ARVAL LTD (ALLSTAR FUEL SERVICES),A0062668, 15/02/2016,AAS0268980,144.48,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Tprt : Annual Hire Charge,36,ARVAL LTD (ALLSTAR FUEL SERVICES),A0062668, 15/02/2016,AAS0268980,144.48,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Tprt : Annual Hire Charge,36,ARVAL LTD (ALLSTAR FUEL SERVICES),A0062668, 15/02/2016,AAS0268980,144.48,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Tprt : Annual Hire Charge,36,ARVAL LTD (ALLSTAR FUEL SERVICES),A0062668, 15/02/2016,AAS0268980,144.48,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Tprt : Annual Hire Charge,36,ARVAL LTD (ALLSTAR FUEL SERVICES),A0062668, 15/02/2016,AAS0268978,256.09,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Tprt : Annual Hire Charge,36,ARVAL LTD (ALLSTAR FUEL SERVICES),A0062668, 15/02/2016,AAS0268978,252.79,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Tprt : Annual Hire Charge,36,ARVAL LTD (ALLSTAR FUEL SERVICES),A0062668, 15/02/2016,AAS0268980,144.48,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BOUNCEBACK SAFETY SERVICES LTD,A0063002, 18/02/2016,PCO0268796,3000,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BOUNCEBACK SAFETY SERVICES LTD,A0063002, 18/02/2016,PCO0268799,3635,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BOUNCEBACK SAFETY SERVICES LTD,A0063002, 18/02/2016,PCO0268796,500,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,BOUNCEBACK SAFETY SERVICES LTD,A0063002, 18/02/2016,PCO0268799,500,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Daywork,21,BOUNCEBACK SAFETY SERVICES LTD,A0063002, 18/02/2016,PCO0268798,792,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Daywork,21,BOUNCEBACK SAFETY SERVICES LTD,A0063002, 25/02/2016,PCO0268998,1400,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Other Expenses,47,NORTH WEST TRADING COMPANY,A0063527, 04/02/2016,OPS0268516,275,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 11/02/2016,DAL0268730,1.8,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 04/02/2016,DAL0268577,6.16,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 11/02/2016,DAL0268730,1.81,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 04/02/2016,DAL0268577,0.35,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 11/02/2016,DAL0268730,0.98,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 25/02/2016,DAL0269106,109.32,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 04/02/2016,DAL0268577,85.23,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 11/02/2016,DAL0268730,86.48,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 04/02/2016,DAL0268577,3.25,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 11/02/2016,DAL0268730,5.08,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 11/02/2016,DAL0268730,5.8,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 04/02/2016,DAL0268577,23.85,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 11/02/2016,DAL0268730,2.53,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 11/02/2016,DAL0268730,6.15,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 04/02/2016,DAL0268577,14.82,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 04/02/2016,DAL0268577,6.55,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Postages,45,WHISTL NORTH LIMITED,A0064458, 11/02/2016,DAL0268730,12.41,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Indirect Employee Expenses,Staff Refreshments,12,P T ALLISON,A0064694, 04/02/2016,DAL0268579,18,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Indirect Employee Expenses,Staff Refreshments,12,P T ALLISON,A0064694, 04/02/2016,DAL0268579,10,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Hospitality,46,P T ALLISON,A0064694, 04/02/2016,DAL0268579,20.4,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Other Expenses,47,P T ALLISON,A0064694, 04/02/2016,DAL0268579,6,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Publicity & advertisement,47,LANCASHIRE BROADCASTING CO LTD,A0064934, 04/02/2016,AAS0268605,468.75,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Publicity & advertisement,47,LANCASHIRE BROADCASTING CO LTD,A0064934, 04/02/2016,AAS0268605,468.75,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Meeting Expenses,46,THE RAINHALL CENTRE,A0066193, 04/02/2016,DAL0268580,55,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Transport Related Expense,Car Allows : Offs : Lease Exps,38,LEX AUTOLEASE LIMITED,A0066530, 18/02/2016,PER0268906,2317.61,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Transport Related Expense,Car Allows : Offs : Lease Exps,38,LEX AUTOLEASE LIMITED,A0066530, 18/02/2016,PER0268906,2465.46,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,SPEAKMAN CONTRACTORS LTD,A0066581, 18/02/2016,EST0268935,61.17,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,SPEAKMAN CONTRACTORS LTD,A0066581, 18/02/2016,EST0268935,265.07,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,SPEAKMAN CONTRACTORS LTD,A0066581, 18/02/2016,EST0268935,45.88,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,SPEAKMAN CONTRACTORS LTD,A0066581, 18/02/2016,EST0268935,40.78,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,SPEAKMAN CONTRACTORS LTD,A0066581, 18/02/2016,EST0268935,40.78,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,SPEAKMAN CONTRACTORS LTD,A0066581, 18/02/2016,EST0268935,1495.25,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,SPEAKMAN CONTRACTORS LTD,A0066581, 18/02/2016,EST0268935,49.23,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,SPEAKMAN CONTRACTORS LTD,A0066581, 18/02/2016,EST0268935,267.91,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Transport Related Expense,Tprt : Repairs : General,31,SPEAKMAN CONTRACTORS LTD,A0066581, 18/02/2016,EST0268935,147.08,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Supplies and Services,Other Expenses,47,SPEAKMAN CONTRACTORS LTD,A0066581, 18/02/2016,EST0268935,20.39,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,SPEAKMAN CONTRACTORS LTD,A0066581, 18/02/2016,EST0268935,257.6,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Capital Costs,Capital : Payments,CD,SPEAKMAN CONTRACTORS LTD,A0066581, 18/02/2016,EST0268935,399.8,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Capital Costs,Public Realm,CD,SPEAKMAN CONTRACTORS LTD,A0066581, 04/02/2016,AAS0268604,1629.18,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Indirect Employee Expenses,Emp : Medical Expenses,12,PEOPLE ASSET MANAGEMENT LIMITED,A0067613, 04/02/2016,PER0268585,180,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Capital Costs,Capital : Payments,CD,HM REVENUE & CUSTOMS,A0067741, 22/02/2016,AAS0269147,9750,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,PROBRUSH T/A NORTHERN MUNICIPAL SPARES LTD,A0068263, 04/02/2016,OPS0268567,122.22,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,PROBRUSH T/A NORTHERN MUNICIPAL SPARES LTD,A0068263, 04/02/2016,OPS0268567,117.88,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,PROBRUSH T/A NORTHERN MUNICIPAL SPARES LTD,A0068263, 04/02/2016,OPS0268567,117.88,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,PROBRUSH T/A NORTHERN MUNICIPAL SPARES LTD,A0068263, 04/02/2016,OPS0268567,117.88,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,PROBRUSH T/A NORTHERN MUNICIPAL SPARES LTD,A0068263, 04/02/2016,OPS0268567,117.88,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,PROBRUSH T/A NORTHERN MUNICIPAL SPARES LTD,A0068263, 04/02/2016,OPS0268567,117.91,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,LCC Levy (Admins Costs),44,CHIPSIDE LTD,A0068587, 25/02/2016,HED0269049,219.64,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,LCC Levy (Admins Costs),44,CHIPSIDE LTD,A0068587, 25/02/2016,HED0269050,271.66,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Other Expenses,47,CHIPSIDE LTD,A0068587, 25/02/2016,HED0269046,15.92,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Other Expenses,47,CHIPSIDE LTD,A0068587, 25/02/2016,HED0269047,25.87,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Other Expenses,47,CHIPSIDE LTD,A0068587, 25/02/2016,HED0269048,110.25,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,Protective Clothing,42,REDACTED - PERSONAL DATA,A0069093, 11/02/2016,ENV0268765,40,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Electricity,22,BRITISH GAS BUSINESS,A0069538, 26/02/2016,AAS0269159,88.1,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Electricity,22,BRITISH GAS BUSINESS,A0069538, 26/02/2016,AAS0269158,51.44,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269172,32.37,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269171,47.27,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269166,24,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269164,266.52,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269167,184.91,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269165,286.27,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269175,247.76,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269169,125.08,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269173,132.91,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269170,71.69,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269174,41.01,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269177,294.99,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Gas,22,CORONA ENERGY,A0069539, 25/02/2016,AAS0269179,197.61,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Subscriptions & Donations,47,DISTRICT COUNCILS NETWORK,A0069643, 04/02/2016,AAS0268593,-760,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Subscriptions & Donations,47,DISTRICT COUNCILS NETWORK,A0069643, 04/02/2016,AAS0268593,760,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Sub-Contractors,40,QHS SOLUTIONS LIMITED,A0071912, 01/02/2016,AAS0268975,666.67,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Seminars etc All Costs,46,QHS SOLUTIONS LIMITED,A0071912, 25/02/2016,OPS0269014,700,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Ren Grant : 1996 Act,CH,ONE STOP REFURBS LIMITED,A0072395, 11/02/2016,HMR0268773,4423.2,N,N/A,N,737.2
+Pendle Borough Council,Environmental Health Services,Supplies and Services,Tests & Inspection Fees,44,UNITED UTILITIES WATER PLC,A0072400, 04/02/2016,ENV0268618,39.1,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Consultants Fees,44,GLOBAL PAYMENTS,A0072461, 16/02/2016,AAS0269201,7,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Consultants Fees,44,GLOBAL PAYMENTS,A0072461, 16/02/2016,AAS0269201,892.83,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Credit card and online charges,44,GLOBAL PAYMENTS,A0072461, 16/02/2016,AAS0269202,7,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Credit card and online charges,44,GLOBAL PAYMENTS,A0072461, 16/02/2016,AAS0269203,7,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Credit card and online charges,44,GLOBAL PAYMENTS,A0072461, 16/02/2016,AAS0269202,829.04,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Credit card and online charges,44,GLOBAL PAYMENTS,A0072461, 16/02/2016,AAS0269203,1392.06,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Support Services,Bank Charges,72,LLOYDS BANKING GROUP,A0072462, 29/02/2016,AAS0269254,0.18,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Support Services,Bank Charges,72,LLOYDS BANKING GROUP,A0072462, 23/02/2016,AAS0269205,25,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Support Services,Bank Charges,72,LLOYDS BANKING GROUP,A0072462, 23/02/2016,AAS0269205,45,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Support Services,Bank Charges,72,LLOYDS BANKING GROUP,A0072462, 16/02/2016,AAS0268981,546.88,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,OCS GROUP UK LIMITED,A0072816, 18/02/2016,OPS0268811,376.89,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,OCS GROUP UK LIMITED,A0072816, 04/02/2016,OPS0268570,418,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,OCS GROUP UK LIMITED,A0072816, 04/02/2016,OPS0268569,462.89,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,OCS GROUP UK LIMITED,A0072816, 18/02/2016,OPS0268808,1.99,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,OCS GROUP UK LIMITED,A0072816, 18/02/2016,OPS0268807,4,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,OCS GROUP UK LIMITED,A0072816, 18/02/2016,OPS0268808,6,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,OCS GROUP UK LIMITED,A0072816, 18/02/2016,OPS0268809,6,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,OCS GROUP UK LIMITED,A0072816, 18/02/2016,OPS0268810,8,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,OCS GROUP UK LIMITED,A0072816, 18/02/2016,OPS0268811,40,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,TCS (WASTE) LIMITED,A0072822, 18/02/2016,OPS0268794,70,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,TCS (WASTE) LIMITED,A0072822, 18/02/2016,OPS0268794,70,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Sub-Contractors,40,TCS (WASTE) LIMITED,A0072822, 18/02/2016,OPS0268793,280,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,TCS (WASTE) LIMITED,A0072822, 25/02/2016,REG0269006,815.22,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Indirect Employee Expenses,Recruitment,12,DBS,A0072958, 16/02/2016,AAS0268979,88,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Other Income : Non-VATable,93,DBS,A0072958, 16/02/2016,AAS0268979,572,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Newspapers & Periodicals,43,MARTINS,A0074550, 04/02/2016,HED0268584,19.55,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Costs,Refuse Collection DLO,50,C & C PROCESS SERVERS,A0074728, 11/02/2016,OPS0268666,65,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Expenditure : Materials,0,FLEET (LINE MARKERS) LIMITED,A0075352, 11/02/2016,PCO0268518,310.2,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Supplies and Services,Expenditure : Materials,0,FLEET (LINE MARKERS) LIMITED,A0075352, 11/02/2016,PCO0268518,1322.1,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,HALL VARLEY HOMES LIMITED,A0076322, 04/02/2016,HED0268616,415.83,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Indirect Employee Expenses,Emp : Medical Expenses,12,REDACTED - PERSONAL DATA,A0076801, 25/02/2016,PER0269065,415,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Indirect Employee Expenses,Emp : Medical Expenses,12,REDACTED - PERSONAL DATA,A0076812, 11/02/2016,PER0268707,415,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Subscriptions & Donations,47,VODAFONE LIMITED,A0076999, 04/02/2016,AAS0268590,2486.54,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Other Expenses,47,RIGHTMOVE.CO.UK,A0077496, 01/02/2016,AAS0268976,292.4,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Capital Costs,Capital : Payments,CD,RIGHTMOVE.CO.UK,A0077496, 01/02/2016,AAS0268976,567.6,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,EFM Materials,40,HERITAGE CARDS & SOUVENIRS LTD,A0077997, 18/02/2016,HED0268908,102.4,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,GLASDON UK LIMITED,A0078667, 11/02/2016,PCO0268647,130.74,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Passenger Shelter Cleaning,26,JANDON CLEANING SERVICES,A0079028, 04/02/2016,HED0268597,140,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Passenger Shelter Cleaning,26,JANDON CLEANING SERVICES,A0079028, 04/02/2016,HED0268597,100,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Passenger Shelter Cleaning,26,JANDON CLEANING SERVICES,A0079028, 04/02/2016,HED0268597,160,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,EFM : Other Equipment,40,KINGS WASHING MACHINE RENTALS,A0079878, 18/02/2016,HED0268952,55,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Capital Costs,Capital : Payments,CD,HILL DICKINSON LLP,A0080232, 16/02/2016,AAS0269011,325000,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Miscellaneous : Other,47,TH MOTORS  - REDCAP GARAGE,A0080451, 04/02/2016,REG0268374,2046.2,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Capital Costs,Capital : Payments,CD,GOLDSHAWBOOTH PARISH COUNCIL,A0080533, 04/02/2016,HED0268510,64.32,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Supplies and Services,Other Expenses,47,QUALITY HOMES (NW) LIMITED,A0081253, 04/02/2016,HMR0268602,165,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Printing & Stationery,43,HENRY CHRISTOPHER COMMERCIAL PRINTERS LTD,A0081256, 25/02/2016,DAL0269119,196,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Annual Hire Charge,36,BLACK HORSE CONTRACT HIRE - FLEET 564391,A0081350, 18/02/2016,OPS0268905,339.38,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Indirect Employee Expenses,Emp : Medical Expenses,12,REDACTED - PERSONAL DATA,A0081761, 18/02/2016,PER0268909,415,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Other Expenses,47,MANCHESTER SAFETY SERVICES LTD,A0082149, 11/02/2016,OPS0268667,100,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Capital Costs,Capital : Payments,CD,WEBASPX LIMITED,A0082416, 11/02/2016,OPS0268656,5065,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Court Fees,44,HM COURTS & TRIBUNALS SERVICE,A0083319, 16/02/2016,AAS0269030,170,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Supplies and Services,Other Expenses,47,FOOD SAFETY DIRECT LIMITED,A0083616, 18/02/2016,OPS0268789,50,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Allpay,44,ALLPAY LIMITED,A0084372, 11/02/2016,AAS0268718,10,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Allpay,44,ALLPAY LIMITED,A0084372, 11/02/2016,AAS0268720,14.3,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Allpay,44,ALLPAY LIMITED,A0084372, 11/02/2016,AAS0268716,21.62,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Allpay,44,ALLPAY LIMITED,A0084372, 11/02/2016,AAS0268717,30.65,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Allpay,44,ALLPAY LIMITED,A0084372, 11/02/2016,AAS0268722,1176.7,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Other Expenses,47,REDACTED - PERSONAL DATA,A0084453, 25/02/2016,DAL0269096,80,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Bldgs : R & M : Abnormal,20,ELITE PLUMBING,A0084584, 18/02/2016,HED0268961,75,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Ren Grant : 1996 Act,CH,ELITE PLUMBING,A0084584, 25/02/2016,HMR0269040,5565,N,N/A,N,927.5
+Pendle Borough Council,Environmental Health Services,Premises Related Expense,Bldgs : R & M : Abnormal,20,RODNEY CAPSTICK BUILDING MAINTENANCE,A0085112, 18/02/2016,ENV0268967,966,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Premises Related Expense,Bldgs : R & M : Abnormal,20,RODNEY CAPSTICK BUILDING MAINTENANCE,A0085112, 11/02/2016,ENV0268762,78,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Premises Related Expense,Bldgs : R & M : Abnormal,20,RODNEY CAPSTICK BUILDING MAINTENANCE,A0085112, 18/02/2016,ENV0268968,78,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,Consultants Fees,44,RODNEY CAPSTICK BUILDING MAINTENANCE,A0085112, 25/02/2016,ENV0269107,121,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Grants/Contributions,47,RAZAMATAZ.COM LIMITED,A0085293, 11/02/2016,REG0268630,2691.82,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,MOVING PEOPLE BUS & COACHES SERVICES,A0085562, 11/02/2016,REG4005014,-45.8,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,MOVING PEOPLE BUS & COACHES SERVICES,A0085562, 11/02/2016,REG0268711,458,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,FRESHWATER COOLERS PLC,A0085846, 25/02/2016,EST0269075,250.64,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Bldgs : R & M : Day To Day,20,FRESHWATER COOLERS PLC,A0085846, 25/02/2016,EST0269075,751.92,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Supplies and Services,Seminars etc All Costs,46,JOANNE LEVER,A0088689, 11/02/2016,PER0268706,4200,N,N/A,N,N/A
+Pendle Borough Council,Revenues Services,Supplies and Services,Consultants Fees,44,JBW GROUP LTD,A0088708, 11/02/2016,TRE0268732,55,N,N/A,N,N/A
+Pendle Borough Council,Revenues Services,Supplies and Services,Consultants Fees,44,JBW GROUP LTD,A0088708, 18/02/2016,TRE0268925,220,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Indirect Employee Expenses,Emp : Medical Expenses,12,HEALTH BUSINESS LIMITED,A0088933, 25/02/2016,PER0269064,145,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Supplies and Services,Consultants Fees,44,AURORA ACCOUNTING SERVICES,A0089134, 11/02/2016,AAS0268708,1560,N,N/A,N,N/A
+Pendle Borough Council,Environmental Health Services,Supplies and Services,Other Expenses,47,SOLOPROTECT LIMITED,A0089719, 04/02/2016,ENV0268615,42.52,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 25/02/2016,OPS0268992,6.44,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 18/02/2016,OPS0268902,1228.64,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 11/02/2016,OPS0268653,1873.85,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 25/02/2016,OPS0269044,2275.72,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 11/02/2016,OPS0268655,2321.69,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 18/02/2016,OPS0268901,2753.19,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 18/02/2016,OPS0268901,1042.46,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 11/02/2016,OPS0268653,1285.21,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 25/02/2016,OPS0269044,1620.56,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 11/02/2016,OPS0268655,1778.88,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 18/02/2016,OPS0268902,2011.06,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 11/02/2016,OPS0268653,437.05,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 18/02/2016,OPS0268902,564.22,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 18/02/2016,OPS0268901,717.7,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 11/02/2016,OPS0268655,812.84,N,N/A,N,N/A
+Pendle Borough Council,Operational Services,Agency Staff,Emp : Agency Wages,10,RAPID RECRUIT LIMITED,A0090080, 25/02/2016,OPS0269044,1114.29,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Indirect Employee Expenses,Training,12,PLAYSAFETY LIMITED,A0090087, 25/02/2016,PCO0269019,197,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Indirect Employee Expenses,Training,12,PLAYSAFETY LIMITED,A0090087, 25/02/2016,PCO0269019,500,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Capital : Payments,CD,GREENWOOD PLUMBERS,A0090123, 18/02/2016,HMR0268962,1523.2,N,N/A,N,N/A
+Pendle Borough Council,Property Services,Premises Related Expense,Gas,22,NPOWER,A0090142, 25/02/2016,EST0269084,1137.9,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,MARTIN LEE,A0090177, 11/02/2016,PCO0268681,106.3,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,MARTIN LEE,A0090177, 11/02/2016,PCO0268681,250,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,MARTIN LEE,A0090177, 11/02/2016,PCO0268681,99.8,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,MARTIN LEE,A0090177, 11/02/2016,PCO0268681,250,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,MARTIN LEE,A0090177, 11/02/2016,PCO0268681,250,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,MARTIN LEE,A0090177, 11/02/2016,PCO0268681,250,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,MARTIN LEE,A0090177, 11/02/2016,PCO0268681,360,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,16.95,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,42.57,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,59.61,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,72.13,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,72.77,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,102.54,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,109.11,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,171.73,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,193.83,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,120.99,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,248.47,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,255.22,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,270.81,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,124.22,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,161.45,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,193.56,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,292.2,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,127.27,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,167.48,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,226.06,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,248.97,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,209.31,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,216.46,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,219.44,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,238.29,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,126.92,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,183.31,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,190.98,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,209.91,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,15.86,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,30.91,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,36.64,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,60.83,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,66.46,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,68.03,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,80.93,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,94.43,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,197.55,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,44.41,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,47.24,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,50.01,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,62.11,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,99.96,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,156.29,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,196.96,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,222.71,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,81.16,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,84.47,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,127.05,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,178.3,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,177.45,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,183.24,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,201.6,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,245.86,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,138.35,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,173.44,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,196.85,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,200.96,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,138.73,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,179.96,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,183.68,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,204.52,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,121.78,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,171.45,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,205.91,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,247.55,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,51.86,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,101.21,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,104.01,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,145.66,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,35.09,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,78.24,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,90.25,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,116.74,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,33.12,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,77.48,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,77.71,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,28.01,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,35.72,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,55.94,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,76.04,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,70.56,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,74.25,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,94,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,110.34,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,105.98,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,111.21,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,136.41,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,152.07,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,108.72,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,127.22,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,132.69,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,132.94,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,80.36,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,114.54,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,115.96,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,139.82,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,122.4,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,129.66,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,133.56,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,137.44,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,74.81,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,117.25,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,124.58,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,56.83,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,33.98,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,40.77,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,51.77,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,117.86,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,45.34,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,36.99,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,46.81,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,52.99,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,96.44,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,48.35,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,49.79,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,59.88,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,60.42,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,39.46,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,39.68,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,54.23,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,60.88,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,34.05,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,37.54,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,41.06,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,39.49,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,39.65,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,44.9,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,51.87,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,57.68,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,113.77,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,32.52,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,66.04,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,76.18,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,103.05,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,32.11,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,43.36,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,44.64,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,81.31,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,30.06,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,74.53,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,76.4,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,39.67,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,38.74,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,32.64,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,37.38,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,49.31,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,42.77,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,34.05,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,42.87,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,34.84,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,62.44,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,43.88,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,46.71,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,47.17,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,38.14,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,45.18,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,41.99,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,45.14,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,45.26,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,47.59,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,44.67,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,45.64,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,47.81,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,50.19,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,40,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,49.21,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,56.66,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,57.99,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,20.39,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,22.56,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,25.03,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,27.51,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 23/02/2016,AAS0269209,32.44,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 09/02/2016,AAS0268983,35.6,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 02/02/2016,AAS0268982,60.85,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Transport Related Expense,Diesel Oil,32,FUELMATE LTD,A0090265, 16/02/2016,AAS0269029,65.9,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Grants/Contributions,47,DENWA LIMITED,A0090293, 04/02/2016,REG0268588,650,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Grants/Contributions,47,DENWA LIMITED,A0090293, 11/02/2016,REG0268770,650,N,N/A,N,N/A
+Pendle Borough Council,Revenues Services,Supplies and Services,Consultants Fees,44,HM COURTS & TRIBUNALS SERVICE,A0090353, 11/02/2016,TRE0268733,84,N,N/A,N,N/A
+Pendle Borough Council,Revenues Services,Supplies and Services,Consultants Fees,44,HM COURTS & TRIBUNALS SERVICE,A0090353, 25/02/2016,TRE0269061,1470,N,N/A,N,N/A
+Pendle Borough Council,Revenues Services,Supplies and Services,Consultants Fees,44,HM COURTS & TRIBUNALS SERVICE,A0090353, 11/02/2016,TRE0268733,2295,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,KAYS TRAFFIC MANAGEMENT SYSTEMS LTD,A0090397, 11/02/2016,HED4005013,-337.5,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,KAYS TRAFFIC MANAGEMENT SYSTEMS LTD,A0090397, 11/02/2016,HED0268629,900,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,STILLWATER MANAGEMENT,A0090448, 04/02/2016,PCO0268494,420,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,STILLWATER MANAGEMENT,A0090448, 04/02/2016,PCO0268494,490,N,N/A,N,N/A
+Pendle Borough Council,Parks & Recreation Services,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,STILLWATER MANAGEMENT,A0090448, 04/02/2016,PCO0268494,660,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,GARDNERS BOOKS LIMITED,A0090475, 25/02/2016,REG4005016,-32.44,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,GARDNERS BOOKS LIMITED,A0090475, 25/02/2016,REG0269058,3.5,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,GARDNERS BOOKS LIMITED,A0090475, 25/02/2016,REG0269059,5,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,GARDNERS BOOKS LIMITED,A0090475, 11/02/2016,REG0268768,18.13,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,GARDNERS BOOKS LIMITED,A0090475, 11/02/2016,REG0268767,69.31,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,GARDNERS BOOKS LIMITED,A0090475, 25/02/2016,REG0269057,132.76,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Electricity,22,HAVEN POWER LIMITED,A0090490, 11/02/2016,AAS0268713,563.6,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Premises Related Expense,Electricity,22,DUAL ENERGY DIRECT LIMITED,A0090544, 11/02/2016,AAS0268786,20.87,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,Grants/Contributions,47,REDACTED - PERSONAL DATA,A0090605, 25/02/2016,REG0269101,1223.75,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Capital Costs,Capital : Payments,CD,REDACTED - PERSONAL DATA,A0090605, 04/02/2016,REG0268612,1544.62,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,EFM Materials,40,REDACTED - PERSONAL DATA,A0090612, 18/02/2016,HED0268907,60,N,N/A,N,N/A
+Pendle Borough Council,Economic Development & Tourism,Supplies and Services,EFM Materials,40,REDACTED - PERSONAL DATA,A0090612, 04/02/2016,REG0268614,72,N,N/A,N,N/A
+Pendle Borough Council,Human Resources,Indirect Employee Expenses,Long Service Awards,12,REDACTED - PERSONAL DATA,A0090618, 04/02/2016,PER0268587,415,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Premises Related Expense,Grounds : R & M : Day to Day : Routine,21,EWR SKIPS LIMITED,A0090621, 04/02/2016,HED0268624,400,N,N/A,N,N/A
+Pendle Borough Council,Chief Executives Policy Unit,Supplies and Services,Other Expenses,47,BOOTHMAN PARK EST LIMITED,A0090622, 04/02/2016,COR0268511,250,N,N/A,N,N/A
+Pendle Borough Council,Planning & Building Control,Supplies and Services,Planning Appeals,44,AECOM INFRASTRUCTURE & ENVIRONMENT UK LTD,A0090623, 11/02/2016,PBC0268631,1369.63,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090630, 02/02/2016,AAS0268641,500,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090631, 04/02/2016,AAS0268642,500,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090632, 04/02/2016,AAS0268643,500,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090633, 04/02/2016,AAS0268644,500,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090634, 04/02/2016,AAS0268645,500,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090635, 04/02/2016,AAS0268646,500,N,N/A,N,N/A
+Pendle Borough Council,Housing Regeneration Services,Capital Costs,Ren Grant : 1996 Act,CH,KOHLER MIRA LIMITED,A0090637, 11/02/2016,HMR0268769,76,N,N/A,N,12.67
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,RODNEY BOAST,A0090642, 18/02/2016,OPS0268791,39.98,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090645, 08/02/2016,AAS0268831,500,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090646, 10/02/2016,AAS0268833,500,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090647, 10/02/2016,AAS0268834,500,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090648, 10/02/2016,AAS0268835,500,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Other Expenses,47,REDACTED - PERSONAL DATA,A0090649, 18/02/2016,DAL0268826,300,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Grants/Contributions,47,GRASSROOTS WHOLESALE FOODS LTD,A0090650, 18/02/2016,HED0268944,650,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Grants/Contributions,47,GRASSROOTS WHOLESALE FOODS LTD,A0090650, 18/02/2016,HED0268947,650,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Supplies and Services,Grants/Contributions,47,GRASSROOTS WHOLESALE FOODS LTD,A0090650, 18/02/2016,HED0268949,650,N,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Capital Costs,Capital : Payments,CD,REDACTED - PERSONAL DATA,A0090652, 18/02/2016,DAL0268970,1350,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Capital Costs,Ren Grant : 1996 Act,CH,REDACTED - PERSONAL DATA,A0090653, 18/02/2016,HED0268964,210,N,N/A,N,35
+Pendle Borough Council,Operational Services,Transport Related Expense,Tprt : Repairs : General,31,BROWN CONSTRUCTION,A0090655, 25/02/2016,OPS0269043,220,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,Capital Costs,Capital : Payments,CD,LAWSURE INSURANCE,A0090657, 15/02/2016,AAS0269008,177.94,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090658, 15/02/2016,AAS0269021,500,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090659, 17/02/2016,AAS0269022,500,N,N/A,N,N/A
+Pendle Borough Council,Financial Services,,Paid in the Year,PD,REDACTED - PERSONAL DATA,A0090660, 17/02/2016,AAS0269023,500,N,N/A,N,N/A
+Pendle Borough Council,Engineering & Special Projects,Capital Costs,Capital : Payments,CD,WATERSIDE NEIGHBOURHOOD ACTION GROUP,A0090662, 25/02/2016,HED0269095,3750,Y,N/A,N,N/A
+Pendle Borough Council,Democratic & Legal Services,Supplies and Services,Seminars etc All Costs,46,ASSOCIATION OF DEMOCRATIC SERVICES OFFICERS,A0090663, 25/02/2016,DAL0269111,85,N,N/A,N,N/A

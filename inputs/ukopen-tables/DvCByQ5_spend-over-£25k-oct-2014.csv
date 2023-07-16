@@ -1,0 +1,48 @@
+DEPARTMENT,ENTITY,DATE PAID,EXPENSE TYPE,EXPENSE AREA,SUPPLIER NAME,TRANSACTION NUMBER,AMOUNT
+Department of Health,Whittington NHS Trust,03/10/2014,Legal Fees,Hr Operations,Bevan Brittan Llp,680572,33597.65
+Department of Health,Whittington NHS Trust,03/10/2014,Legal Fees,Hr Operations,Bevan Brittan Llp,680742,33597.65
+Department of Health,Whittington NHS Trust,03/10/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,680600,24658.91
+Department of Health,Whittington NHS Trust,03/10/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,680602,24566.94
+Department of Health,Whittington NHS Trust,03/10/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,680602,117.44
+Department of Health,Whittington NHS Trust,03/10/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,680598,26413.33
+Department of Health,Whittington NHS Trust,03/10/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,680598,125.22
+Department of Health,Whittington NHS Trust,03/10/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,680599,26936.45
+Department of Health,Whittington NHS Trust,03/10/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,680599,-1.72
+Department of Health,Whittington NHS Trust,03/10/2014,Teaching/Training Expenditure,Paediatric Service,Fischer Associates,679859,40000
+Department of Health,Whittington NHS Trust,03/10/2014,Sterile Services,Sterile Services,Ih Sterile Services Ltd (Hcl Med Tech),678239,45743.11
+Department of Health,Whittington NHS Trust,03/10/2014,Ambulance Contract,Transport,Medical Services Ltd,679300,58252
+Department of Health,Whittington NHS Trust,03/10/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,674877,40691.99
+Department of Health,Whittington NHS Trust,03/10/2014,Hardware Maintenance,Technical Services,Pcti Solutions Ltd,674441,40000
+Department of Health,Whittington NHS Trust,03/10/2014,Equipment Maintenance,Wheelchair Services,Tann Autos,681128,37974.75
+Department of Health,Whittington NHS Trust,09/10/2014,Hardware Maintenance,Finance Director,Advanced Business Solutions,682934,28102.8
+Department of Health,Whittington NHS Trust,09/10/2014,Medical Equipment,Capital,Bruker Uk Ltd,678737,70350
+Department of Health,Whittington NHS Trust,09/10/2014,Hardware Maintenance,Ict Department,Bt Engage It,678657,59836.99
+Department of Health,Whittington NHS Trust,09/10/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,680604,26429.21
+Department of Health,Whittington NHS Trust,09/10/2014,Electricity,Environment,Edf Energy,683199,91029.4
+Department of Health,Whittington NHS Trust,09/10/2014,Electricity,Environment,Edf Energy,683199,2463.43
+Department of Health,Whittington NHS Trust,09/10/2014,Electricity,Environment,Edf Energy,683199,64.05
+Department of Health,Whittington NHS Trust,09/10/2014,Teaching/Training Expenditure,Foundation Trust Expenditure,Membership Engagement Services,682056,25275
+Department of Health,Whittington NHS Trust,09/10/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,676293,61851.63
+Department of Health,Whittington NHS Trust,09/10/2014,Membership Subscriptions,Trust Secretariat,Ucl Partners,655105,50000
+Department of Health,Whittington NHS Trust,09/10/2014,Research & Development Exp,R&D Grant Funded Projects,University College London,680596,63152.5
+Department of Health,Whittington NHS Trust,15/10/2014,CNST Premium,Risk Management,Nhs Litigation Authority,Direct Debit,573143
+Department of Health,Whittington NHS Trust,15/10/2014,Insurance,Finance Director,Nhs Litigation Authority,Direct Debit,22647.8
+Department of Health,Whittington NHS Trust,16/10/2014,Equipment Maintenance,Bed Hire Management,Arjo Huntleigh Int Ltd,684026,84674
+Department of Health,Whittington NHS Trust,16/10/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,680605,27994.17
+Department of Health,Whittington NHS Trust,16/10/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,680605,118.43
+Department of Health,Whittington NHS Trust,16/10/2014,Rents,Estates,Community Health Partnerships,611746,47731.72
+Department of Health,Whittington NHS Trust,16/10/2014,Rents,Estates,Community Health Partnerships,611752,47731.72
+Department of Health,Whittington NHS Trust,16/10/2014,Rents,Estates,Community Health Partnerships,639849,1582939
+Department of Health,Whittington NHS Trust,16/10/2014,Computer Hardware,Capital,Insight Direct (Uk) Ltd,678837,140062.36
+Department of Health,Whittington NHS Trust,16/10/2014,Ambulance Contract,Transport,Medical Services Ltd,679317,58252
+Department of Health,Whittington NHS Trust,16/10/2014,Blood Transfusion Service,Blood Recharge,Nhs Blood And Transplant,679019,100448.25
+Department of Health,Whittington NHS Trust,16/10/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,678386,47795.55
+Department of Health,Whittington NHS Trust,16/10/2014,Professional Services,Trust Secretariat,Sjmwp Consulting Ltd,685381,31383.78
+Department of Health,Whittington NHS Trust,16/10/2014,Stock-Pharmacy,Balance Sheet,The Royal Free London Nhs Ft,684285,70159.44
+Department of Health,Whittington NHS Trust,23/10/2014,Rents,Estates-St Ann'S Hospital,Barnet Enfield & Haringey Mental Health,676907,899051.9
+Department of Health,Whittington NHS Trust,23/10/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,681154,25360.55
+Department of Health,Whittington NHS Trust,23/10/2014,Childcare - Fideliti,Balance Sheet,Fideliti Ltd,687195,25224.5
+Department of Health,Whittington NHS Trust,23/10/2014,Childcare Vouchers,Childcare,Fideliti Ltd,687195,272.42
+Department of Health,Whittington NHS Trust,23/10/2014,Rates-General,Estates Management,London Borough Of Islington,685962,108934
+Department of Health,Whittington NHS Trust,23/10/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,679979,45880.04
+Department of Health,Whittington NHS Trust,23/10/2014,Main Works Contract,Capital,Storm Building Ltd,679895,208182.66

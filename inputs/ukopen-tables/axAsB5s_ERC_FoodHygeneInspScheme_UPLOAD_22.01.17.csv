@@ -1,0 +1,625 @@
+ID,Premises Name,AddressNoPostcode,ExtractedPostcode,businesstype,inspectiondate,status
+2016/2076/COMM,121st Scouthall & Off Grid Kids Breakfast Club,"121st Glasgow Scout Group21 Aidans BraeClarkstonEast Renfrewshire",G76 7EP,RESOTH,07-Oct-16,FHPASS
+2005/1141/COMM,3 In 1 Indian Cuisine,"3 In 158 Aurs DriveBarrheadEast Renfrewshire",G78 2LW,TAKE,31-Oct-16,IMPROV
+2003/0519/COMM,Abbeyfield Society,"Abbeyfield SocietyAbbeyfield House2 Orchard Park AvenueGiffnockEast Renfrewshire",G46 7BD,CARING,08-Dec-15,FHPASS
+2003/0722/COMM,Age Concern Dementia Project,"Cottage 3Eastwood ParkRouken Glen RoadGiffnockEast Renfrewshire",G46 7JS,RESOTH,25-Aug-15,FHPASS
+03/00162/COMM,Alan Beveridge,"Alan Beveridge Fishmonger144 Fenwick RoadGiffnockEast Renfrewshire",G46 6XW,RETAIL,28-Oct-15,FHPASS
+2004/1010/COMM,Albertslund Hall,"Albertslund Community Centre1 Westacres RoadNewton MearnsEast Renfrewshire",G77 6WW,RESOTH,13-Nov-14,FHPASS
+2014/1991/COMM,Aldi,"Aldi4 Greenlaw WayNewton MearnsEast Renfrewshire",G77 6EF,SUPER,21-Nov-16,FHPASS
+2011/1641/COMM,Aldomak,"Aldomak Ltd1 Burnfield AvenueGiffnockEast Renfrewshire",G46 7TT,MANUFA,02-Dec-15,EXEMPT
+2012/1708/COMM,Alison Gorman,"4 Nether Kirkton WyndNeilstonEast Renfrewshire",G78 3PY,CARING,10-Sep-15,SENPAS
+2012/1693/COMM,Alison Gray,"46 Hillend RoadClarkstonEast Renfrewshire",G76 7TQ,CARING,10-Jun-15,SENPAS
+2010/1521/COMM,Alison Hunter,"5 Elliot DriveGiffnockEast Renfrewshire",G46 7NT,RESOTH,18-Sep-15,SENPAS
+2014/1962/COMM,Alma's,"Alama's170 - 174 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1EY,TAKE,21-Jul-06,FHPASS
+03/00404/COMM,Alpino,"Alpinos63 - 65 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1RR,TAKE,05-Aug-16,FHPASS
+2016/2107/COMM,Amano Italiano,"Waterside Inn24 Glasgow RoadHurletEast Renfrewshire",G53 7TH,RESTUR,11-Nov-16,FHPASS
+03/00363/COMM,Andiamo,"Andiamo223 Fenwick RoadGiffnockEast Renfrewshire",G46 6JG,RESTUR,26-Jul-16,FHPASS
+2012/1709/COMM,Angela Hamilton,"15 Duncarnock CrescentNeilstonEast Renfrewshire",G78 3HH,CARING,22-Jan-15,SENPAS
+2015/2031/COMM,Angela Quigley,"42 Aursbridge CrescentBarrheadEast Renfrewshire",G78 2TJ,CARING,08-Sep-15,SENPAS
+2011/1642/COMM,Angela Watson,"35 Beechwood AvenueClarkstonEast Renfrewshire",G76 7UY,RESOTH,04-Nov-16,SENPAS
+2012/1703/COMM,Ann Corr,"89 Glen Doll RoadNeilstonEast Renfrewshire",G78 3QS,CARING,09-Nov-15,SENPAS
+2012/1731/COMM,Anna Henderson,"9 Ormonde DriveNetherleeEast Renfrewshire",G44 3SR,CARING,09-Feb-12,SENPAS
+03/00050/COMM,Armandos Pizza,"Armandos Pizza10 Merryvale PlaceGiffnockEast Renfrewshire",G46 6AT,TAKE,23-Jun-16,FHPASS
+03/00091/COMM,Arthurlie Bowling Club,"Athurlie Bowling Club60 Springhill RoadBarrheadEast Renfrewshire",G78 2SE,RESOTH,20-Oct-15,FHPASS
+2009/1421/COMM,Arthurlie Family Centre,"Roebank DriveBarrheadEast Renfrewshire",G78 2JA,RESOTH,29-Sep-16,FHPASS
+2003/0678/COMM,Arthurlie Inn,"Arthurlie Inn5 Main StreetBarrheadEast Renfrewshire",G78 1RE,PUBCLU,20-Oct-11,FHPASS
+2003/0811/COMM,Arthurlie Social Club,"Arthurlie Social ClubRalston RoadBarrheadEast Renfrewshire",G78 2QQ,RESOTH,25-Feb-16,IMPROV
+02/00015/COMM,Asda,"Asda1 The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,SUPER,05-Dec-16,FHPASS
+2014/1928/COMM,Asda,"AsdaSupermarket4 Church RoadBarrheadEast Renfrewshire",,SUPER,15-Nov-16,FHPASS
+2003/0887/COMM,Auchenback Resource Centre,"61 Aurs DriveBarrheadEast Renfrewshire",G78 2LW,RETAIL,12-May-15,FHPASS
+2015/2039/COMM,Audrey Donaghey,"Flat F7 Inglestone AvenueThornliebankEast Renfrewshire",G46 7ES,CARING,10-Nov-15,SENPAS
+2016/2130/COMM,Babbo,"Babbo2 Mains AvenueGiffnockEast Renfrewshire",G46 6QY,RESTUR,04-Nov-16,FHPASS
+2013/1810/COMM,Bake Me A Dream,"35 Graffham AvenueGiffnockEast Renfrewshire",G46 6EJ,RESOTH,10-Nov-15,PASPRI
+2015/2032/COMM,Bakes By Clare,"23 Braidpark DriveGiffnockEast Renfrewshire",G46 6NB,RESOTH,12-Nov-15,PASPRI
+2003/0474/COMM,Barrhead Bowling Club,"Barrhead Bowling ClubBowling Green80 Carlibar RoadBarrheadEast Renfrewshire",G78 1BD,RESOTH,04-Dec-14,FHPASS
+2008/1410/COMM,Barrhead Centre,"Barrhead Learning Disability Centre8 Carlibar RoadBarrheadEast Renfrewshire",G78 1AA,RESOTH,13-May-16,FHPASS
+2012/1727/COMM,Barrhead Evangelical Church Hall,"Barrhead Evangelical Church38 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1QU,RESOTH,07-Nov-14,FHPASS
+03/00010/FOOD,Barrhead High School,"Barrhead High School25 Aurs RoadBarrheadEast Renfrewshire",G78 2SJ,SCHCOL,09-Jun-15,FHPASS
+2006/1308/COMM,Barrhead HQ Canteen,"East Renfrewshire CouncilCouncil Offices211 Main StreetBarrheadEast Renfrewshire",G78 1SY,RESTUR,13-Mar-15,FHPASS
+2003/0477/COMM,Barrhead Methodist Church,"Barrhead Methodist Church134 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1EY,RESOTH,28-Jan-15,FHPASS
+03/00401/COMM,Barrhead Newsagents,"Barrhead Newsagents80 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1RP,RETAIL,05-Aug-15,FHPASS
+2005/1213/COMM,Barrhead NSPO,"Post Office77 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1RS,RETAIL,01-Jul-15,FHPASS
+03/00079/COMM,Belmont House,"Belmont House School17 Sandringham AvenueNewton MearnsEast Renfrewshire",G77 5DU,SCHCOL,08-Mar-16,FHPASS
+2014/1920/COMM,Bicket Butchers,"Bickets224 Main StreetBarrheadEast Renfrewshire",G78 1SN,RETOTH,27-Jul-16,FHPASS
+2016/2095/COMM,Bishopton Out Of School Care,"St Johns Primary School18 Commercial RoadBarrheadEast Renfrewshire",G78 1AJ,SCHCOL,26-Aug-16,FHPASS
+2016/2094/COMM,Bishopton Out Of School Care,"Auchenback Primary School4 Auburn DriveBarrheadEast Renfrewshire",G78 2EU,SCHCOL,26-Aug-16,FHPASS
+2016/2093/COMM,Bishopton Out Of School Care,"Thornliebank Primary School129 Main StreetThornliebankEast Renfrewshire",G46 7RW,SCHCOL,26-Aug-16,FHPASS
+2016/2096/COMM,Bishopton Out Of School Care,"St Marks Primary School30 Roebank DriveBarrheadEast Renfrewshire",G78 2JA,SCHCOL,26-Aug-16,FHPASS
+2012/1781/COMM,Bluestone,"25 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1QY,RESTUR,18-Feb-16,FHPASS
+03/00001/COMM,Bonnyton Golf Club,"Bonnyton Golf Club227 Kirktonmoor RoadEagleshamEast Renfrewshire",G76 0QB,RESOTH,19-Jan-16,FHPASS
+03/00062/COMM,Bonnyton House,"Bonnyton House9 Oliphant CrescentBusbyEast Renfrewshire",G76 8PU,CARING,01-Sep-16,FHPASS
+2003/0783/COMM,Boots,"Boots182 - 184 Main StreetBarrheadEast Renfrewshire",G78 1SL,RETAIL,19-May-15,FHPASS
+2010/1571/COMM,Boots Pharmacy,"Boots Pharmacy61B Main StreetThornliebankEast Renfrewshire",G46 7RX,RETAIL,05-Feb-16,FHPASS
+03/00101/COMM,Boots PLC,"Boots4 The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,RETAIL,27-Apr-15,FHPASS
+2008/1406/COMM,Boots The Chemist,"Unit 11-12The TollBusby RoadClarkstonEast Renfrewshire",G76 7BG,RETAIL,06-Jan-17,FHPASS
+03/00115/COMM,BP Express Shopping,"179 Ayr RoadNewton MearnsEast Renfrewshire",G77 6RE,RETAIL,17-Jun-15,FHPASS
+2003/0515/COMM,Braidbar After School Care Service,"Braidbar Primary SchoolKyle DriveGiffnockEast Renfrewshire",G46 6ES,SCHCOL,14-Aug-15,FHPASS
+2003/0514/COMM,Braidbar Primary School,"Braidbar Primary SchoolKyle DriveGiffnockEast Renfrewshire",G46 6ES,SCHCOL,28-Apr-16,FHPASS
+2015/2058/COMM,Bramble,"Double Dot Burger205 Fenwick RoadGiffnockEast Renfrewshire",G46 6JD,RESTUR,09-Jun-16,FHPASS
+2015/2036/COMM,BRGR,"BRGR219 Fenwick RoadGiffnockEast Renfrewshire",G46 6JD,RESTUR,07-Oct-15,FHPASS
+03/00413/COMM,Broom Parish Church,"The Church Of Broom1 Broom Road EastNewton MearnsEast Renfrewshire",G77 5HN,RESOTH,02-Feb-16,FHPASS
+03/00414/COMM,Broomburn Wines,"3 - 5 Broomburn DriveNewton MearnsEast Renfrewshire",G77 5JQ,RETAIL,08-May-14,FHPASS
+2013/1806/COMM,Broons,"Broons222 Main StreetBarrheadEast Renfrewshire",G78 1SN,TAKE,31-Oct-16,FHPASS
+2003/0746/COMM,Browns Butchers,"R And R Brown And Sons91C Main StreetThornliebankEast Renfrewshire",G46 7RY,MANUFA,26-Apr-16,FHPASS
+03/00294/COMM,Buon Appetito,"Buon Appetito118 Busby RoadClarkstonEast Renfrewshire",G76 8BG,TAKE,17-Nov-16,FHPASS
+2006/1268/COMM,Burnfield Care Home,"32 Burnfield RoadGiffnockEast Renfrewshire",G46 7PZ,CARING,09-Jun-15,FHPASS
+2015/2042/COMM,Burnfield Kitchen,"153 Burnfield RoadGiffnockEast Renfrewshire",G46 7PR,TAKE,26-Jan-16,FHPASS
+03/00342/COMM,Busby Bowling Club,"15 The CrescentBusbyEast Renfrewshire",G76 8HT,RESOTH,10-Sep-14,FHPASS
+03/00412/COMM,Busby Parish Church,"Busby Parish Church11 Church RoadBusbyEast Renfrewshire",G76 8EB,RESOTH,09-Dec-15,FHPASS
+03/00307/COMM,Busby Primary School,"Busby Primary School23 Church RoadBusbyEast Renfrewshire",G76 8EB,SCHCOL,18-Nov-15,FHPASS
+2015/2020/COMM,Busby Village News,"Busby Village News14 Main StreetBusbyEast Renfrewshire",G76 8DU,RETAIL,27-Jul-15,FHPASS
+2016/2070/COMM,CA And Co,"Flat D79 Bonnyton DriveEagleshamEast Renfrewshire",G76 0LS,RESOTH,10-Feb-16,PASPRI
+2016/2074/COMM,Cafe 136,"Bottles Off Sales136 Main StreetBarrheadEast Renfrewshire",G78 1SG,RESTUR,28-Jul-16,FHPASS
+2014/1943/COMM,Cafe Aurs,"50 Aurs DriveBarrheadEast Renfrewshire",G78 2LW,RESTUR,27-Apr-16,FHPASS
+2014/1995/COMM,Cafe India,"576 Clarkston RoadNetherleeEast Renfrewshire",G44 3SQ,RESTUR,16-May-16,IMPROV
+2016/2097/COMM,Cafe India,"Cafe India89B Main StreetThornliebankEast Renfrewshire",G46 7RY,TAKE,20-Jan-17,IMPROV
+2008/1417/COMM,Cafe Roma,"Cafe RomaCentral Buildings No 3-470 Busby RoadClarkstonEast Renfrewshire",G76 7AU,RESTUR,21-Mar-16,FHPASS
+2012/1741/COMM,Cahoots Novelty Cakes,"7 Troon PlaceNewton MearnsEast Renfrewshire",G77 5TQ,RETOTH,11-Nov-15,PASPRI
+2015/2018/COMM,Cakes And Bakes,"25 Falkland AvenueNewton MearnsEast Renfrewshire",G77 5DR,RESOTH,12-Nov-15,PASPRI
+2008/1379/COMM,Cakes By Louisa,"35 Priorwood RoadNewton MearnsEast Renfrewshire",G77 6ZZ,RESOTH,11-Mar-16,PASPRI
+2011/1683/COMM,Cakes By Nadia,"32 Waulkmill AvenueBarrheadEast Renfrewshire",G78 1DD,RESOTH,11-Nov-15,PASPRI
+03/00003/COMM,Caldwell Golf Club,"Caldwell Golf Club HouseRoebank RoadUplawmoorEast Renfrewshire",G78 4AU,RESOTH,25-Oct-16,FHPASS
+2004/1021/COMM,Caldwell Parish Church,"1 Neilston RoadUplawmoorEast Renfrewshire",G78 4AB,RESOTH,21-Jan-16,FHPASS
+2013/1843/COMM,Canton House,"Canton House42 Main StreetBarrheadEast Renfrewshire",G78 1RE,TAKE,22-Nov-16,FHPASS
+2003/0679/COMM,Capital Chinese Takeaway,"30 Main StreetBarrheadEast Renfrewshire",G78 1RE,TAKE,16-Jul-15,FHPASS
+2015/2051/COMM,Card Factory,"8 The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,RETAIL,26-Nov-15,FHPASS
+2007/1333/COMM,Carlibar Family Centre,"Carlibar Family CentreCarlibar RoadBarrheadEast Renfrewshire",G78 1BD,RESOTH,26-Nov-14,FHPASS
+2006/1287/COMM,Carlibar Primary School,"Carlibar Primary SchoolCarlibar RoadBarrheadEast Renfrewshire",G78 1BD,SCHCOL,21-Apr-16,FHPASS
+2015/2046/COMM,Carlyann's Cupcakes,"118 The OvalClarkstonEast Renfrewshire",G76 8NA,RESOTH,16-Nov-15,PASPRI
+2003/0806/COMM,Carmichael Hall,"East Renfrewshire CouncilMunicipal Buildings1 Eastwood ParkRouken Glen RoadGiffnockEast Renfrewshire",G46 6UG,RESOTH,05-Mar-13,FHPASS
+2011/1668/COMM,Caroline Lennie,"12 Carswell RoadNewton MearnsEast Renfrewshire",G77 6NZ,CARING,16-Feb-12,SENPAS
+01/00001/COMM,Carolside Primary School,"Carolside Primary School4 Ashfield RoadClarkstonEast Renfrewshire",G76 7TX,SCHCOL,08-Dec-15,FHPASS
+2012/1772/COMM,Carolyn Kane,"85 Kilpatrick GardensClarkstonEast Renfrewshire",G76 7RG,CARING,26-Oct-15,SENPAS
+2015/2023/COMM,Cart Mill Family Centre,"1 Newford GroveClarkstonEast Renfrewshire",G76 8QZ,CARING,19-Aug-15,FHPASS
+2003/0458/COMM,Cartsbridge Evangelical Church,"2 Cartsbridge RoadBusbyEast Renfrewshire",G76 8DP,RESOTH,08-Sep-15,FHPASS
+2016/2098/COMM,Cartvale Bar,"Cartvale Bar25 Main StreetBusbyEast Renfrewshire",G76 8DS,RESTUR,07-Jun-16,FHPASS
+2003/0809/COMM,Castello,"1 Waterfoot RoadNewton MearnsEast Renfrewshire",G77 5RU,RESTUR,07-Dec-16,FHPASS
+2015/1972/COMM,Catch,"Catch186 Fenwick RoadGiffnockEast Renfrewshire",G46 6XF,TAKE,03-Mar-15,FHPASS
+2003/0550/COMM,Catering Services (Supplies),"205 Burnfield RoadGiffnockEast Renfrewshire",G46 7PP,IMP3RD,30-Jun-15,EXEMPT
+2012/1787/COMM,Caterlink Ltd,"St Ninians High School13 Eastwood ParkRouken Glen RoadGiffnockEast Renfrewshire",G46 7JS,RESTUR,02-Mar-16,FHPASS
+2012/1786/COMM,Caterlink Ltd,"Mearns Primary School2 Hunter DriveNewton MearnsEast Renfrewshire",G77 6DP,RESTUR,05-Sep-16,FHPASS
+2016/2112/COMM,Caterplus,"ARKLET HOUSING ASSOCIATION LTDOfficesBarrland CourtBarrland DriveGiffnockEast Renfrewshire",G46 7QD,RESTUR,03-Aug-16,FHPASS
+2013/1808/COMM,Caterplus Services - McCarthy And Stone,"Office Room 6Hilltree Court96 Fenwick RoadGiffnockEast Renfrewshire",G46 6AA,CARING,03-May-16,FHPASS
+2013/1891/COMM,Cathay Cuisine,"Cathay Cuisine128 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EG,TAKE,21-Oct-15,FHPASS
+2003/0538/COMM,Cathcart Castle Golf Club,"Cathcart Castle Golf ClubCleuchMearns RoadClarkstonEast Renfrewshire",G76 7YL,RESOTH,02-Mar-16,FHPASS
+2010/1506/COMM,Catherine Johnston,"77 Hillview DriveClarkstonEast Renfrewshire",G76 7JJ,RESOTH,22-Sep-15,SENPAS
+2011/1669/COMM,Catherine MacVicar,"6 Barrland DriveGiffnockEast Renfrewshire",G46 7QD,CARING,07-Feb-12,SENPAS
+2017/2145/COMM,Catherine Rose,"196 Cross Arthurlie StreetBarrheadGlasgowEast Renfrewshire",G78 1EY,RESTUR,30-Nov-16,FHPASS
+03/00310/COMM,Cathkin News,"12 Cathkin DriveClarkstonEast Renfrewshire",G76 7PF,RETAIL,23-Feb-16,FHPASS
+2012/1697/COMM,Catriona Ralston,"94 Stamperland GardensClarkstonEast Renfrewshire",G76 8NR,CARING,12-Aug-15,SENPAS
+2009/1460/COMM,Caulders At Braidbar,"Caulders At BraidbarBraidbar NurseriesMearns RoadNewton MearnsEast Renfrewshire",G77 6RS,RESTUR,06-Aug-15,FHPASS
+2011/1675/COMM,CC's Pizza Parlour,"685 Clarkston RoadNetherleeEast Renfrewshire",G44 3SE,TAKE,26-Jul-16,FHPASS
+03/00402/COMM,Central Cafe,"Central Cafe70 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1RP,RESTUR,07-Dec-16,IMPROV
+2005/1228/COMM,Charghas Fast Food,"26 Main StreetBarrheadEast Renfrewshire",G78 1RE,TAKE,17-Nov-16,FHPASS
+03/00205/COMM,Charles Frazer,"Charles Frazer30 The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,MANUFA,29-Sep-15,FHPASS
+2016/2137/COMM,Charlie Mills Coffee,"45 Polnoon StreetEagleshamEast Renfrewshire",G76 0BB,RESOTH,24-Nov-16,FHPASS
+2007/1358/COMM,Cheerful Deliveries,"Flat 1-13 Craigbank CrescentEagleshamEast Renfrewshire",G76 0DU,RESOTH,31-May-16,PASPRI
+2015/2008/COMM,Chilli Tonight,"156 Main StreetBarrheadEast Renfrewshire",G78 1SG,TAKE,16-Jul-15,IMPROV
+2008/1407/COMM,Chocca Mocca,"Chocca Mocca115 Orchard Park AvenueGiffnockEast Renfrewshire",G46 7BW,TAKE,19-Jul-16,FHPASS
+2003/0794/COMM,Cindy Flowers,"Cindy Flowers6 Fenwick PlaceGiffnockEast Renfrewshire",G46 6UF,RETAIL,11-Sep-15,FHPASS
+2014/1923/COMM,Claire A Boyd,"5 Kinloch RoadNewton MearnsEast Renfrewshire",G77 6LY,CARING,30-Jul-14,SENPAS
+2016/2103/COMM,Claire Bell,"6 Neukfoot LaneUplawmoorEast Renfrewshire",G78 4DH,CARING,19-Jul-16,SENPAS
+2010/1504/COMM,Claire Corbett,"40 Kippen DriveBusbyEast Renfrewshire",G76 8JH,RESOTH,04-Aug-15,SENPAS
+2015/2015/COMM,Claire Galloway,"12 Cherrybank GardensNewton MearnsEast Renfrewshire",G77 6NU,CARING,01-Feb-16,SENPAS
+2014/1911/COMM,Clarkston After School Service,"St Aidans Episcopal ChurchMearns RoadClarkstonEast Renfrewshire",G76 7ER,RESOTH,26-Aug-14,FHPASS
+2003/0468/COMM,Clarkston Baptist Church,"Clarkston Baptist Church11 Arthur StreetClarkstonEast Renfrewshire",G76 8BQ,RESOTH,04-Jan-17,FHPASS
+2003/0625/COMM,Clarkston Bowling Club,"Clarkston Bowling And Tennis Club127 Eastwoodmains RoadClarkstonEast Renfrewshire",G76 7HD,RESOTH,07-Jul-16,FHPASS
+2015/2024/COMM,Clarkston Greengrocers,"Unit 4Midholm90 Busby RoadClarkstonEast Renfrewshire",G76 7AX,RETAIL,05-Oct-15,FHPASS
+2003/0772/COMM,Clarkston Hall,"672 Clarkston RoadNetherleeEast Renfrewshire",G44 3YS,RESOTH,11-Jun-15,FHPASS
+2015/2003/COMM,Clarkston House,"Tennis Courts57 Stamperland HillClarkstonEast Renfrewshire",,CARING,06-Sep-16,FHPASS
+2008/1381/COMM,Clarkston Jasmin Ltd,"2 Busby RoadClarkstonEast Renfrewshire",G76 7XL,RESTUR,06-Oct-16,IMPROV
+2014/1968/COMM,Clay Oven,"17 Fenwick RoadGiffnockEast Renfrewshire",G46 6AU,TAKE,13-Jun-16,FHPASS
+2013/1881/COMM,Colette Cameron,"26 Mansefield CrescentClarkstonEast Renfrewshire",G76 7EB,CARING,11-Jan-17,SENPAS
+2003/0471/COMM,Columba Club,"Columba Club69 Darnley RoadBarrheadEast Renfrewshire",G78 1TA,RESOTH,18-Oct-16,FHPASS
+2016/2133/COMM,Co-op,"Petrol Filling Station60 - 62 Paisley RoadBarrheadEast Renfrewshire",G78 1NN,RETAIL,07-Dec-16,FHPASS
+2016/2077/COMM,Co-Op,"Harvies188 Crookfur Shopping PrecinctHarvie AvenueNewton MearnsEast Renfrewshire",G77 6UT,SUPER,15-Jul-16,FHPASS
+2015/2038/COMM,Co-op,"The Venue86 Broom Road EastNewton MearnsEast Renfrewshire",G77 5SR,RETAIL,02-Mar-16,FHPASS
+2005/1168/COMM,Co-Op,"Co-Operative Food115 Main StreetNeilstonEast Renfrewshire",G78 3NH,RETAIL,28-Jul-16,FHPASS
+2003/1548/COMM,Corcoran Food Distribution,"Corcoran Food DistributionUnit 1a6 Cogan StreetBarrheadEast Renfrewshire",G78 1QP,DISTRI,17-Jun-16,FHPASS
+2003/0734/COMM,Cosgrove Care,"2A Arnside AvenueGiffnockEast Renfrewshire",G46 7QQ,CARING,03-Mar-16,FHPASS
+2015/2048/COMM,Costa Coffee,"10 The TollBusby RoadClarkstonEast Renfrewshire",G76 7BG,TAKE,16-Aug-16,FHPASS
+2008/1377/COMM,Costa Coffee,"Costa Coffee6 The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,RESTUR,30-Mar-15,FHPASS
+2003/0463/COMM,Costcutter,"Costcutter35 - 39 Kennishead RoadThornliebankEast Renfrewshire",G46 8NX,RETAIL,01-Sep-15,IMPROV
+2014/1950/COMM,Costcutter,"53 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1QU,SUPER,09-Feb-15,FHPASS
+03/00346/COMM,Cottage Homes,"The Lodge15 Crookfur RoadNewton MearnsEast Renfrewshire",G77 6JY,CARING,16-Sep-15,FHPASS
+2003/0800/COMM,Council HQ Canteen The Hatch,"East Renfrewshire CouncilThe GatehouseEastwood ParkRouken Glen RoadGiffnockEast Renfrewshire",G46 6UG,RESTUR,24-Feb-15,FHPASS
+2003/0548/COMM,Crofthead Bowling Club,"1 Molendinar TerraceNeilstonEast Renfrewshire",G78 3LL,RESOTH,08-Nov-16,FHPASS
+2003/1850/COMM,Crookfur Pavilion,"Crookfur PavilionCrookfur ParkAyr RoadNewton MearnsEast Renfrewshire",G77 6DT,RESOTH,07-Oct-14,FHPASS
+03/00264/COMM,Crookfur Primary School,"Crookfur Primary School HouseCapelrig RoadNewton MearnsEast Renfrewshire",G77 6LF,SCHCOL,16-Nov-15,FHPASS
+2003/0619/COMM,Cross Arthurlie Primary School,"Cross Arthurlie Primary School7 Fern DriveBarrheadEast Renfrewshire",G78 1JF,SCHCOL,12-Mar-15,FHPASS
+2016/2138/COMM,Cross Stobs Inn,"Cross Stobs Inn4 Grahamston RoadBarrheadEast Renfrewshire",G78 1NS,RESTUR,18-Jan-17,FHPASS
+2013/1897/COMM,Cupcakes By Gillian,"The Firs41 Greenlaw RoadNewton MearnsEast Renfrewshire",G77 6SL,RESOTH,12-Nov-15,PASPRI
+2003/0476/COMM,Dalmeny Community Centre,"Dalmeny Community CentreBarnes StreetBarrheadEast Renfrewshire",G78 1EH,RESOTH,15-Dec-15,FHPASS
+2003/0662/COMM,Dalmeny Park Country House Hotel,"Dalmeny Park Hotel10 Lochlibo RoadBarrheadEast Renfrewshire",G78 1LG,HOT,11-Nov-15,FHPASS
+2014/1937/COMM,Dandy's Delicatessen,"4 Evan CrescentGiffnockEast Renfrewshire",G46 6NJ,RESOTH,12-Nov-15,PASPRI
+2014/1936/COMM,Dandy's Delicatessen,"Dandys Delicatessen44 Busby RoadClarkstonEast Renfrewshire",G76 7XJ,RETAIL,15-Sep-16,FHPASS
+2016/2111/COMM,David Lloyd Leisure Health Club,"Rouken Glen Golf Centre3 Stewarton RoadThornliebankEast Renfrewshire",G46 7UZ,RESTUR,27-Jul-16,FHPASS
+2003/0608/COMM,Day To Day,"Day To Day91A Glasgow RoadBarrheadEast Renfrewshire",G78 1BX,RETAIL,24-Feb-16,IMPROV
+03/00016/COMM,Day To Day Store,"Day-Today Express92 Main StreetBarrheadEast Renfrewshire",G78 1SE,RETAIL,04-Sep-15,IMPROV
+2003/0500/COMM,Day-Today Stores,"21 Kennishead RoadThornliebankEast Renfrewshire",G46 8NY,RETAIL,29-Apr-16,FHPASS
+2006/1276/COMM,DeMarco's,"De Marcos120 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EG,TAKE,23-Dec-15,FHPASS
+2010/1491/COMM,Denise Grant,"160 Stamperland HillClarkstonEast Renfrewshire",G76 8AJ,RESOTH,07-Aug-15,SENPAS
+2011/1680/COMM,Diane M. Burnett,"42 Gordon RoadNetherleeEast Renfrewshire",G44 3TW,CARING,20-Jun-16,SENPAS
+2012/1685/COMM,Diane Todd,"3 Stamperland GardensClarkstonEast Renfrewshire",G76 8HQ,CARING,18-Jan-12,SENPAS
+2016/2115/COMM,Dilafruz Laing,"33 Castle RoadNewton MearnsEast Renfrewshire",G77 6DQ,CARING,17-Oct-16,SENPAS
+03/00200/COMM,Dominos Pizza,"Dominos162C Fenwick RoadGiffnockEast Renfrewshire",G46 6XF,TAKE,23-Feb-16,FHPASS
+2016/2110/COMM,Dowhill,"The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",,RETAIL,04-Aug-16,FHPASS
+2003/0700/COMM,Duff Memorial Hall,"Duff Memorial HallMain StreetBusbyEast Renfrewshire",G76 8DX,RESOTH,09-Jun-14,FHPASS
+2013/1874/COMM,Eaglesham Bakers,"Eaglesham Bakery4 Glasgow RoadEagleshamEast Renfrewshire",G76 0JQ,RETAIL,16-Dec-16,FHPASS
+03/00308/COMM,Eaglesham Bowling Club,"Eaglesham Bowling ClubCheapside StreetEagleshamEast Renfrewshire",G76 0JZ,RESOTH,21-Jan-16,FHPASS
+2003/0549/COMM,Eaglesham Parish Church,"16 Montgomery StreetEagleshamEast Renfrewshire",G76 0AS,RESOTH,06-Nov-15,FHPASS
+2003/0459/COMM,Eaglesham Pharmacy,"Eaglesham Pharmacy14 Glasgow RoadEagleshamEast Renfrewshire",G76 0JQ,RETAIL,22-Jul-16,EXEMPT
+2003/0644/COMM,Eaglesham Primary School,"Eaglesham Primary School25 Strathaven RoadEagleshamEast Renfrewshire",G76 0LF,SCHCOL,09-Oct-15,FHPASS
+03/00013/COMM,East Renfrewshire Golf Club,"East Renfrewshire Golf ClubAyr RoadNewton MearnsEast Renfrewshire",G77 6RT,RESOTH,24-Feb-16,FHPASS
+03/00026/COMM,Eastwood Golf Club,"Eastwood Golf ClubLanglee RoadLoganswellNewton MearnsEast Renfrewshire",G77 6RX,RESOTH,29-Sep-15,FHPASS
+2013/1893/COMM,Eastwood High School,"Eastwood High SchoolCapelrig RoadNewton MearnsEast Renfrewshire",G77 6NQ,SCHCOL,18-Aug-15,FHPASS
+2003/0709/COMM,Eastwood House,"Eastwood HouseEastwood ParkRouken Glen RoadGiffnockEast Renfrewshire",G46 7JS,RESOTH,24-Jul-15,FHPASS
+03/00358/COMM,Eastwoodhill Residential Home,"Eastwoodhill Eventide Home238 Fenwick RoadGiffnockEast Renfrewshire",G46 6UU,CARING,27-Oct-16,FHPASS
+2010/1483/COMM,Eat @ E's,"Eat At E's69 Seres RoadClarkstonEast Renfrewshire",G76 7PG,RESTUR,16-Feb-16,FHPASS
+2003/0853/COMM,Eat Delicatessen,"Eat Delicatessen16 The TollBusby RoadClarkstonEast Renfrewshire",G76 7BG,RESOTH,14-Jul-15,FHPASS
+2003/0438/COMM,Eglinton Arms Hotel,"The Eglinton Arms59 Gilmour StreetEagleshamEast Renfrewshire",G76 0LG,HOT,26-Mar-15,FHPASS
+2011/1617/COMM,Elaine Curran,"36 Drummond WayNewton MearnsEast Renfrewshire",G77 6XW,CARING,17-Aug-15,SENPAS
+2011/1663/COMM,Elaine Pritchard,"7 Broom CrescentBarrheadEast Renfrewshire",G78 1PS,CARING,22-May-15,SENPAS
+2015/2066/COMM,Eleanor Forbes,"50 Aursbridge CrescentBarrheadEast Renfrewshire",G78 2TJ,CARING,25-Jan-16,SENPAS
+2010/1492/COMM,Elise Ballantyne,"79 Shawwood CrescentNewton MearnsEast Renfrewshire",G77 5ND,RESOTH,24-Jul-15,SENPAS
+2011/1645/COMM,Elizabeth Taylor,"6 Logan AvenueNewton MearnsEast Renfrewshire",G77 6LZ,CARING,10-Nov-11,SENPAS
+03/00080/COMM,Elmwood Nursery,"Elmwood Day Nursery1 Elmwood AvenueNewton MearnsEast Renfrewshire",G77 6EH,CARING,07-Jun-16,FHPASS
+2010/1475/COMM,Enchanted Forest Nursery,"8 Spiersbridge WayThornliebankEast Renfrewshire",G46 8NG,CARING,22-Jun-16,FHPASS
+2003/0819/COMM,Esso,"Filling Station161 Glasgow RoadBarrheadEast Renfrewshire",G78 1DT,RETAIL,01-Sep-16,FHPASS
+03/00037/COMM,Esso Drumby Service Station,"Drumby Service Station91 Eastwoodmains RoadClarkstonEast Renfrewshire",G76 7HG,RETAIL,19-Apr-16,FHPASS
+03/00420/COMM,Fairweather Hall,"Fairweather Hall30 Barrhead RoadNewton MearnsEast Renfrewshire",G77 6BD,RESTUR,28-Nov-16,FHPASS
+2003/1851/COMM,Far East Oriental Takeaway,"217 Fenwick RoadGiffnockEast Renfrewshire",G46 6JD,TAKE,28-Jul-16,FHPASS
+2003/0579/COMM,Farmfoods,"Farmfoods49A Main StreetThornliebankEast Renfrewshire",G46 7SF,RETAIL,17-Mar-15,FHPASS
+2003/0489/COMM,Farmfoods,"FarmfoodsUnit 1206 Main StreetBarrheadEast Renfrewshire",G78 1SN,RETAIL,21-Jul-14,FHPASS
+03/00368/COMM,Fenwick Road Post Office,"Post Office221 Fenwick RoadGiffnockEast Renfrewshire",G46 6JG,RETAIL,23-Jan-14,FHPASS
+2016/2064/COMM,Fenwicks,"Fenwicks8 Fenwick PlaceGiffnockEast Renfrewshire",G46 6UF,RESTUR,26-Apr-16,IMPROV
+2003/0620/COMM,Fereneze Golf Club,"Fereneze Golf ClubhouseFereneze AvenueBarrheadEast Renfrewshire",G78 1HJ,RESOTH,01-Nov-16,FHPASS
+2013/1886/COMM,Fereneze Inn,"Fereneze Inn70 Carlibar RoadBarrheadEast Renfrewshire",G78 1AD,PUBCLU,22-Dec-16,FHPASS
+2010/1584/COMM,Fiona Gilbert,"8 Orchard GroveGiffnockEast Renfrewshire",G46 7QU,CARING,23-Mar-16,SENPAS
+2010/1527/COMM,Fiona MacArthur,"1 Nether Kirkton AvenueNeilstonEast Renfrewshire",G78 3NU,RESOTH,28-Jul-15,SENPAS
+2015/2007/COMM,Fiona Shahzad,"12 Moorfoot AvenueThornliebankEast Renfrewshire",G46 7BY,CARING,12-Jun-15,SENPAS
+2003/0706/COMM,Flames,"Flames52 Main StreetNeilstonEast Renfrewshire",G78 3NJ,RESTUR,16-Nov-16,FHPASS
+2015/2060/COMM,Fluffy Clouds,"43 Glasgow RoadEagleshamEast Renfrewshire",G76 0LZ,RESOTH,29-Apr-16,SENPAS
+2003/0433/COMM,Flying Horse,"The Flying Horse232 Main StreetBarrheadEast Renfrewshire",G78 1SN,PUBCLU,29-Nov-16,FHPASS
+2014/1988/COMM,Frankies,"Frankies70 Braidholm RoadGiffnockEast Renfrewshire",G46 6ED,RETAIL,03-Jun-16,FHPASS
+03/00048/COMM,Frasers Pharmacy,"Frasers Pharmacy271 Mearns RoadNewton MearnsEast Renfrewshire",G77 5LU,RETAIL,30-May-13,EXEMPT
+2005/1144/COMM,Frasers Pharmacy,"152 Main StreetBarrheadEast Renfrewshire",G78 1SG,RETAIL,03-Nov-15,EXEMPT
+03/00316/COMM,G R Brown,"Gordon A Brown665A Clarkston RoadNetherleeEast Renfrewshire",G44 3SE,MANUFA,12-Nov-15,FHPASS
+2003/0466/COMM,G R Brown Butcher,"Brown Butchers12 Glasgow RoadEagleshamEast Renfrewshire",G76 0JQ,MANUFA,03-Mar-16,FHPASS
+03/00092/COMM,Garrys Food And Wine,"Garrys Food And Wine44 Stamperland CrescentClarkstonEast Renfrewshire",G76 8LH,RETAIL,13-Apr-15,FHPASS
+2014/1978/COMM,Gems Delights Scotland,"19 Stewart AvenueNewton MearnsEast Renfrewshire",G77 6HN,RESOTH,12-Nov-15,PASPRI
+2011/1659/COMM,Genji Sushi Ltd,"Whole Foods134 Fenwick RoadGiffnockEast Renfrewshire",G46 6XN,TAKE,16-Jun-16,FHPASS
+2012/1717/COMM,Geraldine Armstrong,"114 Broomfield AvenueNewton MearnsEast Renfrewshire",G77 5JR,CARING,11-Dec-15,SENPAS
+03/00365/COMM,Giffnock And Newlands Hebrew Congregation,"222 Fenwick RoadGiffnockEast Renfrewshire",G46 6UE,RESOTH,14-May-15,FHPASS
+03/00333/COMM,Giffnock Bowling Club,"Giffnock Lawn Tennis Club2 - 6 Percy DriveGiffnockEast Renfrewshire",G46 6PA,RESOTH,15-Dec-15,FHPASS
+2003/0464/COMM,Giffnock North Amateur Athletics Club,"Northolm Sports Ground100 Braidbar Farm RoadGiffnockEast Renfrewshire",G46 6HU,RESOTH,14-Oct-15,FHPASS
+2016/2117/COMM,Giffnock North Kitchen,"Northolm Sports Ground100 Braidbar Farm RoadGiffnockEast Renfrewshire",G46 6HU,RESTUR,20-Sep-16,FHPASS
+03/00004/COMM,Giffnock Primary School,"Giffnock Primary School1 Academy RoadGiffnockEast Renfrewshire",G46 6JL,SCHCOL,14-Dec-16,FHPASS
+2003/0450/COMM,Giffnock South Parish Church,"Giffnock South Parish Church2 Greenhill AvenueGiffnockEast Renfrewshire",G46 6QX,RESOTH,05-Apr-16,FHPASS
+03/00332/COMM,Giffnock Tennis Club,"Giffnock Lawn Tennis Club2 - 6 Percy DriveGiffnockEast Renfrewshire",G46 6PA,RESOTH,15-Dec-15,FHPASS
+03/00214/COMM,Giffnock United Reform Church,"Giffnock United Reformed Church163 Fenwick RoadGiffnockEast Renfrewshire",G46 6JB,RESOTH,17-Jun-15,FHPASS
+2012/1759/COMM,Gillian Goldie,"8 Langton GateNewton MearnsEast Renfrewshire",G77 6TP,CARING,01-Aug-15,SENPAS
+2014/1929/COMM,Gillian MacPhie,"2 Knollpark DriveClarkstonEast Renfrewshire",G76 7SY,CARING,12-Nov-15,PASPRI
+2012/1689/COMM,Gillian McGuire,"43 Balgray CrescentBarrheadEast Renfrewshire",G78 2ND,CARING,18-May-15,SENPAS
+2014/1921/COMM,Gillykcakes,"34 Overlee RoadClarkstonEast Renfrewshire",G76 8BU,RESOTH,09-Feb-16,SENPAS
+2015/2041/COMM,Glasgow Hutchesons Aloysians Rugby Club Bar,"Glasgow Hutchesons Aloysians Rugby ClubRugby Club84 Braidholm RoadGiffnockEast Renfrewshire",G46 6EB,PUBCLU,30-Oct-15,FHPASS
+03/00222/COMM,Glen Family Centre,"Glen Day Care Centre16 Woodfarm RoadThornliebankEast Renfrewshire",G46 7JJ,CARING,07-Oct-14,FHPASS
+03/00108/COMM,Glendinning Pharmacy,"124 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EG,RETAIL,22-Jan-14,FHPASS
+03/00224/COMM,Glenwood Family Centre,"Glenwood Nursery School18A Woodfarm RoadThornliebankEast Renfrewshire",G46 7HD,CARING,22-Nov-16,FHPASS
+2005/1120/COMM,Golden Sun,"Golden Sun36 - 38 Glasgow RoadBarrheadEast Renfrewshire",G78 1BU,TAKE,06-Apr-16,FHPASS
+2003/0449/COMM,Graham Street Community Group,"Flat 1-235 Graham StreetBarrheadEast Renfrewshire",G78 1EU,RESOTH,04-Jul-16,EXEMPT
+03/00313/COMM,Green Newsagent,"683 Clarkston RoadNetherleeEast Renfrewshire",G44 3SE,RETAIL,17-Oct-16,FHPASS
+2005/1229/COMM,Greenbank Garden Centre,"National TrustGreenbank HouseHigh Flender RoadClarkstonEast Renfrewshire",G76 8RB,RESTUR,29-May-15,FHPASS
+03/00426/COMM,Greenbank Parish Church,"34 Eaglesham RoadClarkstonEast Renfrewshire",G76 7DJ,RESOTH,23-Apr-14,FHPASS
+2014/1970/COMM,Greenbank Woodland Play,"National TrustGreenbank HouseHigh Flender RoadClarkstonEast Renfrewshire",G76 8RB,CARING,17-Mar-15,FHPASS
+2014/1961/COMM,Greenlaw Grove Care Home,"Greenlaw Grove1 North Greenlaw WayNewton MearnsEast Renfrewshire",G77 6GZ,CARING,27-Jun-16,FHPASS
+2012/1757/COMM,Greggs The Bakers,"Greggs31 The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,RETAIL,30-Jul-15,FHPASS
+2004/0953/COMM,Greggs The Bakers,"Greggs Ltd6 The TollBusby RoadClarkstonEast Renfrewshire",G76 7BG,RETAIL,02-Sep-15,FHPASS
+2006/1304/COMM,Greggs The Bakers,"Greggs77 Main StreetThornliebankEast Renfrewshire",G46 7RY,RETAIL,02-Mar-16,FHPASS
+2003/0534/COMM,Greggs The Bakers,"Greggs188 Main StreetBarrheadEast Renfrewshire",G78 1SL,RETAIL,02-Jun-15,FHPASS
+03/00410/COMM,Happy Days Too,"Happy Days Nursery9 East Kilbride RoadBusbyEast Renfrewshire",G76 8JY,CARING,07-Sep-15,FHPASS
+2016/2099/COMM,Heather Allan,"16 Castleton GroveNewton MearnsEast Renfrewshire",G77 5LH,CARING,17-Jun-16,SENPAS
+2010/1537/COMM,Helen Cannon,"5 Woodlands GateThornliebankEast Renfrewshire",G46 7SS,RESOTH,25-Feb-16,SENPAS
+03/00386/COMM,Hickeys General Store,"Hickeys23A Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1QY,RETAIL,21-Dec-16,FHPASS
+2008/1853/COMM,Holland And Barrett,"Holland And Barrett37A The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,RETAIL,31-Aug-16,FHPASS
+2014/1927/COMM,Home Bargains,"Home BargainsUnit 133 Greenlaw PlaceNewton MearnsEast Renfrewshire",G77 6GR,RETAIL,02-Sep-16,FHPASS
+2011/1600/COMM,Ian Brown,"Ian Brown - Food And Drink55 Eastwood Mains RoadGiffnockEast Renfrewshire",G46 6PW,RESTUR,13-Dec-16,FHPASS
+03/00032/COMM,Iceland Frozen Foods,"158 Main StreetBarrheadEast Renfrewshire",G78 1SL,RETAIL,10-Nov-16,FHPASS
+2013/1899/COMM,Icing On The Cake,"12 Hillview DriveClarkstonEast Renfrewshire",G76 7JD,RESOTH,12-Nov-15,PASPRI
+2003/0698/COMM,Il Ciocco,"Il CioccoGround Floor81 - 83 Main StreetNeilstonEast Renfrewshire",G78 3NH,RESTUR,10-Oct-16,FHPASS
+2016/2100/COMM,Indian Platform,"Indian Platform340 Ayr RoadNewton MearnsEast Renfrewshire",G77 6RT,RESTUR,17-Nov-16,FHPASS
+2014/1918/COMM,Innocence Nursery,"Parklands Country Club196 Ayr RoadNewton MearnsEast Renfrewshire",G77 6DT,CARING,28-Jun-16,FHPASS
+2012/1715/COMM,Irene Wright,"Viewfield70 Lochlibo RoadNeilstonEast Renfrewshire",G78 3BA,CARING,17-Nov-15,SENPAS
+2011/1672/COMM,Isobel Mair School,"Isobel Mair School58 Stewarton RoadNewton MearnsEast Renfrewshire",G77 6NB,CARING,10-Jan-17,FHPASS
+03/00132/COMM,Jafars,"Jafars32 Arthurlie AvenueBarrheadEast Renfrewshire",G78 2JD,RETAIL,02-Dec-16,FHPASS
+2003/0769/COMM,James Galbraith Butchers,"Central Buildings No 164 Busby RoadClarkstonEast Renfrewshire",G76 7AU,RETOTH,17-Feb-16,IMPROV
+2011/1649/COMM,Jane Griffiths,"51 Double Hedges RoadNeilstonEast Renfrewshire",G78 3JQ,CARING,17-Nov-16,SENPAS
+2012/1755/COMM,Jane Shore,"25 Northpark AvenueBarrheadEast Renfrewshire",G78 1QL,CARING,27-Jul-15,SENPAS
+2013/1882/COMM,Jane Snowden,"51 Harris CloseNewton MearnsEast Renfrewshire",G77 6TU,CARING,20-Dec-16,SENPAS
+03/00353/COMM,Jasmine One,"190A Fenwick RoadGiffnockEast Renfrewshire",G46 6UE,RESTUR,21-Dec-15,FHPASS
+2012/1720/COMM,Jean Fletcher,"2 Moorcroft RoadNewton MearnsEast Renfrewshire",G77 5AW,CARING,21-Jan-16,SENPAS
+2012/1749/COMM,Jeans Cakes,"South CraigtonCraigton RoadNewton MearnsEast Renfrewshire",G77 6QE,RESOTH,11-Feb-16,PASPRI
+2003/0609/COMM,Jewels Of Asia At Fry Inn,"34 Glasgow RoadBarrheadEast Renfrewshire",G78 1BU,TAKE,20-Oct-15,FHPASS
+2010/1532/COMM,Jillian Reid,"46 Rodger AvenueNewton MearnsEast Renfrewshire",G77 6JS,RESOTH,10-Nov-15,SENPAS
+2010/1496/COMM,Joanne McGowan,"9 Beechwood AvenueClarkstonEast Renfrewshire",G76 7UY,RESOTH,15-Jul-15,SENPAS
+2004/0992/COMM,Joy Bowl,"Joy BowlCentral Buildings No 674 Busby RoadClarkstonEast Renfrewshire",G76 7AU,TAKE,11-Feb-16,FHPASS
+2016/2061/COMM,Julie Macnab,"34 Orchy GardensClarkstonEast Renfrewshire",G76 8ND,RESOTH,01-Feb-16,SENPAS
+2010/1517/COMM,Julie McColl,"25 Brownside AvenueBarrheadEast Renfrewshire",G78 1JP,RESOTH,08-Sep-15,SENPAS
+2013/1865/COMM,K.P's Fresh Fish,"Kps33 Mackinley PlaceNewton MearnsEast Renfrewshire",G77 6EZ,RETAIL,20-Apr-15,FHPASS
+2003/0855/FOOD,K7X,"Football CentreRouken Glen ParkRouken Glen RoadGiffnockEast Renfrewshire",G46 7UG,RESTUR,16-Sep-16,FHPASS
+2010/1540/COMM,Karen Jackett,"9 Monteith DriveClarkstonEast Renfrewshire",G76 8NT,CARING,09-Mar-16,SENPAS
+2012/1688/COMM,Karen Lynch,"43 Tower AvenueBarrheadEast Renfrewshire",G78 1DN,CARING,19-Apr-12,SENPAS
+2012/1753/COMM,Kats Kitchen,"27 Wellmeadow WayNewton MearnsEast Renfrewshire",G77 6RB,RESOTH,11-Nov-15,PASPRI
+03/00138/COMM,Kebab Shack,"Kebab Shack6 Carlibar RoadBarrheadEast Renfrewshire",G78 1AA,TAKE,25-Oct-16,IMPROV
+2015/2073/COMM,Kebabish Mearns News,"Kebabish Mearns News106 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EG,TAKE,03-May-16,IMPROV
+2003/0545/COMM,Kelburn Bar,"Kelburn Bar19 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1QY,PUBCLU,29-Nov-16,FHPASS
+2007/1347/COMM,Kelburn Brewing Company Ltd,"Kelburn Brewing CompanyUnit 110 Muriel StreetBarrheadEast Renfrewshire",G78 1QB,MANUFA,27-Aug-15,FHPASS
+2007/1325/COMM,Keystore,"KeyStore117 - 119 Orchard Park AvenueGiffnockEast Renfrewshire",G46 7BW,RETAIL,02-Dec-15,FHPASS
+2012/1684/COMM,Kickass Cakes,"5 Craigievar PlaceNewton MearnsEast Renfrewshire",G77 6YE,RESOTH,11-Nov-15,PASPRI
+03/00191/COMM,Kids Time Out,"Eaglesham Parish ChurchMontgomery StreetEagleshamEast Renfrewshire",G76 0AR,RESTUR,07-Jan-16,FHPASS
+2003/0674/COMM,Killoch Bar,"Killoch Bar89 Main StreetNeilstonEast Renfrewshire",G78 3NH,PUBCLU,05-Aug-15,FHPASS
+2012/1765/COMM,Kim Cruickshank,"46 Woodbank CrescentClarkstonEast Renfrewshire",G76 7DR,CARING,23-Jul-14,SENPAS
+2003/0497/COMM,Kirkhill Primary School,"Kirkhill Primary SchoolKirkhill RoadNewton MearnsEast Renfrewshire",G77 5RJ,SCHCOL,04-Oct-16,FHPASS
+03/00154/COMM,Kirkhillgait Nursery,"82 Broom Road EastNewton MearnsEast Renfrewshire",G77 5SR,CARING,07-Mar-16,FHPASS
+2012/1738/COMM,Kirkton Centre,"Barrhead Health And Care Centre213 Main StreetBarrheadEast Renfrewshire",G78 1SW,RESTUR,24-Jul-15,FHPASS
+03/00190/COMM,Kirktonholme At Mearnswood Nursery,"Mearnswood60 Stewarton RoadNewton MearnsEast Renfrewshire",G77 6NP,CARING,14-Jun-16,FHPASS
+2012/1696/COMM,Kirsty Miller,"15 Sunnybank DriveClarkstonEast Renfrewshire",G76 7SS,CARING,01-Jul-15,SENPAS
+2016/2084/COMM,Kosher Kitchens At Jewish Care,"Jewish Care ScotlandWalton Community CentreMay TerraceGiffnockEast Renfrewshire",G46 6LD,RESTUR,14-Apr-16,FHPASS
+2010/1557/COMM,KY08 RZA SL10 EDO (Red Trailer),#Error,#Error,MOBIFO,15-Apr-16,PASPRI
+2010/1470/COMM,La Brava,"La Brava679A Clarkston RoadNetherleeEast Renfrewshire",G44 3SE,RESTUR,25-Aug-15,FHPASS
+2015/1974/COMM,LA Cakes,"255 Fenwick RoadGiffnockEast Renfrewshire",G46 6JQ,RESOTH,12-Nov-15,PASPRI
+2011/1598/COMM,Lara Cameron,"25 Crofthead PlaceNewton MearnsEast Renfrewshire",G77 5QQ,RESOTH,08-Aug-16,SENPAS
+03/00043/COMM,Larchwood Care,"Eastwood Care HomeEastwood Court1 Eastwoodmains RoadGiffnockEast Renfrewshire",G46 6QB,CARING,12-Sep-16,FHPASS
+03/00383/COMM,L'Arco,"47 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1QU,TAKE,29-Apr-15,IMPROV
+2015/2030/COMM,Las Pampas,"52 Priorwood RoadNewton MearnsEast Renfrewshire",G77 6ZZ,RESOTH,12-Nov-15,PASPRI
+2016/2090/COMM,Laura Dorrington,"82 Seres RoadClarkstonEast Renfrewshire",G76 7QF,CARING,08-Aug-16,SENPAS
+2010/1586/COMM,Laura Webster,"28 Gordon DriveNetherleeEast Renfrewshire",G44 3TF,CARING,28-Apr-16,SENPAS
+2003/0639/COMM,L'Chaims,"222 Fenwick RoadGiffnockEast Renfrewshire",G46 6UE,RESTUR,25-Feb-16,FHPASS
+2006/1299/COMM,Lee's Off Sales,"Lee's Off Sales210 - 212 Main StreetBarrheadEast Renfrewshire",G78 1SN,RETAIL,02-Sep-15,FHPASS
+2013/1856/COMM,Leigh-Anne Webster,"17 Beechwood AvenueClarkstonEast Renfrewshire",G76 7UY,CARING,17-Aug-16,SENPAS
+2010/1577/COMM,Lesley Graham,"16 John Smith GateBarrheadEast Renfrewshire",G78 1GG,CARING,03-Feb-16,SENPAS
+2003/0867/COMM,Lidl,"98 Kelburn StreetBarrheadEast Renfrewshire",G78 1LD,RETAIL,02-Dec-16,FHPASS
+2015/2001/COMM,Lime Deli And Bistro,"Lime Deli And Bistro6 Glasgow RoadEagleshamEast Renfrewshire",G76 0JQ,RESTUR,24-Jul-15,FHPASS
+2012/1687/COMM,Linda Graham,"22 John Smith GateBarrheadEast Renfrewshire",G78 1GG,CARING,12-Nov-13,SENPAS
+2010/1529/COMM,Linda McAdam,"14 KirktonsideBarrheadEast Renfrewshire",G78 2LH,RESOTH,28-Oct-15,SENPAS
+2010/1536/COMM,Linda Sherman,"67 Glen Shee AvenueNeilstonEast Renfrewshire",G78 3QF,RESOTH,29-Jul-15,SENPAS
+2012/1766/COMM,Linda Stevenson,"19 Levern GardensBarrheadEast Renfrewshire",G78 1BL,CARING,17-Aug-15,SENPAS
+2003/0442/COMM,Linn Products Ltd,"1 Floors RoadEagleshamEast Renfrewshire",G76 0EP,RESTUR,12-Aug-15,FHPASS
+2011/1627/COMM,Lisa Paterson,"64 Hillend CrescentClarkstonEast Renfrewshire",G76 7XX,CARING,17-Aug-16,SENPAS
+2016/2088/COMM,Lite Bite Mobile Catering,"1134 South StreetGlasgow",G14 0AP,MOBIFO,29-Apr-16,FHPASS
+2003/0562/COMM,Livingston's Newsagent,"Livingstons Newsagent75 Main StreetThornliebankEast Renfrewshire",G46 7RX,RETAIL,02-Sep-15,FHPASS
+2003/0873/COMM,Lloyds Pharmacy,"Lloyds Pharmacy39 Eastwoodmains RoadGiffnockEast Renfrewshire",G46 6PW,RETAIL,21-Oct-11,FHPASS
+2004/1000/COMM,Lloyds Pharmacy,"Lloyds Pharmacy15 Fenwick RoadGiffnockEast Renfrewshire",G46 6AU,RETAIL,08-Dec-15,EXEMPT
+2003/0877/COMM,Lloyds Pharmacy,"176 Main StreetBarrheadEast Renfrewshire",G78 1SL,RETAIL,15-Mar-16,FHPASS
+2003/0484/COMM,Lodge St John,"2 Hawthorn RoadBusbyEast Renfrewshire",G76 8EH,RESOTH,21-Jul-14,FHPASS
+2016/2118/COMM,Lorna Hurst,"16 First AvenueNetherleeEast Renfrewshire",G44 3UB,CARING,28-Oct-16,SENPAS
+2011/1666/COMM,Lorna Ritchie,"53 Orchard DriveGiffnockEast Renfrewshire",G46 7AG,CARING,07-Feb-12,SENPAS
+2012/1710/COMM,Lorraine Haughey,"Broomhill25 Fereneze RoadNeilstonEast Renfrewshire",G78 3AE,CARING,10-Jun-14,SENPAS
+2013/1855/COMM,Lorraine Madden,"39 Ryat DriveNewton MearnsEast Renfrewshire",G77 6SU,CARING,11-Aug-16,SENPAS
+2010/1530/COMM,Lorraine McGroarty,"2 Robslee DriveGiffnockEast Renfrewshire",G46 7BA,RESOTH,04-Feb-16,SENPAS
+2003/0509/COMM,Lower Mill Bakery,"Lower Mill BakeryLower Mill RoadBusbyEast Renfrewshire",G76 8BJ,MANUFA,30-Mar-16,EXEMPT
+2014/1983/COMM,Lucky Star,"Lucky Star68 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1RP,TAKE,23-Mar-16,FHPASS
+2011/1679/COMM,Lynn McAndrew,"47 Woodlands RoadThornliebankEast Renfrewshire",G46 7JQ,CARING,02-Dec-16,SENPAS
+2016/2105/COMM,Lynne Docherty Childminding,"61 Stewart DriveClarkstonEast Renfrewshire",G76 7EX,CARING,21-Jul-16,SENPAS
+2012/1770/COMM,Lynne Kirkpatrick,"7B Stewart StreetBarrheadEast Renfrewshire",G78 1UZ,CARING,04-Nov-15,SENPAS
+2012/1725/COMM,Lynne Murray,"16 Carswell RoadNewton MearnsEast Renfrewshire",G77 6NZ,CARING,22-Apr-16,SENPAS
+2015/2059/COMM,Lynsey Goldie Childminding,"94 Hillview DriveClarkstonEast Renfrewshire",G76 7JD,CARING,18-Jan-16,SENPAS
+2016/2086/COMM,M133 SRO,"70 John Neilson AvenuePaisleyPA12SX",,MOBIFO,29-Apr-15,PASPRI
+2003/0492/COMM,Maccabi GB Scotland,"3 May TerraceGiffnockEast Renfrewshire",G46 6LD,CARING,01-Jun-16,FHPASS
+03/00158/COMM,Mackie Pharmacy,"MacKie Pharmacy154 Fenwick RoadGiffnockEast Renfrewshire",G46 6XW,RETAIL,03-Jul-15,FHPASS
+2003/0865/COMM,MacPhees Sandwich Bar,"MacPhees142 Main StreetBarrheadEast Renfrewshire",G78 1SG,TAKE,10-Jan-17,FHPASS
+2013/1803/COMM,MACS,"St Josephs Primary SchoolOliphant CrescentBusbyEast Renfrewshire",G76 8PT,CARING,21-Jun-16,FHPASS
+2013/1798/COMM,MACS,"Crookfur Primary SchoolCapelrig RoadNewton MearnsEast Renfrewshire",G77 6LF,CARING,21-Apr-16,FHPASS
+03/00418/COMM,MACS,"Neilston Primary School43 High StreetNeilstonEast Renfrewshire",G78 3HJ,SCHCOL,10-Dec-15,FHPASS
+2013/1797/COMM,MACS,"Carolside Primary School4 Ashfield RoadClarkstonEast Renfrewshire",G76 7TX,CARING,26-Apr-16,FHPASS
+2013/1796/COMM,MACS,"Busby Primary School23 Church RoadBusbyEast Renfrewshire",G76 8EB,CARING,20-Apr-16,FHPASS
+2013/1799/COMM,MACS,"Cross Arthurlie Primary School7 Fern DriveBarrheadEast Renfrewshire",G78 1JF,CARING,09-Jun-16,FHPASS
+2013/1800/COMM,MACS,"Mearns Primary School2 Hunter DriveNewton MearnsEast Renfrewshire",G77 6DP,CARING,09-May-16,FHPASS
+2013/1801/COMM,MACS,"Kirkhill Primary SchoolKirkhill RoadNewton MearnsEast Renfrewshire",G77 5RJ,CARING,02-Jun-16,FHPASS
+2013/1804/COMM,MACS,"St Cadocs Primary School51 Crookfur RoadNewton MearnsEast Renfrewshire",G77 6TT,CARING,24-Jun-16,FHPASS
+2003/0658/COMM,Madras Nursery School,"1 High StreetNeilstonEast Renfrewshire",G78 3HJ,CARING,20-Jan-16,FHPASS
+2011/1616/COMM,Magdalene McCalman,"1 Belford GroveNewton MearnsEast Renfrewshire",G77 5FB,RESOTH,07-Jun-16,PASPRI
+2005/1080/COMM,Majestic,"Majestic Wine100 Fenwick RoadGiffnockEast Renfrewshire",G46 6AA,RETAIL,28-Oct-16,FHPASS
+03/00372/COMM,Mandarin,"Mandarin3 Eaglesham RoadClarkstonEast Renfrewshire",G76 7BU,TAKE,10-Oct-16,FHPASS
+2010/1581/COMM,Margaret Higton,"68 Shawwood CrescentNewton MearnsEast Renfrewshire",G77 5NB,CARING,07-Mar-16,SENPAS
+2010/1522/COMM,Margaret Tannahill,"18 Laigh RoadNewton MearnsEast Renfrewshire",G77 5EQ,RESOTH,11-Jan-16,SENPAS
+2010/1562/COMM,Margo McNab,"22 Gordon DriveNetherleeEast Renfrewshire",G44 3TF,RESOTH,17-Sep-15,SENPAS
+2015/2021/COMM,Mariannas,"5 Evan CrescentGiffnockEast Renfrewshire",G46 6NJ,RESOTH,12-Nov-15,PASPRI
+2003/0866/COMM,Marios,"Marios3 Fenwick RoadGiffnockEast Renfrewshire",G46 6AU,TAKE,21-Sep-16,FHPASS
+03/00203/COMM,Marks And Spencer Plc,"Marks And Spencer16 The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,SUPER,04-Nov-14,FHPASS
+2009/1466/COMM,Mark's Deli,"Marks Deli And Cafe6 Burnfield RoadGiffnockEast Renfrewshire",G46 7QB,RETAIL,30-Aug-16,FHPASS
+2012/1740/COMM,Marleston Luxury Chocolates,"12 Dunkeld PlaceNewton MearnsEast Renfrewshire",G77 5UB,RESOTH,21-Jan-16,PASPRI
+2016/2116/COMM,Marlyn Donnelly,"40 Kirktonfield CrescentNeilstonEast Renfrewshire",G78 3PX,CARING,09-Nov-16,SENPAS
+03/00151/COMM,Martin McColl Ltd,"Site Of Autoteller9 Fenwick RoadGiffnockEast Renfrewshire",G46 6AU,RETAIL,15-Aug-16,IMPROV
+2010/1514/COMM,Mary Chirnside,"46 Woodlands CrescentThornliebankEast Renfrewshire",G46 7SR,RESOTH,03-Aug-15,SENPAS
+03/00390/COMM,Masonic Lodge,"30 Cochrane StreetBarrheadEast Renfrewshire",G78 1RF,RESOTH,10-Jun-16,FHPASS
+03/00068/COMM,Masonic Lodge,"17 Polnoon StreetEagleshamEast Renfrewshire",G76 0BH,RESOTH,31-Mar-16,FHPASS
+2012/1712/COMM,Maureen McDaid,"21 Duncarnock AvenueNeilstonEast Renfrewshire",G78 3JW,CARING,01-Dec-15,SENPAS
+2003/0456/COMM,Maxwell Mearns Castle Church,"Mearns Castle Parish ChurchWaterfoot RoadNewton MearnsEast Renfrewshire",G77 5RE,RESOTH,20-Jun-14,FHPASS
+2016/2101/COMM,Maxwells,"114 Busby RoadClarkstonEast Renfrewshire",G76 8BG,RETAIL,19-Aug-16,FHPASS
+2010/1498/COMM,May McColl,"46 Netherton DriveBarrheadEast Renfrewshire",G78 2NB,RESOTH,24-Aug-15,SENPAS
+2003/0431/COMM,McCready Family Centre,"McCready Family Centre2 Water RoadBarrheadEast Renfrewshire",G78 1SQ,RESOTH,27-Apr-15,FHPASS
+03/00018/COMM,McDonalds,"McDonalds121 - 123 Main StreetThornliebankEast Renfrewshire",G46 7RY,RESTUR,27-Apr-15,FHPASS
+2016/2091/COMM,Mean City Brew,"30 Deaconsbank AvenueThornliebank",G46 7UN,TAKE,15-Jun-16,PASPRI
+03/00112/COMM,Mearns Bowling Club,"Mearns Bowling Club205 Ayr RoadNewton MearnsEast Renfrewshire",G77 6AE,RESOTH,15-Dec-15,FHPASS
+03/00220/COMM,Mearns Castle High School,"Mearns Castle High School51 Waterfoot RoadNewton MearnsEast Renfrewshire",G77 5RU,SCHCOL,12-Jan-17,FHPASS
+2006/1277/COMM,Mearns Filling Station,"Mearns Filling Station177 Mearns RoadNewton MearnsEast Renfrewshire",G77 5EP,RETAIL,09-May-16,FHPASS
+2003/0512/COMM,Mearns Hebrew Congregational Synagogue,"14 Larchfield CourtNewton MearnsEast Renfrewshire",G77 5PL,RESOTH,29-Feb-16,FHPASS
+2015/2072/COMM,Mearns House Care Home,"Mearns House Care Home1 Aldton CourtNewton MearnsEast Renfrewshire",G77 5UU,CARING,15-Aug-16,FHPASS
+03/00373/COMM,Mearns Kirk Church,"50 Eaglesham RoadNewton MearnsEast Renfrewshire",G77 5BU,RESOTH,25-Oct-16,FHPASS
+03/00120/COMM,Mearns Wok,"The Mearns Wok232 Ayr RoadNewton MearnsEast Renfrewshire",G77 6AA,TAKE,30-Jun-15,FHPASS
+2004/1034/COMM,Mearnskirk House,"Mearnskirk HouseMearnskirk RoadNewton MearnsEast Renfrewshire",G77 5RZ,CARING,05-Feb-16,FHPASS
+2003/0453/COMM,Mel's Food And Wine,"Mels Food And Wine20 Glasgow RoadEagleshamEast Renfrewshire",G76 0JQ,RETAIL,26-Jan-16,IMPROV
+2014/1908/COMM,Merrycakes,"41 Fereneze GroveBarrheadEast Renfrewshire",G78 1QX,RESOTH,12-Nov-15,PASPRI
+2014/1944/COMM,Michaelangelo's,"Michaelangelos15 Helena PlaceBusby RoadClarkstonEast Renfrewshire",G76 7RB,RESTUR,30-Nov-16,FHPASS
+03/00136/COMM,Millview Nursing Home,"Millview Care Home120 Carlibar RoadBarrheadEast Renfrewshire",G78 1BJ,CARING,14-Dec-16,FHPASS
+03/00291/COMM,Minar Restaurant,"Minar Restaurant124 Busby RoadClarkstonEast Renfrewshire",G76 8BG,RESTUR,04-Apr-16,FHPASS
+2016/2089/COMM,Mings Express,"Mings ExpressBusby StationEast Kilbride RoadBusbyEast Renfrewshire",G76 8HX,TAKE,13-Jul-16,FHPASS
+2011/1664/COMM,Miss Jillian Docherty,"45 Braeside CrescentBarrheadEast Renfrewshire",G78 2QG,CARING,26-Jan-12,SENPAS
+2015/2071/COMM,MJ's Brasserie,"JJ And Olive65 Seres RoadClarkstonEast Renfrewshire",G76 7PG,RESTUR,22-Apr-16,FHPASS
+2003/0645/COMM,Montgomerie Hall,"Montgomerie HallGilmour StreetEagleshamEast Renfrewshire",G76 0LH,RESOTH,11-Dec-15,FHPASS
+2008/1384/COMM,Morrisons Plc,"Morrisons38 Fenwick RoadGiffnockEast Renfrewshire",G46 6AA,SUPER,05-Dec-14,FHPASS
+2014/1986/COMM,Mount Cafe,"Mount Cafe2A Burnfield RoadGiffnockEast Renfrewshire",G46 7QB,RESTUR,17-Sep-16,FHPASS
+2014/1958/COMM,Mrs D. MacMillan,"9 Paidmyre GardensNewton MearnsEast Renfrewshire",G77 5AH,CARING,11-Nov-14,SENPAS
+2010/1576/COMM,Mrs Deborah Turner,"713 Clarkston RoadNetherleeEast Renfrewshire",G44 3UD,CARING,27-Jan-16,PASPRI
+2011/1640/COMM,Mrs Gillian Christiansen,"35 Cleuch GardensClarkstonEast Renfrewshire",G76 7QD,CARING,17-Nov-16,SENPAS
+2013/1879/COMM,Mrs G's Kitchen,"41 Gateside CrescentBarrheadEast Renfrewshire",G78 1LN,RESOTH,12-Nov-15,PASPRI
+2011/1595/COMM,Mrs M A McGrory,"6 Ryat DriveNewton MearnsEast Renfrewshire",G77 6SU,RESOTH,09-Jun-16,SENPAS
+2003/0665/COMM,Muirend Pavilion,"Muirend PavilionHazelden GardensGiffnockEast Renfrewshire",G44 3HQ,RESOTH,21-Oct-14,FHPASS
+03/00303/COMM,Muirend Pharmacy,"523 Clarkston RoadNetherleeEast Renfrewshire",G44 3PN,RETAIL,31-Jan-14,FHPASS
+2014/1934/COMM,Murco,"Murco692 Clarkston RoadClarkstonEast Renfrewshire",G44 3YR,RETAIL,27-Aug-14,FHPASS
+2004/1024/COMM,Mure Hall,"Mure Hall13 Tannoch RoadUplawmoorEast Renfrewshire",G78 4AD,RESOTH,04-Nov-14,FHPASS
+2016/2063/COMM,Muscle Junction,"The Wee Shop32 Glasgow RoadBarrheadEast Renfrewshire",G78 1BU,RETAIL,21-Mar-16,FHPASS
+2010/1493/COMM,Myra Maclean,"1A Quarry RoadBarrheadEast Renfrewshire",G78 1HF,RESOTH,04-Aug-15,SENPAS
+2013/1864/COMM,ND05 YHT,"1 Dalmoak Road,Greenock,",PA15 3AE,MOBIFO,12-May-16,PASPRI
+2003/0656/COMM,Neilston Bowling Club,"Neilston Bowling ClubKingston RoadNeilstonEast Renfrewshire",G78 3HZ,RESOTH,02-Nov-16,FHPASS
+2004/1038/COMM,Neilston Licensed Grocer,"142 Main StreetNeilstonEast Renfrewshire",G78 3JX,RETAIL,31-Oct-16,FHPASS
+2003/0688/COMM,Neilston Licensed Grocer,"Neilston Greengrocer58 Main StreetNeilstonEast Renfrewshire",G78 3NJ,RETAIL,17-Nov-15,FHPASS
+2003/0687/COMM,Neilston Parish Church And Hall,"Neilston Parish Church Hall51 High StreetNeilstonEast Renfrewshire",G78 3HJ,RESOTH,10-Dec-13,FHPASS
+2003/1544/COMM,Neilston Pharmacy,"Neilston Pharmacy55 - 57 Main StreetNeilstonEast Renfrewshire",G78 3NH,RETAIL,28-May-14,EXEMPT
+2003/0657/COMM,Neilston Primary School,"Neilston Primary School43 High StreetNeilstonEast Renfrewshire",G78 3HJ,SCHCOL,16-Jun-16,FHPASS
+2016/2131/COMM,Neilston Scout Hall And Nippy Sweeties,"Scout Hall207 Main StreetNeilstonEast Renfrewshire",G78 3JU,RESOTH,25-Oct-16,FHPASS
+2004/1002/COMM,Netherlee House,"Netherlee House170 Netherlee RoadNetherleeEast Renfrewshire",G44 3QB,RESOTH,13-Sep-16,FHPASS
+03/00327/COMM,Netherlee Parish Church,"Netherlee Church130 Ormonde AvenueNetherleeEast Renfrewshire",G44 3SL,RESOTH,03-May-16,FHPASS
+2003/0664/COMM,Netherlee Pavilion,"Netherlee Pavilion19 Linnpark AvenueNetherleeEast Renfrewshire",G44 3QD,RESOTH,29-Aug-14,FHPASS
+2014/1976/COMM,Netherlee Post And News,"Netherlee Newsagent737 Clarkston RoadNetherleeEast Renfrewshire",G44 3XA,RETAIL,05-Feb-15,FHPASS
+03/00306/COMM,Netherlee Primary School,"Netherlee Primary SchoolClarkston RoadNetherleeEast Renfrewshire",G44 3SF,SCHCOL,05-Sep-16,FHPASS
+2003/0696/COMM,Netherlee Scout Hall,"91st Glasgow (Netherlee) Scout Group51 Ormonde DriveNetherleeEast Renfrewshire",G44 3RD,RESOTH,07-Nov-16,FHPASS
+03/00081/COMM,New Turban Restaurant,"New Turban Indian Restaurant2 Fenwick PlaceGiffnockEast Renfrewshire",G46 6UF,RESTUR,19-Apr-16,FHPASS
+2015/2049/COMM,New Wings Diner,"Wings39 - 41 Main StreetBusbyEast Renfrewshire",G76 8DS,TAKE,07-Dec-16,FHPASS
+2003/00359/COMM,Newlands Home Bakery,"Newlands Home Bakery27 Eaglesham RoadClarkstonEast Renfrewshire",G76 7DH,RESTUR,09-Jun-16,FHPASS
+2003/0452/COMM,Newlands Home Bakery,"Newlands Home Bakery11 Broomburn DriveNewton MearnsEast Renfrewshire",G77 5JQ,RESTUR,25-Feb-16,FHPASS
+2003/0451/COMM,Newton Mearns Baptist Church,"Church2 Greenfarm RoadNewton MearnsEast Renfrewshire",G77 6FA,RESOTH,12-Feb-16,FHPASS
+2003/0770/COMM,Newton Mearns Parish Church,"241 Ayr RoadNewton MearnsEast Renfrewshire",G77 6AH,RESOTH,23-Jan-14,FHPASS
+2014/1957/COMM,Niche Gifts And Specialist Whiskies,"Aquarius12A The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,RETAIL,12-Jan-15,FHPASS
+2011/1667/COMM,Nicola Canning,"5 Glen Falloch CrescentNeilstonEast Renfrewshire",G78 3QY,CARING,21-Feb-12,SENPAS
+2016/2078/COMM,Nicos And The Roll Shop,"Filling Station161 Glasgow RoadBarrheadEast Renfrewshire",G78 1DT,RESTUR,03-Jul-16,FHPASS
+2003/0817/COMM,Nonna Gina's,"Pavone Sud Restaurant34 - 35 The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,RESTUR,18-Nov-16,FHPASS
+03/00217/COMM,Norwood Care Home,"Norwood39 Victoria RoadBarrheadEast Renfrewshire",G78 1NQ,CARING,29-Feb-16,FHPASS
+03/00169/COMM,Nuffield Health And Fitness,"Nuffield Health82 Braidholm RoadGiffnockEast Renfrewshire",G46 6ED,RESOTH,29-Aug-16,FHPASS
+03/00023/COMM,Olde House Inn,"Olde House Inn132 Main StreetNeilstonEast Renfrewshire",G78 3JU,PUBCLU,17-Feb-12,FHPASS
+2011/1635/COMM,Olive It Med,"Olive It Med146 Fenwick RoadGiffnockEast Renfrewshire",G46 6XW,RETAIL,17-Nov-15,FHPASS
+2003/0572/COMM,One O One Convenience Store,"One O One55A Main StreetThornliebankEast Renfrewshire",G46 7RX,RETAIL,18-May-15,FHPASS
+2003/0695/COMM,Orchard Park Convenience Store,"Orchard Park Convenience Store123 Orchard Park AvenueGiffnockEast Renfrewshire",G46 7BW,RETAIL,18-Nov-15,FHPASS
+03/00066/COMM,Orchard Park Hotel,"Orchard Park Hotel2 Park RoadGiffnockEast Renfrewshire",G46 7PH,HOT,25-May-16,FHPASS
+2014/1925/COMM,Orchard Park Nursery,"Crosslees NurseryCrosslees DriveThornliebankEast Renfrewshire",G46 7DY,CARING,01-Sep-15,FHPASS
+2014/1919/COMM,Orchard Park Nursery,"Orchard Park Nursery59 Barrhead RoadNewton MearnsEast Renfrewshire",G77 6BB,CARING,15-Jan-15,FHPASS
+2004/0998/COMM,Orchardhill Parish Church,"14 Church RoadGiffnockEast Renfrewshire",G46 6JR,RESOTH,12-May-15,FHPASS
+03/00355/COMM,Oscars,"Oscars108 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EG,RESTUR,08-Dec-15,FHPASS
+2003/0798/COMM,Our Lady Of The Missions,"Our Lady Of The Missions49 Robslee RoadThornliebankEast Renfrewshire",G46 7DD,SCHCOL,02-Dec-15,FHPASS
+2003/0793/COMM,Overlee Pavilion,"Sports PavilionOverlee ParkMoray DriveClarkstonEast Renfrewshire",G76 8NL,RESOTH,29-Aug-12,FHPASS
+2010/1501/COMM,Pamela Coulthard,"131 Craighlaw AvenueEagleshamEast Renfrewshire",G76 0EY,RESOTH,01-Sep-15,SENPAS
+2014/1954/COMM,Pamela Renfrew,"76 Grahamston ParkBarrheadEast Renfrewshire",G78 1NJ,CARING,10-Nov-14,SENPAS
+2012/1751/COMM,Pane E Vino,"Pane E Vino208 - 210 Fenwick RoadGiffnockEast Renfrewshire",G46 6UE,RESTUR,27-Aug-15,FHPASS
+03/00370/COMM,Para Para,"Para Para5 Eaglesham RoadClarkstonEast Renfrewshire",G76 7BU,RETAIL,13-Aug-15,IMPROV
+2003/0795/COMM,Park Church,"1 Ravenscliffe DriveGiffnockEast Renfrewshire",G46 7QR,RESOTH,31-Jan-14,FHPASS
+03/00113/COMM,Parklands Health Club,"Parklands Country Club196 Ayr RoadNewton MearnsEast Renfrewshire",G77 6DT,RESOTH,22-Mar-16,FHPASS
+2010/1505/COMM,Pauline Brogan,"105 Orchard Park AvenueGiffnockEast Renfrewshire",G46 7BW,RESOTH,27-Aug-15,SENPAS
+2003/0642/COMM,Peking Village,"Peking Village89 - 91 Gilmour StreetEagleshamEast Renfrewshire",G76 0LH,RESTUR,06-Jul-15,FHPASS
+2011/1656/COMM,Peter's Fish And Chips,"Peters Fish And Chicken Bar216 Carnwadric RoadThornliebankEast Renfrewshire",G46 8PF,TAKE,29-Oct-15,FHPASS
+2013/1818/COMM,Piccolini E Vino,"275 Mearns RoadNewton MearnsEast Renfrewshire",G77 5LU,RESTUR,26-Feb-16,FHPASS
+03/00210/COMM,Pizza Hut,"Pizza Hut UK Ltd17 The TollBusby RoadClarkstonEast Renfrewshire",G76 7BG,TAKE,05-Oct-16,FHPASS
+2010/1565/COMM,Planet Play,"Planet Play67 - 69 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1RR,RESOTH,29-Apr-15,FHPASS
+2013/1884/COMM,Polish Corner,"Polish CornerUnit 12 Main StreetThornliebankEast Renfrewshire",G46 7SH,SUPER,21-Jul-15,FHPASS
+2015/2010/COMM,Popeyes,"Livorno16 Busby RoadClarkstonEast Renfrewshire",G76 7XL,TAKE,04-Jul-16,FHPASS
+2005/1177/COMM,Post Office,"Post Office53A Main StreetThornliebankEast Renfrewshire",G46 7SF,RETAIL,19-Dec-16,IMPROV
+2003/0838/COMM,Poundstretcher,"Westbourne Centre56 Kelburn StreetBarrheadEast Renfrewshire",,RETAIL,29-Jun-15,FHPASS
+2012/1706/COMM,Premier Inn And Beefeater,"Beefeater Grill3 Greenlaw WayNewton MearnsEast Renfrewshire",G77 6EF,RESTUR,15-Feb-16,FHPASS
+03/00204/COMM,Primavera,"Mall Cafe20 The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,RESTUR,13-Dec-16,FHPASS
+2016/2124/COMM,Puf's Pastries,"30 Stamperland DriveClarkstonEast Renfrewshire",G76 8HE,RESOTH,12-Dec-16,PASPRI
+2003/0703/COMM,R A Dunbar And Son,"48 Main StreetNeilstonEast Renfrewshire",G78 3NJ,MANUFA,10-Jan-17,FHPASS
+2003/0435/COMM,R S McColl,"8 Glasgow RoadEagleshamEast Renfrewshire",G76 0JQ,RETAIL,15-Aug-16,FHPASS
+03/00357/COMM,R S McColl,"Post Office29 Eaglesham RoadClarkstonEast Renfrewshire",G76 7DH,RETAIL,22-Mar-16,FHPASS
+2003/0502/COMM,R S McColl,"269 Mearns RoadNewton MearnsEast Renfrewshire",G77 5LU,RETAIL,06-Sep-16,FHPASS
+03/00202/COMM,R S McColl,"Post Office11 The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,RETAIL,11-Nov-15,FHPASS
+2014/1955/COMM,Rachel's Bakes,"16 Torburn AvenueGiffnockEast Renfrewshire",G46 7RB,RESOTH,12-Nov-15,PASPRI
+2012/1785/COMM,Railway Cottage Nursery,"17 Carlibar RoadBarrheadEast Renfrewshire",G78 1AA,CARING,27-Oct-16,FHPASS
+2013/1816/COMM,RC And M Imrie,"RC And M Imrie18A Glasgow RoadEagleshamEast Renfrewshire",G76 0JQ,RETAIL,11-Mar-16,FHPASS
+03/00384/COMM,Red Fort,"The Red Fort46 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1QU,RESTUR,31-Aug-16,FHPASS
+2010/1515/COMM,Roslyn Scrimgeour,"48 Moray DriveClarkstonEast Renfrewshire",G76 8NN,RESOTH,07-Sep-15,SENPAS
+2003/1546/COMM,Rouken Glen Garden Centre,"Rouken Glen Garden CentreRouken Glen ParkRouken Glen RoadGiffnockEast Renfrewshire",G46 7UG,RESTUR,03-Sep-15,FHPASS
+2014/1956/COMM,Roundabout,"The Roundabout2A Glasgow RoadBarrheadEast Renfrewshire",G78 1BS,RESTUR,20-Jan-15,FHPASS
+2003/0612/COMM,Ruby Palace,"Ruby Palace562 Clarkston RoadNetherleeEast Renfrewshire",G44 3RT,RESTUR,27-Jan-16,FHPASS
+03/00409/COMM,Rumours,"RumoursCross Arthurlie StreetBarrheadEast Renfrewshire",G78 1RR,PUBCLU,03-Mar-15,FHPASS
+2013/1890/COMM,Ruth Greenhalgh,"31 The PaddockBusbyEast Renfrewshire",G76 8SL,CARING,05-Feb-14,SENPAS
+2003/0531/COMM,S J At Snooks,"S J At SnooksUnit 12Westbourne Centre56 Kelburn StreetBarrheadEast Renfrewshire",G78 1LR,RESTUR,23-Oct-15,FHPASS
+2009/1450/COMM,S015 AUU,#Error,#Error,MOBIFO,26-Feb-16,PASPRI
+03/00241/COMM,Saffron,"Saffron232A Main StreetBarrheadEast Renfrewshire",G78 1SN,RESTUR,17-May-16,FHPASS
+2010/1566/COMM,Sainsbury's,"Sainburys Local188 Fenwick RoadGiffnockEast Renfrewshire",G46 6UE,SUPER,27-Nov-15,FHPASS
+03/00034/COMM,Salvation Army,"201 Main StreetBarrheadEast Renfrewshire",G78 1SD,RESOTH,31-May-16,FHPASS
+2014/1917/COMM,Sam's Chinese Takeaway,"Sam's Chinese Takeaway5 Fenwick RoadGiffnockEast Renfrewshire",G46 6AU,TAKE,10-Feb-16,FHPASS
+03/00025/COMM,Santi`s New Yorker,"Unit 2146 Main StreetBarrheadEast Renfrewshire",G78 1SG,TAKE,04-Feb-16,FHPASS
+2016/2083/COMM,Savers Health And Beauty,"Skill Development Scotland160 Main StreetBarrheadEast Renfrewshire",G78 1SL,RETAIL,22-Apr-16,FHPASS
+2014/1982/COMM,Savu's Indian Kitchen,"276 Glasgow RoadEagleshamEast Renfrewshire",G76 0EW,RESTUR,07-Aug-15,SENPAS
+2015/2029/COMM,SB57 XMV,"1 Dalmoak RoadGreenock",PA15 3AE,TAKE,12-Nov-15,PASPRI
+2014/1965/COMM,Schools Out,"Netherlee Pavilion19 Linnpark AvenueNetherleeEast Renfrewshire",G44 3PL,SCHCOL,27-May-15,FHPASS
+2005/1216/COMM,School's Out,"91st Glasgow (Netherlee) Scout Group51 Ormonde DriveNetherleeEast Renfrewshire",G44 3RD,RESOTH,24-Mar-15,FHPASS
+03/00042/COMM,Scotmid,"36 Mearns RoadClarkstonEast Renfrewshire",G76 7EU,RETAIL,21-Apr-15,FHPASS
+2007/1368/COMM,Scotmid,"Scotmid60 Aurs DriveBarrheadEast Renfrewshire",G78 2LW,RETAIL,15-Nov-16,FHPASS
+03/00309/COMM,Scotmid,"ScotMid3 Cheapside StreetEagleshamEast Renfrewshire",G76 0JZ,SUPER,29-Apr-14,FHPASS
+03/00070/COMM,SE07 BZY,"29 Carmunnock Road,Mount Florida,Glasgow,",G44 4TZ,MOBIFO,12-Aug-16,PASPRI
+2014/1960/COMM,Shabeena Hussain,"4 Norbreck DriveGiffnockEast Renfrewshire",G46 6AF,RESOTH,06-Jan-15,SENPAS
+2003/1852/COMM,Shaheds Tandoori,"215 Fenwick RoadGiffnockEast Renfrewshire",G46 6JD,TAKE,04-Nov-15,FHPASS
+03/00288/COMM,Shanks Bowling Club,"Shanks Bowling Club38 Victoria RoadBarrheadEast Renfrewshire",G78 1NQ,RESOTH,10-May-16,FHPASS
+2012/1730/COMM,Sharin Nicolson,"1 Strathearn RoadClarkstonEast Renfrewshire",G76 7TY,CARING,07-Mar-12,SENPAS
+2015/2067/COMM,Sheila C Macnab,"47 Merrylee Park AvenueGiffnockEast Renfrewshire",G46 6HR,RESOTH,08-Feb-16,PASPRI
+2003/0801/COMM,Shell Service Station,"Glen Service StationSpiersbridge RoadThornliebankEast Renfrewshire",G46 7HT,RETAIL,15-Jun-15,FHPASS
+2014/1989/COMM,SL04 UPT,"Busby RoadBusby Lay By",G76 9BN,TAKE,12-Nov-15,PASPRI
+2016/2081/COMM,SL10 EDU,"1134 South StreetGlasgow",G14 0AP,RESOTH,29-Apr-16,PASPRI
+2012/1733/COMM,Smithy's Tablet,"8 Forres GateGiffnockEast Renfrewshire",G46 6NT,RESOTH,11-Nov-15,PASPRI
+2015/2035/COMM,Somi Greengrocers,"Somi Greengrocers61C Main StreetThornliebankEast Renfrewshire",G46 7RX,RETAIL,12-Apr-16,FHPASS
+03/00329/COMM,Southfield House,"Happy Days TooSouthfield House423 Mearns RoadNewton MearnsEast Renfrewshire",G77 5RY,CARING,29-Mar-16,FHPASS
+2003/0602/COMM,Spar,"Spar87 Main StreetThornliebankEast Renfrewshire",G46 7RY,SUPER,03-May-16,FHPASS
+2016/2121/COMM,Special Day Event Hire,"10 Glen Muir RoadNeilstonEast Renfrewshire",G78 3RG,MOBIFO,15-Nov-16,SENPAS
+2003/1547/COMM,Speed Chinese Takeaway,"Speed Chinese TakeawayUnit 271 Main StreetNeilstonEast Renfrewshire",G78 3NH,TAKE,24-Mar-16,FHPASS
+2007/1344/COMM,Sportykids,"Sporty Kids LtdUnit 272 Spiersbridge RoadThornliebankEast Renfrewshire",G46 7SN,RESTUR,03-Mar-15,FHPASS
+03/00090/COMM,Springhill Primary School,"Springhill School House90 Springhill RoadBarrheadEast Renfrewshire",G78 2SE,SCHCOL,10-Nov-15,FHPASS
+2003/0539/COMM,St Aidens Episcopal Church,"36 Mearns RoadClarkstonEast Renfrewshire",G76 7EU,RESOTH,30-Jan-14,FHPASS
+2009/1455/COMM,St Andrews Church,"St Andrews Church2 Ralston RoadBarrheadEast Renfrewshire",G78 2RR,RESOTH,17-Sep-14,FHPASS
+2003/0702/COMM,St Andrews Church (Main Street Hall),"St Andrews ChurchMain StreetBarrheadEast Renfrewshire",G78 1SG,RESOTH,01-Oct-14,FHPASS
+03/00067/COMM,St Bridget`s Church,"St Bridgets Church12 Polnoon StreetEagleshamEast Renfrewshire",G76 0BH,RESOTH,31-May-16,FHPASS
+2003/0441/COMM,St Cadocs Church,"St Cadocs Church26 Fruin AvenueNewton MearnsEast Renfrewshire",G77 6HA,RESOTH,26-Aug-15,FHPASS
+03/00348/COMM,St Cadocs Primary School,"St Cadocs Primary School51 Crookfur RoadNewton MearnsEast Renfrewshire",G77 6TT,SCHCOL,04-Dec-15,FHPASS
+2003/1854/COMM,St John's Church,"St John's Church1 Aurs RoadBarrheadEast Renfrewshire",G78 2RW,RESOTH,23-Jan-15,FHPASS
+03/00388/COMM,St John's Primary School,"St Johns Primary School18 Commercial RoadBarrheadEast Renfrewshire",G78 1AJ,SCHCOL,09-Dec-16,FHPASS
+03/00061/COMM,St Josephs Primary School,"St Josephs Primary SchoolOliphant CrescentBusbyEast Renfrewshire",G76 8PT,SCHCOL,26-Mar-15,FHPASS
+03/00089/COMM,St Lukes High School,"St Lukes High School25 Springfield RoadBarrheadEast Renfrewshire",G78 2SG,SCHCOL,11-Jan-17,FHPASS
+03/00076/COMM,St Marks Primary School,"St Marks Primary School30 Roebank DriveBarrheadEast Renfrewshire",G78 2JA,SCHCOL,26-Apr-16,FHPASS
+03/00006/FOOD,St Thomas Primary,"St Thomas Primary School23 Broadlie RoadNeilstonEast Renfrewshire",G78 3ET,SCHCOL,28-Oct-16,FHPASS
+2003/0814/COMM,Stamperland Bowling Club,"5 Nethervale AvenueNetherleeEast Renfrewshire",G44 3XT,RESOTH,14-Sep-15,FHPASS
+03/00184/COMM,Stamperland Community And Social Club,"61 Stamperland HillClarkstonEast Renfrewshire",G76 8AJ,RESOTH,23-Dec-16,FHPASS
+03/00181/COMM,Stamperland Newsagent,"Stamperland Newsagents141 Stamperland GardensClarkstonEast Renfrewshire",G76 8LJ,RETAIL,24-Apr-15,FHPASS
+03/00093/COMM,Stamperland Parish Church,"11 Stamperland GardensClarkstonEast Renfrewshire",G76 8HQ,RESOTH,03-Jun-16,FHPASS
+03/00185/COMM,Stamperland Residents Association - Hall,"63 Stamperland HillClarkstonEast Renfrewshire",G76 8AJ,RESOTH,23-Feb-16,FHPASS
+03/00375/COMM,Strathclyde Fire Brigade,"Clarkston Fire Station1 Dorian DriveClarkstonEast Renfrewshire",G76 7NT,RESOTH,24-Mar-16,FHPASS
+2003/0680/COMM,Strathclyde Fire Brigade,"Barrhead Fire Station30 Grahamston RoadBarrheadEast Renfrewshire",G78 1TL,RESOTH,23-Jun-15,FHPASS
+2009/1420/COMM,Subway,"Subway79 Main StreetThornliebankEast Renfrewshire",G46 7RY,TAKE,19-Aug-15,FHPASS
+2008/1370/COMM,Subway,"Subway190 - 192 Main StreetBarrheadEast Renfrewshire",G78 1SL,TAKE,09-May-16,FHPASS
+2007/1350/COMM,Subway,"Subway156 Fenwick RoadGiffnockEast Renfrewshire",G46 6XW,TAKE,05-Mar-15,FHPASS
+2011/1638/COMM,Subway,"Central Buildings No 776 Busby RoadClarkstonEast Renfrewshire",G76 7AU,TAKE,19-Jan-16,FHPASS
+03/00028/COMM,Sunningdale Service Station,"Filling StationAyr RoadNewton MearnsEast Renfrewshire",G77 6QU,RETAIL,29-Jul-14,FHPASS
+2015/2005/COMM,Sunnybank Childcare,"26 Sunnybank DriveClarkstonEast Renfrewshire",G76 7ST,CARING,17-Jul-15,SENPAS
+2016/2057/COMM,Super Whippy,"4 Langcraigs DriveGlenburnPaisley",PA2 8JW,RETAIL,07-Jan-16,PASPRI
+01/00002/COMM,Superdrug,"Superdrug Stores1A The Avenue At Mearns250 Ayr RoadNewton MearnsEast Renfrewshire",G77 6EY,RETAIL,10-Mar-15,FHPASS
+2010/1525/COMM,Susan Martin,"1 Stamperland CrescentClarkstonEast Renfrewshire",G76 8LQ,RESOTH,24-Sep-15,SENPAS
+2012/1734/COMM,Suzy Q Cakes,"17 MillviewBarrheadEast Renfrewshire",G78 1AN,RESOTH,12-Nov-15,PASPRI
+2015/2014/COMM,Swan Inn,"Swan Inn23 Polnoon StreetEagleshamEast Renfrewshire",G76 0BH,RESTUR,25-Aug-16,FHPASS
+2014/1997/COMM,Sweet Celebrations Glasgow,"32 Fraser AvenueNewton MearnsEast Renfrewshire",G77 6HP,RETOTH,12-Nov-15,PASPRI
+2008/1385/COMM,T232 SSF,#Error,#Error,MOBIFO,12-Nov-15,PASPRI
+2015/2043/COMM,Take The Cannoli,"97 Braidpark DriveGiffnockEast Renfrewshire",G46 6LY,RESOTH,19-Nov-15,PASPRI
+2012/1794/COMM,Tao,"Tao91B Main StreetThornliebankEast Renfrewshire",G46 7RY,TAKE,20-Jan-16,FHPASS
+03/00022/COMM,Taste Of China,"Taste Of China130 Main StreetBarrheadEast Renfrewshire",G78 1SG,TAKE,12-Jan-16,FHPASS
+2009/1433/COMM,Tea For Two,"Tea For Two61A Main StreetThornliebankEast Renfrewshire",G46 7RX,RESTUR,04-Oct-16,IMPROV
+2003/0654/COMM,Tesco,"Tesco Stores60 Kelburn StreetBarrheadEast Renfrewshire",G78 1LR,SUPER,09-Jun-15,FHPASS
+2007/1337/COMM,Tesco,"54 Busby RoadClarkstonEast Renfrewshire",G76 7AT,RETAIL,27-May-15,FHPASS
+2010/1484/COMM,Tesco,"TescoUnit 13 Greenlaw PlaceNewton MearnsEast Renfrewshire",G77 6GR,SUPER,11-Aug-15,FHPASS
+2007/1345/COMM,The Bank Cafe,"Bank Cafe84 Main StreetNeilstonEast Renfrewshire",G78 3EA,RESOTH,14-Jun-16,FHPASS
+2011/1639/COMM,The Beangrinder,"Eastwood Recreation Centre6 Eastwood ParkRouken Glen RoadGiffnockEast Renfrewshire",G46 7JS,RESTUR,24-Mar-15,FHPASS
+2014/1994/COMM,The Bijou Wine Company,"4 May TerraceGiffnockEast Renfrewshire",G46 6LD,MOBIFO,12-Nov-15,PASPRI
+2013/1820/COMM,The Boathouse,"9 Davieland RoadGiffnockEast Renfrewshire",G46 7LA,RESTUR,28-Jul-16,FHPASS
+03/00396/COMM,The Brig Inn,"Flat 1-1141 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1EX,PUBCLU,16-Feb-15,FHPASS
+2014/1951/COMM,The Busby Hotel,"Busby Hotel1 Field RoadBusbyEast Renfrewshire",G76 8RX,RESTUR,15-Dec-16,FHPASS
+03/00047/COMM,The Co-Operative,"The Co-Operative265 Mearns RoadNewton MearnsEast Renfrewshire",G77 5LU,RETAIL,27-Aug-15,FHPASS
+03/00362/COMM,The Co-Operative,"The Co-Operative17 Eaglesham RoadClarkstonEast Renfrewshire",G76 7DH,SUPER,21-Oct-15,FHPASS
+03/00315/COMM,The Derby Cafe,"The Derby Cafe677 Clarkston RoadNetherleeEast Renfrewshire",G44 3SE,RESTUR,22-Sep-15,FHPASS
+2003/0666/COMM,The Firs Nursing Home,"The Firs Nursing Home12 Lowndes StreetBarrheadEast Renfrewshire",G78 2QX,CARING,05-Sep-16,FHPASS
+2014/1959/COMM,The Foundry Cafe,"Barrhead Sports Centre205 Main StreetBarrheadEast Renfrewshire",G78 1SW,RESTUR,29-Jan-15,FHPASS
+2015/2000/COMM,The Glittery Whisk,"13 Otterburn DriveGiffnockEast Renfrewshire",G46 6PZ,RESOTH,12-Nov-15,PASPRI
+03/00111/COMM,The Golden Kitchen,"Golden Kitchen230 Ayr RoadNewton MearnsEast Renfrewshire",G77 6AA,TAKE,14-Jan-16,FHPASS
+2016/2114/COMM,The Greenhouse Cafe,"Eastwood Health And Care CentreDrumby CrescentClarkstonEast Renfrewshire",G76 7NH,RESTUR,24-Oct-16,FHPASS
+2010/1488/COMM,The Italian Job,"The Italian Job145 Stamperland GardensClarkstonEast Renfrewshire",G76 8LJ,RESTUR,02-Feb-16,FHPASS
+2013/1824/COMM,The Kiosk,"The Kiosk30 Kingston RoadNeilstonEast Renfrewshire",G78 3JR,RETAIL,03-Feb-15,IMPROV
+2015/2034/COMM,The Little Lady Bakes,"64 Woodbank CrescentClarkstonEast Renfrewshire",G76 7DR,RESOTH,12-Nov-15,PASPRI
+2012/1780/COMM,The Magical Cake Company,"85 Harvie AvenueNewton MearnsEast Renfrewshire",G77 6LH,RESOTH,12-Nov-15,PASPRI
+2003/0454/COMM,The Movie Cafe,"18B Glasgow RoadEagleshamEast Renfrewshire",G76 0JQ,RESOTH,03-Mar-16,FHPASS
+2014/1935/COMM,The Overlee,"The Overlee14 Busby RoadClarkstonEast Renfrewshire",G76 7XL,RESTUR,09-Mar-16,FHPASS
+2016/2113/COMM,The Pad,"107 Main StreetNeilstonEast Renfrewshire",G78 3NH,RESTUR,15-Nov-16,FHPASS
+2013/1827/COMM,The Redhurst,"Redhurst27 Eastwoodmains RoadGiffnockEast Renfrewshire",G46 6QE,HOT,22-Sep-16,FHPASS
+2015/2047/COMM,The Rowallan Bar,"Rowallan Bar67 Main StreetThornliebankEast Renfrewshire",G46 7RX,PUBCLU,26-Jan-16,FHPASS
+2016/2087/COMM,The Royal,"The Royal198A Crookfur Shopping PrecinctHarvie AvenueNewton MearnsEast Renfrewshire",G77 6UT,RESTUR,20-Jun-16,FHPASS
+2011/1655/COMM,The Snack Box,"On-Site Tyres (Scotland) Ltd159 Glasgow RoadBarrheadEast Renfrewshire",G78 1DT,TAKE,11-Feb-16,FHPASS
+2015/2044/COMM,The Three Butterflies Bakery,"Flat 1Greenwood Court27 Greenwood RoadClarkstonEast Renfrewshire",G76 7AG,RESOTH,05-Nov-15,PASPRI
+2003/0617/COMM,The Toby Carvery,"The Toby CarveryGlasgow RoadHurletEast Renfrewshire",G53 7TG,RESTUR,05-Aug-15,FHPASS
+2014/1938/COMM,The Travellers Rest,"The Travellers Rest11 - 13 Neilston RoadNeilstonEast Renfrewshire",G78 3NT,RESTUR,20-Jan-16,FHPASS
+2015/2019/COMM,The Wee Bistro,"9 Eaglesham RoadNewton MearnsEast Renfrewshire",G77 5BW,RESTUR,12-Oct-15,FHPASS
+2011/1673/COMM,The Wee Fudge Company,"28 Stamperland DriveClarkstonEast Renfrewshire",G76 8HE,RESOTH,01-Nov-16,SENPAS
+03/00027/COMM,The White Cart,"The White Cart61 East Kilbride RoadBusbyEast Renfrewshire",G76 8HX,PUBCLU,03-Nov-15,FHPASS
+2014/1905/COMM,The White Elephant At GHA,"Glasgow Hutchesons Aloysians Rugby ClubRugby Club84 Braidholm RoadGiffnockEast Renfrewshire",G46 6EB,RESOTH,30-Oct-15,FHPASS
+2016/2136/COMM,The Williamwood Dairy,"Giffnock Convenience33 - 35 Eastwood Mains RoadGiffnockGlasgowEast Renfrewshire",G46 6PW,RETAIL,09-Nov-16,FHPASS
+2016/2139/COMM,The Wine Cru,"2 Priorwood GateNewton MearnsEast Renfrewshire",G77 6ZX,RETOTH,16-Dec-16,SENPAS
+2003/0524/COMM,The Wine Seller,"The Wine Seller10 Main StreetBusbyEast Renfrewshire",G76 8DU,RETAIL,18-Nov-15,FHPASS
+03/00057/COMM,The Wishing Well,"Wishing Well Tearoom63 Montgomery StreetEagleshamEast Renfrewshire",G76 0AU,RESTUR,11-Dec-15,FHPASS
+03/00174/COMM,Thomson Brothers,"Thomson Brothers168 Fenwick RoadGiffnockEast Renfrewshire",G46 6XF,RETOTH,16-Sep-16,FHPASS
+2003/0469/COMM,Thomsons Coffee,"Thomsons CoffeeUnit 25 Burnfield AvenueGiffnockEast Renfrewshire",G46 7TL,MANUFA,24-Mar-15,FHPASS
+2003/0498/COMM,Thornliebank Bowling Club,"29 Kennishead RoadThornliebankEast Renfrewshire",G46 8NX,RESOTH,30-Apr-15,FHPASS
+2006/1280/COMM,Thornliebank Parish Church,"Thornliebank Parish61 Spiersbridge RoadThornliebankEast Renfrewshire",G46 7HT,RESOTH,29-Mar-16,FHPASS
+103/00021/COMM,Thornliebank Primary School,"Thornliebank Primary School129 Main StreetThornliebankEast Renfrewshire",G46 7RW,SCHCOL,16-Dec-16,FHPASS
+2004/0926/COMM,Thornliebank Resource Centre,"1 Robslee DriveGiffnockEast Renfrewshire",G46 7BA,CARING,30-Sep-15,FHPASS
+2003/0707/COMM,Thorntree Hall,"49B Main StreetThornliebankEast Renfrewshire",G46 7SF,RESOTH,17-Aug-15,FHPASS
+2015/2037/COMM,Three In One Plus,"Three In One Plus232A Ayr RoadNewton MearnsEast Renfrewshire",G77 6AA,TAKE,07-Nov-16,IMPROV
+2011/1630/COMM,Three In One Plus,"Three In One PlusCentral Buildings No 266 Busby RoadClarkstonEast Renfrewshire",G76 7AU,TAKE,22-Jul-15,FHPASS
+2014/1924/COMM,Toll Newsagents,"Toll Newsagents4 Fenwick PlaceGiffnockEast Renfrewshire",G46 6UF,RETAIL,09-Jun-14,FHPASS
+2014/1998/COMM,Tom's Tablet,"21 Cedarwood AvenueNewton MearnsEast Renfrewshire",G77 5QB,RESOTH,12-Nov-15,PASPRI
+2003/0465/COMM,Toni's Pizzeria,"Toni's Pizzeria136 Fenwick RoadGiffnockEast Renfrewshire",G46 6XW,TAKE,26-Jan-16,FHPASS
+2012/1699/COMM,Tracey White,"98 Bonnyton DriveEagleshamEast Renfrewshire",G76 0LU,CARING,22-Sep-15,SENPAS
+2012/1713/COMM,Tracy Anne McVeigh,"9 Kirktonfield CrescentNeilstonEast Renfrewshire",G78 3PU,CARING,08-May-14,SENPAS
+2013/1901/COMM,Tribeca,"Tribeca1 Fenwick RoadGiffnockEast Renfrewshire",G46 6AU,RESTUR,21-Oct-15,FHPASS
+2003/0821/COMM,Trust Housing,"Trust Housing7 Eastwood CrescentThornliebankEast Renfrewshire",G46 8NS,CARING,06-Aug-15,FHPASS
+03/00186/COMM,Turban Tandoori,"2 Station RoadGiffnockEast Renfrewshire",G46 6JF,RESTUR,31-Mar-16,FHPASS
+2003/0780/COMM,United Reformed Church,"1 Lowndes StreetBarrheadEast Renfrewshire",G78 2QX,RESOTH,30-Sep-15,FHPASS
+2003/0739/COMM,United Services Club,"United Services Club64 Paisley RoadBarrheadEast Renfrewshire",G78 1NN,RESOTH,24-Nov-15,FHPASS
+2003/0504/COMM,Uplawmoor Hotel,"Uplawmoor Hotel66 Neilston RoadUplawmoorEast Renfrewshire",G78 4AF,HOT,01-Oct-15,FHPASS
+03/00194/COMM,Uplawmoor Primary School,"Uplawmoor Primary School23 Tannoch RoadUplawmoorEast Renfrewshire",G78 4AD,SCHCOL,28-May-15,FHPASS
+2016/2055/COMM,Usave,"10A Springhill RoadBarrheadEast Renfrewshire",G78 2BD,RETAIL,31-Dec-15,FHPASS
+2016/2054/COMM,Val Brown,"90 Hillend CrescentClarkstonEast Renfrewshire",G76 7XX,RESOTH,07-Jan-16,PASPRI
+2015/2056/COMM,Valentina Pesiri,"26 Primrose AvenueNewton MearnsEast Renfrewshire",G77 6FS,CARING,12-Jan-16,SENPAS
+03/00119/COMM,Valentini's,"Valentinis234 Ayr RoadNewton MearnsEast Renfrewshire",G77 6AA,TAKE,12-Mar-15,FHPASS
+03/00351/COMM,Valentini's,"190 Fenwick RoadGiffnockEast Renfrewshire",G46 6UE,TAKE,29-Feb-16,FHPASS
+2016/2079/COMM,Value Convenience Store,"Premier48 Busby RoadClarkstonEast Renfrewshire",G76 7XJ,RETAIL,12-Apr-16,IMPROV
+2015/2045/COMM,Victoria Armet,"123 The OvalClarkstonEast Renfrewshire",G76 8LX,CARING,11-Dec-15,SENPAS
+03/00063/COMM,Victoria Stores,"Victoria Stores54 Paisley RoadBarrheadEast Renfrewshire",G78 1ND,RETAIL,21-Jul-15,FHPASS
+2003/0525/COMM,Village Bakers,"The Village Bakers7 Main StreetBusbyEast Renfrewshire",G76 8DS,TAKE,12-Nov-15,FHPASS
+2013/1895/COMM,Volare,"Volare222 Ayr RoadNewton MearnsEast Renfrewshire",G77 6DR,RESTUR,27-Oct-15,FHPASS
+2011/1619/COMM,Waitrose,"Waitrose2 Greenlaw PlaceNewton MearnsEast Renfrewshire",G77 6GW,SUPER,22-Jan-15,FHPASS
+2012/1775/COMM,Wedding Belle Cakes,"Gilmour Cottages60 Neilston RoadUplawmoorEast Renfrewshire",G78 4AF,RESOTH,03-Nov-15,PASPRI
+2003/0537/COMM,Wellmeadow Lodge,"Wellmeadow Lodge100 Meadow WayNewton MearnsEast Renfrewshire",G77 6XJ,CARING,26-Aug-16,FHPASS
+2003/0849/COMM,Westacres,"Westacres Nursing Home3 Westacres RoadNewton MearnsEast Renfrewshire",G77 6WW,CARING,23-Feb-16,FHPASS
+03/00393/COMM,Westlea Residential Lodge,"Westlea3 Donnies BraeBarrheadEast Renfrewshire",G78 3PT,CARING,19-Jun-15,FHPASS
+03/00084/COMM,Whitecraigs Bowling Club,"Whitecraigs Bowling Club67 Ayr RoadNewton MearnsEast Renfrewshire",G46 6SR,RESOTH,18-Dec-14,FHPASS
+03/00011/COMM,Whitecraigs Golf Club,"Whitecraigs Golf ClubAyr RoadNewton MearnsEast Renfrewshire",G46 6SW,RESOTH,07-Mar-16,FHPASS
+00/00002/COMM,Whitecraigs Rugby Club,"Whitecraigs Rugby Club Villa201 Aurs RoadNewton MearnsEast Renfrewshire",G77 6PX,RESOTH,02-Sep-15,FHPASS
+03/00074/COMM,Whitecraigs Tennis Club,"Whitecraigs Tennis And Sports Club22 Roddinghead RoadNewton MearnsEast Renfrewshire",G46 6TN,RESOTH,22-Dec-16,FHPASS
+2009/1453/COMM,Whitelee Visitor Centre,"Whitelee Visitor CentreMoor RoadEagleshamEast Renfrewshire",G76 0QQ,RESTUR,20-Feb-15,FHPASS
+2011/1670/COMM,Whole Foods Market,"Whole Foods134 Fenwick RoadGiffnockEast Renfrewshire",G46 6XN,RETAIL,23-Aug-16,FHPASS
+03/00336/COMM,Williamwood Golf Club,"Williamwood Golf Club HouseClarkston RoadClarkstonEast Renfrewshire",G44 3YR,RESOTH,05-Sep-16,FHPASS
+2006/1286/COMM,Williamwood High School,"Williamwood High SchoolEaglesham RoadClarkstonEast Renfrewshire",G76 8RF,SCHCOL,24-Mar-16,FHPASS
+2003/0716/COMM,Williamwood House,"Williamwood House34 Strathtay AvenueNetherleeEast Renfrewshire",G44 3YA,CARING,27-Apr-16,FHPASS
+03/00073/COMM,Williamwood News,"Williamwood News43 Eastwoodmains RoadGiffnockEast Renfrewshire",G46 6PW,RETAIL,21-Jul-11,FHPASS
+03/00216/COMM,Williamwood Parish Church,"Williamwood Parish Church2 Vardar AvenueClarkstonEast Renfrewshire",G76 7QP,RESOTH,16-Jun-16,FHPASS
+2010/1579/COMM,Wilma Dougall,"3 Langton PlaceNewton MearnsEast Renfrewshire",G77 6QZ,CARING,04-Nov-15,SENPAS
+2003/0812/COMM,Woodfarm High School,"Woodfarm High School54 Robslee RoadThornliebankEast Renfrewshire",G46 7HQ,SCHCOL,11-Mar-16,FHPASS
+03/00419/COMM,Woodfarm Pavilion,"18 Berryhill DriveGiffnockEast Renfrewshire",G46 7AA,RESOTH,02-May-14,FHPASS
+2016/2109/COMM,Woody's Stonebaked Pizza Co,"Davie The Artist76 Cross Arthurlie StreetBarrheadEast Renfrewshire",G78 1RP,TAKE,16-Aug-16,FHPASS
+2015/2033/COMM,Yasmeen Malik,"6 Norbreck DriveGiffnockEast Renfrewshire",G46 6AF,CARING,07-Oct-15,SENPAS
+2009/1457/COMM,Zippy's Gymnastic Academy,"Zippy Gymnastics Academy Ltd4 Burnfield AvenueGiffnockEast Renfrewshire",G46 7TL,RESTUR,10-Feb-15,FHPASS
+2011/1605/COMM,Zyka,"ZykaUnit 123 Greenlaw PlaceNewton MearnsEast Renfrewshire",G77 6GR,RESTUR,10-Jan-17,FHPASS

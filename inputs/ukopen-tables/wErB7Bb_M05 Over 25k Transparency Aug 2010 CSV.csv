@@ -1,0 +1,146 @@
+Department,Entity,Payment Date,Expense Type,Expense Area,Supplier,Transaction Nr,AMOUNT
+Specialist Hospitals,UCLH,04-Aug-10,Nursing Staff,Medical Director,Pulse Healthcare Ltd,618795,44356.25
+Specialist Hospitals,UCLH,04-Aug-10,Nursing Staff,Medical Director,Pulse Healthcare Ltd,618797,58456.25
+Corporate Directorates,UCLH,18-Aug-10,Agency Staff,Agency Staff,Hays Accountancy Person'l,HA30093009,111687.62
+Surgery,UCLH,04-Aug-10,Agency Staff,Agency Staff,Hays Accountancy Person'l,HA30092454,129200.97
+Surgery,UCLH,11-Aug-10,Agency Staff,Agency Staff,Hays Accountancy Person'l,HA30092746,132325.66
+Corporate Directorates,UCLH,18-Aug-10,Auditors Remuneration,Finance Directorate,RSM Tenon Limited,607975,43229.43
+Capital,UCLH,25-Aug-10,Capital,Corporate Capital Schemes,BMJ Architects,619700,29342.69
+Capital,UCLH,25-Aug-10,Capital,Specialist Hospitals CB Capita,Brainlab  Ltd,35141542,158244.95
+Capital,UCLH,25-Aug-10,Capital,Corporate Capital Schemes,BW Interiors Limited,621085,360777.5
+Capital,UCLH,11-Aug-10,Capital,Specialist Hospitals CB Capita,EDF Energy Networks Ltd,619639,132470.38
+Capital,UCLH,04-Aug-10,Capital,Specialist Hospitals CB Capita,Envair Projects Ltd,618483,66475.63
+Capital,UCLH,18-Aug-10,Capital,Specialist Hospitals CB Capita,H & C Contracts Ltd,620629,38267.64
+Capital,UCLH,25-Aug-10,Capital,Corporate Capital Schemes,Hopkins Architects Partnership LLP,620585,29646.35
+Capital,UCLH,04-Aug-10,Capital,Corporate Capital Schemes,Kind & Co,617948,70735
+Capital,UCLH,25-Aug-10,Capital,Specialist Hospitals CB Capita,Logica Uk Ltd,35141545,-40877.08
+Capital,UCLH,25-Aug-10,Capital,Specialist Hospitals CB Capita,Logica Uk Ltd,35141550,40877.08
+Capital,UCLH,25-Aug-10,Capital,Corporate Capital Schemes,Logica Uk Ltd,620573,125095.2
+Capital,UCLH,04-Aug-10,Capital,Specialist Hospitals CB Capita,M E Construction Ltd,618492,96111.79
+Capital,UCLH,25-Aug-10,Capital,Specialist Hospitals CB Capita,Overbury Plc,621008,107364.45
+Capital,UCLH,25-Aug-10,Capital,Specialist Hospitals CB Capita,Schneider Electric Buildings UK Ltd,621254,62233.95
+Capital,UCLH,25-Aug-10,Capital,Corporate Capital Schemes,Scott Tallon Walker Architects,619635,41125
+Capital,UCLH,04-Aug-10,Capital,Corporate Capital Schemes,Siemens Healthcare,35130587,35623.42
+Capital,UCLH,18-Aug-10,Capital,Corporate Capital Schemes,Skanska,620602,1665689.4
+Corporate Directorates,UCLH,25-Aug-10,Contract Services,IM&T Directorate,Iron Mountain (UK) Limited,610210,92182.85
+Corporate Directorates,UCLH,25-Aug-10,Contract Services,IM&T Directorate,Iron Mountain (UK) Limited,611765,105815.82
+Corporate Services,UCLH,04-Aug-10,Contract Services,Facilities Directorate,Bisley Contracting Ltd,35144863,25550.38
+Corporate Services,UCLH,27-Aug-10,Contract Services,Facilities Directorate,Health Management Uclh,614289,505072.07
+Corporate Services,UCLH,27-Aug-10,Contract Services,Facilities Directorate,Health Management Uclh,607978,645508.58
+Surgery,UCLH,25-Aug-10,Contract Services,General Surgery,PRN Transcription Ltd,609751,37406.18
+Clinical Services,UCLH,11-Aug-10,Drugs and Medical Gases,PMM,Alliance Healthcare (Distribution|) Ltd,615158,31490
+Clinical Services,UCLH,25-Aug-10,Drugs and Medical Gases,PMM,Gilead Sciences Ltd,617189,51641.25
+Clinical Services,UCLH,04-Aug-10,Drugs and Medical Gases,PMM,Healthcare At Home Ltd,621845,52507.81
+Clinical Services,UCLH,04-Aug-10,Drugs and Medical Gases,PMM,Healthcare Product Srvs,20015485,26555
+Clinical Services,UCLH,04-Aug-10,Drugs and Medical Gases,PMM,Janssen Cilag Ltd,35142470,35831.86
+Clinical Services,UCLH,11-Aug-10,Drugs and Medical Gases,PMM,Roche Products Ltd,624032,33889.47
+Clinical Services,UCLH,04-Aug-10,Drugs and Medical Gases,PMM,Roche Products Ltd,609806,112854.64
+Specialist Hospitals,UCLH,11-Aug-10,Drugs and Medical Gases,NHNN,NHS Business Services Authority,621846,97536.85
+Specialist Hospitals,UCLH,11-Aug-10,Drugs and Medical Gases,NHNN,NHS Business Services Authority,615374,103945.75
+Specialist Hospitals,UCLH,11-Aug-10,Drugs and Medical Gases,NHNN,NHS Business Services Authority,613396,281955.78
+Specialist Hospitals,UCLH,25-Aug-10,Drugs and Medical Gases,NHNN,NHS Business Services Authority,615775,445496.78
+Specialist Hospitals,UCLH,11-Aug-10,Drugs and Medical Gases,NHNN,NHS Business Services Authority,619008,590006.6
+Specialist Hospitals,UCLH,11-Aug-10,Drugs and Medical Gases,NHNN,NHS Business Services Authority,621844,688254.4
+Specialist Hospitals,UCLH,11-Aug-10,Drugs and Medical Gases,NHNN,NHS Business Services Authority,35131718,775830.81
+Surgery,UCLH,25-Aug-10,Drugs and Medical Gases,Nuclear Medicine,Covidien (UK) Commercial Ltd,35106004,29349.15
+Corporate Services,UCLH,11-Aug-10,Energy & Water,Facilities Directorate,Gower Street Heat & Power,618787,27686.91
+Corporate Services,UCLH,18-Aug-10,Energy & Water,Facilities Directorate,Southern Electric,608594,25666.03
+Corporate Services,UCLH,18-Aug-10,Energy & Water,Facilities Directorate,Southern Electric,614700,27474.47
+Corporate Services,UCLH,18-Aug-10,Energy & Water,Facilities Directorate,Southern Electric,20015037,38149.11
+Corporate Services,UCLH,18-Aug-10,Energy & Water,Facilities Directorate,Southern Electric,20015339,40831.86
+Specialist Hospitals,UCLH,16-Aug-10,"Imaging Film, Equipment and Materials",NHNN,Singers Healthcare Finance Limited,623847,34745.54
+Specialist Hospitals,UCLH,31-Aug-10,"Imaging Film, Equipment and Materials",NHNN,Singers Healthcare Finance Limited,608664,43124.49
+Corporate Directorates,UCLH,31-Aug-10,Insurance - Premiums,Clinical Governance / Risk,NHS Litigation Authority,611674,673579
+Corporate Directorates,UCLH,31-Aug-10,Insurance - Premiums,Clinical Governance / Risk,NHS Litigation Authority,615757,673579
+Specialist Hospitals,UCLH,25-Aug-10,Interpreting Services,Womens,Language Line Ltd,607974,47578.34
+Specialist Hospitals,UCLH,25-Aug-10,Interpreting Services,Womens,Language Line Ltd,607971,49546.58
+Corporate Directorates,UCLH,18-Aug-10,IT Equipment & Supplies,IM&T Directorate,SAC Services Ltd,20015312,31613.38
+Specialist Hospitals,UCLH,25-Aug-10,IT Equipment & Supplies,NHNN,Logica Uk Ltd,608421,29504.25
+Clinical Services,UCLH,25-Aug-10,Lab Equipment and Materials,Pathology,University College London - UNIVE01,607981,27383.8
+Surgery,UCLH,06-Aug-10,Lab Equipment and Materials,Nuclear Medicine,Advanced Accelerator Application (Italy),607967,25803.78
+Surgery,UCLH,06-Aug-10,Lab Equipment and Materials,Nuclear Medicine,Advanced Accelerator Application (Italy),607966,25803.78
+Corporate Directorates,UCLH,11-Aug-10,Legal Fees,Capital Investment,Herbert Smith,620358,40094.35
+Clinical Services,UCLH,16-Aug-10,MSSE and Dressings,"Depreciation, Dividends & Asse",Alliance& Leicester Commercial Finance P,620205,54825.02
+Specialist Hospitals,UCLH,04-Aug-10,MSSE and Dressings,Heart Hospital,Johnson & Johnson Medical,608597,25045.49
+Specialist Hospitals,UCLH,18-Aug-10,MSSE and Dressings,Heart Hospital,Johnson & Johnson Medical,35138895,61749.18
+Specialist Hospitals,UCLH,18-Aug-10,MSSE and Dressings,NHNN,Medtronic Ltd,35106214,29112.27
+Specialist Hospitals,UCLH,11-Aug-10,MSSE and Dressings,NHNN,Medtronic Ltd,35138411,35262.34
+Specialist Hospitals,UCLH,25-Aug-10,MSSE and Dressings,Heart Hospital,St Jude Medical UK Ltd,609164,39068.75
+Surgery,UCLH,25-Aug-10,MSSE and Dressings,Imaging,Agfa Heathcare Uk Ltd,612228,48380.33
+Surgery,UCLH,25-Aug-10,MSSE and Dressings,Theatres & Anaesthetics,Johnson & Johnson Medical,574181,30190.05
+Surgery,UCLH,25-Aug-10,MSSE and Dressings,Cancer Services,Nucletron Uk Ltd,617988,89039.15
+Surgery,UCLH,04-Aug-10,MSSE and Dressings,Urology,Storz Medical Uk Ltd,615153,32312.5
+Specialist Hospitals,UCLH,18-Aug-10,Patient Appliances and Prostheses,Heart Hospital,Boston Scientific Ltd,35147892,52072.26
+Specialist Hospitals,UCLH,11-Aug-10,Patient Appliances and Prostheses,Heart Hospital,Boston Scientific Ltd,35135041,107119.22
+Corporate Services,UCLH,04-Aug-10,"Printing, Stationery and Postage",Facilities Directorate,Purchase Power,35116544,25000
+Specialist Hospitals,UCLH,18-Aug-10,Purchase of Healthcare from Non-NHS Org's,NHNN,National Society Of Epilepsy,610237,175440.75
+Surgery,UCLH,25-Aug-10,Purchase of Healthcare from Non-NHS Org's,Cancer Services,Anthony Nolan Trust,35129292,32110
+Surgery,UCLH,04-Aug-10,Purchase of Healthcare from Non-NHS Org's,Cancer Services,Anthony Nolan Trust,35146301,33320
+Surgery,UCLH,04-Aug-10,Purchase of Healthcare from Non-NHS Org's,Cancer Services,Anthony Nolan Trust,35146313,33320
+Surgery,UCLH,04-Aug-10,Purchase of Healthcare from Non-NHS Org's,Cancer Services,Anthony Nolan Trust,35112883,40920
+Clinical Services,UCLH,11-Aug-10,Recharges-Other NHS Bodies,Pathology,NHS Blood and Transplant,20015036,383467.95
+Specialist Hospitals,UCLH,11-Aug-10,Recharges-Other NHS Bodies,Heart Hospital,Heart Hospital Imaging Centre,621163,57400
+Specialist Hospitals,UCLH,11-Aug-10,Recharges-Other NHS Bodies,Heart Hospital,Heart Hospital Imaging Centre,611596,65800
+Specialist Hospitals,UCLH,25-Aug-10,Recharges-Other NHS Bodies,Paediatrics,NHS Islington Provider Services,613383,38652.89
+Clinical Services,UCLH,16-Aug-10,Rent and Rates,Pathology,Whitfield St Laboratories Ltd,35121789,188469.18
+Clinical Services,UCLH,16-Aug-10,Rent and Rates,Pathology,Whitfield St Properties Ltd,623639,111074.95
+Corporate Directorates,UCLH,04-Aug-10,Rent and Rates,Capital Investment,London Borough Of Camden,607061,31871
+Corporate Directorates,UCLH,04-Aug-10,Rent and Rates,Capital Investment,London Borough Of Camden,622361,46967
+Corporate Directorates,UCLH,04-Aug-10,Rent and Rates,Capital Investment,London Borough Of Camden,617315,126459
+Corporate Directorates,UCLH,04-Aug-10,Rent and Rates,Capital Investment,London Borough Of Camden,618906,223788
+Corporate Services,UCLH,04-Aug-10,Rent and Rates,Facilities Directorate,Dron & Wright,623665,31397.99
+Corporate Services,UCLH,04-Aug-10,Rent and Rates,Facilities Directorate,Dron & Wright,615161,64500
+Corporate Services,UCLH,04-Aug-10,Rent and Rates,Facilities Directorate,Dron & Wright,623955,353427.57
+Corporate Directorates,UCLH,25-Aug-10,Research Costs,Research & Development,University College London - UNIVE01,607806,36025.6
+Corporate Directorates,UCLH,25-Aug-10,Research Costs,Research & Development,University College London - UNIVE01,35106300,121635
+Corporate Directorates,UCLH,25-Aug-10,Research Costs,Research & Development,University College London - UNIVE01,35118582,142151
+Corporate Directorates,UCLH,11-Aug-10,Research Costs,Research & Development,University College London - UNIVE01,35109285,177085
+Staff Bank Office,UCLH,25-Aug-10,Staff Bank Office,Staff Bank Office,Pulse Healthcare Ltd,618859,214502.5
+Staff Bank Office,UCLH,11-Aug-10,Staff Bank Office,Staff Bank Office,Pulse Healthcare Ltd,619699,244041.83
+Staff Bank Office,UCLH,18-Aug-10,Staff Bank Office,Staff Bank Office,Pulse Healthcare Ltd,620034,254557.93
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,AAH Pharmaceuticals Ltd,621324,-35720
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,AAH Pharmaceuticals Ltd,621323,35720
+Hampstead Road Pharmacy Stock,UCLH,04-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Abbott Laboratories Ltd,P0191890,58808.75
+Hampstead Road Pharmacy Stock,UCLH,18-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Abbott Laboratories Ltd,P0194219,62443.26
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Alliance Healthcare (Distribution|) Ltd,P0194258,27934.49
+Hampstead Road Pharmacy Stock,UCLH,04-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Alliance Healthcare (Distribution|) Ltd,P0192483,31115.39
+Hampstead Road Pharmacy Stock,UCLH,11-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Alliance Healthcare (Distribution|) Ltd,P0193586,34726.61
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Alliance Healthcare (Distribution|) Ltd,P0194282,39250.45
+Hampstead Road Pharmacy Stock,UCLH,18-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Alliance Healthcare (Distribution|) Ltd,P0193801,61766.84
+Hampstead Road Pharmacy Stock,UCLH,11-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Amgen Ltd,P0192967,35250.35
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Amgen Ltd,P0194692,43475.38
+Hampstead Road Pharmacy Stock,UCLH,04-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Bioproducts Laboratory,P0194342,70015
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Boehringer Ingelheim Ltd,P0194138,43416.25
+Hampstead Road Pharmacy Stock,UCLH,18-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Bristol Myers Squibb Phar,P0194182,78004.04
+Hampstead Road Pharmacy Stock,UCLH,04-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Careology Ltd,P0193395,40774.52
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Careology Ltd,P0196607,40774.52
+Hampstead Road Pharmacy Stock,UCLH,18-Aug-10,Drugs,Hampstead Road Pharmacy Stock,CSL Behring Uk Ltd,P0194287,34000
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Genzyme Therapeutics,P0194673,209185.25
+Hampstead Road Pharmacy Stock,UCLH,18-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Genzyme Therapeutics,P0193993,251022.3
+Hampstead Road Pharmacy Stock,UCLH,11-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Gilead Sciences Ltd,P0193267,55744.35
+Hampstead Road Pharmacy Stock,UCLH,18-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Gilead Sciences Ltd,P0194012,103282.5
+Hampstead Road Pharmacy Stock,UCLH,18-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Gilead Sciences Ltd,P0194013,297138.54
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Grifols UK,P0194687,34023.5
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Healthcare Product Srvs,P0194990,30794.4
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Healthcare Product Srvs,P0194336,39832.5
+Hampstead Road Pharmacy Stock,UCLH,04-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Idis Ltd,P0193262,40126.25
+Hampstead Road Pharmacy Stock,UCLH,11-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Ipsen Ltd,P0193608,51844.76
+Hampstead Road Pharmacy Stock,UCLH,18-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Janssen Cilag Ltd,P0193604,40784.9
+Hampstead Road Pharmacy Stock,UCLH,04-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Janssen Cilag Ltd,P0192775,56209.65
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Novartis Pharmaceuticals Uk Ltd,P0195037,27197.31
+Hampstead Road Pharmacy Stock,UCLH,04-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Novartis Pharmaceuticals Uk Ltd,P0191800,44780.43
+Hampstead Road Pharmacy Stock,UCLH,11-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Novartis Pharmaceuticals Uk Ltd,P0194011,49744.8
+Hampstead Road Pharmacy Stock,UCLH,18-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Novartis Pharmaceuticals Uk Ltd,P0194313,49960.71
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Novartis Pharmaceuticals Uk Ltd,P0194664,54000.56
+Hampstead Road Pharmacy Stock,UCLH,18-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Novartis Pharmaceuticals Uk Ltd,P0194315,103872.76
+Hampstead Road Pharmacy Stock,UCLH,25-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Roche Products Ltd,P0194024,31838.34
+Hampstead Road Pharmacy Stock,UCLH,11-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Roche Products Ltd,P0193218,113201.11
+Hampstead Road Pharmacy Stock,UCLH,18-Aug-10,Drugs,Hampstead Road Pharmacy Stock,Roche Products Ltd,P0194341,126636.13
+Supplies Department,UCLH,25-Aug-10,Medical and Surgical Supplies,Supplies Department,NHS Supply Chain DE55,621535,205812.4
+Supplies Department,UCLH,25-Aug-10,Medical and Surgical Supplies,Supplies Department,NHS Supply Chain DE55,621532,215773.86
+Supplies Department,UCLH,11-Aug-10,Medical and Surgical Supplies,Supplies Department,NHS Supply Chain DE55,618276,227657.3
+Supplies Department,UCLH,04-Aug-10,Medical and Surgical Supplies,Supplies Department,NHS Supply Chain DE55,617906,239029.59
+Corporate Directorates,UCLH,18-Aug-10,Telephones,IM&T Directorate,Azzurri Communications Ltd,622318,84643.82
+Clinical Services,UCLH,25-Aug-10,Transport Costs,NHNN,Door 2 Door PTS Ltd,35132067,56658.01
+Clinical Services,UCLH,25-Aug-10,Transport Costs,NHNN,Door 2 Door PTS Ltd,35120213,88292.93
+Clinical Services,UCLH,11-Aug-10,Transport Costs,Heart Hospital,Door 2 Door PTS Ltd,35120206,90894.79

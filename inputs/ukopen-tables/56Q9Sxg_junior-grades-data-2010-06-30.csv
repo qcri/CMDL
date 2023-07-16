@@ -1,0 +1,757 @@
+Parent Department,Organisation,Unit,Reporting SCS post reference,Grade,Payscale minimum,Payscale maximum,Generic job title,Number of such posts in FTE
+BIS,BIS,Business Group,B-2-0503-PR,Grade 6,50043,75983,,1
+BIS,BIS,Business Group,B-2-0503-PR,Grade 7,40686,64151,,2.6
+BIS,BIS,Business Group,B-2-0503-PR,SEO,28741,49798,,1.94
+BIS,BIS,Business Group,B-2-0503-PR,HEO,22300,45000,,2
+BIS,BIS,Business Group,B-2-0503-PR,EO,18763,35000,,2
+BIS,BIS,Business Group,B-2-0503-PR,AO,16325,22126,,2
+BIS,BIS,Business Group,B-3-0511-JM,Grade 7,40686,64151,,1
+BIS,BIS,Business Group,B-3-0552-ND,Grade 7,40686,64151,,1
+BIS,BIS,Business Group,B-3-0552-ND,EO,18763,35000,,1
+BIS,BIS,Business Group,B-3-0631-DH,Grade 7,40686,64151,,1
+BIS,BIS,Business Group,B-3-0631-DH,EO,18763,35000,,1
+BIS,BIS,Business Group,B-3-0741-PL,Grade 7,40686,64151,,1
+BIS,BIS,Business Group,B-3-0741-PL,HEO,22300,45000,,1
+BIS,BIS,Business Group,B-3-0741-PL,EO,18763,35000,,0.86
+BIS,BIS,Business Group,B-5-0503-DD9,Grade 6,50043,75983,,1.33
+BIS,BIS,Business Group,B-5-0503-DD9,Grade 7,40686,64151,,3.81
+BIS,BIS,Business Group,B-5-0503-DD9,HEO,22300,45000,,2
+BIS,BIS,Business Group,B-5-0511-DD24,Grade 6,50043,75983,,6.41
+BIS,BIS,Business Group,B-5-0511-DD24,Grade 7,40686,64151,,11.41
+BIS,BIS,Business Group,B-5-0511-DD24,SEO,28741,49798,,3
+BIS,BIS,Business Group,B-5-0511-DD24,HEO,22300,45000,,8
+BIS,BIS,Business Group,B-5-0511-DD24,EO,18763,35000,,2
+BIS,BIS,Business Group,B-5-0511-DD24,AO,16325,22126,,1
+BIS,BIS,Business Group,B-5-0521-DD23,Grade 6,50043,75983,,3
+BIS,BIS,Business Group,B-5-0521-DD23,Grade 7,40686,64151,,5
+BIS,BIS,Business Group,B-5-0521-DD23,SEO,28741,49798,,2
+BIS,BIS,Business Group,B-5-0521-DD23,HEO,22300,45000,,3.51
+BIS,BIS,Business Group,B-5-0521-DD23,EO,18763,35000,,1
+BIS,BIS,Business Group,B-5-0533-DD1,Grade 6,50043,75983,,1
+BIS,BIS,Business Group,B-5-0533-DD1,Grade 7,40686,64151,,6
+BIS,BIS,Business Group,B-5-0533-DD1,SEO,28741,49798,,3
+BIS,BIS,Business Group,B-5-0533-DD1,HEO,22300,45000,,5
+BIS,BIS,Business Group,B-5-0533-DD1,AO,16325,22126,,2
+BIS,BIS,Business Group,B-5-0534-DD2,Grade 7,40686,64151,,1
+BIS,BIS,Business Group,B-5-0534-DD2,HEO,22300,45000,,1
+BIS,BIS,Business Group,B-5-0541-DD4,Grade 6,50043,75983,,4
+BIS,BIS,Business Group,B-5-0541-DD4,Grade 7,40686,64151,,8.83
+BIS,BIS,Business Group,B-5-0541-DD4,HEO,22300,45000,,0.89
+BIS,BIS,Business Group,B-5-0541-DD4,EO,18763,35000,,1
+BIS,BIS,Business Group,B-5-0541-DD4,AO,16325,22126,,1.64
+BIS,BIS,Business Group,B-5-0561-DD5,Grade 6,50043,75983,,2
+BIS,BIS,Business Group,B-5-0561-DD5,Grade 7,40686,64151,,7
+BIS,BIS,Business Group,B-5-0561-DD5,SEO,28741,49798,,3
+BIS,BIS,Business Group,B-5-0561-DD5,HEO,22300,45000,,1
+BIS,BIS,Business Group,B-5-0561-DD5,EO,18763,35000,,2
+BIS,BIS,Business Group,B-5-0561-DD5,AO,16325,22126,,1
+BIS,BIS,Business Group,B-5-0562-DD6,Grade 6,50043,75983,,1
+BIS,BIS,Business Group,B-5-0562-DD6,Grade 7,40686,64151,,2
+BIS,BIS,Business Group,B-5-0562-DD6,SEO,28741,49798,,3
+BIS,BIS,Business Group,B-5-0562-DD6,AO,16325,22126,,1
+BIS,BIS,Business Group,B-5-0593-DD25,Grade 6,50043,75983,,3
+BIS,BIS,Business Group,B-5-0593-DD25,Grade 7,40686,64151,,9
+BIS,BIS,Business Group,B-5-0593-DD25,SEO,28741,49798,,1
+BIS,BIS,Business Group,B-5-0593-DD25,HEO,22300,45000,,5
+BIS,BIS,Business Group,B-5-0593-DD25,EO,18763,35000,,2.83
+BIS,BIS,Business Group,B-5-0600-DD7,Grade 6,50043,75983,,3
+BIS,BIS,Business Group,B-5-0600-DD7,Grade 7,40686,64151,,6
+BIS,BIS,Business Group,B-5-0600-DD7,SEO,28741,49798,,9
+BIS,BIS,Business Group,B-5-0600-DD7,HEO,22300,45000,,7
+BIS,BIS,Business Group,B-5-0600-DD7,EO,18763,35000,,5
+BIS,BIS,Business Group,B-5-0600-DD7,AO,16325,22126,,4
+BIS,BIS,Business Group,B-5-0622-DD8,Grade 7,40686,64151,,1
+BIS,BIS,Business Group,B-5-0622-DD8,HEO,22300,45000,,1
+BIS,BIS,Business Group,B-5-0661-DD17,Grade 6,50043,75983,,2
+BIS,BIS,Business Group,B-5-0661-DD17,Grade 7,40686,64151,,5
+BIS,BIS,Business Group,B-5-0661-DD17,SEO,28741,49798,,2.5
+BIS,BIS,Business Group,B-5-0661-DD17,HEO,22300,45000,,8.79
+BIS,BIS,Business Group,B-5-0661-DD17,EO,18763,35000,,2
+BIS,BIS,Business Group,B-5-0661-DD17,AO,16325,22126,,3
+BIS,BIS,Business Group,B-5-0681-DD18,Grade 6,50043,75983,,4.62
+BIS,BIS,Business Group,B-5-0681-DD18,Grade 7,40686,64151,,11
+BIS,BIS,Business Group,B-5-0681-DD18,SEO,28741,49798,,3
+BIS,BIS,Business Group,B-5-0681-DD18,HEO,22300,45000,,9
+BIS,BIS,Business Group,B-5-0681-DD18,EO,18763,35000,,2
+BIS,BIS,Business Group,B-5-0681-DD18,AO,16325,22126,,2
+BIS,BIS,Business Group,B-5-0692-DD20,Other,N/A,N/A,,1
+BIS,BIS,Business Group,B-5-0692-DD20,Grade 6,50043,75983,,3
+BIS,BIS,Business Group,B-5-0692-DD20,Grade 7,40686,64151,,7.89
+BIS,BIS,Business Group,B-5-0692-DD20,SEO,28741,49798,,5
+BIS,BIS,Business Group,B-5-0692-DD20,HEO,22300,45000,,2.69
+BIS,BIS,Business Group,B-5-0692-DD20,EO,18763,35000,,1
+BIS,BIS,Business Group,B-5-0703-DD21,Grade 6,50043,75983,,3
+BIS,BIS,Business Group,B-5-0703-DD21,Grade 7,40686,64151,,6
+BIS,BIS,Business Group,B-5-0703-DD21,SEO,28741,49798,,5
+BIS,BIS,Business Group,B-5-0703-DD21,EO,18763,35000,,1
+BIS,BIS,Business Group,B-5-0703-DD21,AO,16325,22126,,1
+BIS,BIS,Business Group,B-5-0711-DD26,Grade 6,50043,75983,,4
+BIS,BIS,Business Group,B-5-0711-DD26,Grade 7,40686,64151,,4.67
+BIS,BIS,Business Group,B-5-0711-DD26,SEO,28741,49798,,10
+BIS,BIS,Business Group,B-5-0711-DD26,HEO,22300,45000,,7
+BIS,BIS,Business Group,B-5-0711-DD26,EO,18763,35000,,6.58
+BIS,BIS,Business Group,B-5-0724-DD27,Grade 6,50043,75983,,3
+BIS,BIS,Business Group,B-5-0724-DD27,Grade 7,40686,64151,,10.95
+BIS,BIS,Business Group,B-5-0724-DD27,SEO,28741,49798,,3
+BIS,BIS,Business Group,B-5-0724-DD27,HEO,22300,45000,,5.61
+BIS,BIS,Business Group,B-5-0724-DD27,EO,18763,35000,,1
+BIS,BIS,Business Group,B-5-0756-DD14,Grade 6,50043,75983,,3.22
+BIS,BIS,Business Group,B-5-0756-DD14,Grade 7,40686,64151,,11.59
+BIS,BIS,Business Group,B-5-0756-DD14,HEO,22300,45000,,4.83
+BIS,BIS,Business Group,B-5-0756-DD14,EO,18763,35000,,2
+BIS,BIS,Business Group,B-5-0756-DD14,AO,16325,22126,,3.69
+BIS,BIS,Business Group,B-5-0764-DD15,Grade 6,50043,75983,,3
+BIS,BIS,Business Group,B-5-0764-DD15,Grade 7,40686,64151,,6.44
+BIS,BIS,Business Group,B-5-0764-DD15,HEO,22300,45000,,8
+BIS,BIS,Business Group,B-5-0764-DD15,EO,18763,35000,,1
+BIS,BIS,Business Group,B-5-0764-DD15,AO,16325,22126,,1
+BIS,BIS,Business Group,B-5-0781-DD16,Grade 6,50043,75983,,2
+BIS,BIS,Business Group,B-5-0781-DD16,Grade 7,40686,64151,,5
+BIS,BIS,Business Group,B-5-0781-DD16,SEO,28741,49798,,5
+BIS,BIS,Business Group,B-5-0781-DD16,HEO,22300,45000,,8.62
+BIS,BIS,Business Group,B-5-0781-DD16,EO,18763,35000,,1
+BIS,BIS,Business Group,B-5-0781-DD16,AO,16325,22126,,1.55
+BIS,BIS,Business Group,B-5-0792-DD10,Grade 6,50043,75983,,3.69
+BIS,BIS,Business Group,B-5-0792-DD10,Grade 7,40686,64151,,7
+BIS,BIS,Business Group,B-5-0792-DD10,HEO,22300,45000,,3
+BIS,BIS,Business Group,B-5-0792-DD10,EO,18763,35000,,3.56
+BIS,BIS,Business Group,B-5-0792-DD10,AO,16325,22126,,1.78
+BIS,BIS,Business Group,B-5-0793-DD11,Grade 7,40686,64151,,3
+BIS,BIS,Business Group,B-5-0793-DD11,HEO,22300,45000,,4
+BIS,BIS,Business Group,B-5-0793-DD11,EO,18763,35000,,1
+BIS,BIS,Business Group,B-5-0794-DD12,Grade 7,40686,64151,,1
+BIS,BIS,Business Group,B-5-0795-DD13,Grade 6,50043,75983,,1
+BIS,BIS,Business Group,B-5-0795-DD13,Grade 7,40686,64151,,12.69
+BIS,BIS,Business Group,B-5-0795-DD13,HEO,22300,45000,,4
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-2-6550-PR,Grade 6,50043,75983,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-2-6550-PR,HEO,22300,45000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-2-6550-PR,EO,18763,35000,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-1031-SE,Grade 6,50043,75983,,4
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-1031-SE,Grade 7,40686,64151,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-1031-SE,SEO,28741,49798,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-1031-SE,HEO,22300,45000,,3
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-1031-SE,EO,18763,35000,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-6511-ND,Grade 6,50043,75983,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-6511-ND,HEO,22300,45000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-6511-ND,Other,N/A,N/A,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-6521-JD,Grade 6,50043,75983,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-6521-JD,Grade 7,40686,64151,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-6521-JD,HEO,22300,45000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-6601-AJ,Grade 7,40686,64151,,3
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-6601-AJ,HEO,22300,45000,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-3-6601-AJ,AO,16325,22126,,3
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1033-DD1,Grade 7,40686,64151,,4
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1033-DD1,SEO,28741,49798,,3.45
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1033-DD1,HEO,22300,45000,,1.83
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1033-DD1,AO,16325,22126,,3.72
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1034-DD8,Grade 6,50043,75983,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1034-DD8,Grade 7,40686,64151,,4.81
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1034-DD8,SEO,28741,49798,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1034-DD8,HEO,22300,45000,,5
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1034-DD8,AO,16325,22126,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1035-DD5,Grade 7,40686,64151,,1.72
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1035-DD5,SEO,28741,49798,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1035-DD5,HEO,22300,45000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-1035-DD5,AO,16325,22126,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6040-DD17,Grade 6,50043,75983,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6040-DD17,Grade 7,40686,64151,,4
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6040-DD17,HEO,22300,45000,,3
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6040-DD17,EO,18763,35000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6040-DD18,Grade 6,50043,75983,,2.79
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6040-DD18,Grade 7,40686,64151,,5.53
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6040-DD18,HEO,22300,45000,,1.74
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6503-DD10,Grade 7,40686,64151,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6503-DD10,HEO,22300,45000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6503-DD10,EO,18763,35000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6511-DD12,Grade 6,50043,75983,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6511-DD12,Grade 7,40686,64151,,1.92
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6511-DD12,HEO,22300,45000,,6
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6511-DD12,EO,18763,35000,,6
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6511-DD16,Grade 6,50043,75983,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6511-DD16,Grade 7,40686,64151,,7.38
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6511-DD16,HEO,22300,45000,,3
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6511-DD2,Grade 6,50043,75983,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6511-DD2,Grade 7,40686,64151,,4
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6511-DD2,HEO,22300,45000,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6511-DD2,EO,18763,35000,,3.56
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6511-DD2,AO,16325,22126,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD11,HEO,22300,45000,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD11,EO,18763,35000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD13,Grade 7,40686,64151,,3
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD13,HEO,22300,45000,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD13,EO,18763,35000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD19,Grade 6,50043,75983,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD19,Grade 7,40686,64151,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD19,HEO,22300,45000,,4
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD20,Grade 6,50043,75983,,3
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD20,Grade 7,40686,64151,,8
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD20,HEO,22300,45000,,2.67
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD20,EO,18763,35000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD7,Grade 6,50043,75983,,1.97
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6521-DD7,HEO,22300,45000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6534-DD3,Grade 7,40686,64151,,4
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6534-DD3,HEO,22300,45000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6534-DD3,EO,18763,35000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6534-DD3,AO,16325,22126,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6611-DD15,Grade 6,50043,75983,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6611-DD15,Grade 7,40686,64151,,5
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6611-DD15,HEO,22300,45000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6611-DD15,EO,18763,35000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6631-DD9,Grade 6,50043,75983,,3
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6631-DD9,Grade 7,40686,64151,,3.89
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6631-DD9,SEO,28741,49798,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6631-DD9,HEO,22300,45000,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6641-DD6,Grade 6,50043,75983,,4
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6641-DD6,Grade 7,40686,64151,,9.78
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6641-DD6,SEO,28741,49798,,4
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6641-DD6,HEO,22300,45000,,2.58
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6641-DD6,EO,18763,35000,,5.67
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6651-DD14,Grade 6,50043,75983,,1
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6651-DD14,Grade 7,40686,64151,,7.21
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6651-DD14,SEO,28741,49798,,2.58
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6651-DD14,HEO,22300,45000,,2
+BIS,BIS,"Innovation, Enterprise and Better Regulation Executive",IEBRE-5-6651-DD14,EO,18763,35000,,1.17
+BIS,BIS,Fair Markets Group,FM-2-2002-BK,Grade 6,50043,75983,,0.89
+BIS,BIS,Fair Markets Group,FM-2-2002-BK,Grade 7,40686,64151,,2
+BIS,BIS,Fair Markets Group,FM-2-2002-BK,HEO,22300,45000,,2
+BIS,BIS,Fair Markets Group,FM-2-2002-BK,EO,18763,35000,,4
+BIS,BIS,Fair Markets Group,FM-3-2020-ND,SEO,28741,49798,,1
+BIS,BIS,Fair Markets Group,FM-3-2020-ND,EO,18763,35000,,1
+BIS,BIS,Fair Markets Group,FM-3-2071-RC,EO,18763,35000,,1
+BIS,BIS,Fair Markets Group,FM-3-2122-ND,Grade 6,50043,75983,,1
+BIS,BIS,Fair Markets Group,FM-3-2122-ND,SEO,28741,49798,,1
+BIS,BIS,Fair Markets Group,FM-3-2122-ND,HEO,22300,45000,,2
+BIS,BIS,Fair Markets Group,FM-3-2122-ND,EO,18763,35000,,1
+BIS,BIS,Fair Markets Group,FM-3-2122-ND,Other,N/A,N/A,,6
+BIS,BIS,Fair Markets Group,FM-3-2192-SC,EO,18763,35000,,2.12
+BIS,BIS,Fair Markets Group,FM-5-2021-DD7,Grade 6,50043,75983,,5.22
+BIS,BIS,Fair Markets Group,FM-5-2021-DD7,Grade 7,40686,64151,,2
+BIS,BIS,Fair Markets Group,FM-5-2021-DD7,SEO,28741,49798,,5.83
+BIS,BIS,Fair Markets Group,FM-5-2021-DD7,HEO,22300,45000,,9
+BIS,BIS,Fair Markets Group,FM-5-2021-DD7,EO,18763,35000,,2
+BIS,BIS,Fair Markets Group,FM-5-2021-DD7,AO,16325,22126,,1
+BIS,BIS,Fair Markets Group,FM-5-2021-DD7,AA,13605,15117,,1
+BIS,BIS,Fair Markets Group,FM-5-2022-DD11,Grade 6,50043,75983,,1
+BIS,BIS,Fair Markets Group,FM-5-2022-DD11,Grade 7,40686,64151,,5.4
+BIS,BIS,Fair Markets Group,FM-5-2022-DD11,SEO,28741,49798,,2
+BIS,BIS,Fair Markets Group,FM-5-2022-DD11,HEO,22300,45000,,5
+BIS,BIS,Fair Markets Group,FM-5-2022-DD11,EO,18763,35000,,1
+BIS,BIS,Fair Markets Group,FM-5-2022-DD11,AO,16325,22126,,2
+BIS,BIS,Fair Markets Group,FM-5-2022-DD11,Other,N/A,N/A,,1
+BIS,BIS,Fair Markets Group,FM-5-2031-DD8,Grade 6,50043,75983,,3
+BIS,BIS,Fair Markets Group,FM-5-2031-DD8,Grade 7,40686,64151,,2.89
+BIS,BIS,Fair Markets Group,FM-5-2031-DD8,HEO,22300,45000,,3
+BIS,BIS,Fair Markets Group,FM-5-2031-DD8,AO,16325,22126,,2
+BIS,BIS,Fair Markets Group,FM-5-2034-DD10,Grade 6,50043,75983,,4.28
+BIS,BIS,Fair Markets Group,FM-5-2034-DD10,Grade 7,40686,64151,,11.15
+BIS,BIS,Fair Markets Group,FM-5-2034-DD10,SEO,28741,49798,,2
+BIS,BIS,Fair Markets Group,FM-5-2034-DD10,HEO,22300,45000,,11.4
+BIS,BIS,Fair Markets Group,FM-5-2034-DD10,EO,18763,35000,,21.52
+BIS,BIS,Fair Markets Group,FM-5-2034-DD10,AO,16325,22126,,1
+BIS,BIS,Fair Markets Group,FM-5-2034-DD10,Other,N/A,N/A,,1
+BIS,BIS,Fair Markets Group,FM-5-2041-DD9,Grade 6,50043,75983,,1
+BIS,BIS,Fair Markets Group,FM-5-2041-DD9,Grade 7,40686,64151,,3
+BIS,BIS,Fair Markets Group,FM-5-2041-DD9,SEO,28741,49798,,3
+BIS,BIS,Fair Markets Group,FM-5-2041-DD9,HEO,22300,45000,,4
+BIS,BIS,Fair Markets Group,FM-5-2041-DD9,EO,18763,35000,,2
+BIS,BIS,Fair Markets Group,FM-5-2041-DD9,AO,16325,22126,,2
+BIS,BIS,Fair Markets Group,FM-5-2072-DD4,Grade 6,50043,75983,,2.6
+BIS,BIS,Fair Markets Group,FM-5-2072-DD4,Grade 7,40686,64151,,6.89
+BIS,BIS,Fair Markets Group,FM-5-2072-DD4,SEO,28741,49798,,2.59
+BIS,BIS,Fair Markets Group,FM-5-2072-DD4,HEO,22300,45000,,2
+BIS,BIS,Fair Markets Group,FM-5-2072-DD4,EO,18763,35000,,1
+BIS,BIS,Fair Markets Group,FM-5-2072-DD5,Grade 6,50043,75983,,2
+BIS,BIS,Fair Markets Group,FM-5-2072-DD5,Grade 7,40686,64151,,3.89
+BIS,BIS,Fair Markets Group,FM-5-2072-DD5,SEO,28741,49798,,3.9
+BIS,BIS,Fair Markets Group,FM-5-2072-DD5,HEO,22300,45000,,3
+BIS,BIS,Fair Markets Group,FM-5-2072-DD5,EO,18763,35000,,0.5
+BIS,BIS,Fair Markets Group,FM-5-2072-DD5,AO,16325,22126,,1
+BIS,BIS,Fair Markets Group,FM-5-2101-DD12,Grade 6,50043,75983,,2
+BIS,BIS,Fair Markets Group,FM-5-2101-DD12,Grade 7,40686,64151,,8.88
+BIS,BIS,Fair Markets Group,FM-5-2101-DD12,SEO,28741,49798,,1
+BIS,BIS,Fair Markets Group,FM-5-2101-DD12,HEO,22300,45000,,9
+BIS,BIS,Fair Markets Group,FM-5-2101-DD12,EO,18763,35000,,5
+BIS,BIS,Fair Markets Group,FM-5-2101-DD12,AO,16325,22126,,4
+BIS,BIS,Fair Markets Group,FM-5-2101-DD12,Other,N/A,N/A,,4
+BIS,BIS,Fair Markets Group,FM-5-2122-DD16,Grade 6,50043,75983,,1
+BIS,BIS,Fair Markets Group,FM-5-2122-DD16,Grade 7,40686,64151,,5
+BIS,BIS,Fair Markets Group,FM-5-2122-DD16,SEO,28741,49798,,2
+BIS,BIS,Fair Markets Group,FM-5-2122-DD16,HEO,22300,45000,,6
+BIS,BIS,Fair Markets Group,FM-5-2122-DD16,EO,18763,35000,,1
+BIS,BIS,Fair Markets Group,FM-5-2122-DD16,Other,N/A,N/A,,2
+BIS,BIS,Fair Markets Group,FM-5-2151-DD13,Grade 6,50043,75983,,2
+BIS,BIS,Fair Markets Group,FM-5-2151-DD13,Grade 7,40686,64151,,3
+BIS,BIS,Fair Markets Group,FM-5-2151-DD13,SEO,28741,49798,,4
+BIS,BIS,Fair Markets Group,FM-5-2151-DD13,HEO,22300,45000,,11
+BIS,BIS,Fair Markets Group,FM-5-2151-DD13,EO,18763,35000,,2
+BIS,BIS,Fair Markets Group,FM-5-2151-DD13,AO,16325,22126,,3
+BIS,BIS,Fair Markets Group,FM-5-2161-DD15,Grade 7,40686,64151,,2.5
+BIS,BIS,Fair Markets Group,FM-5-2161-DD15,HEO,22300,45000,,3
+BIS,BIS,Fair Markets Group,FM-5-2161-DD15,EO,18763,35000,,1
+BIS,BIS,Fair Markets Group,FM-5-2161-DD15,AO,16325,22126,,1
+BIS,BIS,Fair Markets Group,FM-5-2195-DD2,Grade 6,50043,75983,,1.59
+BIS,BIS,Fair Markets Group,FM-5-2195-DD2,Grade 7,40686,64151,,9
+BIS,BIS,Fair Markets Group,FM-5-2195-DD2,SEO,28741,49798,,2
+BIS,BIS,Fair Markets Group,FM-5-2195-DD2,HEO,22300,45000,,6.5
+BIS,BIS,Fair Markets Group,FM-5-2195-DD2,EO,18763,35000,,3
+BIS,BIS,Fair Markets Group,FM-5-2195-DD2,AO,16325,22126,,1
+BIS,BIS,Fair Markets Group,FM-5-2196-DD3,Grade 6,50043,75983,,3.27
+BIS,BIS,Fair Markets Group,FM-5-2196-DD3,Grade 7,40686,64151,,10
+BIS,BIS,Fair Markets Group,FM-5-2196-DD3,SEO,28741,49798,,6.8
+BIS,BIS,Fair Markets Group,FM-5-2196-DD3,HEO,22300,45000,,3
+BIS,BIS,Fair Markets Group,FM-5-2196-DD3,EO,18763,35000,,3.89
+BIS,BIS,Fair Markets Group,FM-5-2196-DD3,Other,N/A,N/A,,2
+BIS,BIS,Fair Markets Group,FM-5-2197-DD1,Grade 6,50043,75983,,1
+BIS,BIS,Fair Markets Group,FM-5-2197-DD1,Grade 7,40686,64151,,2.47
+BIS,BIS,Fair Markets Group,FM-5-2197-DD1,SEO,28741,49798,,4.67
+BIS,BIS,Fair Markets Group,FM-5-2197-DD1,HEO,22300,45000,,6
+BIS,BIS,Fair Markets Group,FM-5-2197-DD1,EO,18763,35000,,2
+BIS,BIS,Fair Markets Group,FM-5-2197-DD1,AO,16325,22126,,2
+BIS,BIS,Fair Markets Group,FM-5-2197-DD1,Other,N/A,N/A,,1
+BIS,BIS,Fair Markets Group,FM-5-2314-DD14,Grade 6,50043,75983,,3
+BIS,BIS,Fair Markets Group,FM-5-2314-DD14,Grade 7,40686,64151,,5
+BIS,BIS,Fair Markets Group,FM-5-2314-DD14,SEO,28741,49798,,4.9
+BIS,BIS,Fair Markets Group,FM-5-2314-DD14,HEO,22300,45000,,34.89
+BIS,BIS,Fair Markets Group,FM-5-2314-DD14,EO,18763,35000,,20.78
+BIS,BIS,Fair Markets Group,FM-5-2314-DD14,AO,16325,22126,,#VALUE!
+BIS,BIS,Fair Markets Group,FM-5-9400-DD6,Grade 6,50043,75983,,1
+BIS,BIS,Fair Markets Group,FM-5-9400-DD6,HEO,22300,45000,,1
+BIS,BIS,Fair Markets Group,FM-5-9400-DD6,EO,18763,35000,,3.76
+BIS,BIS,Fair Markets Group,FM-5-9400-DD6,AO,16325,22126,,0.69
+BIS,BIS,"Legal, People and Communications Group",LPC-2-4503-RS,Grade 6,50043,75983,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-2-4503-RS,Grade 7,40686,64151,,1.89
+BIS,BIS,"Legal, People and Communications Group",LPC-2-4503-RS,SEO,28741,49798,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-2-4503-RS,HEO,22300,45000,,2
+BIS,BIS,"Legal, People and Communications Group",LPC-2-4503-RS,EO,18763,35000,,3.72
+BIS,BIS,"Legal, People and Communications Group",LPC-2-4503-RS,AO,16325,22126,,4
+BIS,BIS,"Legal, People and Communications Group",LPC-2-4503-RS,Other,N/A,N/A,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-3-3501-ND,Grade 7,40686,64151,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-3-3501-ND,SEO,28741,49798,,1.78
+BIS,BIS,"Legal, People and Communications Group",LPC-3-3501-ND,HEO,22300,45000,,2
+BIS,BIS,"Legal, People and Communications Group",LPC-3-3501-ND,EO,18763,35000,,2
+BIS,BIS,"Legal, People and Communications Group",LPC-3-4511-SE,Grade 6,50043,75983,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-3-4511-SE,Grade 7,40686,64151,,8
+BIS,BIS,"Legal, People and Communications Group",LPC-3-4511-SE,SEO,28741,49798,,7
+BIS,BIS,"Legal, People and Communications Group",LPC-3-4511-SE,HEO,22300,45000,,50.56
+BIS,BIS,"Legal, People and Communications Group",LPC-3-4511-SE,EO,18763,35000,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-3-4511-SE,AO,16325,22126,,8
+BIS,BIS,"Legal, People and Communications Group",LPC-3-4531-SB,EO,18763,35000,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3530-DD1,Grade 6,50043,75983,,3
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3530-DD1,Grade 7,40686,64151,,8
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3530-DD1,SEO,28741,49798,,9
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3530-DD1,HEO,22300,45000,,17
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3530-DD1,EO,18763,35000,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3530-DD1,AO,16325,22126,,2
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3531-DD4,Grade 6,50043,75983,,2.41
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3531-DD4,Grade 7,40686,64151,,4
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3531-DD4,SEO,28741,49798,,10.39
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3531-DD4,HEO,22300,45000,,10
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3531-DD4,EO,18763,35000,,6
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3531-DD4,AO,16325,22126,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3532-DD2,Grade 7,40686,64151,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3532-DD2,SEO,28741,49798,,3
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3532-DD2,HEO,22300,45000,,2
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3532-DD2,EO,18763,35000,,6
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3532-DD2,AO,16325,22126,,6.58
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3533-DD3,Grade 7,40686,64151,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3533-DD3,SEO,28741,49798,,3
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3533-DD3,HEO,22300,45000,,3
+BIS,BIS,"Legal, People and Communications Group",LPC-5-3533-DD3,EO,18763,35000,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4394-DD6,Grade 6,50043,75983,,4
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4394-DD6,Grade 7,40686,64151,,11.62
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4394-DD6,SEO,28741,49798,,8.78
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4394-DD6,HEO,22300,45000,,18.81
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4394-DD6,EO,18763,35000,,12.9
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4394-DD6,AO,16325,22126,,17.32
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4394-DD6,AA,13605,15117,,2.6
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4432-DD7,Grade 6,50043,75983,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4432-DD7,Grade 7,40686,64151,,6.43
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4432-DD7,HEO,22300,45000,,5
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4432-DD7,AO,16325,22126,,3.12
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4439-DD8,Grade 6,50043,75983,,7.89
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4439-DD8,Grade 7,40686,64151,,7.89
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4439-DD8,SEO,28741,49798,,4
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4439-DD8,HEO,22300,45000,,4.86
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4439-DD8,EO,18763,35000,,5.92
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4439-DD8,AO,16325,22126,,3
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD18,Grade 6,50043,75983,,5
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD18,Grade 7,40686,64151,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD18,SEO,28741,49798,,2
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD18,HEO,22300,45000,,2
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD18,EO,18763,35000,,9.78
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD18,AO,16325,22126,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD19,Grade 6,50043,75983,,0.94
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD19,Grade 7,40686,64151,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD17,Grade 6,50043,75983,,4.69
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD17,Grade 7,40686,64151,,2.56
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD17,SEO,28741,49798,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD20,Grade 6,50043,75983,,4.42
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD20,Grade 7,40686,64151,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4511-DD20,EO,18763,35000,,2
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD9,Grade 6,50043,75983,,2.61
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD9,Grade 7,40686,64151,,0.58
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD10,Grade 6,50043,75983,,4.21
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD11,Grade 6,50043,75983,,5
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD11,Grade 7,40686,64151,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD12,Grade 6,50043,75983,,3.67
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD12,Grade 7,40686,64151,,1.89
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD13,Grade 6,50043,75983,,2.87
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD13,Grade 7,40686,64151,,2.67
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD14,Grade 7,40686,64151,,0.56
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD15,Grade 6,50043,75983,,3
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD15,Grade 7,40686,64151,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD15,EO,18763,35000,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD16,Grade 6,50043,75983,,6.31
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD16,Grade 7,40686,64151,,3
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD16,SEO,28741,49798,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD16,AO,16325,22126,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD21,Grade 6,50043,75983,,3.6
+BIS,BIS,"Legal, People and Communications Group",LPC-5-4531-DD21,Grade 7,40686,64151,,2
+BIS,BIS,"Legal, People and Communications Group",LPC-5-6050-DD5,Grade 6,50043,75983,,2.59
+BIS,BIS,"Legal, People and Communications Group",LPC-5-6050-DD5,Grade 7,40686,64151,,10
+BIS,BIS,"Legal, People and Communications Group",LPC-5-6050-DD5,SEO,28741,49798,,2
+BIS,BIS,"Legal, People and Communications Group",LPC-5-6050-DD5,HEO,22300,45000,,1
+BIS,BIS,"Legal, People and Communications Group",LPC-5-6050-DD5,EO,18763,35000,,0.78
+BIS,BIS,"Legal, People and Communications Group",LPC-5-6050-DD5,AO,16325,22126,,1
+BIS,BIS,Economic and Policy Analysis Group,EPA-3-3641-KW,Grade 7,40686,64151,,1
+BIS,BIS,Economic and Policy Analysis Group,EPA-3-3641-KW,HEO,22300,45000,,1.67
+BIS,BIS,Economic and Policy Analysis Group,EPA-3-3641-KW,AO,16325,22126,,0.67
+BIS,BIS,Economic and Policy Analysis Group,EPA-3-3642-MC,Grade 6,50043,75983,,1
+BIS,BIS,Economic and Policy Analysis Group,EPA-3-3642-MC,Grade 7,40686,64151,,2
+BIS,BIS,Economic and Policy Analysis Group,EPA-3-3642-MC,HEO,22300,45000,,3
+BIS,BIS,Economic and Policy Analysis Group,EPA-3-3652-BC,Grade 7,40686,64151,,1
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3642-DD3,Grade 6,50043,75983,,1
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3642-DD3,Grade 7,40686,64151,,3
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3642-DD3,HEO,22300,45000,,1.5
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3642-DD3,AO,16325,22126,,1
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3644-DD4,Grade 6,50043,75983,,1.6
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3644-DD4,Grade 7,40686,64151,,7.89
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3644-DD4,HEO,22300,45000,,4.5
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3646-DD5,Grade 6,50043,75983,,4
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3646-DD5,Grade 7,40686,64151,,4.8
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3646-DD5,HEO,22300,45000,,3
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3646-DD5,EO,18763,35000,,2
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3646-DD5,AO,16325,22126,,2
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3649-DD2,Grade 6,50043,75983,,3.67
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3649-DD2,Grade 7,40686,64151,,8.36
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3649-DD2,SEO,28741,49798,,4
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3649-DD2,HEO,22300,45000,,5
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3649-DD2,AO,16325,22126,,1.09
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3651-DD1,Grade 6,50043,75983,,1
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3651-DD1,Grade 7,40686,64151,,3
+BIS,BIS,Economic and Policy Analysis Group,EPA-5-3651-DD1,HEO,22300,45000,,1
+BIS,BIS,Strategy Directorate,S-3-3511-AE,Grade 6,50043,75983,,4.59
+BIS,BIS,Strategy Directorate,S-3-3511-AE,Grade 7,40686,64151,,6.59
+BIS,BIS,Strategy Directorate,S-3-3511-AE,HEO,22300,45000,,1
+BIS,BIS,Strategy Directorate,S-3-3511-AE,EO,18763,35000,,1
+BIS,BIS,Strategy Directorate,S-5-3512-DD2,Grade 7,40686,64151,,4.67
+BIS,BIS,Strategy Directorate,S-5-3512-DD3,Grade 6,50043,75983,,1
+BIS,BIS,Strategy Directorate,S-5-3512-DD3,Grade 7,40686,64151,,2
+BIS,BIS,Strategy Directorate,S-5-3512-DD3,HEO,22300,45000,,5
+BIS,BIS,Strategy Directorate,S-5-3512-DD3,EO,18763,35000,,1
+BIS,BIS,Finance & Commercial Group,FCG-5-3556-DD1,Grade 6,50043,75983,,3
+BIS,BIS,Finance & Commercial Group,FCG-5-3556-DD1,Grade 7,40686,64151,,4
+BIS,BIS,Finance & Commercial Group,FCG-5-3556-DD1,SEO,28741,49798,,4
+BIS,BIS,Finance & Commercial Group,FCG-5-3556-DD1,HEO,22300,45000,,6
+BIS,BIS,Finance & Commercial Group,FCG-5-3556-DD1,EO,18763,35000,,2
+BIS,BIS,Finance & Commercial Group,FCG-5-3551-DD3,EO,18763,35000,,0.6
+BIS,BIS,Finance & Commercial Group,FCG-2-3551-HO,HEO,22300,45000,,2
+BIS,BIS,Finance & Commercial Group,FCG-3-3551-DA,Grade 6,50043,75983,,2
+BIS,BIS,Finance & Commercial Group,FCG-3-3551-DA,Grade 7,40686,64151,,3
+BIS,BIS,Finance & Commercial Group,FCG-3-3551-DA,SEO,28741,49798,,2
+BIS,BIS,Finance & Commercial Group,FCG-3-3551-DA,HEO,22300,45000,,6
+BIS,BIS,Finance & Commercial Group,FCG-3-3551-DA,EO,18763,35000,,1
+BIS,BIS,Finance & Commercial Group,FCG-3-4317-MW,Grade 6,50043,75983,,1
+BIS,BIS,Finance & Commercial Group,FCG-3-4317-MW,Grade 7,40686,64151,,5
+BIS,BIS,Finance & Commercial Group,FCG-3-4317-MW,SEO,28741,49798,,6
+BIS,BIS,Finance & Commercial Group,FCG-3-4317-MW,HEO,22300,45000,,2
+BIS,BIS,Finance & Commercial Group,FCG-5-4357-DD4,Grade 7,40686,64151,,2
+BIS,BIS,Finance & Commercial Group,FCG-5-4357-DD4,SEO,28741,49798,,2
+BIS,BIS,Finance & Commercial Group,FCG-5-4357-DD4,HEO,22300,45000,,3
+BIS,BIS,Finance & Commercial Group,FCG-5-4321-DD5,Grade 6,50043,75983,,4
+BIS,BIS,Finance & Commercial Group,FCG-5-4321-DD5,Grade 7,40686,64151,,15
+BIS,BIS,Finance & Commercial Group,FCG-5-4321-DD5,SEO,28741,49798,,12
+BIS,BIS,Finance & Commercial Group,FCG-5-4321-DD5,HEO,22300,45000,,21.83
+BIS,BIS,Finance & Commercial Group,FCG-5-4321-DD5,EO,18763,35000,,14.09
+BIS,BIS,Finance & Commercial Group,FCG-5-4321-DD5,AO,16325,22126,,19.94
+BIS,BIS,Finance & Commercial Group,FCG-5-4321-DD5,AA,13605,15117,,11
+BIS,BIS,Finance & Commercial Group,FCG-5-4321-DD5,Other,N/A,N/A,,1
+BIS,BIS,Finance & Commercial Group,FCG-5-4371-DD6,Grade 7,40686,64151,,9.89
+BIS,BIS,Finance & Commercial Group,FCG-5-4371-DD6,SEO,28741,49798,,6.58
+BIS,BIS,Finance & Commercial Group,FCG-5-4371-DD6,HEO,22300,45000,,12.43
+BIS,BIS,Finance & Commercial Group,FCG-5-4371-DD6,EO,18763,35000,,21.42
+BIS,BIS,Finance & Commercial Group,FCG-5-4371-DD6,AO,16325,22126,,5.56
+BIS,BIS,Finance & Commercial Group,FCG-5-4371-DD6,AA,13605,15117,,8
+BIS,BIS,Finance & Commercial Group,FCG-5-3552-DD7,Grade 6,50043,75983,,2
+BIS,BIS,Finance & Commercial Group,FCG-5-3552-DD7,Grade 7,40686,64151,,6
+BIS,BIS,Finance & Commercial Group,FCG-5-3552-DD7,SEO,28741,49798,,4.56
+BIS,BIS,Finance & Commercial Group,FCG-5-3552-DD7,HEO,22300,45000,,9
+BIS,BIS,Finance & Commercial Group,FCG-5-3552-DD7,EO,18763,35000,,10.3
+BIS,BIS,Finance & Commercial Group,FCG-5-3552-DD7,AO,16325,22126,,4.67
+BIS,BIS,Finance & Commercial Group,FCG-5-3554-DD8,Grade 6,50043,75983,,3
+BIS,BIS,Finance & Commercial Group,FCG-5-3554-DD8,Grade 7,40686,64151,,9
+BIS,BIS,Finance & Commercial Group,FCG-5-3554-DD8,SEO,28741,49798,,6
+BIS,BIS,Finance & Commercial Group,FCG-5-3554-DD8,HEO,22300,45000,,8.51
+BIS,BIS,Finance & Commercial Group,FCG-5-3554-DD8,EO,18763,35000,,3.79
+BIS,BIS,Finance & Commercial Group,FCG-5-3554-DD8,AO,16325,22126,,29.58
+BIS,BIS,Finance & Commercial Group,FCG-5-3554-DD8,AA,13605,15117,,1.3
+BIS,BIS,Shareholder Executive,SE-3-5506-MR,Other,N/A,N/A,,1
+BIS,BIS,Shareholder Executive,SE-5-5501-DD2,Grade 6,50043,75983,,1
+BIS,BIS,Shareholder Executive,SE-5-5501-DD4,Grade 6,50043,75983,,2
+BIS,BIS,Shareholder Executive,SE-5-5501-DD4,Grade 7,40686,64151,,1
+BIS,BIS,Shareholder Executive,SE-5-5501-DD4,HEO,22300,45000,,1
+BIS,BIS,Shareholder Executive,SE-5-5501-DD11,Grade 6,50043,75983,,5
+BIS,BIS,Shareholder Executive,SE-5-5501-DD11,Grade 7,40686,64151,,4
+BIS,BIS,Shareholder Executive,SE-5-5501-DD11,HEO,22300,45000,,2
+BIS,BIS,Shareholder Executive,SE-5-5501-DD11,EO,18763,35000,,2
+BIS,BIS,Shareholder Executive,SE-5-5502-DD9,Grade 7,40686,64151,,1
+BIS,BIS,Shareholder Executive,SE-5-5502-DD10,Grade 6,50043,75983,,1
+BIS,BIS,Shareholder Executive,SE-5-5502-DD10,Grade 7,40686,64151,,1
+BIS,BIS,Shareholder Executive,SE-5-5502-DD10,HEO,22300,45000,,1.78
+BIS,BIS,Shareholder Executive,SE-5-5504-DD1,Grade 6,50043,75983,,2
+BIS,BIS,Shareholder Executive,SE-5-5504-DD1,Grade 7,40686,64151,,1
+BIS,BIS,Shareholder Executive,SE-5-5504-DD1,Other,N/A,N/A,,1
+BIS,BIS,Shareholder Executive,SE-5-5506-DD5,Grade 6,50043,75983,,3
+BIS,BIS,Government Office for Science,GOSCI-3-0015-ND,Grade 7,40686,64151,,1
+BIS,BIS,Government Office for Science,GOSCI-3-0015-ND,HEO,22300,45000,,2
+BIS,BIS,Government Office for Science,GOSCI-3-0015-ND,EO,18763,35000,,3
+BIS,BIS,Government Office for Science,GOSCI-3-0015-ND,AO,16325,22126,,1
+BIS,BIS,Government Office for Science,GOSCI-5-0014-DD4,Grade 6,50043,75983,,2
+BIS,BIS,Government Office for Science,GOSCI-5-0014-DD4,Grade 7,40686,64151,,6
+BIS,BIS,Government Office for Science,GOSCI-5-0014-DD4,HEO,22300,45000,,10
+BIS,BIS,Government Office for Science,GOSCI-5-0014-DD4,EO,18763,35000,,9
+BIS,BIS,Government Office for Science,GOSCI-5-0014-DD4,AO,16325,22126,,4
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD1,Grade 6,50043,75983,,2
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD1,Grade 7,40686,64151,,3
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD1,SEO,16325,22126,,1
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD1,HEO,22300,45000,,4
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD1,EO,18763,35000,,1
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD2,Grade 6,50043,75983,,1
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD2,Grade 7,40686,64151,,5
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD2,HEO,22300,45000,,4.81
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD2,AO,16325,22126,,1
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD3,Grade 6,50043,75983,,1
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD3,Grade 7,40686,64151,,2.67
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD3,SEO,28741,49798,,2
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD3,HEO,22300,45000,,3
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD3,EO,18763,35000,,2
+BIS,BIS,Government Office for Science,GOSCI-5-0016-DD3,AO,16325,22126,,1
+BIS,BIS,Science and Research Group,SR-2-0022-AS,EO,18763,35000,,2
+BIS,BIS,Science and Research Group,SR-3-0022-JN,EO,18763,35000,,1
+BIS,BIS,Science and Research Group,SR-3-1081-ND,Grade 6,50043,75983,,1
+BIS,BIS,Science and Research Group,SR-3-1081-ND,Grade 7,40686,64151,,4.62
+BIS,BIS,Science and Research Group,SR-3-1081-ND,SEO,28741,49798,,1
+BIS,BIS,Science and Research Group,SR-3-1081-ND,HEO,22300,45000,,6
+BIS,BIS,Science and Research Group,SR-3-1081-ND,EO,18763,35000,,2
+BIS,BIS,Science and Research Group,SR-3-1081-ND,AO,16325,22126,,1
+BIS,BIS,Science and Research Group,SR-5-0012-DD6,Grade 6,50043,75983,,3
+BIS,BIS,Science and Research Group,SR-5-0012-DD6,Grade 7,40686,64151,,6
+BIS,BIS,Science and Research Group,SR-5-0012-DD6,SEO,28741,49798,,4
+BIS,BIS,Science and Research Group,SR-5-0012-DD6,HEO,22300,45000,,11.58
+BIS,BIS,Science and Research Group,SR-5-0012-DD6,EO,18763,35000,,2
+BIS,BIS,Science and Research Group,SR-5-0012-DD6,AO,16325,22126,,2
+BIS,BIS,Science and Research Group,SR-5-0021-DD2,Other,N/A,N/A,,1
+BIS,BIS,Science and Research Group,SR-5-0021-DD2,Grade 6,50043,75983,,1.83
+BIS,BIS,Science and Research Group,SR-5-0021-DD2,Grade 7,40686,64151,,1
+BIS,BIS,Science and Research Group,SR-5-0021-DD2,HEO,22300,45000,,6
+BIS,BIS,Science and Research Group,SR-5-0021-DD2,EO,18763,35000,,1
+BIS,BIS,Science and Research Group,SR-5-0021-DD2,AO,16325,22126,,0.75
+BIS,BIS,Science and Research Group,SR-5-0023-DD1,Grade 6,50043,75983,,1
+BIS,BIS,Science and Research Group,SR-5-0023-DD1,Grade 7,40686,64151,,1
+BIS,BIS,Science and Research Group,SR-5-0023-DD1,SEO,28741,49798,,5
+BIS,BIS,Science and Research Group,SR-5-0023-DD1,HEO,22300,45000,,3
+BIS,BIS,Science and Research Group,SR-5-0023-DD1,EO,18763,35000,,3
+BIS,BIS,Science and Research Group,SR-5-0023-DD1,AO,16325,22126,,1
+BIS,BIS,Science and Research Group,SR-5-0024-DD3,Grade 6,50043,75983,,3
+BIS,BIS,Science and Research Group,SR-5-0024-DD3,Grade 7,40686,64151,,2.25
+BIS,BIS,Science and Research Group,SR-5-0024-DD3,HEO,22300,45000,,6.58
+BIS,BIS,Science and Research Group,SR-5-0024-DD3,EO,18763,35000,,1
+BIS,BIS,Science and Research Group,SR-5-0025-DD4,Grade 6,50043,75983,,1
+BIS,BIS,Science and Research Group,SR-5-0025-DD4,Grade 7,40686,64151,,2
+BIS,BIS,Science and Research Group,SR-5-0025-DD4,HEO,22300,45000,,7.89
+BIS,BIS,Science and Research Group,SR-5-0025-DD4,EO,18763,35000,,1
+BIS,BIS,Science and Research Group,SR-5-0028-DD5,Grade 6,50043,75983,,1
+BIS,BIS,Science and Research Group,SR-5-0028-DD5,Grade 7,40686,64151,,4
+BIS,BIS,Science and Research Group,SR-5-0028-DD5,HEO,22300,45000,,2
+BIS,BIS,Science and Research Group,SR-5-0028-DD5,AO,16325,22126,,0.76
+BIS,BIS,Ministerial and Parliamentary Support Team,MPST-1-3006-SF,Grade 7,40686,64151,,1
+BIS,BIS,Ministerial and Parliamentary Support Team,MPST-1-3006-SF,HEO,22300,45000,,2
+BIS,BIS,Ministerial and Parliamentary Support Team,MPST-1-3006-SF,EO,18763,35000,,1
+BIS,BIS,Ministerial and Parliamentary Support Team,MPST-1-3006-SF,AO,16325,22126,,1
+BIS,BIS,Ministerial and Parliamentary Support Team,MPST-3-3002-RA,Other,N/A,N/A,,1
+BIS,BIS,Ministerial and Parliamentary Support Team,MPST-3-3002-RA,Grade 6,50043,75983,,2
+BIS,BIS,Ministerial and Parliamentary Support Team,MPST-3-3002-RA,Grade 7,40686,64151,,7
+BIS,BIS,Ministerial and Parliamentary Support Team,MPST-3-3002-RA,SEO,28741,49798,,7
+BIS,BIS,Ministerial and Parliamentary Support Team,MPST-3-3002-RA,HEO,22300,45000,,18
+BIS,BIS,Ministerial and Parliamentary Support Team,MPST-3-3002-RA,EO,18763,35000,,46.67
+BIS,BIS,Ministerial and Parliamentary Support Team,MPST-3-3002-RA,AO,16325,22126,,12.69
+BIS,BIS,Office of Manpower Economics,OME-3-5001-IJ,Grade 6,50043,75983,,1
+BIS,BIS,Office of Manpower Economics,OME-3-5001-IJ,Grade 7,40686,64151,,3.33
+BIS,BIS,Office of Manpower Economics,OME-3-5001-IJ,HEO,22300,45000,,3
+BIS,BIS,Office of Manpower Economics,OME-3-5001-IJ,AO,16325,22126,,2
+BIS,BIS,Office of Manpower Economics,OME-5-5001-DD1,Grade 7,40686,64151,,2
+BIS,BIS,Office of Manpower Economics,OME-5-5001-DD1,HEO,22300,45000,,2
+BIS,BIS,Office of Manpower Economics,OME-5-5001-DD1,AO,16325,22126,,1
+BIS,BIS,Office of Manpower Economics,OME-5-5001-DD2,Grade 7,40686,64151,,3
+BIS,BIS,Office of Manpower Economics,OME-5-5001-DD2,HEO,22300,45000,,2.59
+BIS,BIS,Office of Manpower Economics,OME-5-5001-DD2,AO,16325,22126,,1
+BIS,BIS,Office of Manpower Economics,OME-5-5001-DD3,Grade 7,40686,64151,,2
+BIS,BIS,Office of Manpower Economics,OME-5-5001-DD3,HEO,22300,45000,,3
+BIS,BIS,Office of Manpower Economics,OME-5-5001-DD3,AO,16325,22126,,1
+BIS,BIS,Government Skills,GS-5-1260-DD1,Grade 7,40686,64151,,4.67
+BIS,BIS,Government Skills,GS-5-1260-DD1,SEO,28741,49798,,1.78
+BIS,BIS,Government Skills,GS-5-1260-DD1,HEO,22300,45000,,2
+BIS,BIS,Government Skills,GS-5-1260-DD1,EO,18763,35000,,1
+BIS,BIS,Government Skills,GS-5-1260-DD1,AO,16325,22126,,1
+BIS,BIS,Government Skills,GS-3-1260-ND,Grade 7,40686,64151,,1
+BIS,BIS,Government Skills,GS-3-1260-ND,SEO,28741,49798,,1
+BIS,BIS,Government Skills,GS-3-1260-ND,HEO,22300,45000,,1.89
+BIS,BIS,Government Skills,GS-3-1260-ND,EO,18763,35000,,1
+BIS,BIS,Government Skills,GS-5-1260-DD2,Grade 6,50043,75983,,1.83
+BIS,BIS,Government Skills,GS-5-1260-DD2,Grade 7,40686,64151,,5.9
+BIS,BIS,Government Skills,GS-5-1260-DD2,SEO,28741,49798,,3.83
+BIS,BIS,Government Skills,GS-5-1260-DD2,HEO,22300,45000,,0.83
+BIS,BIS,Government Skills,GS-5-1260-DD3,Grade 6,50043,75983,,1
+BIS,BIS,Government Skills,GS-5-1260-DD3,Grade 7,40686,64151,,1
+BIS,BIS,Government Skills,GS-5-1260-DD3,SEO,28741,49798,,0.65
+BIS,BIS,Government Skills,GS-5-1260-DD3,EO,18763,35000,,1
+BIS,BIS,Government Skills,GS-5-1260-DD4,Grade 7,40686,64151,,2
+BIS,BIS,Government Skills,GS-5-1260-DD5,Grade 6,50043,75983,,1
+BIS,BIS,Government Skills,GS-5-1260-DD5,Grade 7,40686,64151,,2
+BIS,BIS,Government Skills,GS-5-1260-DD5,SEO,28741,49798,,2
+BIS,BIS,Government Skills,GS-5-1260-DD5,HEO,22300,45000,,1
+BIS,BIS,Government Skills,GS-5-1260-DD5,EO,18763,35000,,1
+BIS,BIS,Government Skills,GS-5-1260-DD5,Other,N/A,N/A,,1
+BIS,BIS,Universities and Skills Group,US-2-1120-SM,HEO,22300,45000,,2
+BIS,BIS,Universities and Skills Group,US-2-1120-SM,EO,18763,35000,,1
+BIS,BIS,Universities and Skills Group,US-2-1120-SM,AO,16325,22126,,1
+BIS,BIS,Universities and Skills Group,US-3-1102-MH,Grade 6,50043,75983,,1
+BIS,BIS,Universities and Skills Group,US-3-1102-MW,EO,18763,35000,,1
+BIS,BIS,Universities and Skills Group,US-3-1164-SP,Grade 7,40686,64151,,1.81
+BIS,BIS,Universities and Skills Group,US-3-1164-SP,HEO,22300,45000,,3
+BIS,BIS,Universities and Skills Group,US-3-1164-SP,EO,18763,35000,,1
+BIS,BIS,Universities and Skills Group,US-3-1164-SP,AO,16325,22126,,1
+BIS,BIS,Universities and Skills Group,US-3-1202-JL,EO,18763,35000,,1
+BIS,BIS,Universities and Skills Group,US-3-1232-CC,EO,18763,35000,,1
+BIS,BIS,Universities and Skills Group,US-5-1102-DD10,Grade 7,40686,64151,,6
+BIS,BIS,Universities and Skills Group,US-5-1102-DD10,SEO,28741,49798,,7.51
+BIS,BIS,Universities and Skills Group,US-5-1102-DD10,HEO,22300,45000,,7
+BIS,BIS,Universities and Skills Group,US-5-1102-DD10,EO,18763,35000,,4.86
+BIS,BIS,Universities and Skills Group,US-5-1102-DD13,Grade 6,50043,75983,,2
+BIS,BIS,Universities and Skills Group,US-5-1102-DD13,Grade 7,40686,64151,,6.51
+BIS,BIS,Universities and Skills Group,US-5-1102-DD13,SEO,28741,49798,,7.07
+BIS,BIS,Universities and Skills Group,US-5-1102-DD13,HEO,22300,45000,,14.31
+BIS,BIS,Universities and Skills Group,US-5-1102-DD13,EO,18763,35000,,5.58
+BIS,BIS,Universities and Skills Group,US-5-1102-DD13,AO,16325,22126,,1
+BIS,BIS,Universities and Skills Group,US-5-1102-DD15,Grade 6,50043,75983,,1
+BIS,BIS,Universities and Skills Group,US-5-1102-DD15,Grade 7,40686,64151,,1.94
+BIS,BIS,Universities and Skills Group,US-5-1102-DD15,SEO,28741,49798,,3
+BIS,BIS,Universities and Skills Group,US-5-1102-DD15,EO,18763,35000,,1
+BIS,BIS,Universities and Skills Group,US-5-1102-DD22,Grade 7,40686,64151,,5
+BIS,BIS,Universities and Skills Group,US-5-1102-DD22,SEO,28741,49798,,1
+BIS,BIS,Universities and Skills Group,US-5-1102-DD22,HEO,22300,45000,,4
+BIS,BIS,Universities and Skills Group,US-5-1102-DD22,EO,18763,35000,,1
+BIS,BIS,Universities and Skills Group,US-5-1102-DD22,AO,16325,22126,,0.6
+BIS,BIS,Universities and Skills Group,US-5-1102-DD23,Grade 7,40686,64151,,2
+BIS,BIS,Universities and Skills Group,US-5-1102-DD23,SEO,28741,49798,,1
+BIS,BIS,Universities and Skills Group,US-5-1102-DD23,HEO,22300,45000,,3.4
+BIS,BIS,Universities and Skills Group,US-5-1102-DD23,EO,18763,35000,,1.73
+BIS,BIS,Universities and Skills Group,US-5-1102-DD25,Grade 7,40686,64151,,1.89
+BIS,BIS,Universities and Skills Group,US-5-1102-DD25,SEO,28741,49798,,3.67
+BIS,BIS,Universities and Skills Group,US-5-1102-DD25,HEO,22300,45000,,2
+BIS,BIS,Universities and Skills Group,US-5-1102-DD6,Grade 7,40686,64151,,2
+BIS,BIS,Universities and Skills Group,US-5-1102-DD6,SEO,28741,49798,,1.86
+BIS,BIS,Universities and Skills Group,US-5-1102-DD6,HEO,22300,45000,,2
+BIS,BIS,Universities and Skills Group,US-5-1102-DD6,EO,18763,35000,,0.6
+BIS,BIS,Universities and Skills Group,US-5-1102-DD9,Grade 6,50043,75983,,3
+BIS,BIS,Universities and Skills Group,US-5-1102-DD9,Grade 7,40686,64151,,3
+BIS,BIS,Universities and Skills Group,US-5-1102-DD9,SEO,28741,49798,,4.39
+BIS,BIS,Universities and Skills Group,US-5-1102-DD9,HEO,22300,45000,,7.89
+BIS,BIS,Universities and Skills Group,US-5-1102-DD9,EO,18763,35000,,4.46
+BIS,BIS,Universities and Skills Group,US-5-1102-DD9,AO,16325,22126,,1
+BIS,BIS,Universities and Skills Group,US-5-1161-DD14,Grade 6,50043,75983,,3
+BIS,BIS,Universities and Skills Group,US-5-1161-DD14,Grade 7,40686,64151,,5
+BIS,BIS,Universities and Skills Group,US-5-1161-DD14,SEO,28741,49798,,5
+BIS,BIS,Universities and Skills Group,US-5-1161-DD14,HEO,22300,45000,,2.86
+BIS,BIS,Universities and Skills Group,US-5-1161-DD14,EO,18763,35000,,2.86
+BIS,BIS,Universities and Skills Group,US-5-1161-DD14,AO,16325,22126,,1
+BIS,BIS,Universities and Skills Group,US-5-1164-DD24,Grade 7,40686,64151,,1
+BIS,BIS,Universities and Skills Group,US-5-1166-DD8,Grade 6,50043,75983,,3
+BIS,BIS,Universities and Skills Group,US-5-1166-DD8,Grade 7,40686,64151,,5
+BIS,BIS,Universities and Skills Group,US-5-1166-DD8,SEO,28741,49798,,6.53
+BIS,BIS,Universities and Skills Group,US-5-1166-DD8,HEO,22300,45000,,2
+BIS,BIS,Universities and Skills Group,US-5-1166-DD8,EO,18763,35000,,2
+BIS,BIS,Universities and Skills Group,US-5-1166-DD8,AO,16325,22126,,1
+BIS,BIS,Universities and Skills Group,US-5-1169-DD5,Grade 6,50043,75983,,3.68
+BIS,BIS,Universities and Skills Group,US-5-1169-DD5,Grade 7,40686,64151,,5.57
+BIS,BIS,Universities and Skills Group,US-5-1169-DD5,SEO,28741,49798,,8.81
+BIS,BIS,Universities and Skills Group,US-5-1169-DD5,HEO,22300,45000,,12.49
+BIS,BIS,Universities and Skills Group,US-5-1169-DD5,EO,18763,35000,,2.41
+BIS,BIS,Universities and Skills Group,US-5-1169-DD5,AO,16325,22126,,2.68
+BIS,BIS,Universities and Skills Group,US-5-1202-DD12,Grade 6,50043,75983,,1
+BIS,BIS,Universities and Skills Group,US-5-1202-DD12,Grade 7,40686,64151,,3.59
+BIS,BIS,Universities and Skills Group,US-5-1202-DD12,SEO,28741,49798,,1
+BIS,BIS,Universities and Skills Group,US-5-1202-DD12,HEO,22300,45000,,5
+BIS,BIS,Universities and Skills Group,US-5-1202-DD12,AO,16325,22126,,1.92
+BIS,BIS,Universities and Skills Group,US-5-1202-DD16,Grade 7,40686,64151,,3.79
+BIS,BIS,Universities and Skills Group,US-5-1202-DD16,SEO,28741,49798,,4.78
+BIS,BIS,Universities and Skills Group,US-5-1202-DD16,HEO,22300,45000,,2.65
+BIS,BIS,Universities and Skills Group,US-5-1202-DD16,EO,18763,35000,,2.79
+BIS,BIS,Universities and Skills Group,US-5-1202-DD17,Grade 6,50043,75983,,1
+BIS,BIS,Universities and Skills Group,US-5-1202-DD17,Grade 7,40686,64151,,5
+BIS,BIS,Universities and Skills Group,US-5-1202-DD17,SEO,28741,49798,,4.75
+BIS,BIS,Universities and Skills Group,US-5-1202-DD17,HEO,22300,45000,,3.66
+BIS,BIS,Universities and Skills Group,US-5-1202-DD17,EO,18763,35000,,2
+BIS,BIS,Universities and Skills Group,US-5-1202-DD17,AO,16325,22126,,1
+BIS,BIS,Universities and Skills Group,US-5-1202-DD18,Grade 7,40686,64151,,3
+BIS,BIS,Universities and Skills Group,US-5-1202-DD18,SEO,28741,49798,,3.69
+BIS,BIS,Universities and Skills Group,US-5-1202-DD18,HEO,22300,45000,,3
+BIS,BIS,Universities and Skills Group,US-5-1202-DD18,EO,18763,35000,,2
+BIS,BIS,Universities and Skills Group,US-5-1202-DD19,Grade 6,50043,75983,,1.35
+BIS,BIS,Universities and Skills Group,US-5-1202-DD19,Grade 7,40686,64151,,3
+BIS,BIS,Universities and Skills Group,US-5-1202-DD19,SEO,28741,49798,,3
+BIS,BIS,Universities and Skills Group,US-5-1202-DD19,HEO,22300,45000,,1
+BIS,BIS,Universities and Skills Group,US-5-1202-DD19,EO,18763,35000,,1.87
+BIS,BIS,Universities and Skills Group,US-5-1202-DD19,AO,16325,22126,,1
+BIS,BIS,Universities and Skills Group,US-5-1202-DD21,Grade 6,50043,75983,,2.65
+BIS,BIS,Universities and Skills Group,US-5-1202-DD21,Grade 7,40686,64151,,4
+BIS,BIS,Universities and Skills Group,US-5-1202-DD21,SEO,28741,49798,,4
+BIS,BIS,Universities and Skills Group,US-5-1202-DD21,HEO,22300,45000,,8.43
+BIS,BIS,Universities and Skills Group,US-5-1202-DD21,EO,18763,35000,,1.81
+BIS,BIS,Universities and Skills Group,US-5-1202-DD21,AO,16325,22126,,3.6
+BIS,BIS,Universities and Skills Group,US-5-1202-DD7,Grade 7,40686,64151,,2
+BIS,BIS,Universities and Skills Group,US-5-1202-DD7,SEO,28741,49798,,1
+BIS,BIS,Universities and Skills Group,US-5-1202-DD7,HEO,22300,45000,,4.66
+BIS,BIS,Universities and Skills Group,US-5-1232-DD11,Grade 6,50043,75983,,1.6
+BIS,BIS,Universities and Skills Group,US-5-1232-DD11,Grade 7,40686,64151,,2
+BIS,BIS,Universities and Skills Group,US-5-1232-DD11,HEO,22300,45000,,4.54
+BIS,BIS,Universities and Skills Group,US-5-1232-DD11,EO,18763,35000,,3
+BIS,BIS,Universities and Skills Group,US-5-1232-DD11,AO,16325,22126,,1
+BIS,BIS,Universities and Skills Group,US-5-1232-DD1JS1,Grade 6,50043,75983,,2
+BIS,BIS,Universities and Skills Group,US-5-1232-DD1JS1,Grade 7,40686,64151,,3
+BIS,BIS,Universities and Skills Group,US-5-1232-DD1JS1,SEO,28741,49798,,4
+BIS,BIS,Universities and Skills Group,US-5-1232-DD1JS1,HEO,22300,45000,,1.86
+BIS,BIS,Universities and Skills Group,US-5-1232-DD1JS1,EO,18763,35000,,0.81
+BIS,BIS,Universities and Skills Group,US-5-1232-DD20,Grade 6,50043,75983,,2
+BIS,BIS,Universities and Skills Group,US-5-1232-DD20,Grade 7,40686,64151,,7.38
+BIS,BIS,Universities and Skills Group,US-5-1232-DD20,SEO,28741,49798,,3.79
+BIS,BIS,Universities and Skills Group,US-5-1232-DD20,HEO,22300,45000,,4
+BIS,BIS,Universities and Skills Group,US-5-1232-DD20,EO,18763,35000,,2
+BIS,BIS,Universities and Skills Group,US-5-1232-DD2JS1,Grade 6,50043,75983,,2
+BIS,BIS,Universities and Skills Group,US-5-1232-DD2JS1,Grade 7,40686,64151,,3
+BIS,BIS,Universities and Skills Group,US-5-1232-DD2JS1,SEO,28741,49798,,1
+BIS,BIS,Universities and Skills Group,US-5-1232-DD2JS1,HEO,22300,45000,,2
+BIS,BIS,Universities and Skills Group,US-5-1232-DD2JS1,EO,18763,35000,,0.54
+BIS,BIS,Universities and Skills Group,US-5-1232-DD2JS1,AO,16325,22126,,2
+BIS,BIS,Universities and Skills Group,US-5-1232-DD3,Grade 6,50043,75983,,3
+BIS,BIS,Universities and Skills Group,US-5-1232-DD3,Grade 7,40686,64151,,6.26
+BIS,BIS,Universities and Skills Group,US-5-1232-DD3,SEO,28741,49798,,1.86
+BIS,BIS,Universities and Skills Group,US-5-1232-DD3,HEO,22300,45000,,3.92
+BIS,BIS,Universities and Skills Group,US-5-1232-DD3,EO,18763,35000,,2.62
+BIS,BIS,Universities and Skills Group,US-5-1232-DD3,AO,16325,22126,,1
+BIS,BIS,Universities and Skills Group,US-5-1232-DD4,Grade 6,50043,75983,,3
+BIS,BIS,Universities and Skills Group,US-5-1232-DD4,Grade 7,40686,64151,,5
+BIS,BIS,Universities and Skills Group,US-5-1232-DD4,SEO,28741,49798,,0.65
+BIS,BIS,Universities and Skills Group,US-5-1232-DD4,HEO,22300,45000,,3.94
+BIS,BIS,Universities and Skills Group,US-5-1232-DD4,EO,18763,35000,,2.39
+BIS,BIS,Universities and Skills Group,US-5-1232-DD4,AO,16325,22126,,1.54

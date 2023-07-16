@@ -1,0 +1,2 @@
+Programming Ruby
+A tutorial and reference to the object-oriented programming language for beginning to experienced programmers, updated for version 1.8, describes the language's structure, syntax, and operation, and explains how to build applications. Original. (Intermediate)

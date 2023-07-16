@@ -1,0 +1,2 @@
+Harrington on Hold 'em
+Provides poker strategies for every phase of tournament play, covering the early phase where the stakes are small to later tactics such as bluffing, flops, scare cards, playing shorthanded, loose games, and endgame play.

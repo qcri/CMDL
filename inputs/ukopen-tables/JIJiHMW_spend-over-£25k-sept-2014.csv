@@ -1,0 +1,47 @@
+DEPARTMENT,ENTITY,DATE PAID,EXPENSE TYPE,EXPENSE AREA,SUPPLIER NAME,TRANSACTION NUMBER,AMOUNT
+Department of Health,Whittington NHS Trust,01/09/2014,Medical Equipment,Capital,Arx Ltd,664565,27128.89
+Department of Health,Whittington NHS Trust,01/09/2014,Sla-Liaison Psychiatry,Accident & Emergency,Camden & Islington Nhs Foundation Trust,666366,44897
+Department of Health,Whittington NHS Trust,01/09/2014,Childcare - Fideliti,Balance Sheet,Fideliti Ltd,671518,25278.1
+Department of Health,Whittington NHS Trust,01/09/2014,Childcare Vouchers,Childcare,Fideliti Ltd,671518,273
+Department of Health,Whittington NHS Trust,01/09/2014,Software/Licence Computer,Capital,Insight Direct (Uk) Ltd,666687,125833.2
+Department of Health,Whittington NHS Trust,05/09/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,673255,26491.79
+Department of Health,Whittington NHS Trust,05/09/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,673263,27088.36
+Department of Health,Whittington NHS Trust,05/09/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,673263,125.22
+Department of Health,Whittington NHS Trust,05/09/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,673253,27162.52
+Department of Health,Whittington NHS Trust,05/09/2014,External Contract Estate/Facility,Generic Workers,Buzz Housekeeping Services,673253,470.31
+Department of Health,Whittington NHS Trust,05/09/2014,Medical Equipment,Capital,Gn Resound Ltd,670691,158401.86
+Department of Health,Whittington NHS Trust,05/09/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,669641,55814.62
+Department of Health,Whittington NHS Trust,05/09/2014,Telephone & Pager Maintenance,Ict Department,Virgin Media Business,672337,37606.68
+Department of Health,Whittington NHS Trust,11/09/2014,Vat Recovery Expenditure,Trust Finance,Crs Vat Consulting,675404,24516.22
+Department of Health,Whittington NHS Trust,11/09/2014,Ambulance Contract,Transport,Medical Services Ltd,667509,58252
+Department of Health,Whittington NHS Trust,11/09/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,672001,74737.31
+Department of Health,Whittington NHS Trust,11/09/2014,Professional Services,Trust Secretariat,Sjmwp Consulting Ltd,675115,33117.18
+Department of Health,Whittington NHS Trust,11/09/2014,Main Works Contract,Capital,Storm Building Ltd,672003,129487.72
+Department of Health,Whittington NHS Trust,11/09/2014,Main Works Contract,Capital,Storm Building Ltd,671500,200992.08
+Department of Health,Whittington NHS Trust,11/09/2014,Stock-Pharmacy,Balance Sheet,The Royal Free London Nhs Ft,672723,53264.49
+Department of Health,Whittington NHS Trust,15/09/2014,CNST Premium,Risk Management,Nhs Litigation Authority,Direct Debit,573143
+Department of Health,Whittington NHS Trust,15/09/2014,Insurance,Finance Director,Nhs Litigation Authority,Direct Debit,22647.8
+Department of Health,Whittington NHS Trust,18/09/2014,Laundry Service,Laundry,Berendsen Uk Ltd,675323,52836.78
+Department of Health,Whittington NHS Trust,18/09/2014,Sla-Liaison Psychiatry,Accident & Emergency,Camden & Islington Nhs Foundation Trust,675184,-44897
+Department of Health,Whittington NHS Trust,18/09/2014,Sla-Liaison Psychiatry,Accident & Emergency,Camden & Islington Nhs Foundation Trust,674764,44897
+Department of Health,Whittington NHS Trust,18/09/2014,Sla-Liaison Psychiatry,Accident & Emergency,Camden & Islington Nhs Foundation Trust,675183,44897
+Department of Health,Whittington NHS Trust,18/09/2014,Computer Hardware,Capital,Dell Computer Corp.Ltd,671889,30004.99
+Department of Health,Whittington NHS Trust,18/09/2014,CRC Emissions,CRC Emissions,Department of Energy & Climate Control,Direct Debit,114972
+Department of Health,Whittington NHS Trust,18/09/2014,Rates-General,Estates Management,London Borough Of Islington,677331,108934
+Department of Health,Whittington NHS Trust,18/09/2014,Rents,Estates Management,Metrus Property Advisors Ltd,677192,61096
+Department of Health,Whittington NHS Trust,18/09/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,672000,91577.95
+Department of Health,Whittington NHS Trust,18/09/2014,Hardware Maintenance,Ict Department,Support Span Group Ltd,670433,45651.65
+Department of Health,Whittington NHS Trust,18/09/2014,Stock-Pharmacy,Balance Sheet,The Royal Free London Nhs Ft,674174,124053.94
+Department of Health,Whittington NHS Trust,25/09/2014,Rents,Trust Headquarters,Bolton Group Ltd,675949,54964.8
+Department of Health,Whittington NHS Trust,25/09/2014,General Services,Accident & Emergency,Camden & Islington Nhs Foundation Trust,671454,41666.67
+Department of Health,Whittington NHS Trust,25/09/2014,Software Purchase,Midwifery Teams,Clevermed Ltd,674659,49864.8
+Department of Health,Whittington NHS Trust,25/09/2014,Electricity,Environment,Edf Energy,679340,92799.96
+Department of Health,Whittington NHS Trust,25/09/2014,Electricity,Environment,Edf Energy,679340,2511.34
+Department of Health,Whittington NHS Trust,25/09/2014,Childcare - Fideliti,Balance Sheet,Fideliti Ltd,679337,25420.1
+Department of Health,Whittington NHS Trust,25/09/2014,Childcare Vouchers,Childcare,Fideliti Ltd,679337,274.54
+Department of Health,Whittington NHS Trust,25/09/2014,Sterile Services,Sterile Services,Ih Sterile Services Ltd (Hcl Med Tech),679076,45743.11
+Department of Health,Whittington NHS Trust,25/09/2014,Hardware Purchases,Technical Services,Insight Direct (Uk) Ltd,678321,23395.17
+Department of Health,Whittington NHS Trust,25/09/2014,Telephone Recharge,Islington Twilight,Islington Council,678797,91800
+Department of Health,Whittington NHS Trust,25/09/2014,Blood Transfusion Service,Blood Recharge,Nhs Blood And Transplant,673143,100448.25
+Department of Health,Whittington NHS Trust,25/09/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,674424,37658.01
+Department of Health,Whittington NHS Trust,25/09/2014,Software/Licence Computer,Capital,Trustmarque Solutions Ltd,672791,47647.78

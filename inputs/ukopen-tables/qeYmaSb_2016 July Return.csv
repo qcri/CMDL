@@ -1,0 +1,62 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,AP Amount,Purchase Invoice Number
+Department of Health,Portsmouth Hospitals Trust,13/07/2016 17:09,Limbs,LIMBS,HUGH STEEPER LTD,18226167,116152.58,SIN1603PR028254
+Department of Health,Portsmouth Hospitals Trust,06/07/2016 17:09,Computer Software/License,ICT OPERATIONS,LEARNING CLINIC LTD,18759782,59721.5,17489
+Department of Health,Portsmouth Hospitals Trust,13/07/2016 17:09,Limbs,LIMBS,HUGH STEEPER LTD,19116826,-116152.58,SCR1603OT003426
+Department of Health,Portsmouth Hospitals Trust,01/07/2016 17:09,Equip Maint Contracts,RADIOTHERAPY,VARIAN LTD,19351772,47854,602153495
+Department of Health,Portsmouth Hospitals Trust,01/07/2016 19:15,Commercial Sector,B`STOKE DIALYSIS,FRESENIUS MEDICAL CARE RENAL SERVICES LTD,19367676,70609.97,1050466208
+Department of Health,Portsmouth Hospitals Trust,01/07/2016 19:15,Commercial Sector,HAVANT DIALYSIS,RENAL SERVICES TRADING LTD,19367679,130005.34,303
+Department of Health,Portsmouth Hospitals Trust,01/07/2016 19:15,Commercial Sector,MILFORD DIALYSIS,RENAL SERVICES TRADING LTD,19367679,13893.7,303
+Department of Health,Portsmouth Hospitals Trust,01/07/2016 19:15,Commercial Sector,SALISBURY DIALYSIS,RENAL SERVICES TRADING LTD,19367679,46643.14,303
+Department of Health,Portsmouth Hospitals Trust,01/07/2016 19:15,Computer Software/License,ANAESTHETICS,EROTA LTD,19371743,4915.9,2204
+Department of Health,Portsmouth Hospitals Trust,04/07/2016 17:09,Computer Software/License,ANAESTHETICS,EROTA LTD,19371743,24579.5,2204
+Department of Health,Portsmouth Hospitals Trust,05/07/2016 19:22,Services Received - NHSTs,DIABETIC DAY UNIT,SOLENT NHS TRUST,19412185,1230.75,54146444
+Department of Health,Portsmouth Hospitals Trust,05/07/2016 19:22,Services Received - NHSTs,PHCT/PHT RECHARGES,SOLENT NHS TRUST,19412185,43403.92,54146444
+Department of Health,Portsmouth Hospitals Trust,05/07/2016 19:22,Services Received - NHSTs,Physiotherapy,SOLENT NHS TRUST,19412185,12904.5,54146444
+Department of Health,Portsmouth Hospitals Trust,05/07/2016 19:22,Services Received - NHSTs,RD Research Business Support,SOLENT NHS TRUST,19412185,978.08,54146444
+Department of Health,Portsmouth Hospitals Trust,05/07/2016 19:22,Services Received - NHSTs,VASCULAR STAFF,SOLENT NHS TRUST,19412185,1230.75,54146444
+Department of Health,Portsmouth Hospitals Trust,21/07/2016 17:11,Equip Maint Contracts,CT-NON PAY,NHS SUPPLY CHAIN,19416123,64091.79,2017001615
+Department of Health,Portsmouth Hospitals Trust,05/07/2016 19:22,Computer Maintenance,ICT OPERATIONS,GRAPHNET HEALTH LTD,19417008,50896.87,53023
+Department of Health,Portsmouth Hospitals Trust,07/07/2016 19:00,External Contractors,TRUST CENTRAL EXPENSES,KPMG LLP,19437526,78588.33,5501235563
+Department of Health,Portsmouth Hospitals Trust,08/07/2016 17:09,Computer Maintenance,ICT SOLUTIONS DEVELOPMENT,SAP UK LTD,19439419,169610,6007103247
+Department of Health,Portsmouth Hospitals Trust,07/07/2016 19:00,Computer Software/License,ACUTE PHARMACY,JAC COMPUTER SERVICES LTD,19440490,30699,19210
+Department of Health,Portsmouth Hospitals Trust,11/07/2016 17:10,Med & Surg Equip General,Cardiac Cath Lab,MEDTRONIC LTD,19449302,46.8,1051452244
+Department of Health,Portsmouth Hospitals Trust,11/07/2016 17:10,Pacemakers,Cardiac Cath Lab,MEDTRONIC LTD,19449302,61111.82,1051452244
+Department of Health,Portsmouth Hospitals Trust,11/07/2016 17:10,Surg Instruments General,Cardiac Cath Lab,MEDTRONIC LTD,19449302,754.8,1051452244
+Department of Health,Portsmouth Hospitals Trust,08/07/2016 18:49,Laboratory Test Kits,MICROBIOLOGY,ROCHE DIAGNOSTICS LTD,19455203,221360.14,6570623230
+Department of Health,Portsmouth Hospitals Trust,11/07/2016 19:40,Stationery,CENTRAL TRANSCRIPTION TEAM,WINSCRIBE EUROPE LTD,19483931,42268.8,INVEU0000128095
+Department of Health,Portsmouth Hospitals Trust,12/07/2016 19:13,Drugs,SENIOR NURSING TEAM,POLAR SPEED DISTRIBUTION LTD,19496411,25638.18,284564
+Department of Health,Portsmouth Hospitals Trust,12/07/2016 19:13,Laboratory External Tests,transplant tissue typing,NHS BLOOD & TRANSPLANT,19496466,43455.58,598650
+Department of Health,Portsmouth Hospitals Trust,13/07/2016 19:18,Rent,COMMUNITY HOSPITALS - GWMH,SOUTHERN HEALTH (MH LD & SC) NHSFT,19512433,151163.1,43634152
+Department of Health,Portsmouth Hospitals Trust,13/07/2016 19:18,Rent,community hospitals - p-field,SOUTHERN HEALTH (MH LD & SC) NHSFT,19512435,70074.36,43634153
+Department of Health,Portsmouth Hospitals Trust,13/07/2016 19:18,Sterile Products,HOME HAEMO SERVICE,NXSTAGE MEDICAL UK LTD,19512437,126292.84,CD970319724
+Department of Health,Portsmouth Hospitals Trust,13/07/2016 19:18,SrvcsRecd-FoundationTrust,ENT CENTRAL STATEMENT,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19512439,92475.75,WSH1500019653
+Department of Health,Portsmouth Hospitals Trust,13/07/2016 19:18,SrvcsRecd-FoundationTrust,Onc/Haem OPD B Level,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19512439,76731.48,WSH1500019653
+Department of Health,Portsmouth Hospitals Trust,13/07/2016 19:18,SrvcsRecd-FoundationTrust,RENAL NON STOCK/STOCK,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19512439,2186.76,WSH1500019653
+Department of Health,Portsmouth Hospitals Trust,15/07/2016 17:10,Med & Surg Equip Disp,ENDOSCOPY,NHS SUPPLY CHAIN,19528191,35805.95,2017001962
+Department of Health,Portsmouth Hospitals Trust,19/07/2016 18:54,Services Received - CCG's,CHIEF EXECS TEAM,NHS SOUTH EASTERN HAMPSHIRE CCG,19570365,30000,7028200267
+Department of Health,Portsmouth Hospitals Trust,20/07/2016 17:09,Stents,Cardiac Cath Lab,MEDTRONIC LTD,19570532,46080,1051461434
+Department of Health,Portsmouth Hospitals Trust,20/07/2016 17:09,Equip Maint Contracts,RADIOTHERAPY,ONCOLOGY SYSTEMS LTD,19570633,24619.34,7368
+Department of Health,Portsmouth Hospitals Trust,20/07/2016 18:49,Independent Sector,Urgent Care Centre,SOUTH EAST HAMPSHIRE ALLIANCE LTD,19583453,35665,203
+Department of Health,Portsmouth Hospitals Trust,20/07/2016 18:49,Phone Rental and Calls,PACs/CRIS Consortium,PHILIPS UK AND IRELAND,19583487,355130.34,7300233132
+Department of Health,Portsmouth Hospitals Trust,21/07/2016 19:41,Services Received - NHSTs,PHCT/PHT RECHARGES,SOLENT NHS TRUST,19608809,58413,54146650
+Department of Health,Portsmouth Hospitals Trust,22/07/2016 19:51,Commercial Sector,INCOME,ROWLANDCOURT HEALTHCARE LTD,19624196,25749,5370
+Department of Health,Portsmouth Hospitals Trust,22/07/2016 19:51,Drugs,DERMATOLOGY MEDICAL STAFF,SOLENT NHS TRUST,19624233,8994.65,54146750
+Department of Health,Portsmouth Hospitals Trust,22/07/2016 19:51,Drugs,DERMATOLOGY OUTPATIENT,SOLENT NHS TRUST,19624233,20403.88,54146750
+Department of Health,Portsmouth Hospitals Trust,22/07/2016 19:51,Drugs,Gynae Medical Staff,SOLENT NHS TRUST,19624233,9.6,54146750
+Department of Health,Portsmouth Hospitals Trust,22/07/2016 19:51,Drugs,ONC/HAEM DAY UNIT,SOLENT NHS TRUST,19624233,610.79,54146750
+Department of Health,Portsmouth Hospitals Trust,22/07/2016 19:51,Drugs,OUTPATIENTS CLINICAL,SOLENT NHS TRUST,19624233,1051.32,54146750
+Department of Health,Portsmouth Hospitals Trust,22/07/2016 19:51,Drugs,SNR MED STAFF (ELDERLY),SOLENT NHS TRUST,19624233,162.62,54146750
+Department of Health,Portsmouth Hospitals Trust,26/07/2016 17:09,Limbs,LIMBS,HUGH STEEPER LTD,19638190,70273.55,SIN1606PR067621
+Department of Health,Portsmouth Hospitals Trust,26/07/2016 17:09,Patients Appl: Purchase,ORTHOTICS,HUGH STEEPER LTD,19638190,76396.08,SIN1606PR067621
+Department of Health,Portsmouth Hospitals Trust,25/07/2016 19:02,CAPD Fluids,RENAL PD UNIT,BAXTER HEALTHCARE LTD,19638274,68554.2,16122770
+Department of Health,Portsmouth Hospitals Trust,26/07/2016 19:41,Independent Sector,ENDOSCOPY,MEDINET CLINICAL SERVICES LTD,19660940,29594.79,1454
+Department of Health,Portsmouth Hospitals Trust,26/07/2016 19:41,Laboratory Radio-Isotopes,NUCLEAR MEDICINE PHT,UNI HOSPITAL SOUTHAMPTON NHS FT,19661468,32349.52,7282758
+Department of Health,Portsmouth Hospitals Trust,26/07/2016 19:41,SrvcsRecd-FoundationTrust,ENT CENTRAL STATEMENT,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19661476,701,WSH1500020038
+Department of Health,Portsmouth Hospitals Trust,26/07/2016 19:41,SrvcsRecd-FoundationTrust,OCCY HEALTH WEST SUSSEX,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19661476,1499,WSH1500020038
+Department of Health,Portsmouth Hospitals Trust,26/07/2016 19:41,SrvcsRecd-FoundationTrust,Onc/Haem OPD B Level,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19661476,132664,WSH1500020038
+Department of Health,Portsmouth Hospitals Trust,26/07/2016 19:41,Commercial Sector,CHANDLERS FORD DIALYSIS,FRESENIUS MEDICAL CARE RENAL SERVICES LTD,19661573,41049.48,1050478397
+Department of Health,Portsmouth Hospitals Trust,26/07/2016 19:41,Commercial Sector,B`STOKE DIALYSIS,FRESENIUS MEDICAL CARE RENAL SERVICES LTD,19661575,31536.8,1050478395
+Department of Health,Portsmouth Hospitals Trust,27/07/2016 17:10,Computer Maintenance,ED Nursing staff and Non Pay,SERVELEC HEALTHCARE LTD,19661971,49339.2,70012044
+Department of Health,Portsmouth Hospitals Trust,28/07/2016 19:03,Laboratory Chemicals,NEONATAL SCREENING (CHEM),PERKINELMER LAS (UK) LTD,19691804,41522.4,3100743494
+Department of Health,Portsmouth Hospitals Trust,29/07/2016 15:14,Laboratory Reagents,TRANSFUSION SERVICES,ORTHO CLINICAL DIAGNOSTICS,19694307,5186.49,16010858
+Grand Total,,,,,,,2988779.45,

@@ -1,0 +1,60 @@
+DEPARTMENT,ENTITY,DATE PAID,EXPENSE TYPE,EXPENSE AREA,SUPPLIER NAME,TRANSACTION NUMBER,AMOUNT
+Department of Health,Whittington NHS Trust,01/07/2014,Electricity,Environment,Edf Energy,654910,-93456.47
+Department of Health,Whittington NHS Trust,01/07/2014,Electricity,Environment,Edf Energy,654910,-2529.1
+Department of Health,Whittington NHS Trust,01/07/2014,Electricity,Environment,Edf Energy,654910,-88.91
+Department of Health,Whittington NHS Trust,01/07/2014,Electricity,Environment,Edf Energy,654885,93451.57
+Department of Health,Whittington NHS Trust,01/07/2014,Electricity,Environment,Edf Energy,654885,2528.98
+Department of Health,Whittington NHS Trust,01/07/2014,Electricity,Environment,Edf Energy,654885,88.91
+Department of Health,Whittington NHS Trust,01/07/2014,Electricity,Environment,Edf Energy,654900,93456.47
+Department of Health,Whittington NHS Trust,01/07/2014,Electricity,Environment,Edf Energy,654900,2529.1
+Department of Health,Whittington NHS Trust,01/07/2014,Electricity,Environment,Edf Energy,654900,88.91
+Department of Health,Whittington NHS Trust,01/07/2014,Hardware Purchases,Technical Services,Insight Direct (Uk) Ltd,651443,46790.34
+Department of Health,Whittington NHS Trust,01/07/2014,Rates-General,Trust Headquarters -Goswell Rd,London Borough Of Islington,653168,25602
+Department of Health,Whittington NHS Trust,01/07/2014,Rates-General,Estates Management,London Borough Of Islington,653165,108934
+Department of Health,Whittington NHS Trust,01/07/2014,Rents,Estates Management,Metrus Property Advisors Ltd,649963,61096
+Department of Health,Whittington NHS Trust,01/07/2014,Blood Transfusion Service,Blood Recharge,Nhs Blood And Transplant,647667,100448.25
+Department of Health,Whittington NHS Trust,01/07/2014,Patients Clothing,Bladder & Bowel,Sca Hygiene Products Uk Ltd,649787,30000
+Department of Health,Whittington NHS Trust,01/07/2014,Stock-Pharmacy,Balance Sheet,The Royal Free London Nhs Ft,654519,54549.17
+Department of Health,Whittington NHS Trust,03/07/2014,Laundry Service,Laundry,Berendsen Uk Ltd,650760,53753.37
+Department of Health,Whittington NHS Trust,03/07/2014,External Contract Estates/Facilities,Generic Workers,Buzz Housekeeping Services,651745,21786.57
+Department of Health,Whittington NHS Trust,03/07/2014,External Contract Estates/Facilities,Generic Workers,Buzz Housekeeping Services,651744,23397.58
+Department of Health,Whittington NHS Trust,03/07/2014,External Contract Estates/Facilities,Generic Workers,Buzz Housekeeping Services,650015,23530.83
+Department of Health,Whittington NHS Trust,03/07/2014,Sla-Liaison Psychiatry,Accident & Emergency,Camden & Islington Nhs Foundation Trust,648988,44897
+Department of Health,Whittington NHS Trust,03/07/2014,Childcare - Fideliti,Balance Sheet,Fideliti Ltd,654856,27426.63
+Department of Health,Whittington NHS Trust,03/07/2014,Childcare Vouchers,Childcare,Fideliti Ltd,654856,296.21
+Department of Health,Whittington NHS Trust,03/07/2014,General Services,Procurement Shared Service,Great Ormond Street Hospital Nhs Ft,654583,27353.55
+Department of Health,Whittington NHS Trust,03/07/2014,Ambulance Contract,Med Front Of House& Transp,Medical Services Ltd,652129,58252
+Department of Health,Whittington NHS Trust,03/07/2014,Prison Staf Service,Pentonville Prison,Ministry Of Justice,649298,58405.13
+Department of Health,Whittington NHS Trust,03/07/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,649268,49377.67
+Department of Health,Whittington NHS Trust,03/07/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,647767,59227.47
+Department of Health,Whittington NHS Trust,03/07/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,645450,62629.22
+Department of Health,Whittington NHS Trust,03/07/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,651244,65987.39
+Department of Health,Whittington NHS Trust,03/07/2014,Roche Service,Integrated Blood Science,Roche Diagnostics Ltd,654992,31919.86
+Department of Health,Whittington NHS Trust,03/07/2014,Hardware Maintenance,Patient Systems,Sunquest Infomation Systems (Europe) Ltd,657038,78584.4
+Department of Health,Whittington NHS Trust,03/07/2014,Stock-Pharmacy,Balance Sheet,The Royal Free London Nhs Ft,654518,60149.15
+Department of Health,Whittington NHS Trust,03/07/2014,Professional Services,Occupational Health Ico,The Ucl Hospitals Nhs Foundation Trust,657005,35028.75
+Department of Health,Whittington NHS Trust,10/07/2014,Professional Services,Trust Secretariat,Sjmwp Consulting Ltd,657011,37062.06
+Department of Health,Whittington NHS Trust,10/07/2014,Main Works Contract,Capital,Storm Building Ltd,655738,48945.31
+Department of Health,Whittington NHS Trust,10/07/2014,Main Works Contract,Capital,Storm Building Ltd,655739,84504.86
+Department of Health,Whittington NHS Trust,15/07/2014,CNST Premium,Risk Management,Nhs Litigation Authority,Direct Debit,573143
+Department of Health,Whittington NHS Trust,15/07/2014,Insurance,Finance Director,Nhs Litigation Authority,Direct Debit,22647.8
+Department of Health,Whittington NHS Trust,17/07/2014,Sla-Liaison Psychiatry,Accident & Emergency,Camden & Islington Nhs Foundation Trust,657111,44897
+Department of Health,Whittington NHS Trust,17/07/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,652430,57854.93
+Department of Health,Whittington NHS Trust,17/07/2014,Medical Equipment Maintenance,Medical Physics,Nhs Supply Chain,653572,204930.3
+Department of Health,Whittington NHS Trust,17/07/2014,Medical Equipment Maintenance,Medical Physics,Nhs Supply Chain,653572,-5124.15
+Department of Health,Whittington NHS Trust,17/07/2014,Medical Equipment Maintenance,Medical Physics,Nhs Supply Chain,653572,5124.15
+Department of Health,Whittington NHS Trust,17/07/2014,Software Purchase,Wcf Divisional Management,Orovia Research Ltd,659710,45600
+Department of Health,Whittington NHS Trust,17/07/2014,Patients Clothing,Bladder & Bowel,Sca Hygiene Products Uk Ltd,649788,30000
+Department of Health,Whittington NHS Trust,17/07/2014,Professional Services,R&D Grant Funded Projects,University College London,654086,83605.87
+Department of Health,Whittington NHS Trust,24/07/2014,Electricity,Environment,Edf Energy,663592,92591.8
+Department of Health,Whittington NHS Trust,24/07/2014,Electricity,Environment,Edf Energy,663592,2505.71
+Department of Health,Whittington NHS Trust,24/07/2014,Electricity,Environment,Edf Energy,663592,46.11
+Department of Health,Whittington NHS Trust,24/07/2014,Childcare - Fideliti,Balance Sheet,Fideliti Ltd,663602,27197.1
+Department of Health,Whittington NHS Trust,24/07/2014,Childcare Vouchers,Childcare,Fideliti Ltd,663602,293.72
+Department of Health,Whittington NHS Trust,24/07/2014,Sterile Services,Sterile Services,Ih Sterile Services Ltd (Hcl Med Tech),663332,45743.11
+Department of Health,Whittington NHS Trust,24/07/2014,General Services,Integrated Comm Equip Services,Islington Council,662555,112500
+Department of Health,Whittington NHS Trust,24/07/2014,Main Works Contract,Capital,Kiwi Power Ltd,663729,64680
+Department of Health,Whittington NHS Trust,24/07/2014,Blood Transfusion Service,Blood Recharge,Nhs Blood And Transplant,655094,100448.25
+Department of Health,Whittington NHS Trust,24/07/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,655827,59174.03
+Department of Health,Whittington NHS Trust,24/07/2014,Nhs Logistics Stock Issues,Balance Sheet,Nhs Supply Chain,662370,59969.54
+Department of Health,Whittington NHS Trust,24/07/2014,Main Works Contract,Capital,Tecomak Environmental Ser,656224,49730.4
