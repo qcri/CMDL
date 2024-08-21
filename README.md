@@ -1,5 +1,6 @@
 # CMDL
-Cross-Modal Data Discovery over Structured and Unstructured Data Lakes
+[Cross-Modal Data Discovery over Structured and Unstructured Data Lakes](https://www.vldb.org/pvldb/vol16/p3377-eltabakh.pdf)
+Published at Very Large Databses (VLDB) 2023
 
 ### Set up:
 - environment.yml will set up a conda environment
